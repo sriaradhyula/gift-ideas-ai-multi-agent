@@ -1,0 +1,4324 @@
+{
+  "search_metadata":
+  {
+  "id":
+  "6757ce1f6b8552d04cd4f9a9",
+  "status":
+  "Success",
+  "json_endpoint":
+  "https://serpapi.com/searches/5fe9febd0b4d4ac7/6757ce1f6b8552d04cd4f9a9.json",
+  "created_at":
+  "2024-12-10 05:14:07 UTC",
+  "processed_at":
+  "2024-12-10 05:14:07 UTC",
+  "google_shopping_url":
+  "https://www.google.com/search?udm=28&q=turn+tables&num=10&hl=en&gl=us",
+  "raw_html_file":
+  "https://serpapi.com/searches/5fe9febd0b4d4ac7/6757ce1f6b8552d04cd4f9a9.html",
+  "total_time_taken":
+  3.78
+  },
+  "search_parameters":
+  {
+  "engine":
+  "google_shopping",
+  "q":
+  "turn tables",
+  "google_domain":
+  "google.com",
+  "hl":
+  "en",
+  "gl":
+  "us",
+  "num":
+  "10",
+  "device":
+  "desktop",
+  "direct_link":
+  true
+  },
+  "search_information":
+  {
+  "shopping_results_state":
+  "Showing results for exact spelling despite spelling suggestion",
+  "query_displayed":
+  "turn tables",
+  "spelling_fix":
+  "turntables"
+  },
+  "filters":
+  [
+  {
+  "input_type":
+  "link_with_icon",
+  "options":
+  [
+  {
+  "text":
+  "Nearby",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+nearby&shoprs=CAEYAyoLdHVybiB0YWJsZXMyDAgDEgZOZWFyYnkYAljvvSBgAg"
+  },
+  {
+  "text":
+  "On sale",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+sale&shoprs=CAESBEoCGAEYBioLdHVybiB0YWJsZXMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY770gYAI"
+  },
+  {
+  "text":
+  "Get it fast",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables&shoprs=CAESDZoBCgoIEAM4AUAESAEYFCoLdHVybiB0YWJsZXMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQARIASoEEAEYAWAC"
+  },
+  {
+  "text":
+  "Used",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=used+turn+tables&shoprs=CAEYCioLdHVybiB0YWJsZXMyCAgKEgRVc2VkWO-9IGAC"
+  },
+  {
+  "text":
+  "Small business",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables&shoprs=CAESAmoAGBYqC3R1cm4gdGFibGVzMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Sort by",
+  "input_type":
+  "link",
+  "options":
+  [
+  {
+  "text":
+  "Price: low to high",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables&shoprs=CAEYFyoLdHVybiB0YWJsZXMyHAgXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFgAogBAQ"
+  },
+  {
+  "text":
+  "Price: high to low",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables&shoprs=CAEYFyoLdHVybiB0YWJsZXMyHAgXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFgAogBAg"
+  }
+  ]
+  },
+  {
+  "type":
+  "Price",
+  "input_type":
+  "price_range",
+  "options":
+  [
+  {
+  "text":
+  "Under $450",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+under+%24450&shoprs=CAESDRILEQAAAIB00rpBGAEYBSoLdHVybiB0YWJsZXMyIwgFEgpVbmRlciAkNDUwGAIiDRILEQAAAIB00rpBGAEqAhgBWO-9IGAC"
+  },
+  {
+  "text":
+  "$450 - $1,500",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+between+%24450+and+%241%2C500&shoprs=CAESFhIUCQAAAIB00rpBEQAAAMALWtZBGAEYBSoLdHVybiB0YWJsZXMyLwgFEg0kNDUwIC0gJDEsNTAwGAIiFhIUCQAAAIB00rpBEQAAAMALWtZBGAEqAhgBWO-9IGAC"
+  },
+  {
+  "text":
+  "$1,500 - $5,000",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+between+%241%2C500+and+%245%2C000&shoprs=CAESFhIUCQAAAMALWtZBEQAAAABfoPJBGAEYBSoLdHVybiB0YWJsZXMyMQgFEg8kMSw1MDAgLSAkNSwwMDAYAiIWEhQJAAAAwAta1kERAAAAAF-g8kEYASoCGAFY770gYAI"
+  },
+  {
+  "text":
+  "Over $5,000",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+over+%245%2C000&shoprs=CAESDRILCQAAAABfoPJBGAEYBSoLdHVybiB0YWJsZXMyJAgFEgtPdmVyICQ1LDAwMBgCIg0SCwkAAAAAX6DyQRgBKgIYAVjvvSBgAg"
+  }
+  ]
+  },
+  {
+  "type":
+  "Features",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "DJ",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=dj+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyEggBEgJESjoKCKScKxClnCswA1jvvSBgAg"
+  },
+  {
+  "text":
+  "Vintage Style",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=vintage+style+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyHQgBEg1WaW50YWdlIFN0eWxlOgoIhZ8rEIafKzADWO-9IGAC"
+  },
+  {
+  "text":
+  "With USB Connection",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+with+usb+connection&shoprs=CAEYASoLdHVybiB0YWJsZXMyJQgBEhNXaXRoIFVTQiBDb25uZWN0aW9uGAI6Cgij9CwQpPQsMANY770gYAI"
+  },
+  {
+  "text":
+  "Portable",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=portable+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyGAgBEghQb3J0YWJsZToKCNO5OBDUuTgwA1jvvSBgAg"
+  }
+  ]
+  },
+  {
+  "type":
+  "Stores",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Home Depot",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=home+depot+turn+tables&shoprs=CAEYAioLdHVybiB0YWJsZXMyDggCEgpIb21lIERlcG90WO-9IGAC"
+  },
+  {
+  "text":
+  "Target",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=target+turn+tables&shoprs=CAEYAioLdHVybiB0YWJsZXMyCggCEgZUYXJnZXRY770gYAI"
+  },
+  {
+  "text":
+  "Pottery Barn",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=pottery+barn+turn+tables&shoprs=CAEYAioLdHVybiB0YWJsZXMyEAgCEgxQb3R0ZXJ5IEJhcm5Y770gYAI"
+  },
+  {
+  "text":
+  "Walmart",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=walmart+turn+tables&shoprs=CAEYAioLdHVybiB0YWJsZXMyCwgCEgdXYWxtYXJ0WO-9IGAC"
+  }
+  ]
+  },
+  {
+  "type":
+  "Type",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Belt Drive",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=belt+drive+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyGggBEgpCZWx0IERyaXZlOgoIsvIsELPyLDACWO-9IGAC"
+  },
+  {
+  "text":
+  "Direct Drive",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=direct+drive+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyHAgBEgxEaXJlY3QgRHJpdmU6Cgiy8iwQtPIsMAJY770gYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Record Speed",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "33.3 rpm",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=33.3+rpm+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyGAgBEggzMy4zIHJwbToKCKicKxCpnCswAFjvvSBgAg"
+  },
+  {
+  "text":
+  "45 rpm",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=45+rpm+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFggBEgY0NSBycG06CgionCsQqpwrMABY770gYAI"
+  },
+  {
+  "text":
+  "78 rpm",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=78+rpm+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFggBEgY3OCBycG06CgionCsQq5wrMABY770gYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Weight",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Under 6 pounds",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=under+6+pounds+turn+tables&shoprs=CAESESoPCOvxcRIJEQAAAMAbQ6VAGAEqC3R1cm4gdGFibGVzMjMIARIOVW5kZXIgNiBwb3VuZHMiESoPCOvxcRIJEQAAAMAbQ6VAKgIYAToICOvxcRAAMAZY770gYAI"
+  },
+  {
+  "text":
+  "6 – 12.5 pounds",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=6+pounds+to+12.5+pounds+turn+tables&shoprs=CAESGioYCOvxcRISCQAAAMAbQ6VAEQAAAKDnJbZAGAEqC3R1cm4gdGFibGVzMlgIARIRNiDigJMgMTIuNSBwb3VuZHMiGioYCOvxcRISCQAAAMAbQ6VAEQAAAKDnJbZAKhsKFzYgcG91bmRzIHRvIDEyLjUgcG91bmRzGAE6CAjr8XEQADAGWO-9IGAC"
+  },
+  {
+  "text":
+  "12.5 – 22 pounds",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=12.5+pounds+to+22+pounds+turn+tables&shoprs=CAESGioYCOvxcRISCQAAAKDnJbZAEQAAACCEfcNAGAEqC3R1cm4gdGFibGVzMloIARISMTIuNSDigJMgMjIgcG91bmRzIhoqGAjr8XESEgkAAACg5yW2QBEAAAAghH3DQCocChgxMi41IHBvdW5kcyB0byAyMiBwb3VuZHMYAToICOvxcRAAMAZY770gYAI"
+  },
+  {
+  "text":
+  "22 – 44 pounds",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=22+pounds+to+44+pounds+turn+tables&shoprs=CAESGioYCOvxcRISCQAAACCEfcNAEQAAACCEfdNAGAEqC3R1cm4gdGFibGVzMlYIARIQMjIg4oCTIDQ0IHBvdW5kcyIaKhgI6_FxEhIJAAAAIIR9w0ARAAAAIIR900AqGgoWMjIgcG91bmRzIHRvIDQ0IHBvdW5kcxgBOggI6_FxEAAwBljvvSBgAg"
+  },
+  {
+  "text":
+  "Over 44 pounds",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=over+44+pounds+turn+tables&shoprs=CAESESoPCOvxcRIJCQAAACCEfdNAGAEqC3R1cm4gdGFibGVzMjMIARIOT3ZlciA0NCBwb3VuZHMiESoPCOvxcRIJCQAAACCEfdNAKgIYAToICOvxcRAAMAZY770gYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Color",
+  "input_type":
+  "color",
+  "options":
+  [
+  {
+  "text":
+  "Black",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=black+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFwgBEgVCbGFjazoMCKawmwEQp7CbATAAWO-9IGAC"
+  },
+  {
+  "text":
+  "White",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=white+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFwgBEgVXaGl0ZToMCKawmwEQrLCbATAAWO-9IGAC"
+  },
+  {
+  "text":
+  "Brown",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=brown+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFwgBEgVCcm93bjoMCKawmwEQq7CbATAAWO-9IGAC"
+  },
+  {
+  "text":
+  "Blue",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=blue+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFggBEgRCbHVlOgwIprCbARDmspwBMABY770gYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Recording Capability",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Digital Recorder",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=digital+recorder+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyIAgBEhBEaWdpdGFsIFJlY29yZGVyOgoIrJwrEM26OzAAWO-9IGAC"
+  },
+  {
+  "text":
+  "CD Recorder",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=cd+recorder+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyGwgBEgtDRCBSZWNvcmRlcjoKCKycKxCtnCswAFjvvSBgAg"
+  }
+  ]
+  },
+  {
+  "type":
+  "Free shipping",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Free shipping",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables+free+shipping&shoprs=CAESBFICEAEYGSoLdHVybiB0YWJsZXMyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAI"
+  }
+  ]
+  },
+  {
+  "type":
+  "Brand",
+  "input_type":
+  "checkbox",
+  "options":
+  [
+  {
+  "text":
+  "Victrola",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=victrola+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyGAgBEghWaWN0cm9sYToKCIPzPBCN2E8wAVjvvSBgAg"
+  },
+  {
+  "text":
+  "audio-technica",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=audio-technica+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyHggBEg5hdWRpby10ZWNobmljYToKCIPzPBD88j4wAVjvvSBgAg"
+  },
+  {
+  "text":
+  "Crosley",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=crosley+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFwgBEgdDcm9zbGV5OgoIg_M8EJKCQDABWO-9IGAC"
+  },
+  {
+  "text":
+  "Pioneer",
+  "serpapi_link":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=pioneer+turn+tables&shoprs=CAEYASoLdHVybiB0YWJsZXMyFwgBEgdQaW9uZWVyOgoIg_M8ENjUPjABWO-9IGAC"
+  }
+  ]
+  }
+  ],
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Audio Technica AT-LP120XUSB Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/6716702659023913397?gl=us",
+  "product_id":
+  "6716702659023913397",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6716702659023913397",
+  "link":
+  "https://www.amazon.com/Audio-Technica-AT-LP120XUSB-Direct-Drive-Hi-Fidelity-Anti-Skate/dp/B07N3S4X3P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "links":
+  [
+  "https://www.amazon.com/Audio-Technica-AT-LP120XUSB-Direct-Drive-Hi-Fidelity-Anti-Skate/dp/B07N3S4X3P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "https://www.walmart.com/ip/Audio-Technica-AT-LP120XUSB-BK-Turntable-Black/354212616?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP120XUSB-Direct-Drive-Professional-Turntable-USB-Analog-Black-1500000263148.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOopHV6uPa9bQvzDHYVMgQwQsf11UQc5pnwmU5tEds02JQiyLJWX7_-8"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8af9abe474d52dcc61d225bd8e91bdbd3d.png",
+  "price":
+  "$349.00",
+  "extracted_price":
+  349,
+  "rating":
+  4.8,
+  "reviews":
+  3400,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDLTES43ul6JhCl2_vDNS8Gws7aATbdK_Cn4pPIQQEsX5YhN3Zea7eT6-CHEViwM8wiPWAMBYUKqXnjt7-kK9bEPl87nfNt0rJctDlX9C6uEI-XlCZIrrI1YE",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "Pro-Ject Debut Carbon EVO Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/5216280172776283586?gl=us",
+  "product_id":
+  "5216280172776283586",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5216280172776283586",
+  "link":
+  "https://www.amazon.com/Pro-Ject-Debut-Carbon-EVO-pre-Mounted/dp/B08FRM66RK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2763VQ7SN6URD",
+  "links":
+  [
+  "https://www.amazon.com/Pro-Ject-Debut-Carbon-EVO-pre-Mounted/dp/B08FRM66RK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2763VQ7SN6URD",
+  "https://www.bhphotovideo.com/c/product/1701245-REG/pro_ject_audio_systems_9120097826091_debut_carbon_evo_turntable.html?kw=PRDCRBETSBLU&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoopotrtRboHedulHVpQqtkc1o016Etr7_BuTHIAwTtO9P0zahLgL1c",
+  "https://www.turntablelab.com/products/pro-ject-debut-carbon-evo-turntable-satin-steel-blue?variant=32543342035034&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqK1WpUvQ7SE6egvcdVXIhhhpRZDlyxW0B4SJYZl00aXJlpbG0Xv_M"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8ab0139cd59fcc9bdb5328b6eb9fcd4808.png",
+  "price":
+  "$599.00",
+  "extracted_price":
+  599,
+  "rating":
+  4.8,
+  "reviews":
+  545,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5humR-aBGLCxsQuRZVqyKHgsKBTrv6MexUoPH82Tf4vaRTRdUX1Ls1YvmNxbCJxRPHA9BMXXIRJmNjUI94HsL6tjIcSJwfl9Cpj1hLzQiYDjvmKbVARyqdXY",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "Technics SL-1500C Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/13352431857145305194?gl=us",
+  "product_id":
+  "13352431857145305194",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13352431857145305194",
+  "link":
+  "https://www.bhphotovideo.com/c/product/1803766-REG/technics_sl_1500c_k_sl_1500c_premium_class_series.html?kw=TESL1500CK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOop1ZexNiKajMfadop3yE-KN1u0rEfkczWAhpKfIyTiBPogWDoVahPI",
+  "links":
+  [
+  "https://www.bhphotovideo.com/c/product/1803766-REG/technics_sl_1500c_k_sl_1500c_premium_class_series.html?kw=TESL1500CK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOop1ZexNiKajMfadop3yE-KN1u0rEfkczWAhpKfIyTiBPogWDoVahPI",
+  "https://www.turntablelab.com/products/technics-sl-1500c-k-turntable-black?variant=31353914425434&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqcMAuCD7rNXw-ezqTwBR9KDiIpFlfbe9Koo7wbLGhPY0tFYlvbNrg",
+  "https://skyfiaudio.com/products/technics-direct-drive-turntable-system-sl-1500c?variant=44480798720254&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooNtPleHSNJe526glcU1AligDX3Jy1JLRDB2P8Sph8PGJEdNYfske0"
+  ],
+  "source":
+  "B&H Photo-Video-Audio",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8acf19e366e7ffd05e246a129daeed4391.png",
+  "price":
+  "$1,299.95",
+  "extracted_price":
+  1299.95,
+  "rating":
+  4.8,
+  "reviews":
+  378,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREqVtCQUs-WPHK1ATj_fuHsEgPr-fLcZcAM6CQpiRpp1GZOVwG7TfVgQ5ArNySNwIuFR2dGesspN8ekgtcmyl5_yOoi5afrnftL0jG7WAcaHqsfq9RKxUn2w",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "Angels Horn h00501 Hi-Fi Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18247412544499781504?gl=us",
+  "product_id":
+  "18247412544499781504",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18247412544499781504",
+  "link":
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Adjustable-Counterweight/dp/B095SQ1GP5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "links":
+  [
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Adjustable-Counterweight/dp/B095SQ1GP5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "https://www.walmart.com/ip/Angels-Horn-Bluetooth-Record-Player-with-Bookshelf-Speakers-and-Phono-Preamp/1844094544?wmlspartner=wlpa&selectedSellerId=101343124",
+  "https://www.ebay.com/itm/234515887096?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a462e134d87cad575a4b6742e0b638c12.png",
+  "price":
+  "$239.98",
+  "extracted_price":
+  239.98,
+  "old_price":
+  "$260",
+  "extracted_old_price":
+  260,
+  "rating":
+  4.7,
+  "reviews":
+  74,
+  "snippet":
+  "Good sound quality (34 user reviews)",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8ae32deec129b2ad4c3d2ecaee6a192a61.webp",
+  "tag":
+  "7% OFF",
+  "extensions":
+  [
+  "7% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "U-Turn Audio Orbit Plus Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4416701076866079271?gl=us",
+  "product_id":
+  "4416701076866079271",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4416701076866079271",
+  "link":
+  "https://uturnaudio.com/products/orbit-plus-turntable?variant=40012620365899",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-plus-turntable?variant=40012620365899",
+  "https://www.macys.com/shop/product/u-turn-audio-orbit-2-plus-turntable-with-ortofon-om-5e-cartridge?ID=17504534&pla_country=US&CAGPSPN=pla",
+  "https://www.bloomingdales.com/shop/product/u-turn-audio-orbit-2-plus-turntable-with-ortofon-om-5e-cartridge?ID=5423914&pla_country=US"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8aa04a9dbafd940bd75f4af5c965f11fa9.png",
+  "price":
+  "$399.00",
+  "extracted_price":
+  399,
+  "rating":
+  4.5,
+  "reviews":
+  47,
+  "snippet":
+  "Good sound quality (15 user reviews)",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8af966a20fbae3cc0f25e1123111098552.webp",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Insignia Bluetooth Stereo Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/1511121327482541850?gl=us",
+  "product_id":
+  "1511121327482541850",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1511121327482541850",
+  "link":
+  "https://www.bestbuy.com/site/insignia-bluetooth-stereo-turntable-black/6432620.p?skuId=6432620&utm_source=feed",
+  "links":
+  [
+  "https://www.bestbuy.com/site/insignia-bluetooth-stereo-turntable-black/6432620.p?skuId=6432620&utm_source=feed",
+  "https://www.ebay.com/itm/166541900385?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoplWTxBIldpGlAYTMN2z6B4vjVpEqBVFa-EEcC08085DkqzgAbPKK4",
+  "https://www.bonanza.com/listings/Insignia-NS-BTST21-Bluetooth-Stereo-Turntable-Replacement-Turntable-Belt/1642414298?goog_pla=1"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a2c099e8cdafe2b2df29c98d65d179f52.png",
+  "price":
+  "$129.99",
+  "extracted_price":
+  129.99,
+  "rating":
+  4.4,
+  "reviews":
+  462,
+  "snippet":
+  "Good sound quality (84 user reviews)",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a55f6f4f11eb310108a6e8271ca7041c5.webp",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "Victrola Montauk Bluetooth Turntable System",
+  "product_link":
+  "https://www.google.com/shopping/product/4910061567260950660?gl=us",
+  "product_id":
+  "4910061567260950660",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4910061567260950660",
+  "link":
+  "https://victrola.com/products/the-montauk-turntable-system?variant=44033170243755",
+  "links":
+  [
+  "https://victrola.com/products/the-montauk-turntable-system?variant=44033170243755",
+  "https://www.amazon.com/Victrola-Montauk-Bluetooth-Turntable-System/dp/B0CCSL53RH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.bestbuy.com/site/victrola-montauk-bluetooth-turntable-system-farmhouse-walnut/6567726.p?skuId=6567726&utm_source=feed"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a244a7f769012d582f172b78045ec8ea2.png",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$150",
+  "extracted_old_price":
+  150,
+  "rating":
+  3.9,
+  "reviews":
+  31,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Black, White, Walnut · Belt Drive",
+  "extensions":
+  [
+  "30-day returns",
+  "20% OFF"
+  ],
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8aa04682299db4d4e2d42e77352c1235a5.webp",
+  "tag":
+  "20% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "Audio Technica AT-LP60X Fully Automatic Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4716750620726616641?gl=us",
+  "product_id":
+  "4716750620726616641",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4716750620726616641",
+  "link":
+  "https://www.dell.com/en-us/shop/audio-technica-at-lp60x-fully-automatic-belt-drive-turntable/apd/ad156108/audio?tfcid=91049735&dgc=opl&srsltid=AfmBOoq4QeVsfxJn9VbW8mwZ7JUKX8Xp_MzKcut2UMdsW_XNrUoSk-RP4No",
+  "links":
+  [
+  "https://www.dell.com/en-us/shop/audio-technica-at-lp60x-fully-automatic-belt-drive-turntable/apd/ad156108/audio?tfcid=91049735&dgc=opl&srsltid=AfmBOoq4QeVsfxJn9VbW8mwZ7JUKX8Xp_MzKcut2UMdsW_XNrUoSk-RP4No",
+  "https://www.bhphotovideo.com/c/product/1453364-REG/audio_technica_consumer_at_lp60x_bk_fully_automatic_belt_drive_stereo.html?kw=AULP60XBK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqKMk6pADRJkbDZO8uH2cq4bOYaMoq5ixrTY50LIQnQrQU6_c_snzc",
+  "https://www.amazon.com/Audio-Technica-AT-LP60X-BK-Belt-Drive-Hi-Fidelity-Anti-Resonance/dp/B07N3XJ66N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+  ],
+  "source":
+  "Dell",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8af2e0d45691ff5512b3a8420e2426a578.png",
+  "price":
+  "$149.00",
+  "extracted_price":
+  149,
+  "rating":
+  4.7,
+  "reviews":
+  4700,
+  "snippet":
+  "Good sound quality (989 user reviews)",
+  "extensions":
+  [
+  "Free 30-day returns"
+  ],
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a613523c8eb6d7644594791207971c807.webp",
+  "delivery":
+  "Free by 12/16"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "Angels Horn H019 Vintage Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/17494049238474855334?gl=us",
+  "product_id":
+  "17494049238474855334",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17494049238474855334",
+  "link":
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Turntable-Turntables/dp/B09VK9DLYR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "links":
+  [
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Turntable-Turntables/dp/B09VK9DLYR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "https://www.walmart.com/ip/Angels-Horn-H019-Bluetooth-Turntable-High-Fidelity-Vinyl-Record-Player-with-Built-in-Speakers/1715723024?wmlspartner=wlpa&selectedSellerId=101343124",
+  "https://www.ebay.com/itm/316030008187?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoo3UQhIxmfStoXn4LCQ1tKW_B_n4TLpFyrc_lcE63quT1k3Jxl0X-c"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8ac39ac9348aa9e18e2951870d05c55e4d.png",
+  "price":
+  "$227.98",
+  "extracted_price":
+  227.98,
+  "old_price":
+  "$240",
+  "extracted_old_price":
+  240,
+  "rating":
+  4.5,
+  "reviews":
+  8,
+  "snippet":
+  "45 rpm · Black, Walnut, Walnut ... · Vintage Style",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8ae95ffd491f997410afbc2123a1ee8b64.webp",
+  "tag":
+  "5% OFF",
+  "extensions":
+  [
+  "5% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "Fluance High Fidelity Vinyl Turntable Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/6838607790191991087?gl=us",
+  "product_id":
+  "6838607790191991087",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6838607790191991087",
+  "link":
+  "https://www.walmart.com/ip/Fluance-RT81-Turntable-high-gloss-walnut/51940128?wmlspartner=wlpa&selectedSellerId=1625",
+  "links":
+  [
+  "https://www.walmart.com/ip/Fluance-RT81-Turntable-high-gloss-walnut/51940128?wmlspartner=wlpa&selectedSellerId=1625",
+  "https://www.target.com/p/fluance-rt81-elite-high-fidelity-vinyl-turntable-record-player-with-audio-technica-at95e-cartridge-belt-drive-preamp-walnut/-/A-88168977?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-3",
+  "https://www.ebay.com/itm/405394252694?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoq7gLVIFXSQYRS_x28NrgqWYWPo7nE1ZEWY7HS5a-mz_nFydDHSoiA"
+  ],
+  "source":
+  "Walmart - ShopTronics",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8aef6a5dfd18d9c4dbb09825f909911339.png",
+  "price":
+  "$249.99",
+  "extracted_price":
+  249.99,
+  "rating":
+  4.9,
+  "reviews":
+  49,
+  "snippet":
+  "Good sound quality (20 user reviews)",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a746e6fb02a79c27f8989eacfb2e121b3.webp",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  11,
+  "title":
+  "U-Turn Audio Orbit Special Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17247470669843566078?gl=us",
+  "product_id":
+  "17247470669843566078",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17247470669843566078",
+  "link":
+  "https://uturnaudio.com/products/orbit-special-turntable?variant=40013057884235",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-special-turntable?variant=40013057884235",
+  "https://www.macys.com/shop/product/u-turn-audio-orbit-2-special-turntable-with-ortofon-2m-red-cartridge?ID=18144470&pla_country=US&CAGPSPN=pla",
+  "https://www.target.com/p/u-turn-audio-orbit-2-special-turntable-with-ortofon-2m-red-cartridge-blue/-/A-91700122?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-3"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a5a4b4076deb72abd324cb84d280138d6.png",
+  "price":
+  "$549.00",
+  "extracted_price":
+  549,
+  "rating":
+  4.9,
+  "reviews":
+  21,
+  "snippet":
+  "33.3 rpm, 45 rpm · Black, Red, White, Walnut, ... · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8ab410f8db4a5200393b7e0568dbadb081.webp",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  12,
+  "title":
+  "Sony PS-LX310BT Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/15253765578570414537?gl=us",
+  "product_id":
+  "15253765578570414537",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15253765578570414537",
+  "link":
+  "https://www.lowes.com/pd/Sony-Turntable-Nickel-plated-Steel-Rca-Plug-Audio-Connector/5013545621?user=shopping&feed=yes&srsltid=AfmBOorsIvhsUYHdsrdzQy3-S6sFAOypybF5hGgXzSmyZkCyeJLIpNOsM1E",
+  "links":
+  [
+  "https://www.lowes.com/pd/Sony-Turntable-Nickel-plated-Steel-Rca-Plug-Audio-Connector/5013545621?user=shopping&feed=yes&srsltid=AfmBOorsIvhsUYHdsrdzQy3-S6sFAOypybF5hGgXzSmyZkCyeJLIpNOsM1E",
+  "https://www.wayfair.com/Sony--Decorative-Record-Player-PSLX310BT-L7231-K~SNYB1020.html?refid=FR49-SNYB1020",
+  "https://www.pcrichard.com/sony-wireless-turntable-with-bluetooth-connectivity/PS-LX310BT.html?utm_source=google&utm_medium=organic&utm_campaign=free-shopping&srsltid=AfmBOorfqn55KoFuRu_TN7lQZaff30xtd8RMxir9zkolYmH7whpIzzn1t5g"
+  ],
+  "source":
+  "Lowe's",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a550c15899c27a4a823ee3d62e2ef7a85.png",
+  "price":
+  "$249.99",
+  "extracted_price":
+  249.99,
+  "rating":
+  4.6,
+  "reviews":
+  4300,
+  "snippet":
+  "Good sound quality (996 user reviews)",
+  "extensions":
+  [
+  "Free 90-day returns"
+  ],
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a7c29eb3973b30892b73b001d990c8d4c.webp"
+  },
+  {
+  "position":
+  13,
+  "title":
+  "Pro-Ject T1 Phono SB Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/2774293295630192459?gl=us",
+  "product_id":
+  "2774293295630192459",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2774293295630192459",
+  "link":
+  "https://www.sonos.com/en-us/shop/pro-ject-t1-phono-sb-turntable-white.html",
+  "links":
+  [
+  "https://www.sonos.com/en-us/shop/pro-ject-t1-phono-sb-turntable-white.html",
+  "https://www.amazon.com/Pro-Ject-T1-Phono-SB-Electronic/dp/B07Z8NDNH3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2763VQ7SN6URD",
+  "https://www.turntablelab.com/products/pro-ject-t1-phono-sb-turntable-satin-white?variant=17844740292698&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorVMA5G7Tfxl74aJekKHcu7XllKrEJHH70hlxEiBEl_B7iR2GYFedY"
+  ],
+  "source":
+  "Sonos",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a3bc0899b37864fc74bb4d2c7d2d147d7.png",
+  "price":
+  "$449.00",
+  "extracted_price":
+  449,
+  "rating":
+  4.7,
+  "reviews":
+  216,
+  "snippet":
+  "Good sound quality (71 user reviews)",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/bd65543fed9247b8943fd570b1904b8a9d3ee7d9d7ca8badc876ad6d60873a08.webp",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  14,
+  "title":
+  "Crosley Voyager Turntable Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/3759263909755342541?gl=us",
+  "product_id":
+  "3759263909755342541",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3759263909755342541",
+  "link":
+  "https://www.amazon.com/Crosley-CR8017B-WB-Portable-Turntable-Bluetooth/dp/B09MG4CQP8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Crosley-CR8017B-WB-Portable-Turntable-Bluetooth/dp/B09MG4CQP8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.walmart.com/ip/Crosley-Voyager-Vinyl-Record-Player-with-Speakers-and-Wireless-Bluetooth-Audio-Turntables/904316650?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.nordstrom.com/s//7334236?color=BLUE+TONES&size=one+size&country=US&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping&srsltid=AfmBOorU-LpD0pg2AEPMV95y8DtT4XFe_GkdbbF2J5XTwEYkZCfX2PMz8sg"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$52.05",
+  "extracted_price":
+  52.05,
+  "old_price":
+  "$61",
+  "extracted_old_price":
+  61,
+  "rating":
+  4.1,
+  "reviews":
+  441,
+  "snippet":
+  "Good sound quality (62 user reviews)",
+  "extensions":
+  [
+  "30-day returns",
+  "15% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRY5PBSvbLB548nvZgCJFzCm3AorLL2zuo6MpY7dV_u255oZ3URmsrpKIL4iDEuea7qDF75ER-pR07A_kuh9DdcLndGZUFKOMN3a0ElzrV1qXKkU8p9YxHmRQ",
+  "tag":
+  "15% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  15,
+  "title":
+  "Jensen JMC-1250 Turntable CD",
+  "product_link":
+  "https://www.google.com/shopping/product/411046202383974740?gl=us",
+  "product_id":
+  "411046202383974740",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=411046202383974740",
+  "link":
+  "https://www.walmart.com/ip/Jensen-JMC-1250-Bluetooth-3-Speed-Stereo-Turntable-Music-System-with-3-CD-Changer-and-Dual-Cassette-Deck/38762874?wmlspartner=wlpa&selectedSellerId=0",
+  "links":
+  [
+  "https://www.walmart.com/ip/Jensen-JMC-1250-Bluetooth-3-Speed-Stereo-Turntable-Music-System-with-3-CD-Changer-and-Dual-Cassette-Deck/38762874?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.amazon.com/Jensen-3-Speed-Turntable-Changer-Cassette/dp/B0D7F9RK9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1BHSMIW6A86AG",
+  "https://www.lowes.com/pd/Jensen-Bluetooth-3-Speed-Stereo-Turntable-Music-System-with-3-CD-Changer-And-Dual-Cassette-Deck/5014219121?user=shopping&feed=yes&srsltid=AfmBOopxfbxIBuIK4_bi6Yz7_IFKTaHCyHe1v8g-29jB3m39O9kfy9WHduI"
+  ],
+  "source":
+  "Walmart",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+  "price":
+  "$199.99",
+  "extracted_price":
+  199.99,
+  "old_price":
+  "$270",
+  "extracted_old_price":
+  270,
+  "rating":
+  3.7,
+  "reviews":
+  370,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Black · Belt Drive",
+  "extensions":
+  [
+  "Free 90-day returns",
+  "25% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-epbpGP2Losd7f9VhkRiuzh2lu39-Us1VDdlY9Ay5fkfMyekZbdeXghhwYGxSYZUsEl1t6Wiiftpbig4t6tBA2zPH5msrWINaqEwVaYM",
+  "tag":
+  "25% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  16,
+  "title":
+  "Orbit Basic Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17803932926554484365?gl=us",
+  "product_id":
+  "17803932926554484365",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17803932926554484365",
+  "link":
+  "https://uturnaudio.com/products/orbit-basic-turntable?variant=40010963157067",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-basic-turntable?variant=40010963157067"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwRHRRXYgpwSS2yv9Xjt5IAfW1OCaUxObmUy2yqRXehzd6O8mL54A_Nff9VAhSxAG4t1c86LXRhJNviNM10fY9y7dqy2ADfg",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "snippet":
+  "33.3 rpm, 45 rpm · Black, Red, White, Walnut, ... · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4oiv6qY0HybL-wP9lNUdjOOBivTdmy9LMwdREP8xocYVbmvZCJj3B_8o5Ui6HQKAAqeWheK6O8De5hJ62aFnLaDGW6HajuvfSk4BujE-YkxLiz_PTcvJD2w",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  17,
+  "title":
+  "Hearth & Hand with Magnolia Vintage Style 3-in-1 Vinyl Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/10863486438784473384?gl=us",
+  "product_id":
+  "10863486438784473384",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10863486438784473384",
+  "link":
+  "https://www.target.com/p/vintage-style-3-in-1-vinyl-record-player-wood-grain-finish-hearth-38-hand-8482-with-magnolia/-/A-89972684?sid=2475S&afid=google&ref=tgt_adv_xsf&CPNG=Seasonal&adgroup=324-6",
+  "links":
+  [
+  "https://www.target.com/p/vintage-style-3-in-1-vinyl-record-player-wood-grain-finish-hearth-38-hand-8482-with-magnolia/-/A-89972684?sid=2475S&afid=google&ref=tgt_adv_xsf&CPNG=Seasonal&adgroup=324-6",
+  "https://www.mercari.com/us/item/m72334384450/?srsltid=AfmBOooVnmIG8ZWjSlz5sHTANi812rX6IYZc7DzfXQzxalPr6K_uWjlP4DE",
+  "https://www.doordash.com/product/198101029188?utm_source=Google&utm_medium=PLA&utm_campaign=organic_product_listing&business_id=956270&frt=18&srsltid=AfmBOopZkyyWFt_uwukTH79TPdu3TByuT01_R-MsntFZqiP6XPCv7W1fITc"
+  ],
+  "source":
+  "Target",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+  "price":
+  "$99.99",
+  "extracted_price":
+  99.99,
+  "rating":
+  2,
+  "reviews":
+  34,
+  "snippet":
+  "33.3 rpm · Woodgrain · Belt Drive",
+  "extensions":
+  [
+  "Free 90-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_LGOdNBHnNjn4wFNlUlXrPsIE0--q00Kwsxgxdg7K2M08zk_03og6VOP3trZDRnE9eN21N5LTGA2q8d7eAt85FAdU-7IB",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  18,
+  "title":
+  "Denon DP-29F Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/7288896509371124113?gl=us",
+  "product_id":
+  "7288896509371124113",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7288896509371124113",
+  "link":
+  "https://www.denon.com/en-US/136636-01-00-101.html",
+  "links":
+  [
+  "https://www.denon.com/en-US/136636-01-00-101.html",
+  "https://www.bhphotovideo.com/c/product/431450-REG/Denon_DP_29F_DP_29F_Fully_Automatic_Turntable.html?kw=DEDP29F&ap=y&smpn=&BI=E7249&srsltid=AfmBOoozHFE_vQflFm7AZbvBBCUFlmRMRMFAdspYRqwq0NVbW0fDofflKl0",
+  "https://www.amazon.com/Denon-DP29F-DP-29F-Turntable/dp/B0000BZHGV?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A43XUH5I6FNM3"
+  ],
+  "source":
+  "Denon",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRU67sL8kgrxGRC7Q6xjt13ppmX9vTicf9YYWfKcgbxhbQxoNDkYbcF1T78JFlmwt3Cuxg-YRv6BPFp1b7HhXn5vscqsH3W",
+  "price":
+  "$139.00",
+  "extracted_price":
+  139,
+  "old_price":
+  "$199",
+  "extracted_old_price":
+  199,
+  "rating":
+  4.6,
+  "reviews":
+  738,
+  "snippet":
+  "Good sound quality (141 user reviews)",
+  "extensions":
+  [
+  "Free 30-day returns",
+  "30% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdvuKh1t_T3U9Vf5tf8pEug_93FzbUCYcT029NMpfey6Of_CTUBZddOgpd_hOwFl4GfK4moMpHHav1yos7Xb1CCIbIAD59XzfmzsYvNIvwNXXuXt3ExqLS",
+  "tag":
+  "30% OFF",
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  19,
+  "title":
+  "Retrolife HQKZ006 Belt Drive Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/2265276532903360800?gl=us",
+  "product_id":
+  "2265276532903360800",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2265276532903360800",
+  "link":
+  "https://www.amazon.com/Turntables-Belt-Drive-Connectivity-Recording-Counterweight/dp/B09NRBR2LK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3V166YMN6KYOR",
+  "links":
+  [
+  "https://www.amazon.com/Turntables-Belt-Drive-Connectivity-Recording-Counterweight/dp/B09NRBR2LK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3V166YMN6KYOR",
+  "https://www.ebay.com/itm/335711597383?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorfv3z5zYCretkfyLGP6qcigmuNqY3AFHJXZ_cp2Yk2JsQhl--siLo",
+  "https://www.bonanza.com/listings/Turntables-Belt-Drive-Record-Player-With-Wireless-Output-Connectivity-Vinyl/1691444960?goog_pla=1"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$180",
+  "extracted_old_price":
+  180,
+  "rating":
+  4.9,
+  "reviews":
+  112,
+  "snippet":
+  "Good sound quality (48 user reviews)",
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQ8B2FQI0jBiNzprLm1HKOy4-_atjQlSgqbH3pdfQoWhibT0YjI182sa3t3DTpkPNIVWzwPkr_891YWpNODqNBEoz-DjO8OgLRMmblMlbqeoYG31t63rCiMg",
+  "tag":
+  "33% OFF",
+  "extensions":
+  [
+  "33% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  20,
+  "title":
+  "VEVOR Vinyl Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/1514706611170429522?gl=us",
+  "product_id":
+  "1514706611170429522",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1514706611170429522",
+  "link":
+  "https://www.vevor.com/gramophone-c_13285/vevor-vinyl-record-player-3-speed-belt-driven-turntable-player-with-built-in-10w-stereo-speakers-magnetic-cartridge-support-33-45-78-rpm-bluetooth-aux-in-rca-output-for-7-10-12-in-vinyl-records-p_010955810919?adp=gmc&srsltid=AfmBOoodD0IT_6TCtaiEOrglIhPWZI04wfol7CYAbjjYCtrYPXQqzSj0JTg",
+  "links":
+  [
+  "https://www.vevor.com/gramophone-c_13285/vevor-vinyl-record-player-3-speed-belt-driven-turntable-player-with-built-in-10w-stereo-speakers-magnetic-cartridge-support-33-45-78-rpm-bluetooth-aux-in-rca-output-for-7-10-12-in-vinyl-records-p_010955810919?adp=gmc&srsltid=AfmBOoodD0IT_6TCtaiEOrglIhPWZI04wfol7CYAbjjYCtrYPXQqzSj0JTg",
+  "https://www.homedepot.com/p/VEVOR-Vinyl-Record-Player-Belt-Driven-Built-in-10-Watt-Stereo-Speakers-Magnetic-Cartridge-for-7-10-12-in-Vinyl-Records-LSJ23S000000RDAI3V1/331792985?source=shoppingads&locale=en-US&srsltid=AfmBOoqo8hqfzZLr6ZK6hcTl_9qgeq1eNDDTKcK0ssGLM7VTq4-KkZqcapw",
+  "https://www.lowes.com/pd/VEVOR-Vinyl-Record-Player-3-Black-3-5Mm-Headphone-Splitter/5015675233?user=shopping&feed=yes&srsltid=AfmBOoqmJErdJfuTYnFXagylP7HuykuJBYR4rq8UNO-RPCcHhVCKVeAMD88"
+  ],
+  "source":
+  "VEVOR",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRDBu-b-XSx_tKOgy0HXEyW1sUhCCq8mIGgM55y6ost1Y7v7WImAIzGGv3vUwxaauXD4GKdZ19pBCdWxRkag0xcq2nteVb5",
+  "price":
+  "$35.99",
+  "extracted_price":
+  35.99,
+  "alternative_price":
+  {
+  "price":
+  "Usually $44",
+  "extracted_price":
+  44,
+  "currency":
+  "Usually"
+  },
+  "rating":
+  3,
+  "reviews":
+  2,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Black · Belt Drive",
+  "extensions":
+  [
+  "30-day returns",
+  "LOW PRICE"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvhbECUTiYEhgb0sGW91Tx8ckX7ySqCFpfHpMCXk0JpFECYN8GaUPXa19h7Voa7rXoJIuIwmzWlWpqF1h_k4eEKKME8QPrfMyWUzNtVHLmxQ6V9_HCSIR8",
+  "tag":
+  "LOW PRICE",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  21,
+  "title":
+  "Orbit Custom Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/8360983744938924543?gl=us",
+  "product_id":
+  "8360983744938924543",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8360983744938924543",
+  "link":
+  "https://uturnaudio.com/products/orbit-custom",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-custom"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwRHRRXYgpwSS2yv9Xjt5IAfW1OCaUxObmUy2yqRXehzd6O8mL54A_Nff9VAhSxAG4t1c86LXRhJNviNM10fY9y7dqy2ADfg",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "snippet":
+  "33.3 rpm, 45 rpm · Black, Blue, Green · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRBb8lj0EIlRD8w6meaVMHt2pVoAm9Cwp3hVllHiIK2CBrHJ3txq8bxkQpN1TBVnIQQhb_68hbv1Qhf3asZyHrylrCbmQR83ySgxGOJBg5SvZ7pomenXKU4w",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  22,
+  "title":
+  "Victrola 6-in-1 Bluetooth Mid Century Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/18254329682708762417?gl=us",
+  "product_id":
+  "18254329682708762417",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18254329682708762417",
+  "link":
+  "https://victrola.com/products/victrola-6-in-1-wood-bluetooth-mid-century-record-player-with-3-speed-turntable-cd-cassette-player-and-radio?variant=41297133174955",
+  "links":
+  [
+  "https://victrola.com/products/victrola-6-in-1-wood-bluetooth-mid-century-record-player-with-3-speed-turntable-cd-cassette-player-and-radio?variant=41297133174955",
+  "https://www.barnesandnoble.com/w/victrola-empire-6-in-1-wood-empire-mid-century-modern-bluetooth-record-player-with-3-speed-turntable-cd-cassette-player-and-radio-innovative-technology/1141948003?ean=0816203018168",
+  "https://www.homedepot.com/p/Victrola-6-in-1-Wood-Bluetooth-Mid-Century-Record-Player-with-3-Speed-Turntable-CD-Cassette-Player-and-Radio-VTA-270B-ESP/307626034?source=shoppingads&locale=en-US&srsltid=AfmBOooGmD8ShOiTFdn0z_snsunRQ--SwokCrZ93Atd2sTuA02Jfrk52LL8"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRwgeFVYLcwlPYMTuIiVK0SBa5QMNbq5DNE8fgRorLZcypSE2qwO-9kiM0BQhbNwoFn6IGoLeZXjPk91tFbmcBK-isJ5bg",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$200",
+  "extracted_old_price":
+  200,
+  "rating":
+  4.2,
+  "reviews":
+  424,
+  "snippet":
+  "Good sound quality (90 user reviews)",
+  "extensions":
+  [
+  "30-day returns",
+  "40% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTg6yX0pVEf9bXPlSgV0_EKRUug7vMxacHZ3qjR4luImsvuXegipOQ7o7zj5cIqKYDbJbCMsT1zzYYFT_jMRPfSd0ZQMsAWqwmhqBH7kZ_hDO3_DlDFoqNK",
+  "tag":
+  "40% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  23,
+  "title":
+  "Audio Technica AT-LP70X Fully Automatic Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/2215719232136158621?gl=us",
+  "product_id":
+  "2215719232136158621",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2215719232136158621",
+  "link":
+  "https://www.bestbuy.com/site/audio-technica-at-lp70x-bz-fully-automatic-belt-drive-turntable-black-bronze/6585263.p?skuId=6585263&ref=212&loc=1&utm_source=feed&extStoreId=1172",
+  "links":
+  [
+  "https://www.bestbuy.com/site/audio-technica-at-lp70x-bz-fully-automatic-belt-drive-turntable-black-bronze/6585263.p?skuId=6585263&ref=212&loc=1&utm_source=feed&extStoreId=1172",
+  "https://www.bhphotovideo.com/c/product/1838402-REG/audio_technica_consumer_at_lp70x_bz_fully_auto_belt_drive_tt.html?kw=AUATLP70XBZ&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorOEMgLp22vs7Y881mzQOSTomMfsGLjBmzAtvTqv-wemOb4LzNceT4",
+  "https://www.sweetwater.com/store/detail/ATLP70XBZ--audio-technica-at-lp70x-belt-drive-turntable-black-bronze?srsltid=AfmBOop_aMRf4sF8YK6ovDvPkJSZbc2XiYWg0grtvl0aHfr2ylbM9-xphls"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+  "price":
+  "$199.00",
+  "extracted_price":
+  199,
+  "rating":
+  4.8,
+  "reviews":
+  102,
+  "snippet":
+  "Good sound quality (48 user reviews)",
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmwmlbMSKb4Qvy0ALOi8DPNsOuEL4FMl8p6twDMI7OmozRpijO47w52-BCKDMjkYnTZPX50MqAnKdonMDuGmatM1nJbb9L3HU0-cmRXne7zaThzted2rovnw",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  24,
+  "title":
+  "1 by One High Fidelity Belt Drive Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/12002409227638288514?gl=us",
+  "product_id":
+  "12002409227638288514",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12002409227638288514",
+  "link":
+  "https://www.amazon.com/Fidelity-Turntable-Speakers-Cartridge-Functionality/dp/B086WTSMQH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A7OF9O5YIFFT5",
+  "links":
+  [
+  "https://www.amazon.com/Fidelity-Turntable-Speakers-Cartridge-Functionality/dp/B086WTSMQH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A7OF9O5YIFFT5",
+  "https://1byoneaudio.com/products/h009?srsltid=AfmBOoo-s2CvpRZln01Lm4xOZrVBb40HKKgBMm3IHPEb2ZSw5M9V5kW0Bok",
+  "https://www.ebay.com/itm/196361079760?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$219.99",
+  "extracted_price":
+  219.99,
+  "rating":
+  5,
+  "reviews":
+  4,
+  "snippet":
+  "33.3 rpm, 45 rpm · Walnut · Belt Drive",
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOwrfUak8pZCFGRe1e8GLgcYpRSyLfeWLhxLHS36ChVb_-8pgkeo6JqJ6xhYqtP3dYtbQVHAkj5M-D4vZ6n9NglXjuJrEq49pZZrGAMrr-2dms4C4gwRDW",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  25,
+  "title":
+  "Yamaha TT-S303 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17573374184547148170?gl=us",
+  "product_id":
+  "17573374184547148170",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17573374184547148170",
+  "link":
+  "https://shop.usa.yamaha.com/en/p/audio-home-theater/turntables/tt-s303-turntable",
+  "links":
+  [
+  "https://shop.usa.yamaha.com/en/p/audio-home-theater/turntables/tt-s303-turntable",
+  "https://www.bhphotovideo.com/c/product/1425774-REG/yamaha_tt_s303bl_tt_s303_stereo_turntable.html?kw=YATTS303BL&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorHpN17JINHPDibNjxSbsw4hY4xgWJjgH3E_Hgbjiulo0Ko0K_nm1Q",
+  "https://www.amazon.com/Yamaha-TT-S303-Hi-Fi-Vinyl-Turntable/dp/B07GQLLW4G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A17MC6HOH9AVE6"
+  ],
+  "source":
+  "Yamaha",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcThiMcxEfKNGyjci2YE5OB75oMKKOdA5mIBYSd468jeS833eisThu9N4xS39dhHO3g51zoMoifcgyl_iAlaWM4w57eOx79fkg",
+  "price":
+  "$499.95",
+  "extracted_price":
+  499.95,
+  "rating":
+  4.7,
+  "reviews":
+  38,
+  "snippet":
+  "Good sound quality (15 user reviews)",
+  "extensions":
+  [
+  "Free 30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQi0lJYPNDj7WJiSLTBM4qoTPU32j6zI5zjS_dvKQ3A_BDO9tvDQxOZG3ppfSCqTQc5LCIUCadfdK6Xk_QX3Ok7PkMWW3rVuByHcoL4y_G_VYxRVOAN1G7Aiw",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  26,
+  "title":
+  "Technics SL-1200M7B Lamborghini Edition Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/11640828582621482168?gl=us",
+  "product_id":
+  "11640828582621482168",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11640828582621482168",
+  "link":
+  "https://us.technics.com/products/direct-drive-turntable-system-sl-1200m7b?variant=45110513598699&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooqjtQQA6UwnzbV0wR13VrncxJQGGSpuBwn6xJAWUjaCuuwUyjwOuA",
+  "links":
+  [
+  "https://us.technics.com/products/direct-drive-turntable-system-sl-1200m7b?variant=45110513598699&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooqjtQQA6UwnzbV0wR13VrncxJQGGSpuBwn6xJAWUjaCuuwUyjwOuA",
+  "https://www.bhphotovideo.com/c/product/1829816-REG/technics_sl_1200m7bpdmk7_sl_1200_special_edition_turntable.html?kw=TESL12KM7BP&ap=y&smpn=&BI=E7249&srsltid=AfmBOorqwb1SNQ6kHcd6voqtLkieABv90HXjcYOZhopTtR96VcA6gT1vTpQ",
+  "https://www.crutchfield.com/I-rGPSc1JO8/p_13312M7ORG/Technics-SL-1200M7B-Orange.html"
+  ],
+  "source":
+  "Technics USA",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT24PPmJzT0xS7hmjBYZs84azhPq7AJdx2bx1tNzT30NsTeKVFFlOc8t5lcTjGUanNvYDO9C7H_qp_yUlSKvhO3XireDS2c_Ec",
+  "price":
+  "$1,299.99",
+  "extracted_price":
+  1299.99,
+  "old_price":
+  "$1,600",
+  "extracted_old_price":
+  1600,
+  "rating":
+  4.9,
+  "reviews":
+  25,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · White, Orange, Green, Yellow · Direct Drive",
+  "extensions":
+  [
+  "30-day returns",
+  "18% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSG1aZrmRSFVifcTfc0fmOG_1XGTq-uP7TQlBmNF1PiSjsR-_nnW0gobbABXMr8oTQ0PFuWV8pdW_87zPANLPjxvEkQubhOswMchatD5Sj3btKgurr354LnDQ",
+  "tag":
+  "18% OFF",
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  27,
+  "title":
+  "Trexonic 3-Speed Turntable With CD Player",
+  "product_link":
+  "https://www.google.com/shopping/product/6063564709823563422?gl=us",
+  "product_id":
+  "6063564709823563422",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6063564709823563422",
+  "link":
+  "https://www.homedepot.com/p/Trexonic-3-Speed-Turntable-with-Wired-Shelf-Speakers-985104744M/307834003?source=shoppingads&locale=en-US&srsltid=AfmBOoquuSPOf1xe_RdOsVlS0rM5Jz1FwBTjFbmN5qYxmwOsLBugiSGwaAo",
+  "links":
+  [
+  "https://www.homedepot.com/p/Trexonic-3-Speed-Turntable-with-Wired-Shelf-Speakers-985104744M/307834003?source=shoppingads&locale=en-US&srsltid=AfmBOoquuSPOf1xe_RdOsVlS0rM5Jz1FwBTjFbmN5qYxmwOsLBugiSGwaAo",
+  "https://www.walmart.com/ip/Trexonic-3-Speed-Turntable-With-CD-Player-FM-Radio-Bluetooth-USB-SD-Recording-and-Wired-Shelf-Speakers/608362041?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.lowes.com/pd/Trexonic-Black-Turntable-Record-Player/1001435468?user=shopping&feed=yes&srsltid=AfmBOooFdQDXOmyDTbn12STpisEIaHB6rQX3POMOM_QMsKF7Kx2lZL4zVhc"
+  ],
+  "source":
+  "Home Depot",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUxcbAOp1W7saYdqcZvnnEGAgF4vylB2H-jyfij0iYPj-dwqlZe18y3pA7TtEvPHbzYxf-lajTL0rmS6X_ImuDdbAYjIZ3jyRB",
+  "price":
+  "$125.46",
+  "extracted_price":
+  125.46,
+  "rating":
+  3.9,
+  "reviews":
+  58,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Black, Blue · Digital Recorder",
+  "extensions":
+  [
+  "90-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTexbIR9CG8uxACkXpGtFCKn8sjlivAY_DctXT01VWIDpYih42g6Ouyv_s_m0JNUU6g21RcsTq5trELafBJqhtJfwhb8ZsSEMbMNvq_KR__g4gtxQIDTRMs",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  28,
+  "title":
+  "Classic Floating Record Vertical Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18108202536371426185?gl=us",
+  "product_id":
+  "18108202536371426185",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18108202536371426185",
+  "link":
+  "https://www.verticalgrooves.com/products/floating-record?currency=USD&variant=42090756571388&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=9dea2a70103a&srsltid=AfmBOoqKk9F2PdpWNNotfEbB66GIXuPqQLt7DxjT5svPLRHoGWbielzoStA",
+  "links":
+  [
+  "https://www.verticalgrooves.com/products/floating-record?currency=USD&variant=42090756571388&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=9dea2a70103a&srsltid=AfmBOoqKk9F2PdpWNNotfEbB66GIXuPqQLt7DxjT5svPLRHoGWbielzoStA",
+  "https://www.walmart.com/ip/Gramovox-Classic-Floating-Record-vertical-turntable/13699250882?wmlspartner=wlpa&selectedSellerId=102543993"
+  ],
+  "source":
+  "Vertical Grooves",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcToVzQxPBh0b8ogNTmQ15Ahashl4fKmUenkkC1jwW0TJeu_J7eGuCDvhUyMYx_t70yS3fNcPOTuZK0FY3SJxTbjI5_mWTIMrkHlIXsZWA-3Xw",
+  "price":
+  "$899.00",
+  "extracted_price":
+  899,
+  "snippet":
+  "Walnut",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyRGVyoo1ZL6CbQbsSONIGln89IyZPUmLUcXrMMqGbg2uRQAlDarzoSDtmPmGaSjEiKRciwRo6zOT2BN7Kz14rTujvtmyG3cm5-y20tp8"
+  },
+  {
+  "position":
+  29,
+  "title":
+  "Angels Horn H002BT-OR Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/11742079503597778158?gl=us",
+  "product_id":
+  "11742079503597778158",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11742079503597778158",
+  "link":
+  "https://www.amazon.com/ANGELS-HORN-Turntable-Records-AT-3600L/dp/B08BPLY7XJ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "links":
+  [
+  "https://www.amazon.com/ANGELS-HORN-Turntable-Records-AT-3600L/dp/B08BPLY7XJ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "https://www.walmart.com/ip/Angels-Horn-H002BT-Bluetooth-Turntable-High-Fidelity-Vinyl-Record-Player-Walnut/1922434231?wmlspartner=wlpa&selectedSellerId=101343124",
+  "https://www.ebay.com/itm/234629224723?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$189.99",
+  "extracted_price":
+  189.99,
+  "old_price":
+  "$210",
+  "extracted_old_price":
+  210,
+  "rating":
+  4.8,
+  "reviews":
+  27,
+  "snippet":
+  "33.3 rpm, 45 rpm · Mahogany, Walnut · Belt Drive",
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJLoIJtbXU7AdDI_htIhlfDCloWPXez96yFlFvoJhgSpHSAMR1zaiapVCB1VsqXwrRg5x0dxX-NpM3K_xiqgdsl0whZ9ur1Lo1p7QoSu33lzvhpUl3KOfrdg",
+  "tag":
+  "9% OFF",
+  "extensions":
+  [
+  "9% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  30,
+  "title":
+  "Official Pokémon Audio Collection",
+  "product_link":
+  "https://www.google.com/shopping/product/13361512148275283678?gl=us",
+  "product_id":
+  "13361512148275283678",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13361512148275283678",
+  "link":
+  "https://www.pokemoncenter.com/product/710-09874/?utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_term=710-09874",
+  "links":
+  [
+  "https://www.pokemoncenter.com/product/710-09874/?utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_term=710-09874",
+  "https://www.ebay.com/itm/355941395671?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+  "https://www.mercari.com/us/item/m69671717336/?srsltid=AfmBOoplPqL1v0ajG4qZ0j9n12kwgIBhGLBoCMFUVJzn-Jn-KVriASg1VRg"
+  ],
+  "source":
+  "pokemoncenter.com",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSxqbwflJBCgETpt7ORg3hAif2jnK4V_rQIrJNSGYblmUtrbxmxFK6SfevRBSd1T_1w42qTqeGrdohv5KJbCDSSCOgfZwNO5_-Lr1HHUXc",
+  "price":
+  "$399.99",
+  "extracted_price":
+  399.99,
+  "rating":
+  4.7,
+  "reviews":
+  16,
+  "snippet":
+  "33.3 rpm, 45 rpm · Sleek Black · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnNEJk37hgKzWl57GQGR3_HIMcuCmPhNSYTL-SeGKC5OF45H8K7MhxqrN8cbh-HjGzDKbqQiQUtH8Cp4c-edgSfxia7QDWc6NVaEJpqP3EUKUW-yg27aY6tA",
+  "delivery":
+  "Free by 12/20"
+  },
+  {
+  "position":
+  31,
+  "title":
+  "GPO Bermuda Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/10857903125825893563?gl=us",
+  "product_id":
+  "10857903125825893563",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10857903125825893563",
+  "link":
+  "https://www.macys.com/shop/product/gpo-retro-bermudag-bermuda-classic-turntable-usb-with-removable-legs-grey-cream?ID=18325680&pla_country=US&CAGPSPN=pla",
+  "links":
+  [
+  "https://www.macys.com/shop/product/gpo-retro-bermudag-bermuda-classic-turntable-usb-with-removable-legs-grey-cream?ID=18325680&pla_country=US&CAGPSPN=pla",
+  "https://www.target.com/p/gpo-retro-bermudag-bermuda-classic-turntable-usb-with-removable-legs-grey-cream/-/A-85967122?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=8-3",
+  "https://www.walmart.com/ip/GPO-Retro-BERMUDAG-Bermuda-Classic-Turntable-USB-With-Removable-Legs-Grey-Cream-TURNTABLES-Built-In-Speakers-Gray-With-Usb/1249621053?wmlspartner=wlpa&selectedSellerId=1035"
+  ],
+  "source":
+  "Macy's",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRDOAtFpAIJSB0VSNR3OSKwNVHY7BcOY5b88LFOBb1wwb2MTkUzvM_Goh5q-V5BCdtGEhC7I_F3xgtQorxsG1od3auFX0se",
+  "price":
+  "$190.40",
+  "extracted_price":
+  190.4,
+  "rating":
+  5,
+  "reviews":
+  2,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Gray · Vintage Style",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2m-f0FvtvJ3iWKHonwxvU-w5-Sda79mwgMiz-o02TY-CSELhomLcKh-XrtfkplkYG_uwU6oBRJzKXc26xZHb6b_Cl2w9WUCFcfuf5BgjnwCepMWbT80vH",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  32,
+  "title":
+  "Victrola Navigator Wooden 8-in-1 Bluetooth Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/11375556235950378796?gl=us",
+  "product_id":
+  "11375556235950378796",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11375556235950378796",
+  "link":
+  "https://victrola.com/products/the-navigator?variant=43612107977",
+  "links":
+  [
+  "https://victrola.com/products/the-navigator?variant=43612107977",
+  "https://www.bestbuy.com/site/victrola-navigator-8-in-1-classic-bluetooth-record-player-with-turntable-mahogany/5635808.p?skuId=5635808&utm_source=feed",
+  "https://www.walmart.com/ip/Victrola-8-in-1-Navigator-Bluetooth-Record-Player-Multimedia-Center-Built-in-Stereo-Speakers-Turntable-Wireless-Music-Streaming/850669263?wmlspartner=wlpa&selectedSellerId=0"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRwgeFVYLcwlPYMTuIiVK0SBa5QMNbq5DNE8fgRorLZcypSE2qwO-9kiM0BQhbNwoFn6IGoLeZXjPk91tFbmcBK-isJ5bg",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$200",
+  "extracted_old_price":
+  200,
+  "rating":
+  4.1,
+  "reviews":
+  965,
+  "snippet":
+  "Good sound quality (187 user reviews)",
+  "extensions":
+  [
+  "30-day returns",
+  "40% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmWe0XqClojbRkx3qFlSTTPyVCrZlTvZ8xNmxua1tNC8M7NWiq-EHqUS0y3slhDJRaU6rkVgDSGiXG1sVsjcxB3w7dA6dwym_0TPF9SdHPyfv80Qpgiz3fuA",
+  "tag":
+  "40% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  33,
+  "title":
+  "Audio-Technica Automatic Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/7672566611474080758?gl=us",
+  "product_id":
+  "7672566611474080758",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7672566611474080758",
+  "link":
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP60XBT-Fully-Automatic-Belt-Drive-Stereo-Turntable-with-Bluetooth-Black-1500000263140.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqRVGwRHRsEhfzewSZs8fgCdoi6wZdCmKal2qbafRQBOCGF444BuFw",
+  "links":
+  [
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP60XBT-Fully-Automatic-Belt-Drive-Stereo-Turntable-with-Bluetooth-Black-1500000263140.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqRVGwRHRsEhfzewSZs8fgCdoi6wZdCmKal2qbafRQBOCGF444BuFw",
+  "https://www.amazon.com/Audio-Technica-AT-LP60XBT-USB-BK-Automatic-Belt-Drive-Turntable/dp/B08VW5XDH7?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1B6TWDCBWEIKX",
+  "https://www.dell.com/en-us/shop/audio-technica-at-lp60xbt-fully-automatic-wireless-belt-drive-turntable/apd/ad156109/audio?tfcid=91049735&dgc=opl&srsltid=AfmBOooe9sqmdzEu-0AD4A4TFoNztoXgyHUE1rixMe5pAKZL8klp4Zkyocs"
+  ],
+  "source":
+  "Guitar Center",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+  "price":
+  "$219.00",
+  "extracted_price":
+  219,
+  "rating":
+  4.7,
+  "reviews":
+  2100,
+  "snippet":
+  "Good sound quality (427 user reviews)",
+  "extensions":
+  [
+  "45-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIf4-uDEcCilAfReDmqCuCZZLQDMzdp3ykWQYsqykVGe3W_lTj1xV79aie5VDE9Y5ZvzLI00kksWdpHX4V9hmsGGrbzPB7Rin5EYq4x5N1",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  34,
+  "title":
+  "Victrola 6-in-1",
+  "product_link":
+  "https://www.google.com/shopping/product/3705423356971635920?gl=us",
+  "product_id":
+  "3705423356971635920",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3705423356971635920",
+  "link":
+  "https://www.amazon.com/Victrola-Nostalgic-Bluetooth-Turntable-Entertainment/dp/B00NQL8Z16?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Victrola-Nostalgic-Bluetooth-Turntable-Entertainment/dp/B00NQL8Z16?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.homedepot.com/p/Victrola-6-in-1-Classic-Wooden-Turntable-with-Bluetooth-in-Mahogany-VTA-200B-MAH/206820955?source=shoppingads&locale=en-US&srsltid=AfmBOoq1siwoo5OIjALEHdvGdrr-BWjkAJPw__Atae-NByzzXMSY3ig9Syw",
+  "https://www.bestbuy.com/site/victrola-bluetooth-stereo-audio-system-mahogany/7786072.p?skuId=7786072&utm_source=feed"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$99.99",
+  "extracted_price":
+  99.99,
+  "rating":
+  4.2,
+  "reviews":
+  1700,
+  "snippet":
+  "Good sound quality (368 user reviews)",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSX191JTpEI0cCM2PPcP1GG2REjTjQoSaatL6Tols_P0UwaAIFRMm1PhiYWiA5jbOZk4OhfjiAAVIpmc2ScdC0qjNaU_qyCFoLiZiwJseYq",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  35,
+  "title":
+  "Pro-Ject VT-E BT Vertical Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17108291441755573682?gl=us",
+  "product_id":
+  "17108291441755573682",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17108291441755573682",
+  "link":
+  "https://www.turntablelab.com/products/pro-ject-vertical-turntable-right-white-vt-e-r?variant=30995803080&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqhyojfilpLd_chRS1LDsAfeTxBAnzeqhLOxevBvkksu5rILvKQnes",
+  "links":
+  [
+  "https://www.turntablelab.com/products/pro-ject-vertical-turntable-right-white-vt-e-r?variant=30995803080&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqhyojfilpLd_chRS1LDsAfeTxBAnzeqhLOxevBvkksu5rILvKQnes",
+  "https://www.audioadvisor.com/prvte-wht-rh?sku=NEW-PRVTE-WHT-RH&setCurrencyId=1&srsltid=AfmBOoo-ZgdslYckB9lMMPCTpiiFNP6L4wtXp_dsLBTSK3pW9G9RhAAxC5g",
+  "https://reverb.com/item/74368537-pro-ject-vertical-turntable-right-white-vt-e-r?utm_campaign=US-Shop_unpaid&utm_medium=cpc&utm_source=google"
+  ],
+  "source":
+  "Turntable Lab",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGjZzeSbGSAk-JsWe471wU_Z-pEGyd1G4iqNx9NRH7wZExcrTGjXpTPYxDCIum-453YGdGv0b5GZK6A3tx1gIfSB5LG3IICSbnn5xrug",
+  "price":
+  "$499.00",
+  "extracted_price":
+  499,
+  "rating":
+  4.6,
+  "reviews":
+  39,
+  "snippet":
+  "33.3 rpm, 45 rpm · Black, Red, White, Gloss ... · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTg3fk96qaLOdrOriyoERCD1NmrJv_7nlX3DnPrgLB7zpQEhlB3DLx4AXjfdsKr5aKtbsGtlpvcPjmvJQ7py9D3TW9rboQva1oYJrNh6701_ezHfO7lac_KQ",
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  36,
+  "title":
+  "Fuse Audio REC Vertical Vinyl Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/17887527241711145470?gl=us",
+  "product_id":
+  "17887527241711145470",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17887527241711145470",
+  "link":
+  "https://fuseaudio.net/products/fuse-rec?variant=41478333268210&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooV7WlB27usJMj8ZQTIbRpOzGUCVDrP8Spk4YwGm39-AAX3HRpYgK4",
+  "links":
+  [
+  "https://fuseaudio.net/products/fuse-rec?variant=41478333268210&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooV7WlB27usJMj8ZQTIbRpOzGUCVDrP8Spk4YwGm39-AAX3HRpYgK4",
+  "https://dreamediaav.com/products/fuse-audio-rec?srsltid=AfmBOormcfuIDbkrz4__Ho2YsB-M_43hugIyDxshKWeLRfmMSIumGWNz80o",
+  "https://www.appchoose.io/product/fuse-audio-fuse-rec-174b4%2Fv%3D7723b5ee4bf142c3b2e13e585?srsltid=AfmBOorprnObM8wq2cztJfQSAOvNi_y75RLMRtaS12XdGfG6XOp_avY4pic"
+  ],
+  "source":
+  "FuseAudio.net",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQY0HmSRJ_LrwuaozHOvJzErLcaBERZWVqtdXbS-eKGt1iaSITd5JU_RqdXFSOK1VjdY-Axuzj6ZmWtTsnyqZWSm-8pGsx",
+  "price":
+  "$186.99",
+  "extracted_price":
+  186.99,
+  "old_price":
+  "$220",
+  "extracted_old_price":
+  220,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Brown · Record Player",
+  "extensions":
+  [
+  "30-day returns",
+  "15% OFF"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxtGINMTSyWlIFG9Xkz3AfuQM48JZ5s0v-Xi522te-cyIfaiLEXqBxVnYJTwmo1kKJraYvlAdKOiFKDY4V-xIFQIXoDFSy_ND_6SI3L13fUEkfT9nhnO43",
+  "tag":
+  "15% OFF",
+  "delivery":
+  "Free by 12/23"
+  },
+  {
+  "position":
+  37,
+  "title":
+  "Crosley Cruiser Plus Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/13857385594956795725?gl=us",
+  "product_id":
+  "13857385594956795725",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13857385594956795725",
+  "link":
+  "https://www.walmart.com/ip/Crosley-Cruiser-Plus-Vinyl-Record-Player-with-Speakers-and-Wireless-Bluetooth-Audio-Turntables/686007504?wmlspartner=wlpa&selectedSellerId=0",
+  "links":
+  [
+  "https://www.walmart.com/ip/Crosley-Cruiser-Plus-Vinyl-Record-Player-with-Speakers-and-Wireless-Bluetooth-Audio-Turntables/686007504?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.homedepot.com/p/Crosley-Cruiser-Plus-Turntable-in-Tie-Dye-CR8005F-TD/322694580?source=shoppingads&locale=en-US&srsltid=AfmBOooIA4vylnJR_JJJw25xuEUQVbilnyXqOqRm1HDg286Z1gNpqFjjhXE",
+  "https://www.wayfair.com/Crosley-Electronics--Cruiser-Plus-Turntable-CR8005FHB-L7231-K~DVTX1101.html?refid=FR49-DVTX1101_71070161&PiID%5B%5D=71070161"
+  ],
+  "source":
+  "Walmart",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+  "price":
+  "$47.00",
+  "extracted_price":
+  47,
+  "rating":
+  4.3,
+  "reviews":
+  116,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm",
+  "extensions":
+  [
+  "Free 90-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzxdXWbIHz9B9JV4ZnXYvaTJpaGVFsaxvo5XHRjDRqPv5Ks48tRt-cWE8o8F-cuWJSe4CWK0JRLPFyrXe17HwmIYnenskQnH-YmKiA8y0_d0qMHJZ4RPMhlw",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  38,
+  "title":
+  "U-Turn Audio Orbit Theory Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/12190047906367595319?gl=us",
+  "product_id":
+  "12190047906367595319",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12190047906367595319",
+  "link":
+  "https://uturnaudio.com/products/orbit-theory-turntable?variant=39750888554571",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-theory-turntable?variant=39750888554571",
+  "https://dreamediaav.com/products/u-turn-audio-orbit-theory-turntable?srsltid=AfmBOor6EZEG1WcO2rZG8SRQhocyv7E2LYIUsbbO-knrFL3WrgEzvUXWsT0",
+  "https://dreamediaav.com/products/u-turn-audio-orbit-theory-turntable?srsltid=AfmBOorKSsRUawFgNAve1Y5PcxqWQbliJjg9BQUkMJdny71IwiVhIZ0h2h8"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwRHRRXYgpwSS2yv9Xjt5IAfW1OCaUxObmUy2yqRXehzd6O8mL54A_Nff9VAhSxAG4t1c86LXRhJNviNM10fY9y7dqy2ADfg",
+  "price":
+  "$999.00",
+  "extracted_price":
+  999,
+  "rating":
+  5,
+  "reviews":
+  2,
+  "snippet":
+  "33.3 rpm, 45 rpm · Walnut, Oak, Ebonized Oak",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "badge":
+  "Small business",
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhqdaGn_UoTF8MqaeG5HK1cQ6JaJsOp4Mqovw_nHy2WHfbhc0De1tvM2pBRfbt-WP1L5hq5I-8Rd9aA8f0xoZY2sy4fdiAetXrObsuO2biOiXsCpk20i9n",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  39,
+  "title":
+  "Victrola Journey Bluetooth Suitcase Record Player with 3-Speed Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/3660233560966037872?gl=us",
+  "product_id":
+  "3660233560966037872",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3660233560966037872",
+  "link":
+  "https://www.amazon.com/Victrola-Bluetooth-Suitcase-Turntable-Speakers/dp/B00UMVW4VA?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Victrola-Bluetooth-Suitcase-Turntable-Speakers/dp/B00UMVW4VA?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.walmart.com/ip/Victrola-Journey-Bluetooth-Portable-Suitcase-Record-Player-with-3-speed-Turntable-Built-in-Speakers-Black/46366421?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.bestbuy.com/site/victrola-bluetooth-stereo-turntable-black/5255021.p?skuId=5255021&utm_source=feed"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$49.97",
+  "extracted_price":
+  49.97,
+  "old_price":
+  "$70",
+  "extracted_old_price":
+  70,
+  "rating":
+  4,
+  "reviews":
+  1000,
+  "snippet":
+  "Good sound quality (121 user reviews)",
+  "extensions":
+  [
+  "30-day returns",
+  "28% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhQhGB9UG7L8NA5z5TBSSFCnvf9Ix0iebC3zFZqvBUP4pyc1pY1sAJlhFZN6LhI-Ix-_C7L04VeUY_v_fbxqx8sHA6BAqTLefUGhEYObc",
+  "tag":
+  "28% OFF",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  40,
+  "title":
+  "West Elm Cruiser Plus Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/3436857887001655446?gl=us",
+  "product_id":
+  "3436857887001655446",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3436857887001655446",
+  "link":
+  "https://www.westelm.com/products/cruiser-plus-turntable-d13240/?catalogId=71&sku=7384598&cm_ven=FreePLA&cm_cat=Google&cm_pla=Gifts%20%3E%20Home%20Electronics%20%26%20Tech%20Accessories",
+  "links":
+  [
+  "https://www.westelm.com/products/cruiser-plus-turntable-d13240/?catalogId=71&sku=7384598&cm_ven=FreePLA&cm_cat=Google&cm_pla=Gifts%20%3E%20Home%20Electronics%20%26%20Tech%20Accessories"
+  ],
+  "source":
+  "west elm",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTZekplZQEXPwmPze5IMD2hqVxSPXKDTML9QR8aBNSsW8REQ3TuHvhye21gXtdFlnE3vqRrtSYEt34tFLEWNXOZMl_sjoQ3Dg",
+  "price":
+  "$79.00",
+  "extracted_price":
+  79,
+  "old_price":
+  "Was $120",
+  "extracted_old_price":
+  120,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · 7.3 pounds · Black, White",
+  "extensions":
+  [
+  "30-day returns",
+  "34% OFF"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-pBohvYwRRDe4tgFxRE4bcFHYaiC_Iv-y_Gjuw1g2vK-aCys29FBssFiH90mL80GpzBpS_WEcDyelq_3-NkAOX_DCEni_WXQ-elVRtzlu",
+  "tag":
+  "34% OFF"
+  },
+  {
+  "position":
+  41,
+  "title":
+  "Rega Planar 3 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/6965406410384981571?gl=us",
+  "product_id":
+  "6965406410384981571",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6965406410384981571",
+  "link":
+  "https://www.upscaleaudio.com/products/rega-planar-3-turntable?variant=21281760935996&srsltid=AfmBOophYYUdnFndOTEjh2pKlHpZhbLLo7a4nwCt64kFwE2OnPeefv_rHoU",
+  "links":
+  [
+  "https://www.upscaleaudio.com/products/rega-planar-3-turntable?variant=21281760935996&srsltid=AfmBOophYYUdnFndOTEjh2pKlHpZhbLLo7a4nwCt64kFwE2OnPeefv_rHoU",
+  "https://www.safeandsoundhq.com/products/rega-planar-3-turntable-with-elys-2-cartridge?variant=51692329206127&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorZ8ARncp8L6n0-FDtRb8vgXjrVarIb1xksbmaDbSMpjSA5xa1yFNU",
+  "https://www.musicdirect.com/equipment/turntables/rega-planar-3-turntable-ortofon-2mr-mm-phono-cartridge/?sku=WREGATTP3R2MRU&srsltid=AfmBOopXVtxYNLfh1oNgp2a0W4YjnRM3iwFohDZv9sxypQHwhpvJHJ3N0mE"
+  ],
+  "source":
+  "Upscale Audio",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTa27prVIvbNj9uDoCnMlRejJU5-TDICrbX6dl2Ul36s_pCV8Zmu_9Rha-BKxn6-oHfCy8eFlThjKrqqnjIaJNwHSH-lyPXN_SD",
+  "price":
+  "$1,125.00",
+  "extracted_price":
+  1125,
+  "rating":
+  4.9,
+  "reviews":
+  456,
+  "snippet":
+  "Good sound quality (159 user reviews)",
+  "extensions":
+  [
+  "60-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQErIOOf7l1hb1DTIjt3Tp-DJ5uTEvr_FK3jXPpCHiYn-xPS3jWJBqxWWTIJUaE8jE8T8jEOf5kDr4IOfkDRFuZBwicw0UvS6S-5mQyJ6p0zWcd2ushFdjG",
+  "delivery":
+  "Free by 12/16"
+  },
+  {
+  "position":
+  42,
+  "title":
+  "Jensen JTA-315 3 Speed Stereo Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/10106886458909651239?gl=us",
+  "product_id":
+  "10106886458909651239",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10106886458909651239",
+  "link":
+  "https://www.walmart.com/ip/JENSEN-JTA-315-Dual-Direction-Bluetooth-Belt-Drive-Turntable-with-Speakers-Black-JTA-315/494769824?wmlspartner=wlpa&selectedSellerId=0",
+  "links":
+  [
+  "https://www.walmart.com/ip/JENSEN-JTA-315-Dual-Direction-Bluetooth-Belt-Drive-Turntable-with-Speakers-Black-JTA-315/494769824?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.target.com/p/jensen-3-speed-stereo-turntable-with-speakers-and-dual-bluetooth-transmit-receive-black/-/A-88095689?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=8-4",
+  "https://www.wayfair.com/Jensen--Decorative-3speed-Stereo-Turntable-With-Separate-Speakers-And-Dual-Bluetooth-JTA315-L7231-K~JNSN1034.html?refid=FR49-JNSN1034"
+  ],
+  "source":
+  "Walmart",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+  "price":
+  "$94.99",
+  "extracted_price":
+  94.99,
+  "rating":
+  4.4,
+  "reviews":
+  22,
+  "snippet":
+  "33.3 rpm, 45 rpm, 78 rpm · Black · Belt Drive",
+  "extensions":
+  [
+  "Free 90-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2XjtU5jz-j4uPBwzzpgL59NQwmpKz-vNA-F39x4XOEdVB9lUOnYruXD0V9GgDC35QY8YngAyaiecXUc9okKx4f9cFdmFZF1f38otU6_pgylqUqu4XHmIf",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  43,
+  "title":
+  "Pottery Barn Crosley C6 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/1078782824482521315?gl=us",
+  "product_id":
+  "1078782824482521315",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1078782824482521315",
+  "link":
+  "https://www.potterybarn.com/products/crosley-turntable-mp/?catalogId=84&sku=6988762&cm_ven=FreePLA&cm_cat=Google&cm_pla=Pillows%20%26%20Decor%20%3E%20Electronics%20%26%20Tech%20Accessories",
+  "links":
+  [
+  "https://www.potterybarn.com/products/crosley-turntable-mp/?catalogId=84&sku=6988762&cm_ven=FreePLA&cm_cat=Google&cm_pla=Pillows%20%26%20Decor%20%3E%20Electronics%20%26%20Tech%20Accessories"
+  ],
+  "source":
+  "Pottery Barn",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTizUD1y4bZR01ybae6pvaQZ_d9MzMiaGRoMdOe-aMbqqxhRqKgHkubA0C1OS7veuPQNwdF6B1CRMfIJtv2AoS5-r4NE5nU_Ptha7c",
+  "price":
+  "$199.95",
+  "extracted_price":
+  199.95,
+  "snippet":
+  "33.3 rpm, 45 rpm · White, Walnut · Belt Drive",
+  "extensions":
+  [
+  "30-day returns"
+  ],
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLq0vDMx3wjZKQnw9_Id3_IO8xJ6upU4qebgrs1I_zxT_dMS6qpxvGW0BjMRfyYdnFRhPfhghCqurDxSDHtsclcbha_cGUPlGol4NusjH5zEwClaPVuVR86A"
+  }
+  ],
+  "categorized_shopping_results":
+  [
+  {
+  "title":
+  "Belt-drive turntables",
+  "description":
+  "Belt-drive turntables are quieter and generally considered to provide a smoother, warmer sound compared to direct-drive models. They are popular for audiophiles and casual listeners alike who prioritize a relaxed and enjoyable listening experience.",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Audio Technica AT-LP60X Fully Automatic Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4716750620726616641?gl=us",
+  "product_id":
+  "4716750620726616641",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4716750620726616641",
+  "link":
+  "https://www.amazon.com/Audio-Technica-AT-LP60X-BK-Belt-Drive-Hi-Fidelity-Anti-Resonance/dp/B07N3XJ66N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Audio-Technica-AT-LP60X-BK-Belt-Drive-Hi-Fidelity-Anti-Resonance/dp/B07N3XJ66N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.dell.com/en-us/shop/audio-technica-at-lp60x-fully-automatic-belt-drive-turntable/apd/ad156108/audio?tfcid=91049735&dgc=opl&srsltid=AfmBOooWX7LPQ02Xt53BGJo4FxLzKqN-7AaqofdcbohSijSUeEVBZ_dB1Ec",
+  "https://www.bhphotovideo.com/c/product/1453364-REG/audio_technica_consumer_at_lp60x_bk_fully_automatic_belt_drive_stereo.html?kw=AULP60XBK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooiN6Wo4N-FdtR8918GcnoQEgXUyNl1LCzX-uRFUxo0q-BTsKUtM8M"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ece07d561363af51480d126de404a2f7ec.png",
+  "price":
+  "$149.00",
+  "extracted_price":
+  149,
+  "rating":
+  4.7,
+  "reviews":
+  4700,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1o_b7FBdVYHTyHOsBxOciTG4HldLLUuZnvPGAOJnGZ73hnIiH72CbbuLo_oEWVPjA9I1y-oi0KKOtR2f8HkykBzfWpYEyMVqVMKjo5Inyyryd3UtDHs8r",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "Marantz TT-15S1 Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18437075066447400188?gl=us",
+  "product_id":
+  "18437075066447400188",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18437075066447400188",
+  "link":
+  "https://www.amazon.com/Marantz-TT-15S1-Reference-Turntable-Transparent/dp/B000EI2I76?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2H3DYB5PUVNNI",
+  "links":
+  [
+  "https://www.amazon.com/Marantz-TT-15S1-Reference-Turntable-Transparent/dp/B000EI2I76?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2H3DYB5PUVNNI",
+  "https://www.safeandsoundhq.com/products/marantz-tt-15s1-reference-belt-drive-turntable-open-box?variant=40588201197679&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopcJTqIisTkHU1AfSYa5M1kfiFlPVd7k-WlS9pmYICIG0KmwoSyE90",
+  "https://www.bhphotovideo.com/c/product/1526439-REG/marantz_tt15s1_belt_drive_turntable.html?kw=MATT15S1&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo1-DL1ZOrPfhm7vxmhwssVzRDHm--4aTCPipu8o4ISe4m1tBwgtkU"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ec148b35a1d4cc4a6dfc57600ac279a9ee.png",
+  "price":
+  "$1,799.00",
+  "extracted_price":
+  1799,
+  "rating":
+  4.5,
+  "reviews":
+  80,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSW9xtWaqe3p-BuyA6-vjT2vUt3sTu6BN-ueSYIkeeqwBdnYih86KZ2Vv1bV2jEXISwd6qTvnhRQ-Ni0alHsVrfxTCJ5UkjIl3sXsLe7E0",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "Audio Technica AT-LP70X Fully Automatic Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/2215719232136158621?gl=us",
+  "product_id":
+  "2215719232136158621",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2215719232136158621",
+  "link":
+  "https://www.bestbuy.com/site/audio-technica-at-lp70x-bz-fully-automatic-belt-drive-turntable-black-bronze/6585263.p?skuId=6585263&ref=212&loc=1&utm_source=feed&extStoreId=1172",
+  "links":
+  [
+  "https://www.bestbuy.com/site/audio-technica-at-lp70x-bz-fully-automatic-belt-drive-turntable-black-bronze/6585263.p?skuId=6585263&ref=212&loc=1&utm_source=feed&extStoreId=1172",
+  "https://www.bhphotovideo.com/c/product/1838402-REG/audio_technica_consumer_at_lp70x_bz_fully_auto_belt_drive_tt.html?kw=AUATLP70XBZ&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorOEMgLp22vs7Y881mzQOSTomMfsGLjBmzAtvTqv-wemOb4LzNceT4",
+  "https://www.sweetwater.com/store/detail/ATLP70XBZ--audio-technica-at-lp70x-belt-drive-turntable-black-bronze?srsltid=AfmBOop_aMRf4sF8YK6ovDvPkJSZbc2XiYWg0grtvl0aHfr2ylbM9-xphls"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ec2fc762982ac287a9f075ec212e00d9fa.png",
+  "price":
+  "$199.00",
+  "extracted_price":
+  199,
+  "rating":
+  4.8,
+  "reviews":
+  102,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROqDy1AMbPOY2tAn-rNsu7U0HhA7qFQIELBO-xyGSEFHZDoBbmzQCcttnaR1fbJhy1gAA46QM-F_8cxQSjMkXOrrtiyjoiiHURvgBIKrtofm2ZT2ekwb6A7Q",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "Audio-Technica AT-LPW40WN Manual Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/13278144320991537217?gl=us",
+  "product_id":
+  "13278144320991537217",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13278144320991537217",
+  "link":
+  "https://www.turntablelab.com/products/audio-technica-at-lpw40wn-manual-belt-drive-turntable-walnut?variant=16051484360794&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopSjlws0tz0kE3AyWe91im92RKfyBjnVJLCWCdeS7ltiXqW8QfCDeg",
+  "links":
+  [
+  "https://www.turntablelab.com/products/audio-technica-at-lpw40wn-manual-belt-drive-turntable-walnut?variant=16051484360794&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopSjlws0tz0kE3AyWe91im92RKfyBjnVJLCWCdeS7ltiXqW8QfCDeg",
+  "https://www.amazon.com/Audio-Technica-AT-LPW40WN-Manual-Belt-Drive-Turntable/dp/B07N3RHHVY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "https://www.bhphotovideo.com/c/product/1453375-REG/audio_technica_consumer_at_lpw40wn_fully_manual_belt_drive_turntable.html?kw=AULPW40WN&ap=y&smpn=&BI=E7249&srsltid=AfmBOopnJ5WtALYE1rdL_mZkQwchSeiMOG0A1vZJUxzQn3AMKRQMk-6uz7g"
+  ],
+  "source":
+  "Turntable Lab",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ecbb5e8699b7db36d07a4dd0ede2594833.png",
+  "price":
+  "$379.00",
+  "extracted_price":
+  379,
+  "rating":
+  4.7,
+  "reviews":
+  266,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTX59MSOtaW6sxIwPztZcAaF4hJWBmTS3fgwGVzitGxZMZ-4JBaXhD17DCS4Cig1Xh7TClFQ_EEWN2zbZz7CSvMbF98B6ErJ0fyiQzTmutfONGNJKr09Lap",
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "Cambridge Audio Alva ST Belt Drive Turntable with Bluetooth aptX HD",
+  "product_link":
+  "https://www.google.com/shopping/product/18160770921573370694?gl=us",
+  "product_id":
+  "18160770921573370694",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18160770921573370694",
+  "link":
+  "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-st",
+  "links":
+  [
+  "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-st",
+  "https://www.turntablelab.com/products/cambridge-audio-alva-st-turntable-w-bluetooth?variant=40253773512794&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqLkdPgF5uiNV4WqleJjxlfxJZakguRIHoPY2Qpsmd985ETQodYAJc",
+  "https://tmraudio.com/turntables/cambridge-audio-alva-st-belt-drive-turntable-with-bluetooth-aptx-hd/?srsltid=AfmBOopugjvVuFYtKwEcuHWX4UzzxSHI3pCzjCEmUE3p_12xMJ9SxMEM_tQ"
+  ],
+  "source":
+  "Cambridge Audio",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ecb466690ef4bbc97b91fdeea0185637db.png",
+  "price":
+  "$599.00",
+  "extracted_price":
+  599,
+  "rating":
+  4.8,
+  "reviews":
+  95,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWX_-b0gSHEoIlZR6A6FapZSIPwbDVBfTpJiczAlC981a7sR_BMdTnWSmewyzUIfMgUCxNdQenTMZz2Y7yMpMa_sCYqRgz7N2-7S3geSKxHiv48rNzgOx7",
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Retrolife Turntable Record Player High-Tech Belt-Driven Hq-kz006 Bluetooth",
+  "product_link":
+  "https://www.google.com/shopping/product/8444149671166239941?gl=us",
+  "product_id":
+  "8444149671166239941",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8444149671166239941",
+  "link":
+  "https://retrolifeplayer.com/products/high-fidelity-turntable-with-moving-magnetic-cartridge-hqkz-006?variant=45445166825712&srsltid=AfmBOopynRJ3g9N3x2h3W3WOP5iCpmuBeNEXgglfJr5s5nx0jYmnbF7nOWk",
+  "links":
+  [
+  "https://retrolifeplayer.com/products/high-fidelity-turntable-with-moving-magnetic-cartridge-hqkz-006?variant=45445166825712&srsltid=AfmBOopynRJ3g9N3x2h3W3WOP5iCpmuBeNEXgglfJr5s5nx0jYmnbF7nOWk",
+  "https://retrolifeplayer.com/products/high-fidelity-turntable-with-moving-magnetic-cartridge-hqkz-006?variant=45445166825712&srsltid=AfmBOooyuW0Wy0sYL1goWpQOitInyafApV2OIJmWes9fVNaEu08B_s1Ovgw",
+  "https://www.walmart.com/ip/Retrolife-Turntable-Record-Player-High-Tech-Belt-Driven-HQ-KZ006-Bluetooth/12429564456?wmlspartner=wlpa&selectedSellerId=186"
+  ],
+  "source":
+  "Retrolife",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ecc8bb51396c3386129add8b0ac2ee3888.png",
+  "price":
+  "$189.99",
+  "extracted_price":
+  189.99,
+  "old_price":
+  "$230",
+  "extracted_old_price":
+  230,
+  "rating":
+  4.9,
+  "reviews":
+  112,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROgtfpT7qrRDRcATMlLpZ7Yk0nBLXkzc942Ru53rBy_LObf5Y4iVIsEj-E8GEAV54j0CHTQCWYo2J4kQW9EnWY-382MQLQT2RZd8Gw4GIPgzl8KV_ZDFcD",
+  "tag":
+  "17% OFF",
+  "extensions":
+  [
+  "17% OFF"
+  ],
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "Orbit Basic Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/11988998558377759032?gl=us",
+  "product_id":
+  "11988998558377759032",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11988998558377759032",
+  "link":
+  "https://uturnaudio.com/products/orbit-basic-turntable?variant=40010963288139",
+  "links":
+  [
+  "https://uturnaudio.com/products/orbit-basic-turntable?variant=40010963288139"
+  ],
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6be7dee5adfe9400090e915b1591af4902effcfb3aa9f240ecd5b08a00af6800a827b8ce2e1e9d91b2.png",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZtS4Fgq0BME05fvDm_R5cDIIslm1rzBRTd5avvaqJNuZ5OEh29pXlLEHl9uiU1pjWZTpPJEf1EABLFwcG8DAOgLLcgshhKgnj8v1J2sIA_hAOf0-JNPxiXw",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "Yamaha TT-S303 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17573374184547148170?gl=us",
+  "product_id":
+  "17573374184547148170",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17573374184547148170",
+  "link":
+  "https://www.bhphotovideo.com/c/product/1425774-REG/yamaha_tt_s303bl_tt_s303_stereo_turntable.html?kw=YATTS303BL&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopjbE9aqVCGaqFMSoV6EjDO_rC3OyW53pPQNezCKgifgHENEiQ7YpQ",
+  "links":
+  [
+  "https://www.bhphotovideo.com/c/product/1425774-REG/yamaha_tt_s303bl_tt_s303_stereo_turntable.html?kw=YATTS303BL&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopjbE9aqVCGaqFMSoV6EjDO_rC3OyW53pPQNezCKgifgHENEiQ7YpQ",
+  "https://www.amazon.com/Yamaha-TT-S303-Hi-Fi-Vinyl-Turntable/dp/B07GQLLW4G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A17MC6HOH9AVE6",
+  "https://shop.usa.yamaha.com/en/p/audio-home-theater/turntables/tt-s303-turntable"
+  ],
+  "source":
+  "B&H Photo-Video-Audio",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+  "price":
+  "$499.95",
+  "extracted_price":
+  499.95,
+  "rating":
+  4.7,
+  "reviews":
+  38,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBHKZw2iOv_rCji79hDN7xM-3DhAiUd7OYAbz7CZ2vGaraqtutrVs0JqRKiNwOf-pZ5tOpeEZf1XmH7UzIZr7Q6UeFlnPaohBkaa9uBtM",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "Audio Technica AT-LP70XBT Fully Automatic Wireless Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/5746858245509095904?gl=us",
+  "product_id":
+  "5746858245509095904",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5746858245509095904",
+  "link":
+  "https://www.turntablelab.com/products/audio-technica-at-lp70xbt-automatic-bluetooth-turntable?variant=41355115888730&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorS2ffg_dPjtn7I7OgAaoy00icpH30wvDF82Cqu_6veLiY3i3Wv_b0",
+  "links":
+  [
+  "https://www.turntablelab.com/products/audio-technica-at-lp70xbt-automatic-bluetooth-turntable?variant=41355115888730&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorS2ffg_dPjtn7I7OgAaoy00icpH30wvDF82Cqu_6veLiY3i3Wv_b0",
+  "https://www.bestbuy.com/site/audio-technica-audio-technica-at-lp70xbt-bz-wireless-turntable-black/6598800.p?skuId=6598800&utm_source=feed",
+  "https://www.bhphotovideo.com/c/product/1838401-REG/audio_technica_consumer_at_lp70xbt_bz_fully_auto_wireless_belt_drive_tt.html?kw=AUATLP70XBTZ&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooZQ9Z1rKkB77tUYdur9bQ44nflBzvHopsXI89AYLhOHKk_wHFHjY4"
+  ],
+  "source":
+  "Turntable Lab",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGjZzeSbGSAk-JsWe471wU_Z-pEGyd1G4iqNx9NRH7wZExcrTGjXpTPYxDCIum-453YGdGv0b5GZK6A3tx1gIfSB5LG3IICSbnn5xrug",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "rating":
+  4.9,
+  "reviews":
+  250,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjBNep8yECbl5mlktR6FwIOnpKtP5y620NHYTsAztYrFqatGJo9-VSsVgy7yeNsH6z28HyhD6Qdy4z0PTp4t5oemwJLedDAY6XmluCI0YwOuUut_zrShkN",
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "Monolith by Monoprice Belt Drive Turntable with Audio-Technica AT-VM95E Cartridge",
+  "product_link":
+  "https://www.google.com/shopping/product/10011389744471019568?gl=us",
+  "product_id":
+  "10011389744471019568",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10011389744471019568",
+  "link":
+  "https://www.amazon.com/Monolith-Turntable-Audio-Technica-AT-VM95E-Cartridge/dp/B09RQHT4XX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Monolith-Turntable-Audio-Technica-AT-VM95E-Cartridge/dp/B09RQHT4XX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.ebay.com/itm/387643054916?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+  "https://www.monoprice.com/product?p_id=600046&srsltid=AfmBOopCgKJdu2ry59e49ACAMUx0pNYXeRNK21g_N1VsCOpsqFVFz8I7jEI"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$199.99",
+  "extracted_price":
+  199.99,
+  "rating":
+  4.5,
+  "reviews":
+  21,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTj80dT9MmgL6THtHbO5Wbtrz6pfIaFiRwGClwtSsFy3S99pTpFdVjhxdalVjjwwZhCaG2J0AYV3IJxKAjt8uOxbTMwLkN_ZdPs0YHyDpmhZKiXfBOd25cKqWM",
+  "delivery":
+  "Free delivery"
+  }
+  ]
+  },
+  {
+  "title":
+  "Direct-drive turntables",
+  "description":
+  "Direct-drive turntables offer faster speed control and superior torque, making them the preferred choice for DJs. Their high responsiveness allows for quick scratching and precise beatmatching. They can also provide accurate playback for audiophiles who value speed stability.",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Audio Technica AT-LP120XUSB Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/6716702659023913397?gl=us",
+  "product_id":
+  "6716702659023913397",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6716702659023913397",
+  "link":
+  "https://www.amazon.com/Audio-Technica-AT-LP120XUSB-Direct-Drive-Hi-Fidelity-Anti-Skate/dp/B07N3S4X3P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "links":
+  [
+  "https://www.amazon.com/Audio-Technica-AT-LP120XUSB-Direct-Drive-Hi-Fidelity-Anti-Skate/dp/B07N3S4X3P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "https://www.walmart.com/ip/Audio-Technica-AT-LP120XUSB-BK-Turntable-Black/354212616?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP120XUSB-Direct-Drive-Professional-Turntable-USB-Analog-Black-1500000263148.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOopHV6uPa9bQvzDHYVMgQwQsf11UQc5pnwmU5tEds02JQiyLJWX7_-8"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738fedd62e729de9ed1eda658487cf383f6b.png",
+  "price":
+  "$349.00",
+  "extracted_price":
+  349,
+  "rating":
+  4.8,
+  "reviews":
+  3400,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5xXzC9sqhNfOsDMRxWxnn9pC3TYoKYWklhZ2w7uT3mzhNrsh2_O5KFSxOBm2Pcfw6EF57RENGXGSwwgUt8iDsHcWKLpbV8HHWJGWEbCxCcyOMjWS1VHVR",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "Pioneer DJ PLX-500 Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4135376452575080010?gl=us",
+  "product_id":
+  "4135376452575080010",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4135376452575080010",
+  "link":
+  "https://www.bestbuy.com/site/pioneer-dj-stereo-turntable-white/6299561.p?skuId=6299561&utm_source=feed",
+  "links":
+  [
+  "https://www.bestbuy.com/site/pioneer-dj-stereo-turntable-white/6299561.p?skuId=6299561&utm_source=feed",
+  "https://www.amazon.com/Pioneer-Pro-DJ-White-PLX-500-W/dp/B01K1WUTUM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C1OYEM4FMOSU",
+  "https://www.bhphotovideo.com/c/product/1345768-REG/pioneer_plx_500_w_direct_drive.html?kw=PIPLX500W&ap=y&smp=Y&BI=E7249&srsltid=AfmBOopXhwZvqxYHKsaRVz_2Gf4x7KwjKER0z6qyAr-M653o6Bs7NFE4qmM"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738f107852c2f4d764c86d8751b2e6df7240.png",
+  "price":
+  "$369.99",
+  "extracted_price":
+  369.99,
+  "rating":
+  4.7,
+  "reviews":
+  1100,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuplITXoeTVNQYKzDHulVTgY0y9HyHXBBgltsTQDevCdVlm3xPoQ2l8HXYePl7e49M3fC7PRxVDytAaQj3zOdFBhDi29j4FmyF7xYJlile",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "JBL TT350 Classic Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/5043342354918183104?gl=us",
+  "product_id":
+  "5043342354918183104",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5043342354918183104",
+  "link":
+  "https://www.turntablelab.com/products/jbl-tt350-direct-drive-turntable?variant=40477870686298&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOop7pMIDgrXn34xmLYRIg89nTcLj3TQ5x-SF2d9tyPJ8gp0Ae58DoI0",
+  "links":
+  [
+  "https://www.turntablelab.com/products/jbl-tt350-direct-drive-turntable?variant=40477870686298&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOop7pMIDgrXn34xmLYRIg89nTcLj3TQ5x-SF2d9tyPJ8gp0Ae58DoI0",
+  "https://www.crutchfield.com/I-rGPSc1HPY/p_109TT350WN/JBL-TT350-Classic.html",
+  "https://www.bestbuy.com/site/jbl-tt350-classic-turntable-walnut/6568500.p?skuId=6568500&utm_source=feed"
+  ],
+  "source":
+  "Turntable Lab",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738f612f87d4d80cc43e94e783332cc1741e.png",
+  "price":
+  "$799.00",
+  "extracted_price":
+  799,
+  "old_price":
+  "$999",
+  "extracted_old_price":
+  999,
+  "rating":
+  3.8,
+  "reviews":
+  4,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGeogpKReCLNGQwsJgvujQKsgYLFvDhy0quqsAG5wu7nTES_Ec_NxKwwoATMbxX09lFyMM00PvrHrBkfW7MKoY0KRSgvAvodr4GS-71l2Be22cRCeVk6dXtA",
+  "tag":
+  "20% OFF",
+  "extensions":
+  [
+  "20% OFF"
+  ],
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "Pioneer DJ PLX-1000 Professional Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/1731689752839893800?gl=us",
+  "product_id":
+  "1731689752839893800",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1731689752839893800",
+  "link":
+  "https://www.sweetwater.com/store/detail/PLX1000--pioneer-dj-plx-1000-professional-turntable?srsltid=AfmBOoqswdHQnnBE_Sv0qOKrblzPn6F7pjjw2dquiKE3BcWGUyC9CE_dyhY",
+  "links":
+  [
+  "https://www.sweetwater.com/store/detail/PLX1000--pioneer-dj-plx-1000-professional-turntable?srsltid=AfmBOoqswdHQnnBE_Sv0qOKrblzPn6F7pjjw2dquiKE3BcWGUyC9CE_dyhY",
+  "https://www.bestbuy.com/site/pioneer-stereo-turntable-black/6299567.p?skuId=6299567&utm_source=feed",
+  "https://www.guitarcenter.com/Pioneer/PLX-1000-Professional-Turntable-1401720422115.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOoqdDLQXBAm16soMC-6H78J0dwGRe12a_obgMzPoVOHbwJjPrcg6lnQ"
+  ],
+  "source":
+  "Sweetwater",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738fe83032fed45a90333816fd5302fed23d.png",
+  "price":
+  "$739.00",
+  "extracted_price":
+  739,
+  "rating":
+  4.9,
+  "reviews":
+  414,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRyz2ynug3MBFDoBIb_EkTjrP4YZkZlj2XKVqNdhF-spnHuMrpV1P9Z4FTKmP0fIrKglGcrWkU7dE24_GQ7sM5jzAoGnA40m2vTaLqg-h4",
+  "delivery":
+  "Free 2-day"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "Music Hall Stealth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/3844933659598189236?gl=us",
+  "product_id":
+  "3844933659598189236",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3844933659598189236",
+  "link":
+  "https://www.crutchfield.com/I-rGPSc1DJF/p_823STEALTH/Music-Hall-Stealth.html",
+  "links":
+  [
+  "https://www.crutchfield.com/I-rGPSc1DJF/p_823STEALTH/Music-Hall-Stealth.html",
+  "https://www.musichallaudio.com/products/music-hall-stealth-turntable?variant=44590951203138&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqz1G-uQt2RZkecOGnebjuRERkftox9-VSPV8wXBsZaoPPevkLRmg4",
+  "https://www.upscaleaudio.com/products/music-hall-stealth-direct-drive-turntable?variant=41171791937720&srsltid=AfmBOorQZoZXcG-D9E4IHezd2s8yz7ypGrzT0xPD96wKZQ5D9-VeQb4gymc"
+  ],
+  "source":
+  "Crutchfield",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738f45a73cd23db92968e246adc0530a88ad.png",
+  "price":
+  "$1,499.00",
+  "extracted_price":
+  1499,
+  "old_price":
+  "$1,649",
+  "extracted_old_price":
+  1649,
+  "rating":
+  4,
+  "reviews":
+  1,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRhmpME9MtMeUwkuJWPXVt97WfGvn-aUyKWQ2AihX1dqhqOwUwUItUqsJTNvD00LWBAek8_g-TxDRsmafqukGGrkrO95irlP8rKEy-BZ9_cxA78vOd1_8SbqA",
+  "tag":
+  "9% OFF",
+  "extensions":
+  [
+  "9% OFF"
+  ],
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Technics SL-1200M7B Lamborghini Edition Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/11640828582621482168?gl=us",
+  "product_id":
+  "11640828582621482168",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11640828582621482168",
+  "link":
+  "https://www.musicdirect.com/equipment/turntables/technics-sl-1200m7b-direct-drive-turntable/?sku=ATECHSL1200M7BO&srsltid=AfmBOoqITM3KGMaiDIXB62vM79OekBADMc1dKRE-YffISzpsIJu0dQNwtKA",
+  "links":
+  [
+  "https://www.musicdirect.com/equipment/turntables/technics-sl-1200m7b-direct-drive-turntable/?sku=ATECHSL1200M7BO&srsltid=AfmBOoqITM3KGMaiDIXB62vM79OekBADMc1dKRE-YffISzpsIJu0dQNwtKA",
+  "https://us.technics.com/products/direct-drive-turntable-system-sl-1200m7b?variant=45110513598699&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorIkbhZAX_k3XiFNg-BZQqFn4ZCMXxILsK22cS08QTe8PtdzRDWgS8",
+  "https://www.bestbuy.com/site/technics-sl-1200mk7-direct-drive-turntable-lamborghini-edition-orange/6583404.p?skuId=6583404&utm_source=feed"
+  ],
+  "source":
+  "Music Direct",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738fee0cb06ae50ea87f010829fe163af363.png",
+  "price":
+  "$1,299.99",
+  "extracted_price":
+  1299.99,
+  "alternative_price":
+  {
+  "price":
+  "Usually $1,599",
+  "extracted_price":
+  1599,
+  "currency":
+  "Usually"
+  },
+  "rating":
+  4.9,
+  "reviews":
+  25,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7NgXLVfiUQwZSxCVwc5ipzGfOl2dV-MbqoHd7Pyn6VD5gmxkIit_iXmKhuhH3elNeOA-Hyjkjt6BxYVPyhitVAjayznoC",
+  "tag":
+  "LOW PRICE",
+  "extensions":
+  [
+  "LOW PRICE"
+  ],
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "Audio-Technica AT-LP140XP-BK Direct-Drive Professional DJ Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18173674127571259983?gl=us",
+  "product_id":
+  "18173674127571259983",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18173674127571259983",
+  "link":
+  "https://www.crutchfield.com/I-rGPSc17ID/p_057140XPB/Audio-Technica-LP-140XP.html",
+  "links":
+  [
+  "https://www.crutchfield.com/I-rGPSc17ID/p_057140XPB/Audio-Technica-LP-140XP.html",
+  "https://www.amazon.com/Audio-Technica-AT-LP140XP-BK-Direct-Drive-Professional-Turntable/dp/B07N3VYTSF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.bhphotovideo.com/c/product/1792467-REG/audio_technica_consumer_at_lp140xp_direct_drive_professional.html?kw=AULP140XPBKM&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorYPguy7pKdck3lhS2baqsJYxTgHNjbzGlbP_kQmcc-jvOI2_9PmPs"
+  ],
+  "source":
+  "Crutchfield",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b023c77decbaf29192b2e6af53ca632e4e2fcc82e0ef4738fb368de71ecd4de917ccc2907c8549877.png",
+  "price":
+  "$499.00",
+  "extracted_price":
+  499,
+  "rating":
+  4.8,
+  "reviews":
+  214,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5ghf0iBSFU0vl8gvl4qHQtW52lfBzefgJeiYg-JT0j5ZiT7Uc4vv0VYY4D4oQRuHOZGyfb3TxE5130CxYQmOb1xNQIyjEdwoXhmwbNotn",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "Audio-Technica AT-LP120XBT-USB Direct-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4972015707143642520?gl=us",
+  "product_id":
+  "4972015707143642520",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4972015707143642520",
+  "link":
+  "https://www.amazon.com/Audio-Technica-AT-LP120XBT-USB-BK-Wireless-Direct-Drive-Turntable/dp/B089T77WK2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9VBWN1Q1U6E6",
+  "links":
+  [
+  "https://www.amazon.com/Audio-Technica-AT-LP120XBT-USB-BK-Wireless-Direct-Drive-Turntable/dp/B089T77WK2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9VBWN1Q1U6E6",
+  "https://www.bestbuy.com/site/audio-technica-atlp120xbt-bluetooth-stereo-turntable-black/6405424.p?skuId=6405424&utm_source=feed",
+  "https://www.bhphotovideo.com/c/product/1560293-REG/audio_technica_consumer_at_lp120xusb_stereo_turntable_kit.html?kw=AUATLP120XBK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooTSWzpLz3vgjBB0rnjcFlVcAo5_yqe9xfS05aKr4Y8iefCHdL7y2E"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$399.00",
+  "extracted_price":
+  399,
+  "rating":
+  4.8,
+  "reviews":
+  1700,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTh88AaLezxXQDkFUTCzUHwVMGHuEuXKcOse83AFXXczZycoxeB3-Li63zgLKtzGvi4j-_MMlgCNcuf5sK6Rs_2niPPws_3S6yL4aMWyTelwNkgcBzpAtgLCQ",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "Audio Technica AT-LP1240-USBXP Direct Drive Professional DJ Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/15146161070201765403?gl=us",
+  "product_id":
+  "15146161070201765403",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15146161070201765403",
+  "link":
+  "https://www.amazon.com/Technica-AT-LP1240-USB-Direct-Drive-Professional-Turntable/dp/B079QQ131N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Technica-AT-LP1240-USB-Direct-Drive-Professional-Turntable/dp/B079QQ131N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.adorama.com/at1240usbxp.html?refby=inc-google-shop-o",
+  "https://audiolab.com/product/audio-technica-at-lp1240-usbxp-direct-drive-professional-dj-turntable-usb-analog/?srsltid=AfmBOooUWoXe2inZyIZ2qw0uejIjRyQKk63BBxIhwxy498BRxt0y9mtKqqQ"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$599.00",
+  "extracted_price":
+  599,
+  "rating":
+  4.8,
+  "reviews":
+  147,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcgRaKXJHW5S375H5Ya12kGSmx2KRq7kTXNo4na6Qd9jKCkzVD4gGKQs90bb4ThpJE8MuMLsRNEki_eKG5C8WO6-yes6VNe-GvWtNtszMQSE8lWR5fiexN",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "TEAC TN-4D-SE Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/9425300015283409164?gl=us",
+  "product_id":
+  "9425300015283409164",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9425300015283409164",
+  "link":
+  "https://www.audiolab.com/teac-tn-4d-se-direct-drive-turntable-with-saec-tonearm/?sku=TEATN4DSEWLNT&srsltid=AfmBOor29mSHI5WcClS0xDlUgWHzEXshCSWFA19F07c8Q0dgINgc9GpWTAY",
+  "links":
+  [
+  "https://www.audiolab.com/teac-tn-4d-se-direct-drive-turntable-with-saec-tonearm/?sku=TEATN4DSEWLNT&srsltid=AfmBOor29mSHI5WcClS0xDlUgWHzEXshCSWFA19F07c8Q0dgINgc9GpWTAY",
+  "https://www.amazon.com/TN-4D-SE-Direct-Turntable-Walnut-TN4DSEWA/dp/B0B94V6Y38?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2H3DYB5PUVNNI",
+  "https://www.turntablelab.com/products/teac-tn-4d-direct-drive-turntable-walnut?variant=39783840841818&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooA1CduK9m1zZj5JHj2aT0Tk73g4J7N8LLNGKI71uAG6wYgBN_V2Q4"
+  ],
+  "source":
+  "Audiolab Stereo & Home Theater",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR4vT-RqrqsCIvBaG8Xxx0qB9iqyOtQDJfXZLpYIn4YQLTvzNu6CW4KDBPjo4Wd83sY8HR6mtdm8OeQ5A9eudey20gwOas",
+  "price":
+  "$749.99",
+  "extracted_price":
+  749.99,
+  "rating":
+  4.7,
+  "reviews":
+  85,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbfSJPjYYh_zfDung_lq0w3E2Cqogu-CszWrFEoUNFbgVGigTdDsXUUTNIg5-lA_O6i3DGqiWlY7qUJ1HOOFIFpI1L9_N19-7-DMW5FU8aDbndf16Mcafu",
+  "delivery":
+  "Free by 12/13"
+  }
+  ]
+  },
+  {
+  "title":
+  "All-in-one turntables",
+  "description":
+  "All-in-one turntables provide a complete vinyl playback system in a single unit, often including built-in speakers, amplifiers, and Bluetooth connectivity. They are convenient for users who want a hassle-free setup and don't require separate components.",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Angels Horn H019 Bluetooth Turntable Vinyl Record Player with Built-in Speakers",
+  "product_link":
+  "https://www.google.com/shopping/product/17494049238474855334?gl=us",
+  "product_id":
+  "17494049238474855334",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17494049238474855334",
+  "link":
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Turntable-Turntables/dp/B09VK9DLYR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "links":
+  [
+  "https://www.amazon.com/ANGELS-HORN-Bluetooth-Turntable-Turntables/dp/B09VK9DLYR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A309XK8MYPWPBT",
+  "https://www.walmart.com/ip/Angels-Horn-H019-Bluetooth-Turntable-High-Fidelity-Vinyl-Record-Player-with-Built-in-Speakers/1715723024?wmlspartner=wlpa&selectedSellerId=101343124",
+  "https://www.ebay.com/itm/316030008187?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoo3UQhIxmfStoXn4LCQ1tKW_B_n4TLpFyrc_lcE63quT1k3Jxl0X-c"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5abbbf1ffdedf131341fd8631a130f0a93.png",
+  "price":
+  "$227.98",
+  "extracted_price":
+  227.98,
+  "old_price":
+  "$240",
+  "extracted_old_price":
+  240,
+  "rating":
+  4.5,
+  "reviews":
+  8,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTcQdJWPpA3nIdgFvZHBJGHCqLqsb1kD2VeATFNDTYVbTkEJson74w7HrOy136Atj7IoHN_ifAT9tNuyXWLQzo--0-0ZjdNFUyww1xViHD6UEhF8poQbpI",
+  "tag":
+  "5% OFF",
+  "extensions":
+  [
+  "5% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "1 by ONE High Fidelity Belt Drive Turntable with Built-in Speakers",
+  "product_link":
+  "https://www.google.com/shopping/product/12002409227638288514?gl=us",
+  "product_id":
+  "12002409227638288514",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12002409227638288514",
+  "link":
+  "https://www.amazon.com/Fidelity-Turntable-Speakers-Cartridge-Functionality/dp/B086WTSMQH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A7OF9O5YIFFT5",
+  "links":
+  [
+  "https://www.amazon.com/Fidelity-Turntable-Speakers-Cartridge-Functionality/dp/B086WTSMQH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A7OF9O5YIFFT5",
+  "https://1byoneaudio.com/products/h009?srsltid=AfmBOoo-s2CvpRZln01Lm4xOZrVBb40HKKgBMm3IHPEb2ZSw5M9V5kW0Bok",
+  "https://www.ebay.com/itm/196361079760?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5ae5a35576438cda8d4f099c6bffbf4b67.png",
+  "price":
+  "$219.99",
+  "extracted_price":
+  219.99,
+  "rating":
+  5,
+  "reviews":
+  4,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSb6ggPeIlISioiIVsmW1Guwj1Mekf24z4LrtWgVCm0KNkZusNgq4KUClWBy7hLxhJm5ulqnYvYhZJ5wWKPSxpPgXHxKS7Mp4q65kG_VSAfN5MjOgg6uKvA",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "All-in-One Bluetooth Turntable with Built-in Four Speakers | Retrolife R517 Brown",
+  "product_link":
+  "https://www.google.com/shopping/product/1817592519930708411?gl=us",
+  "product_id":
+  "1817592519930708411",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1817592519930708411",
+  "link":
+  "https://retrolifeplayer.com/products/all-in-one-record-player-r517?srsltid=AfmBOopQBv5uh4VGIZguTnyXxX9dVrVqTTH9chByfk8xHNJNRDovJYBnpFE",
+  "links":
+  [
+  "https://retrolifeplayer.com/products/all-in-one-record-player-r517?srsltid=AfmBOopQBv5uh4VGIZguTnyXxX9dVrVqTTH9chByfk8xHNJNRDovJYBnpFE",
+  "https://retrolifeplayer.com/products/all-in-one-record-player-r517?srsltid=AfmBOoqUy6LYuVXeF37Tp_7fjgCXIWHkedL69qKJSq-qC7TGtw2bmUuxwAQ"
+  ],
+  "source":
+  "Retrolife",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5a399a7a5d03b3ecedd0f8b7e1aa29d275.png",
+  "price":
+  "$259.99",
+  "extracted_price":
+  259.99,
+  "old_price":
+  "$300",
+  "extracted_old_price":
+  300,
+  "rating":
+  4.8,
+  "reviews":
+  126,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnv7013JdDOfXk69YJlmC9B7gqwzAtEmeoTNCLLAKsr-iZGklMN8YKbu6JTUhUi717cB01jF4tYKgvmNE-frmiBPhAPIeg5_OUl0DGt5ByjOXjB25Ximt1",
+  "tag":
+  "13% OFF",
+  "extensions":
+  [
+  "13% OFF"
+  ],
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "Audio Technica AT-LP70XBT Fully Automatic Wireless Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/5746858245509095904?gl=us",
+  "product_id":
+  "5746858245509095904",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5746858245509095904",
+  "link":
+  "https://www.bestbuy.com/site/audio-technica-audio-technica-at-lp70xbt-bz-wireless-turntable-black/6598800.p?skuId=6598800&utm_source=feed",
+  "links":
+  [
+  "https://www.bestbuy.com/site/audio-technica-audio-technica-at-lp70xbt-bz-wireless-turntable-black/6598800.p?skuId=6598800&utm_source=feed",
+  "https://www.bhphotovideo.com/c/product/1838401-REG/audio_technica_consumer_at_lp70xbt_bz_fully_auto_wireless_belt_drive_tt.html?kw=AUATLP70XBTZ&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqBq1qOn_ieGkjcW8HiPpPDaAET9QW1EXWb-sVr52Fs2wM5kpqxLwU",
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP70XBT-BZ-Fully-Automatic-Wireless-Belt-Drive-Turntable-Black-Bronze-1500000437012.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOop1tXBH9sM2FChyr3rX6WWmr0MSRPKWP5cKaTIK2O3UkAJzXb3djmU"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5a6f0a0b458d5d3fd1e4d6aa21a2bf4086.png",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "rating":
+  4.9,
+  "reviews":
+  250,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRcqbpmnUTo2PHVXqMxzKeRB9lestxhzIs4jYDZcYa5MkUQjgkQJLdcjDUdfiO54O4oKIvbNe3av3dfPE1mznuFXCMvbOuxklnItgi74zr82deCIExB5_r",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "Victrola Navigator Wooden 8-in-1 Bluetooth Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/11375556235950378796?gl=us",
+  "product_id":
+  "11375556235950378796",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11375556235950378796",
+  "link":
+  "https://victrola.com/products/the-navigator?variant=43612107977",
+  "links":
+  [
+  "https://victrola.com/products/the-navigator?variant=43612107977",
+  "https://www.bestbuy.com/site/victrola-navigator-8-in-1-classic-bluetooth-record-player-with-turntable-mahogany/5635808.p?skuId=5635808&utm_source=feed",
+  "https://www.walmart.com/ip/Victrola-8-in-1-Navigator-Bluetooth-Record-Player-Multimedia-Center-Built-in-Stereo-Speakers-Turntable-Wireless-Music-Streaming/850669263?wmlspartner=wlpa&selectedSellerId=0"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5ae558863ce7ebf32112f15215c195c318.png",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$200",
+  "extracted_old_price":
+  200,
+  "rating":
+  4.1,
+  "reviews":
+  965,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGaaXprVK-AKPDM1uMV8_73M8SqjxmxtT9YfSZf5hcm6in8BH_1SSbYUUvMITy6fzSXJifjxSNxaMTuptCxVmYdExqXdVMCT1H0YbJILvRhou5zZ3MlpobuA",
+  "tag":
+  "40% OFF",
+  "extensions":
+  [
+  "40% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Victrola 6-in-1",
+  "product_link":
+  "https://www.google.com/shopping/product/3705423356971635920?gl=us",
+  "product_id":
+  "3705423356971635920",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3705423356971635920",
+  "link":
+  "https://www.homedepot.com/p/Victrola-6-in-1-Classic-Wooden-Turntable-with-Bluetooth-in-Mahogany-VTA-200B-MAH/206820955?source=shoppingads&locale=en-US&srsltid=AfmBOopI0_8dFZK1Du_S7wpOqFJ3HAYTOtxsJ4gdSJaNZIRoNvpJAsyDEw4",
+  "links":
+  [
+  "https://www.homedepot.com/p/Victrola-6-in-1-Classic-Wooden-Turntable-with-Bluetooth-in-Mahogany-VTA-200B-MAH/206820955?source=shoppingads&locale=en-US&srsltid=AfmBOopI0_8dFZK1Du_S7wpOqFJ3HAYTOtxsJ4gdSJaNZIRoNvpJAsyDEw4",
+  "https://www.amazon.com/Victrola-Nostalgic-Bluetooth-Turntable-Entertainment/dp/B00NQL8Z16?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.bestbuy.com/site/victrola-bluetooth-stereo-audio-system-mahogany/7786072.p?skuId=7786072&utm_source=feed"
+  ],
+  "source":
+  "Home Depot",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6bdd35f8e12959c61d5132fe7b92fd8e488e109ab7a1d32a5ac760311e3e80b5aff868c81aeb29351a.png",
+  "price":
+  "$85.48",
+  "extracted_price":
+  85.48,
+  "rating":
+  4.2,
+  "reviews":
+  1700,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmZN2I9_Xo2CUSbDZnSfJD3p1EC2blOXg5eOtdnCxlsk91EZyNjwxu5M_qYarAQdhWlRfF_ESwaFT0osPeGjEJjSEcnaqU_ltBq3sTsxjeDXTz5rF2i4ni",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "1byone Belt Drive Turntable with Bluetooth and USB",
+  "product_link":
+  "https://www.google.com/shopping/product/7089511882033574153?gl=us",
+  "product_id":
+  "7089511882033574153",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7089511882033574153",
+  "link":
+  "https://1byoneaudio.com/products/h005?variant=39723497849002&srsltid=AfmBOopVGHFiAxdmVFtzush884rQ91SeI6Us9Uow7olLZUos6IkhkGLPa04",
+  "links":
+  [
+  "https://1byoneaudio.com/products/h005?variant=39723497849002&srsltid=AfmBOopVGHFiAxdmVFtzush884rQ91SeI6Us9Uow7olLZUos6IkhkGLPa04",
+  "https://www.amazon.com/Belt-Drive-Turntable-Connectivity-Adjustable-Counterweight/dp/B0D637GMQQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3VLFZNKIY1NFL",
+  "https://www.aliexpress.com/item/3256807330320072.html?_randl_currency=USD&_randl_shipto=US&src=google"
+  ],
+  "source":
+  "1byone",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQkThhz9oZjJnIZLIrFvrMvIo5hEh4h7_J83Pj2CX1FSp4hpLvDp5uwL6EqO_MfYrsDr_3YBTsPrWFWJup-aUXkp1GfkGGFsYQ",
+  "price":
+  "$159.99",
+  "extracted_price":
+  159.99,
+  "rating":
+  1,
+  "reviews":
+  1,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-OTc6_KqAyR9FRnhk3bdyLUc2J-RhdjLclVmhJsflcjNOJa0FiXFrzOzZ6zgE9hAt4R-IOCPUbFfddH1EvyNhoHtg0opv",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "Victrola Victrola Century Signature+ 6-in-1 Music Center",
+  "product_link":
+  "https://www.google.com/shopping/product/15999491309329183642?gl=us",
+  "product_id":
+  "15999491309329183642",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15999491309329183642",
+  "link":
+  "https://victrola.com/products/the-century-signature-plus-6-in-1-wood-record-player?variant=43890807537835",
+  "links":
+  [
+  "https://victrola.com/products/the-century-signature-plus-6-in-1-wood-record-player?variant=43890807537835",
+  "https://www.bestbuy.com/site/victrola-century-signature-music-center-walnut/6590423.p?skuId=6590423&utm_source=feed",
+  "https://www.kohls.com/product/prd-7340672/victrola-century-signature-6-in-1-music-center.jsp?skuid=70985510&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=70985510"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRwgeFVYLcwlPYMTuIiVK0SBa5QMNbq5DNE8fgRorLZcypSE2qwO-9kiM0BQhbNwoFn6IGoLeZXjPk91tFbmcBK-isJ5bg",
+  "price":
+  "$229.99",
+  "extracted_price":
+  229.99,
+  "old_price":
+  "$250",
+  "extracted_old_price":
+  250,
+  "rating":
+  5,
+  "reviews":
+  2,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-_6DdnvNHulQZhwiXz-8hjXS3VAJwepPW8gbeuVyGuDlSs4qHj9RQ92_O5UwKSrsQv2J-tVWIMR_zpF9wptTq_wDdmqVnp-689a3iz4rHL_gyDhVuzNctMQ",
+  "tag":
+  "8% OFF",
+  "extensions":
+  [
+  "8% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "TEAC TN-400BT Manual Belt-Drive Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/892360618855316499?gl=us",
+  "product_id":
+  "892360618855316499",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=892360618855316499",
+  "link":
+  "https://www.crutchfield.com/I-rGPSc1HB6/p_063400BTXW/TEAC-TN-400BT-XWA.html",
+  "links":
+  [
+  "https://www.crutchfield.com/I-rGPSc1HB6/p_063400BTXW/TEAC-TN-400BT-XWA.html",
+  "https://www.amazon.com/TN-400BT-Manual-Belt-Drive-Bluetooth-Turntable/dp/B0CF2NTLJD?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AKR88PAWTQVN2",
+  "https://www.turntablelab.com/products/teac-tn-400bt-turntable-w-bluetooth-walnut-tn400btsewa?variant=39851478253658&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOork5yivtPDoN2fPVN18P_KaD-zqbQK3lT-XXukvylKNvvUyCc3HutM"
+  ],
+  "source":
+  "Crutchfield",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0AOCeg3MLNx7lMFnSsc94wm_vYGq9cViyPf7dngSAHgtJnFPpDlQW8nY_5JqoTLnARwiUeihSf9Ez8U0a0JFfSf53bwtp9SXyCxMi",
+  "price":
+  "$549.99",
+  "extracted_price":
+  549.99,
+  "rating":
+  4.7,
+  "reviews":
+  75,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4fhDc28lrzBbFGQCyfd3WoK6aPFm9kdHymS96XfYUxDmtvScxOXCsHt3HALfoNhYitIjfXbumSrEPi31SQO9idmeULt_W_lslT1augRfxM1w8uv3LJOLg",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "Crosley Musician Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/1443669644861784801?gl=us",
+  "product_id":
+  "1443669644861784801",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1443669644861784801",
+  "link":
+  "https://www.homedepot.com/p/Crosley-Musician-Entertainment-Center-in-Walnut-CR704B-WA/315530060?source=shoppingads&locale=en-US&srsltid=AfmBOoo3ox8lXUIFbNtz83XB5XpY8HflniTnEc6c4dAlqInFePXb2gJtWss",
+  "links":
+  [
+  "https://www.homedepot.com/p/Crosley-Musician-Entertainment-Center-in-Walnut-CR704B-WA/315530060?source=shoppingads&locale=en-US&srsltid=AfmBOoo3ox8lXUIFbNtz83XB5XpY8HflniTnEc6c4dAlqInFePXb2gJtWss",
+  "https://www.amazon.com/Crosley-CR704B-WA-Musician-Turntable-Bluetooth/dp/B08D5W8T7S?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.walmart.com/ip/Crosley-Musician-Vinyl-Record-Player-with-Speakers-and-Wireless-Bluetooth-Audio-Turntables/922839872?wmlspartner=wlpa&selectedSellerId=0"
+  ],
+  "source":
+  "Home Depot",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUxcbAOp1W7saYdqcZvnnEGAgF4vylB2H-jyfij0iYPj-dwqlZe18y3pA7TtEvPHbzYxf-lajTL0rmS6X_ImuDdbAYjIZ3jyRB",
+  "price":
+  "$94.67",
+  "extracted_price":
+  94.67,
+  "rating":
+  4.5,
+  "reviews":
+  115,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRr7WGtRcU8BzC7QHJYRQkHproOvMxoFls0pcYnI4MxYuYBaawxbQ4QPQNm02KYVpGiMiLtEnsIfWMItQf5_QxzoBlvnvfk-jrUFg2_T5movQ2iQWM_EY6B",
+  "delivery":
+  "Free delivery"
+  }
+  ]
+  },
+  {
+  "title":
+  "Audiophile turntables",
+  "description":
+  "Audiophile turntables are designed for the most discerning listeners who demand the highest fidelity sound possible. They are built with premium components, such as high-quality motors, tonearms, and cartridges, and meticulous attention is paid to vibration isolation and engineering.",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Pro-Ject Dark Side of The Moon Special Edition Turntable - Pre-Order",
+  "product_link":
+  "https://www.google.com/shopping/product/5010906858448746219?gl=us",
+  "product_id":
+  "5010906858448746219",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5010906858448746219",
+  "source":
+  "AudiogoN",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSEExGPOTSvORYWK8NvOJc3-myr2c17IIhh_FSg_fM-El3VYB9m076r82X44-8wD9dkPI8Y8W5qHbnmxsGR8vGJQ5qq4S4z1w8U",
+  "price":
+  "$1,999.00",
+  "extracted_price":
+  1999,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThOXrZVqoC2YOocshAsRB6Pazy6DjqcyEwVnbl1A1VwocCcjqDll-RXaaEL3gGbxmjxAQ8SKrzdSTXy6iV6uxmutSft963ByVluJxoFe8",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "VPI Vanquish Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/1?gl=us&prds=pid:9725304794040620607",
+  "product_id":
+  "9725304794040620607",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9725304794040620607",
+  "source":
+  "Scott Walker Audio",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjkczaSL3q3jSyOd8eE_Ga8WVWld2lORnBFmqa0FaNhG6z_TzD-QYskVLdxewmWgSJqTpUgJ0QbkbOm81EQ_l0aE_pZJSM6XFDGTuKMA",
+  "price":
+  "$104,000.00",
+  "extracted_price":
+  104000,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ13y_978GAVPk2GA4vb62_t9E73UoC-GxIUixeeGr2kaeeNvIpnu5ARGIEDXl2JFgbleLZLZM_MRr_HZaSCg4BOVxtvhC6G82VxGzcifOnhfjnjBtmWPNje5s"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "Music Hall Classic Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18133045589703906739?gl=us",
+  "product_id":
+  "18133045589703906739",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18133045589703906739",
+  "source":
+  "Crutchfield",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0AOCeg3MLNx7lMFnSsc94wm_vYGq9cViyPf7dngSAHgtJnFPpDlQW8nY_5JqoTLnARwiUeihSf9Ez8U0a0JFfSf53bwtp9SXyCxMi",
+  "price":
+  "$649.00",
+  "extracted_price":
+  649,
+  "rating":
+  4.9,
+  "reviews":
+  18,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKKW3i4YHdPCjWCI1fSI3wDEhxCDekmAD3asx-fUB_goXR1e2J1ol541IklVjlcId5QPkLGhGn3A53owh5bQT2A6IdSYIoVGYqcP8Gn7v6WIcez9d6ciHa",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "U-Turn Audio Orbit Plus Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17601192988557580441?gl=us",
+  "product_id":
+  "17601192988557580441",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17601192988557580441",
+  "source":
+  "U-Turn Audio",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwRHRRXYgpwSS2yv9Xjt5IAfW1OCaUxObmUy2yqRXehzd6O8mL54A_Nff9VAhSxAG4t1c86LXRhJNviNM10fY9y7dqy2ADfg",
+  "price":
+  "$269.00",
+  "extracted_price":
+  269,
+  "rating":
+  4.5,
+  "reviews":
+  47,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuChWUpyFlUBtybX5dkLuKh35rNxMq27nwD6lKGZ-UGY-P5df_7__2luv0tAMny2JDkUtoVdTByE-bJIWPa-ka3v_ZfO-XZzPm4mf32Bxb65Q2EUCH0Kz9",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "Technics Turntable Premium Class HiFi Record Player with Coreless Direct Drive",
+  "product_link":
+  "https://www.google.com/shopping/product/6445650540776510171?gl=us",
+  "product_id":
+  "6445650540776510171",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6445650540776510171",
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$1,099.95",
+  "extracted_price":
+  1099.95,
+  "rating":
+  4.6,
+  "reviews":
+  18,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPOI5MYFrn26Rp8462PyjWrmVNrmJ1-K-Rp-kXpBo8wXUOPKXQ8wcMnoELfESSYXZX1fKUpoHQrc2rJzaEYnwqHIJFPflmHvr-AXJ7knvd-lTNnuoeuTFFXA",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Marantz TT-15S1 Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/18437075066447400188?gl=us",
+  "product_id":
+  "18437075066447400188",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18437075066447400188",
+  "link":
+  "https://www.amazon.com/Marantz-TT-15S1-Reference-Turntable-Transparent/dp/B000EI2I76?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2H3DYB5PUVNNI",
+  "links":
+  [
+  "https://www.amazon.com/Marantz-TT-15S1-Reference-Turntable-Transparent/dp/B000EI2I76?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2H3DYB5PUVNNI",
+  "https://www.safeandsoundhq.com/products/marantz-tt-15s1-reference-belt-drive-turntable-open-box?variant=40588201197679&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopcJTqIisTkHU1AfSYa5M1kfiFlPVd7k-WlS9pmYICIG0KmwoSyE90",
+  "https://www.bhphotovideo.com/c/product/1526439-REG/marantz_tt15s1_belt_drive_turntable.html?kw=MATT15S1&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo1-DL1ZOrPfhm7vxmhwssVzRDHm--4aTCPipu8o4ISe4m1tBwgtkU"
+  ],
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$1,799.00",
+  "extracted_price":
+  1799,
+  "rating":
+  4.5,
+  "reviews":
+  80,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSW9xtWaqe3p-BuyA6-vjT2vUt3sTu6BN-ueSYIkeeqwBdnYih86KZ2Vv1bV2jEXISwd6qTvnhRQ-Ni0alHsVrfxTCJ5UkjIl3sXsLe7E0",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "Audio-Technica AT-LPW40WN Manual Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/13278144320991537217?gl=us",
+  "product_id":
+  "13278144320991537217",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13278144320991537217",
+  "source":
+  "B&H Photo-Video-Audio",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+  "price":
+  "$379.00",
+  "extracted_price":
+  379,
+  "rating":
+  4.7,
+  "reviews":
+  266,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjE9P7cCv6Mv8ddocCeqLKAKzliarPUABIEbc5DlcVynRO3e8Jb8UAidu-_5IAlROW5Th_H-aWnlWG1K_r3-xvKJTJxcYr23GJfWzBVS4",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "NAD C 588 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/12254290172245011634?gl=us",
+  "product_id":
+  "12254290172245011634",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12254290172245011634",
+  "source":
+  "Audio Advisor",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSlWJ0t4mI8iuaU3gFPtSH7XtF6vHxSAOAPpmFayzPCoCCnb7Jxes6G1XvwTF4PiyTOax6aWBzUBle9Jm6F4u5Cb2_9SIthrgR_ZW4T1A",
+  "price":
+  "$899.00",
+  "extracted_price":
+  899,
+  "rating":
+  4.5,
+  "reviews":
+  36,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSB25drHwYdL20pkPhMj2sS2QmP6ksrq7c3DD6Tf4Obeo7DKCB0cVMMP-pHp5pk4aTWXB_Vbc2_P--ldRK_1SvM_IPMfo0rOJOciWccXPgG-scY5jCvIk8",
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "McIntosh MT10 Precision Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/3117396365131492246?gl=us",
+  "product_id":
+  "3117396365131492246",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3117396365131492246",
+  "source":
+  "Scott Walker Audio",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjkczaSL3q3jSyOd8eE_Ga8WVWld2lORnBFmqa0FaNhG6z_TzD-QYskVLdxewmWgSJqTpUgJ0QbkbOm81EQ_l0aE_pZJSM6XFDGTuKMA",
+  "price":
+  "$12,000.00",
+  "extracted_price":
+  12000,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9y5I223SWFDs9U12dnUqOd_be3bqNOEnuUov6gDnBGi1OjI0fjFp2vBImbBj8wzde9vXdW8QqA81eZ_Hr11tuMN5M9CdgeaF2B6tNKAqsLDpOWSfK4VOCRg"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "Denon DP-3000NE Premium Direct-Drive Hi-Fi Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/15655915921362524530?gl=us",
+  "product_id":
+  "15655915921362524530",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15655915921362524530",
+  "source":
+  "Denon",
+  "source_icon":
+  "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRU67sL8kgrxGRC7Q6xjt13ppmX9vTicf9YYWfKcgbxhbQxoNDkYbcF1T78JFlmwt3Cuxg-YRv6BPFp1b7HhXn5vscqsH3W",
+  "price":
+  "$2,499.00",
+  "extracted_price":
+  2499,
+  "rating":
+  5,
+  "reviews":
+  10,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSbJJMmKd77oM2Ci4faDju3PNfQEdQfdxErcYKjZIyGWdigTxettSpOShIrpb49CHTthdRAG-q-UdaZDRnYNMf0qRRv5FC9g8NV29EVifjYqPRtaLxtnrCI",
+  "delivery":
+  "Free by 12/18"
+  }
+  ]
+  },
+  {
+  "title":
+  "Turntables with phono preamps",
+  "description":
+  "A phono preamp is essential for connecting a turntable to a standard audio amplifier or stereo system. These turntables have the preamp built-in, eliminating the need for a separate unit and simplifying the setup process.",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "Pro-Ject T1 Phono SB Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/7186970003282611123?gl=us",
+  "product_id":
+  "7186970003282611123",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7186970003282611123",
+  "source":
+  "Sonos",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRnB8JhlHWJ-OzNXoSdI4ji_gWfhWnjsTNGWUAmfiIqDrettjyJnrDWMhtAKe23AuxaLFNsq5p1pLhHUgYI-x5t2DRQMWu5",
+  "price":
+  "$449.00",
+  "extracted_price":
+  449,
+  "rating":
+  4.7,
+  "reviews":
+  216,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUK4svwRVnJP9HJyPEceSmuvkQIdhPX03FBbkNcnbYh-Av8VCcgEoTWGa_hqqJDvdIp1YvXL3Btyvwm61KCyKb7FUwfU71Pg",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "Fluance High Fidelity Vinyl Turntable Record Player Audio Technica VM95E",
+  "product_link":
+  "https://www.google.com/shopping/product/4757122511982735556?gl=us",
+  "product_id":
+  "4757122511982735556",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4757122511982735556",
+  "source":
+  "Amazon.com - Seller",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$299.99",
+  "extracted_price":
+  299.99,
+  "rating":
+  5,
+  "reviews":
+  2,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxu4gNxa3K4LTrXAL2RFHbCBRw4eUh3H5qH56zogWDDFOObjyYhBd6jteSXqOYiSUyOrEzupwwWyncFWuD1cDA6Z0sKiJgE-Kkk1HrlMxrH1f74CJtPmPvNg",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "Pro-Ject E1 Phono Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4752428741271303533?gl=us",
+  "product_id":
+  "4752428741271303533",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4752428741271303533",
+  "source":
+  "B&H Photo-Video-Audio",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+  "price":
+  "$399.00",
+  "extracted_price":
+  399,
+  "rating":
+  4.6,
+  "reviews":
+  47,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBTaFsAsByN2KAtZk3_NzHv8HjkXdLPuI6f8zgRBVNmkFmIfUicJ2GY2ukLHaUGwk1slT0ZFqNSI6r879-jWFb07BQ2AFeX5tKEJJsKEs",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "Yamaha TT-S303 Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/17573374184547148170?gl=us",
+  "product_id":
+  "17573374184547148170",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17573374184547148170",
+  "source":
+  "Crutchfield",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0AOCeg3MLNx7lMFnSsc94wm_vYGq9cViyPf7dngSAHgtJnFPpDlQW8nY_5JqoTLnARwiUeihSf9Ez8U0a0JFfSf53bwtp9SXyCxMi",
+  "price":
+  "$499.95",
+  "extracted_price":
+  499.95,
+  "rating":
+  4.7,
+  "reviews":
+  38,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKDFvZGzIlofrfwURc9KRG1RIAoGY7HdGktNRIajbq-pu6gtkts_hqSb80e0-oxNhhehSToSJRuADHiIV5zzbn_RSsKuURUS5f3XKrUBGx_fbuckbknpv3",
+  "delivery":
+  "Free 3-day"
+  },
+  {
+  "position":
+  5,
+  "title":
+  "TEAC TN-280BT-A3 Bluetooth Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/14321579060679500496?gl=us",
+  "product_id":
+  "14321579060679500496",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14321579060679500496",
+  "source":
+  "Safe and Sound",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5QZTozQ5UOZEyBUQTpR7sNz1DrtW1A70I9DsoC5qyWnHFRZehiUlVf-UkOgOScuqTMkBkDRv9PHsMLUOUamQPGKmXxvQC6E-qLvzfLmtp",
+  "price":
+  "$509.99",
+  "extracted_price":
+  509.99,
+  "old_price":
+  "$589",
+  "extracted_old_price":
+  589,
+  "rating":
+  4.6,
+  "reviews":
+  140,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSLZJ21Gbg_MBBXi60O4ro5TXzfTogcFYX2D2TpVgyNzgLLRPbliDCSD4aboco4tH611IP-akY34t4KMU-s4bGswclxomYf4XOf2cqGERdcLhZu37dmFBP",
+  "tag":
+  "13% OFF",
+  "extensions":
+  [
+  "13% OFF"
+  ],
+  "delivery":
+  "Free by 12/19"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Audio Technica AT-LP60X Fully Automatic Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/4716750620726616641?gl=us",
+  "product_id":
+  "4716750620726616641",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4716750620726616641",
+  "link":
+  "https://www.amazon.com/Audio-Technica-AT-LP60X-BK-Belt-Drive-Hi-Fidelity-Anti-Resonance/dp/B07N3XJ66N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Audio-Technica-AT-LP60X-BK-Belt-Drive-Hi-Fidelity-Anti-Resonance/dp/B07N3XJ66N?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.dell.com/en-us/shop/audio-technica-at-lp60x-fully-automatic-belt-drive-turntable/apd/ad156108/audio?tfcid=91049735&dgc=opl&srsltid=AfmBOooWX7LPQ02Xt53BGJo4FxLzKqN-7AaqofdcbohSijSUeEVBZ_dB1Ec",
+  "https://www.bhphotovideo.com/c/product/1453364-REG/audio_technica_consumer_at_lp60x_bk_fully_automatic_belt_drive_stereo.html?kw=AULP60XBK&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooiN6Wo4N-FdtR8918GcnoQEgXUyNl1LCzX-uRFUxo0q-BTsKUtM8M"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+  "price":
+  "$149.00",
+  "extracted_price":
+  149,
+  "rating":
+  4.7,
+  "reviews":
+  4700,
+  "thumbnail":
+  "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1o_b7FBdVYHTyHOsBxOciTG4HldLLUuZnvPGAOJnGZ73hnIiH72CbbuLo_oEWVPjA9I1y-oi0KKOtR2f8HkykBzfWpYEyMVqVMKjo5Inyyryd3UtDHs8r",
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  7,
+  "title":
+  "Audio Technica AT-LP70XBT Fully Automatic Wireless Belt-Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/5746858245509095904?gl=us",
+  "product_id":
+  "5746858245509095904",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5746858245509095904",
+  "link":
+  "https://www.bestbuy.com/site/audio-technica-audio-technica-at-lp70xbt-bz-wireless-turntable-black/6598800.p?skuId=6598800&utm_source=feed",
+  "links":
+  [
+  "https://www.bestbuy.com/site/audio-technica-audio-technica-at-lp70xbt-bz-wireless-turntable-black/6598800.p?skuId=6598800&utm_source=feed",
+  "https://www.bhphotovideo.com/c/product/1838401-REG/audio_technica_consumer_at_lp70xbt_bz_fully_auto_wireless_belt_drive_tt.html?kw=AUATLP70XBTZ&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqBq1qOn_ieGkjcW8HiPpPDaAET9QW1EXWb-sVr52Fs2wM5kpqxLwU",
+  "https://www.guitarcenter.com/Audio-Technica/AT-LP70XBT-BZ-Fully-Automatic-Wireless-Belt-Drive-Turntable-Black-Bronze-1500000437012.gc?template=0y7n73MAL4Km&cntry=us&source=4SOS0DRBA&srsltid=AfmBOop1tXBH9sM2FChyr3rX6WWmr0MSRPKWP5cKaTIK2O3UkAJzXb3djmU"
+  ],
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+  "price":
+  "$249.00",
+  "extracted_price":
+  249,
+  "rating":
+  4.9,
+  "reviews":
+  250,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRcqbpmnUTo2PHVXqMxzKeRB9lestxhzIs4jYDZcYa5MkUQjgkQJLdcjDUdfiO54O4oKIvbNe3av3dfPE1mznuFXCMvbOuxklnItgi74zr82deCIExB5_r",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  8,
+  "title":
+  "Cambridge Audio Alva ST Belt Drive Turntable with Bluetooth aptX HD",
+  "product_link":
+  "https://www.google.com/shopping/product/18160770921573370694?gl=us",
+  "product_id":
+  "18160770921573370694",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18160770921573370694",
+  "link":
+  "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-st",
+  "links":
+  [
+  "https://www.cambridgeaudio.com/usa/en/products/hi-fi/alva/alva-st",
+  "https://www.turntablelab.com/products/cambridge-audio-alva-st-turntable-w-bluetooth?variant=40253773512794&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqLkdPgF5uiNV4WqleJjxlfxJZakguRIHoPY2Qpsmd985ETQodYAJc",
+  "https://tmraudio.com/turntables/cambridge-audio-alva-st-belt-drive-turntable-with-bluetooth-aptx-hd/?srsltid=AfmBOopugjvVuFYtKwEcuHWX4UzzxSHI3pCzjCEmUE3p_12xMJ9SxMEM_tQ"
+  ],
+  "source":
+  "Cambridge Audio",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSH-Qs8mHI7elbG5hP_exYnuYCRZUN6R28O7eqJ8aj6SruBTGFPUJt_zgBFcWHBIIL_UZr0wE98ITSWJ1o_sgTiGd8IuRsLQW6RaEZafUE4",
+  "price":
+  "$599.00",
+  "extracted_price":
+  599,
+  "rating":
+  4.8,
+  "reviews":
+  95,
+  "thumbnail":
+  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWX_-b0gSHEoIlZR6A6FapZSIPwbDVBfTpJiczAlC981a7sR_BMdTnWSmewyzUIfMgUCxNdQenTMZz2Y7yMpMa_sCYqRgz7N2-7S3geSKxHiv48rNzgOx7",
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  9,
+  "title":
+  "Audio Technica AT-LP120XUSB Direct Drive Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/6716702659023913397?gl=us",
+  "product_id":
+  "6716702659023913397",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6716702659023913397",
+  "source":
+  "Guitar Center",
+  "source_icon":
+  "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR5RobWYAoG0t3TTIdjPvEB9JF9srXNxJh6Uek4AdzNI0ZUyKQWW9JQIhVSls5B8x8ZVTLJ_ACq4il76EbmB003x4NDOUsWVH49W6dxVg",
+  "price":
+  "$349.00",
+  "extracted_price":
+  349,
+  "rating":
+  4.8,
+  "reviews":
+  3400,
+  "thumbnail":
+  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTQ7oXY_8qUriWbQw6_18_kvWMpJx1xJ_IUEZFC95rJHwKmMuLryqpKuJhUfyjBOU9dV8Uqz4GNB8y_Uj22XOb0X3rgfzHxWwWzs9TRaVY",
+  "delivery":
+  "Free by 12/17"
+  },
+  {
+  "position":
+  10,
+  "title":
+  "Pro-Ject T1 EVO Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/14809316123643808805?gl=us",
+  "product_id":
+  "14809316123643808805",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14809316123643808805",
+  "source":
+  "Best Buy",
+  "source_icon":
+  "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+  "price":
+  "$499.00",
+  "extracted_price":
+  499,
+  "rating":
+  5,
+  "reviews":
+  1,
+  "thumbnail":
+  "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJKYC-Kqo2YZVSIbPdJQ8HWpefp4svxIm4_449lURa5newUdM9jPs8xgQKisVXw7pwHttIMgIr5jEAyEYYNvnB5vCCdptWwoSlaQZXax9GEP_oCX9Kqr4r",
+  "delivery":
+  "Free by 12/17"
+  }
+  ]
+  },
+  {
+  "title":
+  "Deals on turntables & record players",
+  "shopping_results":
+  [
+  {
+  "position":
+  1,
+  "title":
+  "8-in-1 Bluetooth Record Player with USB Recording",
+  "product_link":
+  "https://www.google.com/shopping/product/10030417693950833396?gl=us",
+  "product_id":
+  "10030417693950833396",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10030417693950833396",
+  "link":
+  "https://www.amazon.com/Victrola-Navigator-Bluetooth-Encoding-Turntable/dp/B01GRYDU1I?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Victrola-Navigator-Bluetooth-Encoding-Turntable/dp/B01GRYDU1I?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.homedepot.com/p/Victrola-8-in-1-Bluetooth-Record-Player-with-USB-Recording-in-Oak-VTA-600B-OAK/300707254?source=shoppingads&locale=en-US&srsltid=AfmBOoqVXWtdI9vqY3fRZorYGjNhXuijLKJohCGtNzEUDA4nIFHw0eGYo4E",
+  "https://www.newegg.com/innovative-technology-vta-750bmh/p/12K-002R-00004?item=9SIAA9UK8H0895&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-pro%20sound-_-innovative%20technology-_-9SIAA9UK8H0895&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-pro%20sound-_-innovative%20technology-_-9SIAA9UK8H0895&source=region&srsltid=AfmBOoofS64WpsivaeiTFMR32jIwcnIUE7tS7vJSb8iTwMfzsJJxWiqW-Wk"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba18af1a216ea0fe940ee63a5cc3892f2d.png",
+  "price":
+  "$114.99",
+  "extracted_price":
+  114.99,
+  "old_price":
+  "$200",
+  "extracted_old_price":
+  200,
+  "rating":
+  3.7,
+  "reviews":
+  104,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba985d437fb4580c1f4a0d59cb9a90b933.webp",
+  "tag":
+  "42% OFF",
+  "extensions":
+  [
+  "42% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  2,
+  "title":
+  "Audio-Technica At-lpgo-bt Wireless Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/16036060119392026326?gl=us",
+  "product_id":
+  "16036060119392026326",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16036060119392026326",
+  "link":
+  "https://www.walmart.com/ip/Audio-Technica-AT-LPGO-BT-Fully-Automatic-Wireless-Bluetooth-Belt-Drive-Turntable-with-Dust-Cover/549086634?wmlspartner=wlpa&selectedSellerId=0",
+  "links":
+  [
+  "https://www.walmart.com/ip/Audio-Technica-AT-LPGO-BT-Fully-Automatic-Wireless-Bluetooth-Belt-Drive-Turntable-with-Dust-Cover/549086634?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.ebay.com/itm/405169920138?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+  "https://www.vipoutlet.com/products/audio-technica-at-lpgo-bt-wireless-turntable?variant=46639832891672"
+  ],
+  "source":
+  "Walmart",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba7dc6eb6ce0982d8e72925aefbd3d5be2.png",
+  "price":
+  "$127.00",
+  "extracted_price":
+  127,
+  "old_price":
+  "$159",
+  "extracted_old_price":
+  159,
+  "rating":
+  4.6,
+  "reviews":
+  172,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5bafa607c58b67822141795c6677fb73951.webp",
+  "tag":
+  "20% OFF",
+  "extensions":
+  [
+  "20% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  3,
+  "title":
+  "Victrola 6-in-1 Bluetooth Mid Century Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/18254329682708762417?gl=us",
+  "product_id":
+  "18254329682708762417",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18254329682708762417",
+  "link":
+  "https://victrola.com/products/victrola-6-in-1-wood-bluetooth-mid-century-record-player-with-3-speed-turntable-cd-cassette-player-and-radio?variant=41297133174955",
+  "links":
+  [
+  "https://victrola.com/products/victrola-6-in-1-wood-bluetooth-mid-century-record-player-with-3-speed-turntable-cd-cassette-player-and-radio?variant=41297133174955",
+  "https://www.barnesandnoble.com/w/victrola-empire-6-in-1-wood-empire-mid-century-modern-bluetooth-record-player-with-3-speed-turntable-cd-cassette-player-and-radio-innovative-technology/1141948003?ean=0816203018168",
+  "https://www.homedepot.com/p/Victrola-6-in-1-Wood-Bluetooth-Mid-Century-Record-Player-with-3-Speed-Turntable-CD-Cassette-Player-and-Radio-VTA-270B-ESP/307626034?source=shoppingads&locale=en-US&srsltid=AfmBOooGmD8ShOiTFdn0z_snsunRQ--SwokCrZ93Atd2sTuA02Jfrk52LL8"
+  ],
+  "source":
+  "Victrola.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5badf4ca4be408a674bfb1a30403fc7c6b9.png",
+  "price":
+  "$119.99",
+  "extracted_price":
+  119.99,
+  "old_price":
+  "$200",
+  "extracted_old_price":
+  200,
+  "rating":
+  4.2,
+  "reviews":
+  424,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5baa526e916748800618976893fd01ed33b.webp",
+  "tag":
+  "40% OFF",
+  "extensions":
+  [
+  "40% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  },
+  {
+  "position":
+  4,
+  "title":
+  "West Elm Cruiser Plus Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/3436857887001655446?gl=us",
+  "product_id":
+  "3436857887001655446",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3436857887001655446",
+  "link":
+  "https://www.westelm.com/products/cruiser-plus-turntable-d13240/?catalogId=71&sku=7384598&cm_ven=FreePLA&cm_cat=Google&cm_pla=Gifts%20%3E%20Home%20Electronics%20%26%20Tech%20Accessories",
+  "links":
+  [
+  "https://www.westelm.com/products/cruiser-plus-turntable-d13240/?catalogId=71&sku=7384598&cm_ven=FreePLA&cm_cat=Google&cm_pla=Gifts%20%3E%20Home%20Electronics%20%26%20Tech%20Accessories"
+  ],
+  "source":
+  "west elm",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba71bef2c3f24df2cbea445dcfd57c72c1.png",
+  "price":
+  "$79.00",
+  "extracted_price":
+  79,
+  "old_price":
+  "Was $120",
+  "extracted_old_price":
+  120,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba8c78550540c00788a624d03ae4a6bbe0.webp",
+  "tag":
+  "34% OFF",
+  "extensions":
+  [
+  "34% OFF"
+  ]
+  },
+  {
+  "position":
+  5,
+  "title":
+  "Denon DP-29F Turntable",
+  "product_link":
+  "https://www.google.com/shopping/product/7288896509371124113?gl=us",
+  "product_id":
+  "7288896509371124113",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7288896509371124113",
+  "link":
+  "https://www.denon.com/en-US/136636-01-00-101.html",
+  "links":
+  [
+  "https://www.denon.com/en-US/136636-01-00-101.html",
+  "https://www.bhphotovideo.com/c/product/431450-REG/Denon_DP_29F_DP_29F_Fully_Automatic_Turntable.html?kw=DEDP29F&ap=y&smpn=&BI=E7249&srsltid=AfmBOoozHFE_vQflFm7AZbvBBCUFlmRMRMFAdspYRqwq0NVbW0fDofflKl0",
+  "https://www.amazon.com/Denon-DP29F-DP-29F-Turntable/dp/B0000BZHGV?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A43XUH5I6FNM3"
+  ],
+  "source":
+  "Denon",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba2c9cbf81a1923a7350a476bb820def50.png",
+  "price":
+  "$139.00",
+  "extracted_price":
+  139,
+  "old_price":
+  "$199",
+  "extracted_old_price":
+  199,
+  "rating":
+  4.6,
+  "reviews":
+  738,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5bad56943adc814a259fc446e4d59cdb8ff.webp",
+  "tag":
+  "30% OFF",
+  "extensions":
+  [
+  "30% OFF"
+  ],
+  "delivery":
+  "Free by 12/18"
+  },
+  {
+  "position":
+  6,
+  "title":
+  "Crosley Voyager Turntable Record Player",
+  "product_link":
+  "https://www.google.com/shopping/product/3759263909755342541?gl=us",
+  "product_id":
+  "3759263909755342541",
+  "serpapi_product_api":
+  "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3759263909755342541",
+  "link":
+  "https://www.amazon.com/Crosley-CR8017B-WB-Portable-Turntable-Bluetooth/dp/B09MG4CQP8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "links":
+  [
+  "https://www.amazon.com/Crosley-CR8017B-WB-Portable-Turntable-Bluetooth/dp/B09MG4CQP8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+  "https://www.walmart.com/ip/Crosley-Voyager-Vinyl-Record-Player-with-Speakers-and-Wireless-Bluetooth-Audio-Turntables/904316650?wmlspartner=wlpa&selectedSellerId=0",
+  "https://www.nordstrom.com/s//7334236?color=BLUE+TONES&size=one+size&country=US&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping&srsltid=AfmBOorU-LpD0pg2AEPMV95y8DtT4XFe_GkdbbF2J5XTwEYkZCfX2PMz8sg"
+  ],
+  "source":
+  "Amazon.com",
+  "source_icon":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba544a3c5e852cd98106b3413ad213a746.png",
+  "price":
+  "$52.05",
+  "extracted_price":
+  52.05,
+  "old_price":
+  "$61",
+  "extracted_old_price":
+  61,
+  "rating":
+  4.1,
+  "reviews":
+  441,
+  "thumbnail":
+  "https://serpapi.com/searches/6757ce1f6b8552d04cd4f9a9/images/7ebbaf3306ff646a0cd29d7396ccab22151e99c59809bf6b27e607ae7c098ff3354c7cf01a10e0f3ace29f52be3ec5ba0fad4b3de2efa5ec7b7feb0942515fd3.webp",
+  "tag":
+  "15% OFF",
+  "extensions":
+  [
+  "15% OFF"
+  ],
+  "delivery":
+  "Free delivery"
+  }
+  ]
+  }
+  ],
+  "serpapi_pagination":
+  {
+  "next":
+  "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=10&q=turn+tables&start=10"
+  }
+  }

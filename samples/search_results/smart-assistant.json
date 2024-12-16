@@ -1,0 +1,1610 @@
+{
+  "search_metadata": {
+    "id": "6757db2d4c1a65dcd3a26794",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eae329a2457f88af/6757db2d4c1a65dcd3a26794.json",
+    "created_at": "2024-12-10 06:09:49 UTC",
+    "processed_at": "2024-12-10 06:09:49 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=smart+assistant&num=5&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/eae329a2457f88af/6757db2d4c1a65dcd3a26794.html",
+    "total_time_taken": 3.72
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "smart assistant",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "5",
+    "device": "desktop",
+    "direct_link": true
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "smart assistant"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Get it tomorrow",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant&shoprs=CAESDZoBCgoIEAE4AUACSAEYFCoPc21hcnQgYXNzaXN0YW50MigIFBIPR2V0IGl0IHRvbW9ycm93Ig2aAQoKCBABOAFAAkgBKgQQARgBYAI"
+        },
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+sale&shoprs=CAESBEoCGAEYBioPc21hcnQgYXNzaXN0YW50MhMIBhIHT24gc2FsZRgCIgRKAhgBWIDoIGAC"
+        },
+        {
+          "text": "Used",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=used+smart+assistant&shoprs=CAEYCioPc21hcnQgYXNzaXN0YW50MggIChIEVXNlZFiA6CBgAg"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant&shoprs=CAESAmoAGBYqD3NtYXJ0IGFzc2lzdGFudDIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant&shoprs=CAEYFyoPc21hcnQgYXNzaXN0YW50MhwIFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBYAKIAQE"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant&shoprs=CAEYFyoPc21hcnQgYXNzaXN0YW50MhwIFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBYAKIAQI"
+        }
+      ]
+    },
+    {
+      "type": "Assistant Support",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Amazon Alexa",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=amazon+alexa+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50Mh4IARIMQW1hem9uIEFsZXhhOgwIu7yeARC9vJ4BMABYgOggYAI"
+        },
+        {
+          "text": "Google Assistant",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=google+assistant+smart&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MiIIARIQR29vZ2xlIEFzc2lzdGFudDoMCLu8ngEQvLyeATAAWIDoIGAC"
+        },
+        {
+          "text": "Siri",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=siri+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhYIARIEU2lyaToMCLu8ngEQvryeATAAWIDoIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Category",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Computer Monitors",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=computer+monitors+smart+assistant&shoprs=CAEYCSoPc21hcnQgYXNzaXN0YW50MhUICRIRQ29tcHV0ZXIgTW9uaXRvcnNgAg"
+        },
+        {
+          "text": "Speakers",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=speakers+smart+assistant&shoprs=CAEYCSoPc21hcnQgYXNzaXN0YW50MgwICRIIU3BlYWtlcnNgAg"
+        },
+        {
+          "text": "Tablets",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=tablets+smart+assistant&shoprs=CAEYCSoPc21hcnQgYXNzaXN0YW50MgsICRIHVGFibGV0c2AC"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Wireless",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhgIARIIV2lyZWxlc3M6CgjMqysQzqsrMANYgOggYAI"
+        },
+        {
+          "text": "Portable",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=portable+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhgIARIIUG9ydGFibGU6Cgi52ToQvdk6MANYgOggYAI"
+        },
+        {
+          "text": "Outdoor",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=outdoor+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhkIARIHT3V0ZG9vcjoMCMCM8AEQwYzwATADWIDoIGAC"
+        },
+        {
+          "text": "Set",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=set+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhMIARIDU2V0OgoIjcxsEI7MbDADWIDoIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Connectivity",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Bluetooth",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=bluetooth+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhsIARIJQmx1ZXRvb3RoOgwI2IzwARDZjPABMABYgOggYAI"
+        },
+        {
+          "text": "Wi-Fi",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wi-fi+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhcIARIFV2ktRmk6DAjYjPABENqM8AEwAFiA6CBgAg"
+        },
+        {
+          "text": "AUX",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=aux+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhUIARIDQVVYOgwI2IzwARCQvvABMABYgOggYAI"
+        },
+        {
+          "text": "USB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=usb+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhUIARIDVVNCOgwI2IzwARCLvvABMABYgOggYAI"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "input_type": "color",
+      "options": [
+        {
+          "text": "Gray",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=gray+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhQIARIER3JheToKCKHIaBCkyGgwAFiA6CBgAg"
+        },
+        {
+          "text": "White",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=white+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhUIARIFV2hpdGU6CgihyGgQo8hoMABYgOggYAI"
+        },
+        {
+          "text": "Black",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=black+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhUIARIFQmxhY2s6CgihyGgQoshoMABYgOggYAI"
+        },
+        {
+          "text": "Orange",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=orange+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhcIARIGT3JhbmdlOgsIochoELvDsgIwAFiA6CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $20",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+under+%2420&shoprs=CAESDRILEQAAAADQEnNBGAEYBSoPc21hcnQgYXNzaXN0YW50MiIIBRIJVW5kZXIgJDIwGAIiDRILEQAAAADQEnNBGAEqAhgBWIDoIGAC"
+        },
+        {
+          "text": "$20 - $40",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+between+%2420+and+%2440&shoprs=CAESFhIUCQAAAADQEnNBEQAAAADQEoNBGAEYBSoPc21hcnQgYXNzaXN0YW50MisIBRIJJDIwIC0gJDQwGAIiFhIUCQAAAADQEnNBEQAAAADQEoNBGAEqAhgBWIDoIGAC"
+        },
+        {
+          "text": "$40 - $80",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+between+%2440+and+%2480&shoprs=CAESFhIUCQAAAADQEoNBEQAAAADQEpNBGAEYBSoPc21hcnQgYXNzaXN0YW50MisIBRIJJDQwIC0gJDgwGAIiFhIUCQAAAADQEoNBEQAAAADQEpNBGAEqAhgBWIDoIGAC"
+        },
+        {
+          "text": "Over $80",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+over+%2480&shoprs=CAESDRILCQAAAADQEpNBGAEYBSoPc21hcnQgYXNzaXN0YW50MiEIBRIIT3ZlciAkODAYAiINEgsJAAAAANASk0EYASoCGAFYgOggYAI"
+        }
+      ]
+    },
+    {
+      "type": "Height",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 1.65 in high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+1.65+in+high+smart+assistant&shoprs=CAESEioQCMjg2QMSCREAAADAzMwQQBgBKg9zbWFydCBhc3Npc3RhbnQyOQgBEhJVbmRlciAxLjY1IGluIGhpZ2giEioQCMjg2QMSCREAAADAzMwQQCoCGAE6CQjI4NkDEAAwBliA6CBgAg"
+        },
+        {
+          "text": "1.65 – 3.3 in high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=1.65+in+high+to+3.3+in+high+smart+assistant&shoprs=CAESGyoZCMjg2QMSEgkAAADAzMwQQBEAAACAlcMgQBgBKg9zbWFydCBhc3Npc3RhbnQyYQgBEhQxLjY1IOKAkyAzLjMgaW4gaGlnaCIbKhkIyODZAxISCQAAAMDMzBBAEQAAAICVwyBAKh8KGzEuNjUgaW4gaGlnaCB0byAzLjMgaW4gaGlnaBgBOgkIyODZAxAAMAZYgOggYAI"
+        },
+        {
+          "text": "3.3 – 4.65 in high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=3.3+in+high+to+4.65+in+high+smart+assistant&shoprs=CAESGyoZCMjg2QMSEgkAAACAlcMgQBEAAABgO58nQBgBKg9zbWFydCBhc3Npc3RhbnQyYQgBEhQzLjMg4oCTIDQuNjUgaW4gaGlnaCIbKhkIyODZAxISCQAAAICVwyBAEQAAAGA7nydAKh8KGzMuMyBpbiBoaWdoIHRvIDQuNjUgaW4gaGlnaBgBOgkIyODZAxAAMAZYgOggYAI"
+        },
+        {
+          "text": "Over 4.65 in high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+4.65+in+high+smart+assistant&shoprs=CAESEioQCMjg2QMSCQkAAABgO58nQBgBKg9zbWFydCBhc3Npc3RhbnQyOAgBEhFPdmVyIDQuNjUgaW4gaGlnaCISKhAIyODZAxIJCQAAAGA7nydAKgIYAToJCMjg2QMQADAGWIDoIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Width",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 2.7 in wide",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+2.7+in+wide+smart+assistant&shoprs=CAESEioQCISe2gMSCREAAADgnrwbQBgBKg9zbWFydCBhc3Npc3RhbnQyOAgBEhFVbmRlciAyLjcgaW4gd2lkZSISKhAIhJ7aAxIJEQAAAOCevBtAKgIYAToJCISe2gMQADAGWIDoIGAC"
+        },
+        {
+          "text": "2.7 – 3.9 in wide",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=2.7+in+wide+to+3.9+in+wide+smart+assistant&shoprs=CAESGyoZCISe2gMSEgkAAADgnrwbQBEAAABA388jQBgBKg9zbWFydCBhc3Npc3RhbnQyXwgBEhMyLjcg4oCTIDMuOSBpbiB3aWRlIhsqGQiEntoDEhIJAAAA4J68G0ARAAAAQN_PI0AqHgoaMi43IGluIHdpZGUgdG8gMy45IGluIHdpZGUYAToJCISe2gMQADAGWIDoIGAC"
+        },
+        {
+          "text": "3.9 – 5.7 in wide",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=3.9+in+wide+to+5.7+in+wide+smart+assistant&shoprs=CAESGyoZCISe2gMSEgkAAABA388jQBEAAAAgu-csQBgBKg9zbWFydCBhc3Npc3RhbnQyXwgBEhMzLjkg4oCTIDUuNyBpbiB3aWRlIhsqGQiEntoDEhIJAAAAQN_PI0ARAAAAILvnLEAqHgoaMy45IGluIHdpZGUgdG8gNS43IGluIHdpZGUYAToJCISe2gMQADAGWIDoIGAC"
+        },
+        {
+          "text": "Over 5.7 in wide",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+5.7+in+wide+smart+assistant&shoprs=CAESEioQCISe2gMSCQkAAAAgu-csQBgBKg9zbWFydCBhc3Npc3RhbnQyNwgBEhBPdmVyIDUuNyBpbiB3aWRlIhIqEAiEntoDEgkJAAAAILvnLEAqAhgBOgkIhJ7aAxAAMAZYgOggYAI"
+        }
+      ]
+    },
+    {
+      "type": "Max Wattage",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 5 W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+5+w+smart+assistant&shoprs=CAESEioQCP6ulgMSCREAAAAAAAAUQBgBKg9zbWFydCBhc3Npc3RhbnQyMAgBEglVbmRlciA1IFciEioQCP6ulgMSCREAAAAAAAAUQCoCGAE6CQj-rpYDEAAwBliA6CBgAg"
+        },
+        {
+          "text": "5 – 10 W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=5+w+to+10+w+smart+assistant&shoprs=CAESGyoZCP6ulgMSEgkAAAAAAAAUQBEAAAAAAAAkQBgBKg9zbWFydCBhc3Npc3RhbnQyRwgBEgo1IOKAkyAxMCBXIhsqGQj-rpYDEhIJAAAAAAAAFEARAAAAAAAAJEAqDwoLNSBXIHRvIDEwIFcYAToJCP6ulgMQADAGWIDoIGAC"
+        },
+        {
+          "text": "10 – 15 W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=10+w+to+15+w+smart+assistant&shoprs=CAESGyoZCP6ulgMSEgkAAAAAAAAkQBEAAAAAAAAuQBgBKg9zbWFydCBhc3Npc3RhbnQySQgBEgsxMCDigJMgMTUgVyIbKhkI_q6WAxISCQAAAAAAACRAEQAAAAAAAC5AKhAKDDEwIFcgdG8gMTUgVxgBOgkI_q6WAxAAMAZYgOggYAI"
+        },
+        {
+          "text": "15 – 20 W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=15+w+to+20+w+smart+assistant&shoprs=CAESGyoZCP6ulgMSEgkAAAAAAAAuQBEAAAAAAAA0QBgBKg9zbWFydCBhc3Npc3RhbnQySQgBEgsxNSDigJMgMjAgVyIbKhkI_q6WAxISCQAAAAAAAC5AEQAAAAAAADRAKhAKDDE1IFcgdG8gMjAgVxgBOgkI_q6WAxAAMAZYgOggYAI"
+        },
+        {
+          "text": "Over 20 W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+20+w+smart+assistant&shoprs=CAESEioQCP6ulgMSCQkAAAAAAAA0QBgBKg9zbWFydCBhc3Npc3RhbnQyMAgBEglPdmVyIDIwIFciEioQCP6ulgMSCQkAAAAAAAA0QCoCGAE6CQj-rpYDEAAwBliA6CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Battery Capacity",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "6 mAh",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=6+mah+smart+assistant&shoprs=CAESGyoZCMD12QMSEgkAAABgZmYXQBEAAABgZmYXQBgBKg9zbWFydCBhc3Npc3RhbnQyNQgBEgU2IG1BaCIbKhkIwPXZAxISCQAAAGBmZhdAEQAAAGBmZhdAKgIYAToJCMD12QMQADAGWIDoIGAC"
+        },
+        {
+          "text": "1,200 mAh",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=1%2C200+mah+smart+assistant&shoprs=CAESGyoZCMD12QMSEgkAAAAAAMCSQBEAAAAAAMCSQBgBKg9zbWFydCBhc3Npc3RhbnQyOQgBEgkxLDIwMCBtQWgiGyoZCMD12QMSEgkAAAAAAMCSQBEAAAAAAMCSQCoCGAE6CQjA9dkDEAAwBliA6CBgAg"
+        },
+        {
+          "text": "7,800 mAh",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=7%2C800+mah+smart+assistant&shoprs=CAESGyoZCMD12QMSEgkAAAAAAHi-QBEAAAAAAHi-QBgBKg9zbWFydCBhc3Npc3RhbnQyOQgBEgk3LDgwMCBtQWgiGyoZCMD12QMSEgkAAAAAAHi-QBEAAAAAAHi-QCoCGAE6CQjA9dkDEAAwBliA6CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Best Buy",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=best+buy+smart+assistant&shoprs=CAEYAioPc21hcnQgYXNzaXN0YW50MgwIAhIIQmVzdCBCdXlYgOggYAI"
+        },
+        {
+          "text": "Crutchfield",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=crutchfield+smart+assistant&shoprs=CAEYAioPc21hcnQgYXNzaXN0YW50Mg8IAhILQ3J1dGNoZmllbGRYgOggYAI"
+        },
+        {
+          "text": "Home Depot",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=home+depot+smart+assistant&shoprs=CAEYAioPc21hcnQgYXNzaXN0YW50Mg4IAhIKSG9tZSBEZXBvdFiA6CBgAg"
+        },
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=target+smart+assistant&shoprs=CAEYAioPc21hcnQgYXNzaXN0YW50MgoIAhIGVGFyZ2V0WIDoIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Depth",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 3.3 in deep",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+3.3+in+deep+smart+assistant&shoprs=CAESEioQCNX72QMSCREAAACAlcMgQBgBKg9zbWFydCBhc3Npc3RhbnQyOAgBEhFVbmRlciAzLjMgaW4gZGVlcCISKhAI1fvZAxIJEQAAAICVwyBAKgIYAToJCNX72QMQADAGWIDoIGAC"
+        },
+        {
+          "text": "3.3 – 4.07 in deep",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=3.3+in+deep+to+4.07+in+deep+smart+assistant&shoprs=CAESGyoZCNX72QMSEgkAAACAlcMgQBEAAAAg9KwkQBgBKg9zbWFydCBhc3Npc3RhbnQyYQgBEhQzLjMg4oCTIDQuMDcgaW4gZGVlcCIbKhkI1fvZAxISCQAAAICVwyBAEQAAACD0rCRAKh8KGzMuMyBpbiBkZWVwIHRvIDQuMDcgaW4gZGVlcBgBOgkI1fvZAxAAMAZYgOggYAI"
+        },
+        {
+          "text": "4.07 – 5.7 in deep",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=4.07+in+deep+to+5.7+in+deep+smart+assistant&shoprs=CAESGyoZCNX72QMSEgkAAAAg9KwkQBEAAABgvPQsQBgBKg9zbWFydCBhc3Npc3RhbnQyYQgBEhQ0LjA3IOKAkyA1LjcgaW4gZGVlcCIbKhkI1fvZAxISCQAAACD0rCRAEQAAAGC89CxAKh8KGzQuMDcgaW4gZGVlcCB0byA1LjcgaW4gZGVlcBgBOgkI1fvZAxAAMAZYgOggYAI"
+        }
+      ]
+    },
+    {
+      "type": "Style",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Bookshelf",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=bookshelf+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhkIARIJQm9va3NoZWxmOgoIjc9oEI7PaDACWIDoIGAC"
+        },
+        {
+          "text": "Built-in",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=built-in+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhgIARIIQnVpbHQtaW46CgiNz2gQkM9oMAJYgOggYAI"
+        }
+      ]
+    },
+    {
+      "type": "Frequency Response",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "20 - 20000 Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=20+-+20000+hz+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50Mh8IARINMjAgLSAyMDAwMCBIejoMCKyi1QMQ5pXVAzAAWIDoIGAC"
+        },
+        {
+          "text": "45 - 20000 Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=45+-+20000+hz+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50Mh8IARINNDUgLSAyMDAwMCBIejoMCKyi1QMQoqPVAzAAWIDoIGAC"
+        },
+        {
+          "text": "100 - 20000 Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=100+-+20000+hz+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MiAIARIOMTAwIC0gMjAwMDAgSHo6DAisotUDEOuV1QMwAFiA6CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Configuration",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "2 Channel",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=2+channel+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhkIARIJMiBDaGFubmVsOgoI0qsrENOrKzAAWIDoIGAC"
+        },
+        {
+          "text": "2.1 Channel",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=2.1+channel+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhsIARILMi4xIENoYW5uZWw6CgjSqysQ1KsrMABYgOggYAI"
+        },
+        {
+          "text": "7.1 Channel",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=7.1+channel+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhwIARILNy4xIENoYW5uZWw6CwjSqysQov3JATAAWIDoIGAC"
+        }
+      ]
+    },
+    {
+      "type": "Battery Life",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "5 hr battery life",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=5+hr+battery+life+smart+assistant&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAAUQBEAAAAAAAAUQBgBKg9zbWFydCBhc3Npc3RhbnQyQQgBEhE1IGhyIGJhdHRlcnkgbGlmZSIbKhkI6p3aAxISCQAAAAAAABRAEQAAAAAAABRAKgIYAToJCOqd2gMQADAGWIDoIGAC"
+        },
+        {
+          "text": "10 hr battery life",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=10+hr+battery+life+smart+assistant&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAAkQBEAAAAAAAAkQBgBKg9zbWFydCBhc3Npc3RhbnQyQggBEhIxMCBociBiYXR0ZXJ5IGxpZmUiGyoZCOqd2gMSEgkAAAAAAAAkQBEAAAAAAAAkQCoCGAE6CQjqndoDEAAwBliA6CBgAg"
+        },
+        {
+          "text": "12 hr battery life",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=12+hr+battery+life+smart+assistant&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAAoQBEAAAAAAAAoQBgBKg9zbWFydCBhc3Npc3RhbnQyQggBEhIxMiBociBiYXR0ZXJ5IGxpZmUiGyoZCOqd2gMSEgkAAAAAAAAoQBEAAAAAAAAoQCoCGAE6CQjqndoDEAAwBliA6CBgAg"
+        },
+        {
+          "text": "24 hr battery life",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=24+hr+battery+life+smart+assistant&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAA4QBEAAAAAAAA4QBgBKg9zbWFydCBhc3Npc3RhbnQyQggBEhIyNCBociBiYXR0ZXJ5IGxpZmUiGyoZCOqd2gMSEgkAAAAAAAA4QBEAAAAAAAA4QCoCGAE6CQjqndoDEAAwBliA6CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant+free+shipping&shoprs=CAESBFICEAEYGSoPc21hcnQgYXNzaXN0YW50MhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Google",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=google+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhYIARIGR29vZ2xlOgoIg_M8EMzUPjABWIDoIGAC"
+        },
+        {
+          "text": "Apple",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=apple+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhUIARIFQXBwbGU6CgiD8zwQmd49MAFYgOggYAI"
+        },
+        {
+          "text": "Lenovo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=lenovo+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhYIARIGTGVub3ZvOgoIg_M8EO_jPTABWIDoIGAC"
+        },
+        {
+          "text": "Amazon",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=amazon+smart+assistant&shoprs=CAEYASoPc21hcnQgYXNzaXN0YW50MhYIARIGQW1hem9uOgoIg_M8EIfoPTABWIDoIGAC"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Google Home Mini",
+      "product_link": "https://www.google.com/shopping/product/13602265837535647651?gl=us",
+      "product_id": "13602265837535647651",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13602265837535647651",
+      "link": "https://www.homedepot.com/p/Google-Home-Mini-Charcoal-GA00216-US/303335623?source=shoppingads&locale=en-US&srsltid=AfmBOoofruTCIWLPOeVyTrI2P4ioCBiXfxL6fM9OtOaufMI3ob8_7LFBT7c",
+      "links": [
+        "https://www.homedepot.com/p/Google-Home-Mini-Charcoal-GA00216-US/303335623?source=shoppingads&locale=en-US&srsltid=AfmBOoofruTCIWLPOeVyTrI2P4ioCBiXfxL6fM9OtOaufMI3ob8_7LFBT7c",
+        "https://www.ebay.com/itm/384168979137?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.walmart.com/ip/Google-Home-Mini-Chalk/159013183?wmlspartner=wlpa&selectedSellerId=101002341"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11d751bd1f65196833038cb31ef521f497.png",
+      "price": "$49.00",
+      "extracted_price": 49,
+      "rating": 4.5,
+      "reviews": 27000,
+      "snippet": "Easy to set up (1,649 user reviews)",
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11b38edf4cdadde8ff8be9b9589949308e.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 2,
+      "title": "Home Assistant",
+      "product_link": "https://www.google.com/shopping/product/6585725941503403122?gl=us",
+      "product_id": "6585725941503403122",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6585725941503403122",
+      "link": "https://www.amazon.com/Assistant-Advanced-Automation-Official-Hardware/dp/B0CXVKSG19?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ALGBL21ASRS8N",
+      "links": [
+        "https://www.amazon.com/Assistant-Advanced-Automation-Official-Hardware/dp/B0CXVKSG19?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ALGBL21ASRS8N",
+        "https://www.ebay.com/itm/365260004572?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoohNUh0SnjUX5i-oqQpAO2Vf0fch87A35nPdknTbHu2Bnz8tCAcg-Q",
+        "https://www.ebay.com/itm/356272506889?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooEapx18dUB0gDFHo-WOitKBYY0LT3tXa2nRCHDlNj9Qf0X0wFE1Wo"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11b3c33b22fa0e93240553e28efccf8ca5.png",
+      "price": "$120.00",
+      "extracted_price": 120,
+      "rating": 4.7,
+      "reviews": 122,
+      "snippet": "Easy to set up (16 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11e253c8f1037e1b5a30af4946759619f7.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 3,
+      "title": "Google Nest Hub Max",
+      "product_link": "https://www.google.com/shopping/product/6923299000239231877?gl=us",
+      "product_id": "6923299000239231877",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6923299000239231877",
+      "link": "https://www.bestbuy.com/site/nest-hub-max-smart-display-with-google-assistant-charcoal/6348562.p?skuId=6348562&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/nest-hub-max-smart-display-with-google-assistant-charcoal/6348562.p?skuId=6348562&utm_source=feed",
+        "https://www.dell.com/en-us/shop/google-nest-hubmax-smart-home-assistant-charcoal/apd/aa807851/home-automation?tfcid=91049735&dgc=opl&srsltid=AfmBOooYiOCivqAO8rct96L2T-GB1RX00H_T37bUXlQoAF5Uov3e5Em0eJQ",
+        "https://www.walmart.com/ip/Google-Nest-Hub-Max-Charcoal/842552117?wmlspartner=wlpa&selectedSellerId=0"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11d90c1d23c19a4dd2d77137cd96fe5bc4.png",
+      "price": "$229.99",
+      "extracted_price": 229.99,
+      "rating": 4.5,
+      "reviews": 7400,
+      "snippet": "Good sound quality (411 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf118f6edcb67380992f933f7855c14c185b.webp",
+      "delivery": "Free delivery by Dec 17"
+    },
+    {
+      "position": 4,
+      "title": "Google Nest Mini",
+      "product_link": "https://www.google.com/shopping/product/13573068641653636869?gl=us",
+      "product_id": "13573068641653636869",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13573068641653636869",
+      "link": "https://www.walmart.com/ip/Google-Nest-Mini-2nd-Generation-Charcoal/741412707?wmlspartner=wlpa&selectedSellerId=102623578",
+      "links": [
+        "https://www.walmart.com/ip/Google-Nest-Mini-2nd-Generation-Charcoal/741412707?wmlspartner=wlpa&selectedSellerId=102623578",
+        "https://www.amazon.com/Google-Generation-Smart-Speaker-Assistant/dp/B0CGYFYY34?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1B93CWG1J5PF1",
+        "https://www.lowes.com/pd/Google-Nest-Mini-2nd-Gen-Smart-Speaker-with-Google-Assistant-Voice-Control-in-Charcoal/1001334238?user=shopping&feed=yes&srsltid=AfmBOorDp0bgycA9gDlTxLVRm4UOwex8EXfTiMJoOKhEziERgdFP5iIaz6U"
+      ],
+      "source": "Walmart - DLWFishel LLC",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11aa7f7fd579a75b8632dd17dd0fa65ab7.png",
+      "price": "$44.93",
+      "extracted_price": 44.93,
+      "rating": 4.3,
+      "reviews": 22000,
+      "snippet": "Easy to use (1,021 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1165187e2788dc8deb5120f96b15c8253b.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 5,
+      "title": "Amazon Echo Smart Home Hub with Alexa",
+      "product_link": "https://www.google.com/shopping/product/9484141331332633012?gl=us",
+      "product_id": "9484141331332633012",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9484141331332633012",
+      "link": "https://www.target.com/p/amazon-echo-4th-gen-smart-home-hub-with-alexa-charcoal/-/A-80770246?sid=1944S&afid=google&ref=tgt_adv_xsf&CPNG=Electronics&adgroup=56-16",
+      "links": [
+        "https://www.target.com/p/amazon-echo-4th-gen-smart-home-hub-with-alexa-charcoal/-/A-80770246?sid=1944S&afid=google&ref=tgt_adv_xsf&CPNG=Electronics&adgroup=56-16",
+        "https://www.amazon.com/Echo-4th-Gen/dp/B07XKF5RM3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-4th-gen-with-premium-sound-smart-home-hub-and-alexa-charcoal/6430065.p?skuId=6430065&ref=212&loc=1&utm_source=feed&extStoreId=51"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1182bf750937c0097e9d957cbcd60fa4dd.png",
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.7,
+      "reviews": 10000,
+      "snippet": "Good sound quality (1,262 user reviews)",
+      "extensions": [
+        "Free 90-day returns",
+        "45% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11a98927a6d2e1bde0b1cb6f95d319d9f5.webp",
+      "tag": "45% OFF",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 6,
+      "title": "Amazon Echo Pop Smart Speaker with Alexa",
+      "product_link": "https://www.google.com/shopping/product/9950846483465423515?gl=us",
+      "product_id": "9950846483465423515",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9950846483465423515",
+      "link": "https://www.lowes.com/pd/Amazon-Echo-Pop-1st-Gen-2023-Release-Full-Sound-Compact-Smart-Speaker-with-Alexa-Charcoal/5015278293?user=shopping&feed=yes&srsltid=AfmBOoo7vdhTgfUPTHzFp8pgzcjhfFunxry05j8ZXj3YZmS2lRgSQ5NqRlI",
+      "links": [
+        "https://www.lowes.com/pd/Amazon-Echo-Pop-1st-Gen-2023-Release-Full-Sound-Compact-Smart-Speaker-with-Alexa-Charcoal/5015278293?user=shopping&feed=yes&srsltid=AfmBOoo7vdhTgfUPTHzFp8pgzcjhfFunxry05j8ZXj3YZmS2lRgSQ5NqRlI",
+        "https://www.amazon.com/Amazon-Echo-Alexa-fits-anywhere/dp/B09WNK39JN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-pop-1st-generation-smart-speaker-with-alexa-charcoal/6544302.p?skuId=6544302&utm_source=feed"
+      ],
+      "source": "Lowe's",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11fa52ea0c9d3803652e59f230921dfdd2.png",
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "rating": 4.7,
+      "reviews": 3400,
+      "snippet": "Good sound quality (289 user reviews)",
+      "extensions": [
+        "Free 90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11b2fd1a2881b7ad7557fbfefebe0296d8.webp"
+    },
+    {
+      "position": 7,
+      "title": "Amazon Echo Dot with Clock Smart Speaker with Alexa",
+      "product_link": "https://www.google.com/shopping/product/5065261455991033783?gl=us",
+      "product_id": "5065261455991033783",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5065261455991033783",
+      "link": "https://www.amazon.com/All-new-Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Ocean-Blue/dp/B0BFC8DR7C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/All-new-Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Ocean-Blue/dp/B0BFC8DR7C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-spot-2024-release-smart-alarm-clock-with-vibrant-sound-and-alexa-ocean-blue/6587899.p?skuId=6587899&utm_source=feed",
+        "https://www.lowes.com/pd/Amazon-Echo-Spot-2024-Release-Smart-Alarm-Clock-with-Vibrant-Sound-and-Alexa-Ocean-Blue/5015360581?user=shopping&feed=yes&srsltid=AfmBOopm3H_F5_-ZnKDEKiD1ykPmhfgu3aTolKnuH5Yeq9QhYCoiBTqfloo"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11f9bcdfa1e90ef473d9b7a7f554552564.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "old_price": "$80",
+      "extracted_old_price": 80,
+      "rating": 4.8,
+      "reviews": 5500,
+      "snippet": "Good sound quality (335 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "37% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11f8b239214f4b46f7dc5aaf9f3c102549.webp",
+      "tag": "37% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 8,
+      "title": "Google Nest Hub (2nd gen)",
+      "product_link": "https://www.google.com/shopping/product/11706355753916705642?gl=us",
+      "product_id": "11706355753916705642",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11706355753916705642",
+      "link": "https://www.homedepot.com/p/Google-Nest-Hub-2nd-Gen-Smart-Home-Speaker-and-7-in-Display-with-Google-Assistant-Sand-GA02307-US/316051055?source=shoppingads&locale=en-US&srsltid=AfmBOoqqjCCA1QvSELRTel9GOc6sUq9yOG9Oi78iVyVrkh26v9FL_Cfx56k",
+      "links": [
+        "https://www.homedepot.com/p/Google-Nest-Hub-2nd-Gen-Smart-Home-Speaker-and-7-in-Display-with-Google-Assistant-Sand-GA02307-US/316051055?source=shoppingads&locale=en-US&srsltid=AfmBOoqqjCCA1QvSELRTel9GOc6sUq9yOG9Oi78iVyVrkh26v9FL_Cfx56k",
+        "https://www.lowes.com/pd/Google-Nest-Hub-2nd-Gen-Smart-Home-Speaker-and-7-inch-Display-with-Google-Assistant-in-Sand/5001836501?user=shopping&feed=yes&srsltid=AfmBOor9w9nJUQXKnMM37dbmc5JfkB_DdY6OWvwsTHuJ4Zk7kUPLnNufWcU",
+        "https://www.target.com/p/google-nest-hub-2nd-gen-smart-display-sand/-/A-80209779?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1117132698a3261fdad93b706f4d1b05e1.png",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "rating": 4.5,
+      "reviews": 12000,
+      "snippet": "Easy to use (676 user reviews)",
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11d36eb091496a08f8ad51aa9de36ab07b.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 9,
+      "title": "Google Home",
+      "product_link": "https://www.google.com/shopping/product/9158455488035584556?gl=us",
+      "product_id": "9158455488035584556",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9158455488035584556",
+      "link": "https://www.123securityproducts.com/wngoga3a0041.html?srsltid=AfmBOoqhvsif5Hnir-qdJUo6kaClD5gaYY7YsHTkOlmYMUObfNSlTaBUvrE",
+      "links": [
+        "https://www.123securityproducts.com/wngoga3a0041.html?srsltid=AfmBOoqhvsif5Hnir-qdJUo6kaClD5gaYY7YsHTkOlmYMUObfNSlTaBUvrE",
+        "https://www.walmart.com/ip/Google-Home-Smart-Speaker-Google-Assistant-Light-Grey-White/54742302?wmlspartner=wlpa&selectedSellerId=101002341",
+        "https://www.ebay.com/itm/115601093197?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "123SecurityProducts.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11fd8a21198f09b0d146451ba4a782335f.png",
+      "price": "$115.78",
+      "extracted_price": 115.78,
+      "rating": 4.5,
+      "reviews": 8000,
+      "snippet": "Good sound quality (541 user reviews)",
+      "extensions": [
+        "45-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11fa48dd8783093f2a0227cb78aba1507c.webp"
+    },
+    {
+      "position": 10,
+      "title": "Amazon Echo Show 8 with Alexa",
+      "product_link": "https://www.google.com/shopping/product/1325461326833621873?gl=us",
+      "product_id": "1325461326833621873",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1325461326833621873",
+      "link": "https://www.bestbuy.com/site/amazon-echo-show-8-3rd-generation-8-inch-smart-display-with-alexa-glacier-white/6562251.p?skuId=6562251&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/amazon-echo-show-8-3rd-generation-8-inch-smart-display-with-alexa-glacier-white/6562251.p?skuId=6562251&utm_source=feed",
+        "https://www.amazon.com/All-New-Echo-Show-8/dp/B0BLS3Y632?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bjs.com/product/amazon-echo-show-8-3rd-generation---charcoal/3000000000004909275?fulfillment=shipping"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1157b11ef468eb1bc6ed0b59c08fb75f9c.png",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "old_price": "$150",
+      "extracted_old_price": 150,
+      "rating": 4.8,
+      "reviews": 739,
+      "snippet": "Good sound quality (45 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf115e11494dcce91ad56352d63a963504a6.webp",
+      "tag": "46% OFF",
+      "extensions": [
+        "46% OFF"
+      ],
+      "delivery": "Free delivery by Dec 17"
+    },
+    {
+      "position": 11,
+      "title": "Google Home Smart Assistant",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12282165161953012880",
+      "product_id": "12282165161953012880",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12282165161953012880",
+      "link": "https://www.ebay.com/itm/203183859500?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "links": [
+        "https://www.ebay.com/itm/203183859500?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11efc351be87d78ce0500c5c0796684073.png",
+      "price": "$50.00",
+      "extracted_price": 50,
+      "second_hand_condition": "pre-owned",
+      "snippet": "Google Assistant",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1151d0b8eac51c3ab59a0561cf8ea43baa.webp"
+    },
+    {
+      "position": 12,
+      "title": "Amazon Echo Dot 5th Gen Smart Speaker",
+      "product_link": "https://www.google.com/shopping/product/3402558043246175789?gl=us",
+      "product_id": "3402558043246175789",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3402558043246175789",
+      "link": "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-dot-5th-gen-2022-release-smart-speaker-with-alexa-charcoal/6522258.p?skuId=6522258&utm_source=feed",
+        "https://www.homedepot.com/p/Amazon-Echo-Dot-5th-Gen-2022-Release-Smart-Speaker-with-Alexa-Charcoal-B09B8V1LZ3/323260667?source=shoppingads&locale=en-US&srsltid=AfmBOoq3OPPjQzIiLclr3aK3ovcKmAeUwVIh0vI7_xv5F3gx_7vHjTvJoIk"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11a7237972a456eccaec832a10cafc2b26.png",
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "old_price": "$50",
+      "extracted_old_price": 50,
+      "rating": 4.7,
+      "reviews": 2300,
+      "snippet": "Smart Speaker · White · Bluetooth, Wi-Fi",
+      "extensions": [
+        "30-day returns",
+        "54% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1173e0f39623849b335332fed85e016044.webp",
+      "tag": "54% OFF"
+    },
+    {
+      "position": 13,
+      "title": "Google Home Smart Assistant GA3A00417A14 Bluetooth speakers - White",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:8997556166232864414",
+      "product_id": "8997556166232864414",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8997556166232864414",
+      "link": "https://www.backmarket.com/en-us/p/google-ga3a00417a14-bluetooth-speakers-white/752d0336-5392-4dc6-8fb2-f98ec8092090?shopping=gmc&srsltid=AfmBOoqKvOxzxfzZfO9Ok5KOlT-nfj8my2yacrVpB3gmNmbuPKVpTLzXvmY",
+      "links": [
+        "https://www.backmarket.com/en-us/p/google-ga3a00417a14-bluetooth-speakers-white/752d0336-5392-4dc6-8fb2-f98ec8092090?shopping=gmc&srsltid=AfmBOoqKvOxzxfzZfO9Ok5KOlT-nfj8my2yacrVpB3gmNmbuPKVpTLzXvmY"
+      ],
+      "source": "Back Market",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11cfc49886ba49dd36b4e5c022d840ec03.png",
+      "price": "$68.69",
+      "extracted_price": 68.69,
+      "second_hand_condition": "refurbished",
+      "rating": 4.5,
+      "reviews": 8000,
+      "snippet": "Good sound quality (541 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "47% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11faa35a81ce3698982a56795156aa5fba.webp",
+      "tag": "47% OFF"
+    },
+    {
+      "position": 14,
+      "title": "Amazon Echo Show 5 Smart Home Assistant",
+      "product_link": "https://www.google.com/shopping/product/13007248447204996059?gl=us",
+      "product_id": "13007248447204996059",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13007248447204996059",
+      "link": "https://superarbor.io/products/313729364-echo-show-5-charcoal?currency=USD&variant=47908993564987&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=02af43b4f156&srsltid=AfmBOorBxCBXqJ8KbND7eN7VAH-3SoAoSBis1dF1QMfylrTfGhKxHpjecsY",
+      "links": [
+        "https://superarbor.io/products/313729364-echo-show-5-charcoal?currency=USD&variant=47908993564987&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=02af43b4f156&srsltid=AfmBOorBxCBXqJ8KbND7eN7VAH-3SoAoSBis1dF1QMfylrTfGhKxHpjecsY",
+        "https://www.ebay.com/itm/266926148886?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://poshmark.com/listing/Echo-Show-6699243f7412715b1793944a?srsltid=AfmBOordB-AYWxDCBTTls3bBKoogqzfv-4brdAanYKAXoqaEJSzq7diWjPQ#utm_source=gdm_unpaid"
+      ],
+      "source": "Arbor",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf117b84320f08453b1841908a4be8ed9830.png",
+      "price": "$41.84",
+      "extracted_price": 41.84,
+      "old_price": "$90",
+      "extracted_old_price": 90,
+      "rating": 4.7,
+      "reviews": 349,
+      "snippet": "Good sound quality (27 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "53% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf112dded401a0d56ba84e9c84f5428878ef.webp",
+      "tag": "53% OFF"
+    },
+    {
+      "position": 15,
+      "title": "Smart speaker voice assistant screen",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15902191063198073785",
+      "product_id": "15902191063198073785",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15902191063198073785",
+      "link": "https://www.aliexpress.com/item/3256805101907159.html?_randl_currency=USD&_randl_shipto=US&src=google",
+      "links": [
+        "https://www.aliexpress.com/item/3256805101907159.html?_randl_currency=USD&_randl_shipto=US&src=google"
+      ],
+      "source": "AliExpress",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf119d3e48d22efd19dd9c40a4fcadcd6501.png",
+      "price": "$489.60",
+      "extracted_price": 489.6,
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1163fb96b292640336a1c7082313065aef.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "Amazon Echo Dot Smart Speaker with Alexa",
+      "product_link": "https://www.google.com/shopping/product/2716565682460752971?gl=us",
+      "product_id": "2716565682460752971",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2716565682460752971",
+      "link": "https://www.target.com/p/amazon-echo-dot-5th-gen-2022-smart-speaker-with-alexa-glacier-white/-/A-87130563?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16",
+      "links": [
+        "https://www.target.com/p/amazon-echo-dot-5th-gen-2022-smart-speaker-with-alexa-glacier-white/-/A-87130563?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16",
+        "https://www.bestbuy.com/site/amazon-echo-dot-5th-gen-2022-release-smart-speaker-with-alexa-glacier-white/6522268.p?skuId=6522268&ref=212&loc=1&utm_source=feed&extStoreId=51",
+        "https://www.amazon.com/Amazon-release-vibrant-helpful-routines/dp/B09B94RL1R?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1106a1cec07305c76406fdede02710d807.png",
+      "price": "$27.99",
+      "extracted_price": 27.99,
+      "old_price": "$50",
+      "extracted_old_price": 50,
+      "rating": 4.7,
+      "reviews": 7500,
+      "snippet": "Good sound quality (477 user reviews)",
+      "extensions": [
+        "Free 90-day returns",
+        "44% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11685c4c2be929941b3716c71dcf4dc251.webp",
+      "tag": "44% OFF",
+      "delivery": "Free delivery on $35+"
+    },
+    {
+      "position": 17,
+      "title": "Amazon Echo Show 5 Smart Display with Alexa",
+      "product_link": "https://www.google.com/shopping/product/12852985946699798753?gl=us",
+      "product_id": "12852985946699798753",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12852985946699798753",
+      "link": "https://www.amazon.com/All-new-release-display-clearer-Glacier/dp/B09B2QTGFY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/All-new-release-display-clearer-Glacier/dp/B09B2QTGFY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-show-5-3rd-generation--5-5-inch-smart-display-with-alexa-glacier-white/6544303.p?skuId=6544303&utm_source=feed",
+        "https://www.target.com/p/amazon-echo-show-5-3rd-gen-2023-release-smart-display-with-deeper-bass-and-clearer-sound-glacier-white/-/A-88440367?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1110f3ffad12a2ed050536117ff19d6a54.png",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "old_price": "$90",
+      "extracted_old_price": 90,
+      "rating": 4.6,
+      "reviews": 2100,
+      "snippet": "Good sound quality (82 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "50% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11161e81e76d5a9d02bff19cfe49a0205f.webp",
+      "tag": "50% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 18,
+      "title": "Amazon Echo Dot",
+      "product_link": "https://www.google.com/shopping/product/15168357459059815633?gl=us",
+      "product_id": "15168357459059815633",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15168357459059815633",
+      "link": "https://www.homedepot.com/p/Amazon-Echo-Dot-in-Heather-Gray-Gen-3-B07PDHSLM6/313729550?source=shoppingads&locale=en-US&srsltid=AfmBOooEoNIFg8v1xKWgwRgWMcvTzRp2aEzpAxZg0PQjwWY1TAAnYsLlyZ0",
+      "links": [
+        "https://www.homedepot.com/p/Amazon-Echo-Dot-in-Heather-Gray-Gen-3-B07PDHSLM6/313729550?source=shoppingads&locale=en-US&srsltid=AfmBOooEoNIFg8v1xKWgwRgWMcvTzRp2aEzpAxZg0PQjwWY1TAAnYsLlyZ0",
+        "https://www.ebay.com/itm/167126147948?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooM1viLbjoV3GnGTaPPxkYJ9_5fXFpPlFSfcp_ghF6rdZP3nkCXm0E",
+        "https://www.ebay.com/itm/226247007863?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1101868252df0256d5ea2e0af16e0b0d20.png",
+      "price": "$54.73",
+      "extracted_price": 54.73,
+      "rating": 4.7,
+      "reviews": 13000,
+      "snippet": "Easy to use (773 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11bc5d1fdc4500fc4806bffc4e35597dbc.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 19,
+      "title": "Lenovo Smart Display with Google Assistant",
+      "product_link": "https://www.google.com/shopping/product/10238378230430733653?gl=us",
+      "product_id": "10238378230430733653",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10238378230430733653",
+      "link": "https://www.newegg.com/lenovo-za3n0003us-accessories-wifi/p/N82E16881496002R?item=N82E16881496002R&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-smart%20hub%20%26%20kits-_-lenovo-_-81496002R&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-smart%20hub%20%26%20kits-_-lenovo-_-81496002R&source=region",
+      "links": [
+        "https://www.newegg.com/lenovo-za3n0003us-accessories-wifi/p/N82E16881496002R?item=N82E16881496002R&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-smart%20hub%20%26%20kits-_-lenovo-_-81496002R&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-smart%20hub%20%26%20kits-_-lenovo-_-81496002R&source=region",
+        "https://www.wbmason.com/ProductDetail.aspx?ItemDesc=Lenovo-Smart-Display-10-with-the-Google-Assistant-White-Bamboo&ItemID=LNVOZA3N0003US&uom=EA&OCID=SAG&srsltid=AfmBOopcwMTz8VnCTONiPDK0dNEdVaRY-MtzyvSDPXyjSAPwOMwkgiomXJ8",
+        "https://www.ebay.com/itm/176667327822?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Newegg.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11c8b8a80ba9c3d54c83c640d828a4919e.png",
+      "price": "$166.61",
+      "extracted_price": 166.61,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.3,
+      "reviews": 518,
+      "snippet": "Good sound quality (81 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "33% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11f371aa89dd8c6a4fe1dc2df9b33891df.webp",
+      "tag": "33% OFF"
+    },
+    {
+      "position": 20,
+      "title": "Google Nest Hub",
+      "product_link": "https://www.google.com/shopping/product/4665481538337117862?gl=us",
+      "product_id": "4665481538337117862",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4665481538337117862",
+      "link": "https://tecisoft.com/products/google-nest-hub-char?currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=f5fec7b78b4e&srsltid=AfmBOopWhFMTvv6uW8eOudb61q8cTGv7EJaCdvzeFiWJZ7sXYCBlAP_OHlg",
+      "links": [
+        "https://tecisoft.com/products/google-nest-hub-char?currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=f5fec7b78b4e&srsltid=AfmBOopWhFMTvv6uW8eOudb61q8cTGv7EJaCdvzeFiWJZ7sXYCBlAP_OHlg",
+        "https://www.ebay.com/itm/355787734394?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.123securityproducts.com/ga00515us.html?srsltid=AfmBOopkVZgGtxeauTfvkHnPevGo0ux74qmvcDiyvqpQeLudQJboQqhXXD0"
+      ],
+      "source": "Tecisoft",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1128dc411c22bfb16ba71dda906a237c90.png",
+      "price": "$85.70",
+      "extracted_price": 85.7,
+      "rating": 4.5,
+      "reviews": 4900,
+      "snippet": "Easy to use (378 user reviews)",
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1113ed739999a2578d57741bfdae90694a.webp",
+      "delivery": "Free delivery by Dec 18"
+    },
+    {
+      "position": 21,
+      "title": "Amazon Echo (1st Generation) Smart Assistant - Black",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:464793929140811472",
+      "product_id": "464793929140811472",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=464793929140811472",
+      "link": "https://www.ebay.com/itm/185756575906?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "links": [
+        "https://www.ebay.com/itm/185756575906?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1106de92fb8da736d5863d33e5d73d5598.png",
+      "price": "$30.00",
+      "extracted_price": 30,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.7,
+      "reviews": 1700,
+      "snippet": "Good sound quality (117 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11d6fd8b39d22fcdd1ed9107606952ade3.webp"
+    },
+    {
+      "position": 22,
+      "title": "Google Nest Hub 2nd Gen Smart Display",
+      "product_link": "https://www.google.com/shopping/product/13223599678008740447?gl=us",
+      "product_id": "13223599678008740447",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13223599678008740447",
+      "link": "https://www.amazon.com/Google-Nest-Smart-Display-Assistant/dp/B0CLBN88HN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N5GWWNMC5K57",
+      "links": [
+        "https://www.amazon.com/Google-Nest-Smart-Display-Assistant/dp/B0CLBN88HN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N5GWWNMC5K57",
+        "https://www.homedepot.com/p/Google-Nest-Hub-2nd-Gen-Smart-Home-Speaker-and-7-Display-in-Charcoal-with-Defiant-Smart-HubSpace-Plug-with-1-Outlet-2-Pack-GA04280/321221281?source=shoppingads&locale=en-US&srsltid=AfmBOorAr5Hza2wMndjRL9K_CMNdl1KjjC5BfhUlP2CASJBF0yaHdqIU37Y",
+        "https://www.samsclub.com/p/google-nest-hub-gen-2-chalk/P03005607?itemNumber=990010970"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf115eb96f8c314aa1dc884ab8199ca4543f.png",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "rating": 4.3,
+      "reviews": 207,
+      "snippet": "Google Assistant",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11925048240d65b9ed94071d98f1f37e83.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 23,
+      "title": "Google Home - Smart Speaker with Google Assistant - White/Slate",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12918997970532979044",
+      "product_id": "12918997970532979044",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12918997970532979044",
+      "link": "https://www.findsmarket.com/product/google-home-smart-speaker-with-google-assistant-white-slate/?srsltid=AfmBOorgHBTIH4-v1ptWCmUqysXLsLV8cZnLCU65E4zW6qkHsYd2q2cY6vE",
+      "links": [
+        "https://www.findsmarket.com/product/google-home-smart-speaker-with-google-assistant-white-slate/?srsltid=AfmBOorgHBTIH4-v1ptWCmUqysXLsLV8cZnLCU65E4zW6qkHsYd2q2cY6vE"
+      ],
+      "source": "findsmarket.com",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11635730ab19878cad9968247b6b6ab82a.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "snippet": "White · Google Assistant",
+      "extensions": [
+        "14-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf116997e9e8312d1f11f21aa157875147e0.webp",
+      "delivery": "Free delivery by Sat"
+    },
+    {
+      "position": 24,
+      "title": "Amazon Echo Spot",
+      "product_link": "https://www.google.com/shopping/product/11571616238598800394?gl=us",
+      "product_id": "11571616238598800394",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11571616238598800394",
+      "link": "https://www.backmarket.com/en-us/p/amazon-echo-spot-smart-alarm-clock-with-alexa-assistant-black-refurbished/785b47da-0852-457d-9254-4b1e1dee5fde?shopping=gmc&srsltid=AfmBOoogFRDiIK4kG0qUDn1_Kwj0k8pmLKkhopDkDNzj929k6ppSxgF4MDM",
+      "links": [
+        "https://www.backmarket.com/en-us/p/amazon-echo-spot-smart-alarm-clock-with-alexa-assistant-black-refurbished/785b47da-0852-457d-9254-4b1e1dee5fde?shopping=gmc&srsltid=AfmBOoogFRDiIK4kG0qUDn1_Kwj0k8pmLKkhopDkDNzj929k6ppSxgF4MDM",
+        "https://www.ebay.com/itm/126715282321?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.ebay.com/itm/126741329446?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Back Market",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11f952dc1592ba77f49dff6477c3811e20.png",
+      "price": "$179.18",
+      "extracted_price": 179.18,
+      "second_hand_condition": "refurbished",
+      "rating": 4.7,
+      "reviews": 590,
+      "snippet": "Easy to set up (20 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "25% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11209d55d448113f13e2e4e697de1004bb.webp",
+      "tag": "25% OFF"
+    },
+    {
+      "position": 25,
+      "title": "Amazon Echo Show 8 Smart Display",
+      "product_link": "https://www.google.com/shopping/product/11153881466340151483?gl=us",
+      "product_id": "11153881466340151483",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11153881466340151483",
+      "link": "https://www.homedepot.com/p/Amazon-Echo-Show-8-2nd-Gen-Charcoal-B084DCJKSL/317531753?source=shoppingads&locale=en-US&srsltid=AfmBOoo1hC6FZbyQnGvbYVzKlJrr9GUiGqWvMD6ZrF0W3Z3cNvb-eybjnug",
+      "links": [
+        "https://www.homedepot.com/p/Amazon-Echo-Show-8-2nd-Gen-Charcoal-B084DCJKSL/317531753?source=shoppingads&locale=en-US&srsltid=AfmBOoo1hC6FZbyQnGvbYVzKlJrr9GUiGqWvMD6ZrF0W3Z3cNvb-eybjnug",
+        "https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.electronicexpress.com/catalog/199369/amazon-echo-show-8-2nd-generation-charcoal?srsltid=AfmBOoo-oz7Hv_YBWlbItD-xGLk7p_j7tcN5c5L9Nc_Zt556epppa4Bv_tk"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11fd59ed1afd6f18e5bc385f9907fe6b81.png",
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "rating": 4.7,
+      "reviews": 3700,
+      "snippet": "Good sound quality (264 user reviews)",
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11106d30b32157d826fe7dbf0db266c16c.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 26,
+      "title": "Amazon Echo 2nd Generation Smart Assistant Speaker - Sandstone /",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4140373725412455253",
+      "product_id": "4140373725412455253",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4140373725412455253",
+      "link": "https://www.ebay.com/itm/276395286397?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "links": [
+        "https://www.ebay.com/itm/276395286397?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf114b60a31a314998252e6f717f8bbe89fb.png",
+      "price": "$39.95",
+      "extracted_price": 39.95,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.6,
+      "reviews": 4300,
+      "snippet": "Good sound quality (302 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11a43a3721355338bf8b3430d53e5e1992.webp"
+    },
+    {
+      "position": 27,
+      "title": "Lenovo Smart Display 10\" Google Assistant",
+      "product_link": "https://www.google.com/shopping/product/5371389961210360196?gl=us",
+      "product_id": "5371389961210360196",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5371389961210360196",
+      "link": "https://www.walmart.com/ip/Lenovo-Smart-Display-10-with-Google-Assistant/552189414?wmlspartner=wlpa&selectedSellerId=14877",
+      "links": [
+        "https://www.walmart.com/ip/Lenovo-Smart-Display-10-with-Google-Assistant/552189414?wmlspartner=wlpa&selectedSellerId=14877",
+        "https://www.walmart.com/ip/Lenovo-Smart-Display-10-with-Google-Assistant/552189414?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.walmart.com/ip/Lenovo-Smart-Display-10-with-Google-Assistant/552189414?wmlspartner=wlpa&selectedSellerId=18615"
+      ],
+      "source": "Walmart - Etek-global",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11e3698d279887cd980515c36595997f30.png",
+      "price": "$255.00",
+      "extracted_price": 255,
+      "rating": 4,
+      "reviews": 48,
+      "snippet": "10 in",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf113b85ee058f7dca5ea38e34394fd3cd61.webp"
+    },
+    {
+      "position": 28,
+      "title": "Sonos Move Portable Smart Speaker",
+      "product_link": "https://www.google.com/shopping/product/13564962913164142366?gl=us",
+      "product_id": "13564962913164142366",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13564962913164142366",
+      "link": "https://www.amazon.com/Sonos-Move-Battery-powered-Bluetooth-built/dp/B07W95RBZM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N20WTQS72R07",
+      "links": [
+        "https://www.amazon.com/Sonos-Move-Battery-powered-Bluetooth-built/dp/B07W95RBZM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N20WTQS72R07",
+        "https://www.walmart.com/ip/Sonos-Move-Portable-Smart-Battery-Powered-Speaker-with-Bluetooth-and-Wi-Fi-Black/896952411?wmlspartner=wlpa&selectedSellerId=101025342",
+        "https://www.adorama.com/somve1us1blk.html?refby=inc-google-shop-o"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf114920836f8b0565e6c527893d3c372bc4.png",
+      "price": "$334.00",
+      "extracted_price": 334,
+      "old_price": "$399",
+      "extracted_old_price": 399,
+      "rating": 4.5,
+      "reviews": 12000,
+      "snippet": "Good sound quality (1,654 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11d2800c0bc102bbf5ea56693f708ae110.webp",
+      "tag": "16% OFF",
+      "extensions": [
+        "16% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 29,
+      "title": "Amazon Echo (2nd Generation) Smart Assistant - Charcoal Fabric",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:11031989107369346154",
+      "product_id": "11031989107369346154",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11031989107369346154",
+      "link": "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MjU5OTE5OTU2?srsltid=AfmBOoqgtWFfAE6ODXtUO9e6whuN97RD4mPimJ1hHSJDa03AdmakssR5oVA",
+      "links": [
+        "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MjU5OTE5OTU2?srsltid=AfmBOoqgtWFfAE6ODXtUO9e6whuN97RD4mPimJ1hHSJDa03AdmakssR5oVA"
+      ],
+      "source": "Whatnot",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf1168d4e6a241ba3aa76a9c1534eba3f02f.png",
+      "price": "$59.60",
+      "extracted_price": 59.6,
+      "snippet": "Amazon Alexa",
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf11988952f6df5745c15d64c441cb768a6d.webp"
+    },
+    {
+      "position": 30,
+      "title": "Apple HomePod mini",
+      "product_link": "https://www.google.com/shopping/product/15404269271535946432?gl=us",
+      "product_id": "15404269271535946432",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15404269271535946432",
+      "link": "https://www.verizon.com/products/apple-homepod-mini/?sku=sku4830025",
+      "links": [
+        "https://www.verizon.com/products/apple-homepod-mini/?sku=sku4830025",
+        "https://www.bestbuy.com/site/apple-homepod-mini-white/6377590.p?skuId=6377590&ref=212&loc=1&utm_source=feed&extStoreId=51",
+        "https://www.apple.com/us/xc/product/MJ2E3?cid=aos-us-seo-pla-homepod"
+      ],
+      "source": "Verizon",
+      "source_icon": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf110f0a67b4a8649b777c9c49e143f68611.png",
+      "price": "$84.99",
+      "extracted_price": 84.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.6,
+      "reviews": 11000,
+      "snippet": "Good sound quality (1,537 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "15% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757db2d4c1a65dcd3a26794/images/5bab7a1a68b35f138fce8028f936bf118021f6e826db3e685a0e84749d07dcd9.webp",
+      "tag": "15% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 31,
+      "title": "Amazon Echo (2nd Generation) Smart Assistant Speaker - Sandstone",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7635014199424169978",
+      "product_id": "7635014199424169978",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7635014199424169978",
+      "link": "https://www.ebay.com/itm/256713526648?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "links": [
+        "https://www.ebay.com/itm/256713526648?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eBay",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "second_hand_condition": "pre-owned",
+      "snippet": "Smart Speaker · Bluetooth, Wi-Fi · Voice Control",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1FCYnA5sjhDBVofCv7AzPSltAls1TYKEeH62ioDDI1mxXC4tUG7WlbvUG131dwDipVHW_lK8Et700SJwFkRMlXvDsbjJ2BYdENoKd3-jhAPXGC53PB4lOpg",
+      "delivery": "Free delivery by Dec 17"
+    },
+    {
+      "position": 32,
+      "title": "Amazon Echo (1st Generation) Smart Assistant - Black Alexa Tested Working - Electronics",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9050960607204064376",
+      "product_id": "9050960607204064376",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9050960607204064376",
+      "link": "https://www.mercari.com/us/item/m13022027967/?srsltid=AfmBOop_nNiyjjzyKo-UmxsDs9zcYbli09ERsxdQ5DJXgOpB69P_l1OSry8",
+      "links": [
+        "https://www.mercari.com/us/item/m13022027967/?srsltid=AfmBOop_nNiyjjzyKo-UmxsDs9zcYbli09ERsxdQ5DJXgOpB69P_l1OSry8"
+      ],
+      "source": "Mercari",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLmA5xX97YEyUeWttyp0GZJoClgBhChGvNVAgVZG1iY4w1WterJxcgj1K9DQWQeWmoxdOF-_ORNeOMQysiGBy38MCwRDT4jB0",
+      "price": "$34.00",
+      "extracted_price": 34,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.7,
+      "reviews": 1700,
+      "snippet": "Good sound quality (117 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRG647gi8BEQ44e5uB_DVfKUMFzQfSJjoIuO6fRT7tnMlU44HZt0HbKlvMl8eSWIjo6n0Z4mGwJW6REwKOxjlH8hjBNKgqBvBdF8M1BwXAu",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 33,
+      "title": "Amazon Echo Show 5 Kids",
+      "product_link": "https://www.google.com/shopping/product/6051423236634702973?gl=us",
+      "product_id": "6051423236634702973",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6051423236634702973",
+      "link": "https://www.amazon.com/All-new-Echo-Show-5-3rd-Gen-2023-release-Kids/dp/B09B2SB77Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/All-new-Echo-Show-5-3rd-Gen-2023-release-Kids/dp/B09B2SB77Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-show-5-kids-3rd-generation-5-5-inch-smart-display-with-alexa-galaxy/6544300.p?skuId=6544300&ref=212&loc=1&utm_source=feed&extStoreId=1513",
+        "https://www.bhphotovideo.com/c/product/1769114-REG/amazon_53_027779_echo_show_5_3rd.html?kw=AM53027779&ap=y&smp=Y&BI=E7249&srsltid=AfmBOortk7t26LDaWYhWeeJWA-jrC5mw_eBW5C8JWCW-k2KzUX-NFdecMk0"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.4,
+      "reviews": 260,
+      "snippet": "Easy to set up (26 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "50% OFF"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRS0ikLHIRKlPnfL5n1gCd8JWiCGYxc9PVbX8-285qHPbvMi8uFsTOHxiyyYPjHt31MjcC-hTTxujotBoApULmshJg16Lay5zT12mX3sdRvYcG_q0Ntatz4",
+      "tag": "50% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 34,
+      "title": "Amazon Echo (1st Generation) Smart Assistant Speaker",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6851144992183735133",
+      "product_id": "6851144992183735133",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6851144992183735133",
+      "link": "https://www.findsmarket.com/product/amazon-echo-1st-generation-smart-assistant-speaker/?srsltid=AfmBOorPdNQb5E32Y3PRARdhwGVK2XJzz4_NRp1GPMKozvLfANJPy14CgIA",
+      "links": [
+        "https://www.findsmarket.com/product/amazon-echo-1st-generation-smart-assistant-speaker/?srsltid=AfmBOorPdNQb5E32Y3PRARdhwGVK2XJzz4_NRp1GPMKozvLfANJPy14CgIA"
+      ],
+      "source": "findsmarket.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTqblna0_2227VGfM0DfognVHjDnKjX2JC-NAoBNhasqrh9-_oS7qNdAu7j7kuE2rWlBAz6fPQGNrK2eRs2rW8QH8agOuORn_mxf3Ay",
+      "price": "$34.00",
+      "extracted_price": 34,
+      "second_hand_condition": "pre-owned",
+      "snippet": "Amazon Alexa",
+      "extensions": [
+        "14-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvOQSV603Ts1WOGfnY-RPJeqmrdegRv3AJvZsoWCcTUs7b2YjDxXtxtBgUwGCYf_MxrCtqTL5OQXX6MA0z_GTwwrxiIjQlTldhlYAN94sm",
+      "delivery": "Free delivery by Sat"
+    },
+    {
+      "position": 35,
+      "title": "Google Home Mini Smart Assistant Speaker - Chalk",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12429503919054423369",
+      "product_id": "12429503919054423369",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12429503919054423369",
+      "link": "https://www.bonanza.com/listings/Google-Home-Mini-Smart-Assistant-Speaker-Chalk/940590746?goog_pla=1",
+      "links": [
+        "https://www.bonanza.com/listings/Google-Home-Mini-Smart-Assistant-Speaker-Chalk/940590746?goog_pla=1"
+      ],
+      "source": "Bonanza - cctvdefence's booth",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQKEGzpqAOMxpUiytDt9IokiGFwQlk5fHDvNN0NTJwqLTuUlLv3ZB6ZZYF556Su0lnXuMohuxbxMS01Eum7bxL1qYtyRKIYN4s",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "rating": 4.5,
+      "reviews": 27000,
+      "snippet": "Easy to set up (1,649 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAq6tTUi-6cA8HXXo-yJYHJScT9WCA9pXTuGERlT9-YgxpYcgUuMmDP1Tcc-vQL3jSVKH7DhOYwEjt7bfVVtEqp0SY71p4-84GtBCgH-9WbIPa6wmj4iQ8lA"
+    },
+    {
+      "position": 36,
+      "title": "Amazon Echo 2nd Gen Home Smart Assistant",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16894632543568492637",
+      "product_id": "16894632543568492637",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16894632543568492637",
+      "link": "https://www.ebay.com/itm/155875032488?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+      "links": [
+        "https://www.ebay.com/itm/155875032488?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eBay",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.6,
+      "reviews": 4300,
+      "snippet": "Good sound quality (302 user reviews)",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGeLn4UHg0OtuRvCQ0ImHz6A7CLqxEIorE30CptCaknMu7lmEdzUpWukx2EbRZim9HJv5enUgqkgWE6D5fGeXNU1_o_6xjcO6jYI7ohvwp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 37,
+      "title": "Amazon Other | Amazon Echo (1st Generation) Smart Assistant | Color: Black | Size: Os | Mizzoumart's Closet",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:2399667312786001607",
+      "product_id": "2399667312786001607",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2399667312786001607",
+      "link": "https://poshmark.com/listing/Amazon-Echo-1st-Generation-Smart-Assistant-67421e1d775caf66d9a92adc#utm_source=gdm_unpaid",
+      "links": [
+        "https://poshmark.com/listing/Amazon-Echo-1st-Generation-Smart-Assistant-67421e1d775caf66d9a92adc#utm_source=gdm_unpaid"
+      ],
+      "source": "Poshmark",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQgE5YW9q7ce-TY-ORlvWjWfhcq61HU1-cph5DDKWEFIARUAQSdI7Q7a_t3VW7jGLqcgcFb_1KWHtfMCXQ2pUUEd_NU0jU",
+      "price": "$50.00",
+      "extracted_price": 50,
+      "snippet": "Black · Amazon Alexa",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfjO8PTaOheVQb_c2-a-LY5OSMwFooaImswQtikY6QmXAJa89XQP6Nnqv79szGqnn55n0lHJaBE06wkWNKFEUVo_b2_HeVuwj2_JDc5j0aKu7dbP2z4b_u"
+    },
+    {
+      "position": 38,
+      "title": "Polk Audio Wireless Smart Speaker",
+      "product_link": "https://www.google.com/shopping/product/13456797491772355485?gl=us",
+      "product_id": "13456797491772355485",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13456797491772355485",
+      "link": "https://www.walmart.com/ip/Polk-Audio-Assist-Smart-Bluetooth-Speaker-Midnight-Black-Voice-Controlled-Google-Assistant-and-Chromecast-Built-in-Far-Field-Microphone-Array/897224035?wmlspartner=wlpa&selectedSellerId=8537",
+      "links": [
+        "https://www.walmart.com/ip/Polk-Audio-Assist-Smart-Bluetooth-Speaker-Midnight-Black-Voice-Controlled-Google-Assistant-and-Chromecast-Built-in-Far-Field-Microphone-Array/897224035?wmlspartner=wlpa&selectedSellerId=8537",
+        "https://www.ebay.com/itm/255641942353?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.polkaudio.com/en-US/112691-01-00-401.html?srsltid=AfmBOooWhtLqO-UJWLTtam1lg8RQu9Ze3hK3pMn3qGq2NfUlqwjKkWbWhTA"
+      ],
+      "source": "Walmart - T.I.J. DEALS",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "rating": 4.1,
+      "reviews": 65,
+      "snippet": "Good sound quality (17 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnOMvzB_sz8PW1aujdQPV6aezMTAPU59sIYCRpjdxJaQdrRpBSdTQDlsrNfRxJYrHwIFmJhu0N8yjPYteX1L1NSU8P53HpXqPKCKFXgroavrOggfhIU-_J",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 39,
+      "title": "Amazon Echo Alexa Smart Assistant White 1st Generation",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13136489819602814135",
+      "product_id": "13136489819602814135",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13136489819602814135",
+      "link": "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MzI2NTkwOTMy?srsltid=AfmBOorfLTq6m_T_kZoXM0RyLOZ_x9xU40NzlMbhrOcE7AuUDYK0McZUvAU",
+      "links": [
+        "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MzI2NTkwOTMy?srsltid=AfmBOorfLTq6m_T_kZoXM0RyLOZ_x9xU40NzlMbhrOcE7AuUDYK0McZUvAU"
+      ],
+      "source": "Whatnot",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTmh_E1zR16D0GUWXxqmOQHDKK8CrEXDsiVabW2w8hAjV0CSDyX2sSeceELkKvvtHaS-QOp-WPSDvwdAJeJtIlvq5tip9L_sKg",
+      "price": "$22.00",
+      "extracted_price": 22,
+      "snippet": "Smart Speaker · White · Bluetooth",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQYYMcYhLvQHOa8uRbqSzSPYIffCNolnVm2Ea8lBhTPYDqD81aSt7iOjHAS-2pnvDwVt-mAQMRBBib2o8ZyTLy4KR9HPNLRaYTmWhc6GwyXO_xqG6h5ZGQhCQ"
+    },
+    {
+      "position": 40,
+      "title": "Amazon Echo Studio Smart Assistant Glacier White - MonkeyTools",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9344048008286916500",
+      "product_id": "9344048008286916500",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9344048008286916500",
+      "link": "https://monkeytools.co.uk/products/amazon-echo-studio-smart-assistant-glacier-white-847kj?variant=41519399436374&currency=GBP&srsltid=AfmBOoq7oz3yB1BVPzqVWNtd3MnuQqtl2BSjdKf-DrTW4vIQLdnpOuSysRI",
+      "links": [
+        "https://monkeytools.co.uk/products/amazon-echo-studio-smart-assistant-glacier-white-847kj?variant=41519399436374&currency=GBP&srsltid=AfmBOoq7oz3yB1BVPzqVWNtd3MnuQqtl2BSjdKf-DrTW4vIQLdnpOuSysRI"
+      ],
+      "source": "Monkey Tools",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSt3ur01fO3ccSSg3O5Pxyr7ig3cJt41MG3JWZ84xsBMWJv0n31mHFXGGKzo9MDcu2KylyyFGcuqdlLsavNcCMWstZtb-mKUeXoAA",
+      "price": "$308.51",
+      "extracted_price": 308.51,
+      "rating": 4.7,
+      "reviews": 3000,
+      "snippet": "Good sound quality (548 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBzEm9JDzz8LG_dc2abgKr-UhhCwBQ-SgFEVb174kVX55PnsmNhIkDe-eiRK8C4UbbSvgorjHbeUUg5ufzhwvDL24AHaa0Iq2LT-PvnXs6Txq_5dHuWjUG"
+    },
+    {
+      "position": 41,
+      "title": "Amazon Echo Smart Home Hub with Alexa",
+      "product_link": "https://www.google.com/shopping/product/9484141331332633012?gl=us",
+      "product_id": "9484141331332633012",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9484141331332633012",
+      "link": "https://www.target.com/p/amazon-echo-4th-gen-smart-home-hub-with-alexa-charcoal/-/A-80770246?sid=1944S&afid=google&ref=tgt_adv_xsf&CPNG=Electronics&adgroup=56-16",
+      "links": [
+        "https://www.target.com/p/amazon-echo-4th-gen-smart-home-hub-with-alexa-charcoal/-/A-80770246?sid=1944S&afid=google&ref=tgt_adv_xsf&CPNG=Electronics&adgroup=56-16",
+        "https://www.amazon.com/Echo-4th-Gen/dp/B07XKF5RM3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/amazon-echo-4th-gen-with-premium-sound-smart-home-hub-and-alexa-charcoal/6430065.p?skuId=6430065&ref=212&loc=1&utm_source=feed&extStoreId=51"
+      ],
+      "source": "Target",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.7,
+      "reviews": 10000,
+      "extensions": [
+        "Free 90-day returns",
+        "45% OFF"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRccY2rfWX6dx6l6qT41uZKeR2PIvWSK9o2YfbyDKTQrRFVcKaZkqgtpSo7TSJR8uLk5JWI3hh2pKqNBH3B3QRYfIdozhZOh5JRq_BsnN26zCvrFhKDZQyM",
+      "tag": "45% OFF",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 42,
+      "title": "Google Nest Mini",
+      "product_link": "https://www.google.com/shopping/product/13573068641653636869?gl=us",
+      "product_id": "13573068641653636869",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13573068641653636869",
+      "link": "https://www.crutchfield.com/I-rGPSc1BJE/p_806GA00781/Google-Nest-Mini-Charcoal.html",
+      "links": [
+        "https://www.crutchfield.com/I-rGPSc1BJE/p_806GA00781/Google-Nest-Mini-Charcoal.html",
+        "https://www.amazon.com/Google-Generation-Smart-Speaker-Assistant/dp/B0CGYFYY34?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1B93CWG1J5PF1",
+        "https://www.walmart.com/ip/Google-Nest-Mini-2nd-Generation-Chalk/751612012?wmlspartner=wlpa&selectedSellerId=0"
+      ],
+      "source": "Crutchfield",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0AOCeg3MLNx7lMFnSsc94wm_vYGq9cViyPf7dngSAHgtJnFPpDlQW8nY_5JqoTLnARwiUeihSf9Ez8U0a0JFfSf53bwtp9SXyCxMi",
+      "price": "$47.00",
+      "extracted_price": 47,
+      "rating": 4.3,
+      "reviews": 22000,
+      "extensions": [
+        "60-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCy4wYPHXWs3h0mqxtGWh06VEEux3OALqG5JPFGMWv9nQwOSTX91TLrLkxf5-cpFvF0mChB6OshjtJ8ggZC2sWYmSdLUkIUmLJPDxMAiDmJOa2MgOPQIIS",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 43,
+      "title": "Amazon Echo Pop Smart Speaker with Alexa",
+      "product_link": "https://www.google.com/shopping/product/9950846483465423515?gl=us",
+      "product_id": "9950846483465423515",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9950846483465423515",
+      "link": "https://www.shipt.com/shop/products/24090659?srsltid=AfmBOopmS333ilmmz9_yDbP08H2iCVzvafgyNaPxylN0mE9FU8B4zH29fJM&region_id=004782",
+      "links": [
+        "https://www.shipt.com/shop/products/24090659?srsltid=AfmBOopmS333ilmmz9_yDbP08H2iCVzvafgyNaPxylN0mE9FU8B4zH29fJM&region_id=004782",
+        "https://www.bestbuy.com/site/amazon-echo-pop-1st-generation-smart-speaker-with-alexa-charcoal/6544302.p?skuId=6544302&ref=212&loc=1&utm_source=feed&extStoreId=51",
+        "https://www.amazon.com/Amazon-Echo-Alexa-fits-anywhere/dp/B09WNK39JN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+      ],
+      "source": "Shipt",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQxUoFk-M4NvIgkEJeeBpW8OVLkpgo9zqHFyExD2blqbtZoxiyzrfrnuMPtkYRoDW7SyndzQ5Mtgr-kwMwUPjrAKpdYXbG9",
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "rating": 4.7,
+      "reviews": 3400,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShdFcahPjpqjbbVSi69d7fFLCIXdhiLBwZznOdGzDy6RXRcVVcuSX82TZJm4joKgcXj9C4HMIaN19fjyk5bqpcCXpHNTfN2gVSWnF0jsJSc8DjJddgHzRC",
+      "delivery": "Next-day delivery"
+    },
+    {
+      "position": 44,
+      "title": "Google Nest Hub (2nd gen)",
+      "product_link": "https://www.google.com/shopping/product/14700138522262684264?gl=us",
+      "product_id": "14700138522262684264",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14700138522262684264",
+      "link": "https://reebelo.com/products/google-nest-hub-7-2nd-gen-mist-excellent-ujdc2?utm_organicad=true&srsltid=AfmBOopgCOWW2wpJkBwOwPn_L5XEbnvJlfv2sngGC40D2KkdqUApxjMDw4Y",
+      "links": [
+        "https://reebelo.com/products/google-nest-hub-7-2nd-gen-mist-excellent-ujdc2?utm_organicad=true&srsltid=AfmBOopgCOWW2wpJkBwOwPn_L5XEbnvJlfv2sngGC40D2KkdqUApxjMDw4Y",
+        "https://www.bestbuy.com/site/nest-hub-7-smart-display-with-google-assistant-2nd-gen-mist/6450822.p?skuId=6450822&utm_source=feed",
+        "https://www.homedepot.com/p/Google-Nest-Hub-2nd-Gen-Smart-Home-Speaker-and-7-in-Display-with-Google-Assistant-Mist-GA02308-US/316051133?source=shoppingads&locale=en-US&srsltid=AfmBOoqazMQxR7_VrS5DpD_kq6Kj3_bGhhSGqbeDifXNrD8_ApawIXpOF1c"
+      ],
+      "source": "Reebelo USA",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSfx_X92AqWHdhRgt5U8LovPpGeGgBC9bAmT_iXExtiThv1P_kUtksovu2l2n9hMndJMrh2BKYn26qo4aZplp31CiCJE71U43M",
+      "price": "$69.00",
+      "extracted_price": 69,
+      "alternative_price": {
+        "price": "Usually $100",
+        "extracted_price": 100,
+        "currency": "Usually"
+      },
+      "rating": 4.5,
+      "reviews": 12000,
+      "extensions": [
+        "30-day returns",
+        "LOW PRICE"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTt6dR_zxnwnBkuc7_2xfJZ1mdl7cmNHinTlZP2P900xUwcEOwwb8AwRigG-Pef48VptU8EEb_cMg6YRRFxUmiG7QrfCzOccC1NSeOGqGGoaP3z1ZvHr3fd",
+      "tag": "LOW PRICE",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 45,
+      "title": "Google Nest Hub Max",
+      "product_link": "https://www.google.com/shopping/product/6923299000239231877?gl=us",
+      "product_id": "6923299000239231877",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6923299000239231877",
+      "link": "https://www.instacart.com/products/21538829-google-ga00639-us-10-charcoal-nest-hub-max-smart-display-hub-with-webcam-each?retailer_id=1366&product_id=21538829&utm_term=pbi-0&utm_campaign=google-ga00639-us-10%22-charcoal-nest-hub-max-smart-display-hub-with-webcam---1-each_best-buy&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-21538829_retailerid=1366",
+      "links": [
+        "https://www.instacart.com/products/21538829-google-ga00639-us-10-charcoal-nest-hub-max-smart-display-hub-with-webcam-each?retailer_id=1366&product_id=21538829&utm_term=pbi-0&utm_campaign=google-ga00639-us-10%22-charcoal-nest-hub-max-smart-display-hub-with-webcam---1-each_best-buy&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-21538829_retailerid=1366",
+        "https://www.bestbuy.com/site/nest-hub-max-smart-display-with-google-assistant-charcoal/6348562.p?skuId=6348562&ref=212&loc=1&utm_source=feed&extStoreId=51",
+        "https://www.dell.com/en-us/shop/google-nest-hubmax-smart-home-assistant-charcoal/apd/aa807851/home-automation?tfcid=91049735&dgc=opl&srsltid=AfmBOop2W5XszIlkjUBsm53bst6wPWEGmJvbEDNSLWn7lku2eyiLZGm5Z9w"
+      ],
+      "source": "Instacart",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRngqAbfW0x23n8oqJtdFVknt6-sMA1P5DgMtGr-NXEJU4l7AaZbDYJ7gEMwhCy47cf2gYkhikc10DvrotTsSgIrZVaD4jVYCLNng",
+      "price": "$235.98",
+      "extracted_price": 235.98,
+      "rating": 4.5,
+      "reviews": 7400,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwUxJguKhUQSTQMaiQ30g8m30NCFaWhwDCLHnO8x81rvB2VVbHSbWQTj2DioN96qPUcUHYp7EXfooM-gH-KIb3ZOBYqqxG839ZFxeU17a9IBK6CgPlov0X",
+      "delivery": "Next-day delivery"
+    },
+    {
+      "position": 46,
+      "title": "Amazon Echo Dot Smart Speaker with Alexa",
+      "product_link": "https://www.google.com/shopping/product/2716565682460752971?gl=us",
+      "product_id": "2716565682460752971",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2716565682460752971",
+      "link": "https://www.target.com/p/amazon-echo-dot-5th-gen-2022-smart-speaker-with-alexa-glacier-white/-/A-87130563?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16",
+      "links": [
+        "https://www.target.com/p/amazon-echo-dot-5th-gen-2022-smart-speaker-with-alexa-glacier-white/-/A-87130563?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=56-16",
+        "https://www.bestbuy.com/site/amazon-echo-dot-5th-gen-2022-release-smart-speaker-with-alexa-glacier-white/6522268.p?skuId=6522268&ref=212&loc=1&utm_source=feed&extStoreId=51",
+        "https://www.amazon.com/Amazon-release-vibrant-helpful-routines/dp/B09B94RL1R?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+      ],
+      "source": "Target",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "price": "$27.99",
+      "extracted_price": 27.99,
+      "old_price": "$50",
+      "extracted_old_price": 50,
+      "rating": 4.7,
+      "reviews": 7500,
+      "extensions": [
+        "Free 90-day returns",
+        "44% OFF"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSQd7uwN2eR4KTjLfaf-9XHmkmaiuHN61j4GZHU4s_oLDCloBRqebTGpQdgKt7kDMIqDIKE27YB3M_vNJnoZNMrmmI4Vm1bAbh1z8c4n_AjkoM4AHnWdVo",
+      "tag": "44% OFF",
+      "delivery": "$6 delivery by Thu"
+    },
+    {
+      "position": 47,
+      "title": "Google Home",
+      "product_link": "https://www.google.com/shopping/product/9158455488035584556?gl=us",
+      "product_id": "9158455488035584556",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9158455488035584556",
+      "link": "https://www.fwwebb.com/woitem/594402*1?reg=nat&srsltid=AfmBOoqm__Xg_M9GMEyqMez3rtY1rVDz3_NjD9MCOLQY7kyLhwG6g1vmNGM&region_id=850001",
+      "links": [
+        "https://www.fwwebb.com/woitem/594402*1?reg=nat&srsltid=AfmBOoqm__Xg_M9GMEyqMez3rtY1rVDz3_NjD9MCOLQY7kyLhwG6g1vmNGM&region_id=850001",
+        "https://www.walmart.com/ip/Google-Home-Smart-Speaker-Google-Assistant-Light-Grey-White/54742302?wmlspartner=wlpa&selectedSellerId=101002341",
+        "https://www.ebay.com/itm/115601093197?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "F.W. Webb Company",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTPBrhid-TfJmXzIl25k3QrjPu-BoCYGig7ljofXaHjmTsucoWHTVgfwbDMQqinorkZZMpz_N1yqDOTkbJbFacN3ChLc6TBYA",
+      "price": "$180.00",
+      "extracted_price": 180,
+      "rating": 4.5,
+      "reviews": 8000,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpjT3gviCk5mE_lkfezyvBM4ecs9SfnOu1_2Vev6WxHJU9v13LxQ-yCEUduH1-bl45qKzC1vPiY3egluZrzmPPbIj1ll0VH7FBivrRB0RpUp0uB9dPvnwa",
+      "delivery": "$35 delivery by Thu"
+    },
+    {
+      "position": 48,
+      "title": "Amazon Echo Show 8 with Alexa",
+      "product_link": "https://www.google.com/shopping/product/16069588939291156146?gl=us",
+      "product_id": "16069588939291156146",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16069588939291156146",
+      "link": "https://www.shipt.com/shop/products/100768526?srsltid=AfmBOoqBFkkTqq3P7lZy-C_DDoDe3d1vO5dlofh_8pvoV9aB2LvduqRWKEo&region_id=004782",
+      "links": [
+        "https://www.shipt.com/shop/products/100768526?srsltid=AfmBOoqBFkkTqq3P7lZy-C_DDoDe3d1vO5dlofh_8pvoV9aB2LvduqRWKEo&region_id=004782",
+        "https://www.bestbuy.com/site/amazon-echo-show-8-3rd-generation-8-inch-smart-display-with-alexa-charcoal/6562249.p?skuId=6562249&ref=212&loc=1&utm_source=feed&extStoreId=1513",
+        "https://www.amazon.com/All-New-Echo-Show-8/dp/B0BLS3Y632?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER"
+      ],
+      "source": "Shipt",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQxUoFk-M4NvIgkEJeeBpW8OVLkpgo9zqHFyExD2blqbtZoxiyzrfrnuMPtkYRoDW7SyndzQ5Mtgr-kwMwUPjrAKpdYXbG9",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "rating": 4.8,
+      "reviews": 739,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqaWJlE11up3Dug0MhNJCAvg2eA6I4UGUEjBh0U7my23WqsokyyTA2uoJtKwYIGcos3sIRwESd9dcb-GTETNhV_gy9UEoBzLvdeeDT5b2FOJUb2fAYeAYT",
+      "delivery": "Next-day delivery"
+    },
+    {
+      "position": 49,
+      "title": "Google Nest Hub",
+      "product_link": "https://www.google.com/shopping/product/4665481538337117862?gl=us",
+      "product_id": "4665481538337117862",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4665481538337117862",
+      "link": "https://reebelo.com/products/google-nest-hub-charcoal-pristine-uss0c?utm_organicad=true&srsltid=AfmBOooAG76KC33c662E3S9mOWoHgs_sZtViwT80nfZWvBFYsNE4lfBaEsM",
+      "links": [
+        "https://reebelo.com/products/google-nest-hub-charcoal-pristine-uss0c?utm_organicad=true&srsltid=AfmBOooAG76KC33c662E3S9mOWoHgs_sZtViwT80nfZWvBFYsNE4lfBaEsM",
+        "https://www.ebay.com/itm/355787734394?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.123securityproducts.com/ga00515us.html?srsltid=AfmBOoohMz35a3nBD73cBf1sU2J89B8Lnw4US851xd2-dcFlxRnonJ4b8vY"
+      ],
+      "source": "Reebelo USA",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSfx_X92AqWHdhRgt5U8LovPpGeGgBC9bAmT_iXExtiThv1P_kUtksovu2l2n9hMndJMrh2BKYn26qo4aZplp31CiCJE71U43M",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "rating": 4.5,
+      "reviews": 4900,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYsiJJ6qdsqsj2M2bUhSvoMqx1w1F2VBqenQiLjFitP4XjLuVZ8Dr8BljSkZ62Hw4De8xBuh3l-1HrfXLImtK3YDEJXnYbv7Uqz8hUK9BDkXJOY4gcxQcy",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 50,
+      "title": "Google Nest Hub 2nd Gen Smart Display",
+      "product_link": "https://www.google.com/shopping/product/16760065259790047350?gl=us",
+      "product_id": "16760065259790047350",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16760065259790047350",
+      "link": "https://www.instacart.com/products/27401269-google-nest-hub-2nd-gen-smart-display-each?retailer_id=352&product_id=27401269&utm_term=pbi-0&utm_campaign=google-nest-hub-2nd-gen-smart-display---1-each_sams-club&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-27401269_retailerid=352",
+      "links": [
+        "https://www.instacart.com/products/27401269-google-nest-hub-2nd-gen-smart-display-each?retailer_id=352&product_id=27401269&utm_term=pbi-0&utm_campaign=google-nest-hub-2nd-gen-smart-display---1-each_sams-club&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-27401269_retailerid=352",
+        "https://www.samsclub.com/p/google-nest-hub-gen-2-chalk/P03005607?itemNumber=990010970",
+        "https://www.amazon.com/Google-Nest-Smart-Display-Assistant/dp/B0CLBN88HN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N5GWWNMC5K57"
+      ],
+      "source": "Instacart",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRngqAbfW0x23n8oqJtdFVknt6-sMA1P5DgMtGr-NXEJU4l7AaZbDYJ7gEMwhCy47cf2gYkhikc10DvrotTsSgIrZVaD4jVYCLNng",
+      "price": "$218.38",
+      "extracted_price": 218.38,
+      "rating": 4.5,
+      "reviews": 19,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1CWuEpM62I7s1GTi8sHOUnJdle-TG0aCq474tXQMffM-iUcPzXr7OV2-bGH-mEjmcnE6xeeKSXHAqOAiT3ugojpbX2nHh_SY3lYVJviDN46gIjUg5RMal",
+      "delivery": "Next-day delivery"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=smart+assistant&start=10"
+  }
+}

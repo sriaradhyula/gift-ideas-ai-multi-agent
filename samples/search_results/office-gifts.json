@@ -1,0 +1,1071 @@
+{
+  "search_metadata": {
+    "id": "6757dd927fb79adebeb1a1f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/40daebc909f61887/6757dd927fb79adebeb1a1f4.json",
+    "created_at": "2024-12-10 06:20:02 UTC",
+    "processed_at": "2024-12-10 06:20:02 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=christmas+office+gifts&num=5&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/40daebc909f61887/6757dd927fb79adebeb1a1f4.html",
+    "total_time_taken": 4.5
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "christmas office gifts",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "5",
+    "device": "desktop",
+    "direct_link": true
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "christmas office gifts"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Nearby",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+nearby&shoprs=CAEYAyoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIMCAMSBk5lYXJieRgCYAI"
+        },
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+sale&shoprs=CAESBEoCGAEYBioWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czITCAYSB09uIHNhbGUYAiIESgIYAWAC"
+        },
+        {
+          "text": "Get it by Thu",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAg"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts&shoprs=CAESAmoAGBYqFmNocmlzdG1hcyBvZmZpY2UgZ2lmdHMyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAg"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts&shoprs=CAEYFyoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIcCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAWACiAEB"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts&shoprs=CAEYFyoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIcCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAWACiAEC"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+under+%248&shoprs=CAESDRILEQAAAACAhF5BGAEYBSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIhCAUSCFVuZGVyICQ4GAIiDRILEQAAAACAhF5BGAEqAhgBYAI"
+        },
+        {
+          "text": "$8 - $15",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+between+%248+and+%2415&shoprs=CAESFhIUCQAAAACAhF5BEQAAAAA4nGxBGAEYBSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIqCAUSCCQ4IC0gJDE1GAIiFhIUCQAAAACAhF5BEQAAAAA4nGxBGAEqAhgBYAI"
+        },
+        {
+          "text": "$15 - $30",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+between+%2415+and+%2430&shoprs=CAESFhIUCQAAAAA4nGxBEQAAAAA4nHxBGAEYBSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIrCAUSCSQxNSAtICQzMBgCIhYSFAkAAAAAOJxsQREAAAAAOJx8QRgBKgIYAWAC"
+        },
+        {
+          "text": "$30 - $50",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+between+%2430+and+%2450&shoprs=CAESFhIUCQAAAAA4nHxBEQAAAACE14dBGAEYBSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIrCAUSCSQzMCAtICQ1MBgCIhYSFAkAAAAAOJx8QREAAAAAhNeHQRgBKgIYAWAC"
+        },
+        {
+          "text": "Over $50",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+over+%2450&shoprs=CAESDRILCQAAAACE14dBGAEYBSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIhCAUSCE92ZXIgJDUwGAIiDRILCQAAAACE14dBGAEqAhgBYAI"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=target+christmas+office+gifts&shoprs=CAEYAioWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIKCAISBlRhcmdldGAC"
+        },
+        {
+          "text": "Walmart",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=walmart+christmas+office+gifts&shoprs=CAEYAioWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czILCAISB1dhbG1hcnRgAg"
+        },
+        {
+          "text": "Etsy",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=etsy+christmas+office+gifts&shoprs=CAEYAioWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIICAISBEV0c3lgAg"
+        },
+        {
+          "text": "Williams-Sonoma",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=williams-sonoma+christmas+office+gifts&shoprs=CAEYAioWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czITCAISD1dpbGxpYW1zLVNvbm9tYWAC"
+        }
+      ]
+    },
+    {
+      "type": "Category",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Christmas Ornaments",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+ornaments+office+gifts&shoprs=CAEYCSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIXCAkSE0NocmlzdG1hcyBPcm5hbWVudHNgAg"
+        },
+        {
+          "text": "Food & Beverage Gift Baskets",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=food+%26+beverage+gift+baskets+christmas+office+gifts&shoprs=CAEYCSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIgCAkSHEZvb2QgJiBCZXZlcmFnZSBHaWZ0IEJhc2tldHNgAg"
+        },
+        {
+          "text": "Gift Bags",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=gift+bags+christmas+office+gifts&shoprs=CAEYCSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czINCAkSCUdpZnQgQmFnc2AC"
+        },
+        {
+          "text": "Desk Organizers",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=desk+organizers+christmas+office+gifts&shoprs=CAEYCSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czITCAkSD0Rlc2sgT3JnYW5pemVyc2AC"
+        }
+      ]
+    },
+    {
+      "type": "Special Occasion",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Thank You",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=thank+you+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIaCAESCVRoYW5rIFlvdToLCObQaxCst4IBMABgAg"
+        },
+        {
+          "text": "Birthday",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=birthday+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIZCAESCEJpcnRoZGF5OgsI5tBrEMGkgQEwAGAC"
+        },
+        {
+          "text": "Get Well",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=get+well+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIZCAESCEdldCBXZWxsOgsI5tBrEKK3ggEwAGAC"
+        },
+        {
+          "text": "Father's Day",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=father%27s+day+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIdCAESDEZhdGhlcidzIERheToLCObQaxCnt4IBMABgAg"
+        }
+      ]
+    },
+    {
+      "type": "Department",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Kids'",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=kids%27+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIVCAESBUtpZHMnOgoIgKM-EISjPjAFYAI"
+        },
+        {
+          "text": "Girls'",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=girls%27+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIWCAESBkdpcmxzJzoKCICjPhCGoz4wBWAC"
+        },
+        {
+          "text": "Unisex",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=unisex+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIWCAESBlVuaXNleDoKCICjPhCDoz4wBWAC"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Sculpture",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=sculpture+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIZCAESCVNjdWxwdHVyZToKCLrBbBC7wWwwAmAC"
+        },
+        {
+          "text": "Statue",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=statue+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIWCAESBlN0YXR1ZToKCLrBbBDMwWwwAmAC"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts+free+shipping&shoprs=CAESBFICEAEYGSoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAg"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Williams Sonoma",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=williams+sonoma+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIfCAESD1dpbGxpYW1zIFNvbm9tYToKCIPzPBChlEAwAWAC"
+        },
+        {
+          "text": "Cheryl's",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=cheryl%27s+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIYCAESCENoZXJ5bCdzOgoIg_M8EPrzSDABYAI"
+        },
+        {
+          "text": "Popcornopolis",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=popcornopolis+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIfCAESDVBvcGNvcm5vcG9saXM6DAiD8zwQlbn73QMwAWAC"
+        },
+        {
+          "text": "Stanley",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=stanley+christmas+office+gifts&shoprs=CAEYASoWY2hyaXN0bWFzIG9mZmljZSBnaWZ0czIXCAESB1N0YW5sZXk6CgiD8zwQ-YU_MAFgAg"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Mini CHRISTMAS GIFT, Gifts Under 15, Holiday Party Gift, Simple Holiday Gift, Corporate Bulk Gift, Christmas Party, Coworker Holiday Gift",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:5413378764168697163",
+      "product_id": "5413378764168697163",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5413378764168697163",
+      "link": "https://www.etsy.com/listing/1597186101/mini-christmas-gift-gifts-under-15?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1597186101/mini-christmas-gift-gifts-under-15?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - SucculentkreationsCo",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544585389201c1dd35f15398aea70543e52.png",
+      "price": "$4.98",
+      "extracted_price": 4.98,
+      "old_price": "$8",
+      "extracted_old_price": 8,
+      "rating": 4.6,
+      "reviews": 141,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544c105b403ce457eabf7474430b6278f66.jpeg",
+      "tag": "34% OFF",
+      "extensions": [
+        "34% OFF"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Harry & David Holiday Hot Chocolate Tin Collection",
+      "product_link": "https://www.google.com/shopping/product/8885893987106954064?gl=us",
+      "product_id": "8885893987106954064",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8885893987106954064",
+      "link": "https://harryanddavid.com/h/gourmet-foods/cocoa/27284?adtype=pla&selectSku=27284X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOooDsdYRKr3p5duEv32latzF_5YFYx0Jr34DGL7NriruSCzqM-3Xxu0",
+      "links": [
+        "https://harryanddavid.com/h/gourmet-foods/cocoa/27284?adtype=pla&selectSku=27284X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOooDsdYRKr3p5duEv32latzF_5YFYx0Jr34DGL7NriruSCzqM-3Xxu0"
+      ],
+      "source": "Harry & David",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544f753889b3f8ca5a8a1d7c29577ab0a96.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$30",
+      "extracted_old_price": 30,
+      "rating": 4.6,
+      "reviews": 104,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544fb86d9f089e502be0e4ac08c6ba1a4cf.jpeg",
+      "tag": "33% OFF",
+      "extensions": [
+        "33% OFF"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "2024 New Colorful Natural Mineral Crystal Coffee Mugs",
+      "product_link": "https://www.google.com/shopping/product/14325715689502439232?gl=us",
+      "product_id": "14325715689502439232",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14325715689502439232",
+      "link": "https://www.amazon.com/YAKWLYQ-Mineral-Crystal-Colorful-Natural/dp/B0DM8LKB25?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3BV14UPNO5OAY",
+      "links": [
+        "https://www.amazon.com/YAKWLYQ-Mineral-Crystal-Colorful-Natural/dp/B0DM8LKB25?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3BV14UPNO5OAY"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754490c847ca8f5d0b4978b928e4854d2c55.png",
+      "price": "$11.60",
+      "extracted_price": 11.6,
+      "old_price": "$20",
+      "extracted_old_price": 20,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875445f4cd81f78b3ded6a1059b0ae7ecfcee.jpeg",
+      "tag": "41% OFF",
+      "extensions": [
+        "41% OFF"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Corporate Gifts For Employees | Thank You Gift Box for Men & Women Olive / Merry Christmas",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9247592010557129778",
+      "product_id": "9247592010557129778",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9247592010557129778",
+      "link": "https://happyhyggegifts.com/products/corporate-gifts-for-employees-unisex-thank-you-gift-box-for-men-women-employee-appreciation-gift-basket-coffee-gift-box-client-gifts?variant=44130248982777&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorg_S3I1dAfkIUKQUp62qjN9ymjJGzR1Vm5KJ4j5ZAoaPPJS2JTifM",
+      "links": [
+        "https://happyhyggegifts.com/products/corporate-gifts-for-employees-unisex-thank-you-gift-box-for-men-women-employee-appreciation-gift-basket-coffee-gift-box-client-gifts?variant=44130248982777&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorg_S3I1dAfkIUKQUp62qjN9ymjJGzR1Vm5KJ4j5ZAoaPPJS2JTifM"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875440146fe1d5cc3b1e5842d2d8ff2397ff1.jpeg",
+      "price": "$59.00",
+      "extracted_price": 59,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875449e4cddf005346eb8abe1f3b3f2d4b47b.jpeg"
+    },
+    {
+      "position": 5,
+      "title": "Cheryl's Cookies Let It Snow Frosted Cookie Crate",
+      "product_link": "https://www.google.com/shopping/product/9177885870468817161?gl=us",
+      "product_id": "9177885870468817161",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9177885870468817161",
+      "link": "https://www.cheryls.com/let-it-snow-frosted-cutout-cookie-crate-hdy25-255191?adtype=pla&selectSku=255191&srsltid=AfmBOoq3rQhpEpu_JpM2veAtpnvg3SqYDHPo1lNhXMgIDjmT5TZ3evNTsrg",
+      "links": [
+        "https://www.cheryls.com/let-it-snow-frosted-cutout-cookie-crate-hdy25-255191?adtype=pla&selectSku=255191&srsltid=AfmBOoq3rQhpEpu_JpM2veAtpnvg3SqYDHPo1lNhXMgIDjmT5TZ3evNTsrg"
+      ],
+      "source": "Cheryl's Cookies",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441741684c54cfd5654afc07cd6cc628bb.png",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "old_price": "$50",
+      "extracted_old_price": 50,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544932e6bdca729f3d05fd1aa93a7b0294a.jpeg",
+      "tag": "20% OFF",
+      "extensions": [
+        "20% OFF"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Christmas Party Favor, Employee Gifts under 10, Corporate Gift Ideas, Christmas Party, Employee Holiday, Stocking Stuffer, Bulk Christmas",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16415094431718575442",
+      "product_id": "16415094431718575442",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16415094431718575442",
+      "link": "https://www.etsy.com/listing/1583009926/christmas-party-favor-employee-gifts?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1583009926/christmas-party-favor-employee-gifts?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - SucculentkreationsCo",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754442270364b16290aca30e80315fef18dd.png",
+      "price": "$4.98",
+      "extracted_price": 4.98,
+      "old_price": "$8",
+      "extracted_old_price": 8,
+      "rating": 4.6,
+      "reviews": 48,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754413ed3ec4f55332131909a778b930640b.jpeg",
+      "tag": "34% OFF",
+      "extensions": [
+        "34% OFF"
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Stonewall Kitchen Office Party Gift",
+      "product_link": "https://www.google.com/shopping/product/3900202706299109743?gl=us",
+      "product_id": "3900202706299109743",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3900202706299109743",
+      "link": "https://www.stonewallkitchen.com/office-party-gift-191329.html?srsltid=AfmBOoryxSH_4HWBzXDoeiaP279xCIhTQmBmDlA03Qd2osivoHMhU9GnqaE",
+      "links": [
+        "https://www.stonewallkitchen.com/office-party-gift-191329.html?srsltid=AfmBOoryxSH_4HWBzXDoeiaP279xCIhTQmBmDlA03Qd2osivoHMhU9GnqaE"
+      ],
+      "source": "Stonewall Kitchen",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544ede45301ab9ebc349ba01865443dcbbe.png",
+      "price": "$69.95",
+      "extracted_price": 69.95,
+      "rating": 5,
+      "reviews": 1,
+      "extensions": [
+        "60-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441fbcf5682b9bf6c52923f2e8fbf75db2.jpeg",
+      "delivery": "Free $75+"
+    },
+    {
+      "position": 8,
+      "title": "Christmas Gifts for Women Unique Christmas Gifts for Teacher Coworker Employee Sister Best Friend Mom Wife",
+      "product_link": "https://www.google.com/shopping/product/5522012436020613974?gl=us",
+      "product_id": "5522012436020613974",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5522012436020613974",
+      "link": "https://www.amazon.com/Christmas-Gifts-Women-Coworker-Employee/dp/B0DGGTPBBT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A13J2EEMZTPN1P",
+      "links": [
+        "https://www.amazon.com/Christmas-Gifts-Women-Coworker-Employee/dp/B0DGGTPBBT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A13J2EEMZTPN1P",
+        "https://www.ebay.com/itm/286189731517?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoom4QFn7m7bTr8r9cIEShXbugnAtaFEuD3l4YhB8MX2T9_EZMJKcsU",
+        "https://www.ebay.com/itm/375814213494?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopRXttc75TiSTrMhdjI3HZuuIMy-XFrpicDbFlBA2msnIwPcL8pB8w"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544af860ef65cf28926c11f608a7a56e23b.png",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544c50982bd29b53b259cae73b259c7f083.jpeg"
+    },
+    {
+      "position": 9,
+      "title": "Holiday Employee Appreciation Gift | Premium Corporate Holiday Gift Box Ivory / Congrats",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9994145758066114729",
+      "product_id": "9994145758066114729",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9994145758066114729",
+      "link": "https://happyhyggegifts.com/products/holiday-employee-appreciation-gift-basket-premium-corporate-holiday-gift-box?variant=45686968189177&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooRNF8Jb6PUM8Dmjs6vZGsFULx_kY-9C07JnroYprjtnvqOs2ql280",
+      "links": [
+        "https://happyhyggegifts.com/products/holiday-employee-appreciation-gift-basket-premium-corporate-holiday-gift-box?variant=45686968189177&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooRNF8Jb6PUM8Dmjs6vZGsFULx_kY-9C07JnroYprjtnvqOs2ql280"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e40d0e9ad526fbb7ca24c0f389db886c.jpeg",
+      "price": "$38.00",
+      "extracted_price": 38,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754407030b6ef148effe28eb29fc49c678c0.jpeg"
+    },
+    {
+      "position": 10,
+      "title": "Wolferman's Christmas Cheer Tote Gift",
+      "product_link": "https://www.google.com/shopping/product/4383154781513381903?gl=us",
+      "product_id": "4383154781513381903",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4383154781513381903",
+      "link": "https://wolfermans.com/w/gourmet-bakery-gifts/totes/50563?adtype=pla&selectSku=1020-50563W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOoosYd_xHJv1CMMVM4dDNnWGOX4HIGE7OBe7n_tL4lgEocVUAXjWucw",
+      "links": [
+        "https://wolfermans.com/w/gourmet-bakery-gifts/totes/50563?adtype=pla&selectSku=1020-50563W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOoosYd_xHJv1CMMVM4dDNnWGOX4HIGE7OBe7n_tL4lgEocVUAXjWucw"
+      ],
+      "source": "Wolferman's Bakery",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544faadb00a565b8924bb1aac564b9632e9.png",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "rating": 4.3,
+      "reviews": 80,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441577521a968ecbcacab926cdf67f8516.jpeg"
+    },
+    {
+      "position": 11,
+      "title": "Christmas gift. Employee Christmas gift. Holiday gift. Employee holiday gift. Christmas coworker gift. Holiday thank you gift. Holiday gift",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3655680075182118972",
+      "product_id": "3655680075182118972",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3655680075182118972",
+      "link": "https://www.etsy.com/listing/1573953738/christmas-gift-employee-christmas-gift?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1573953738/christmas-gift-employee-christmas-gift?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875444c37a32face4ff2c54e1923a02df43c2.png",
+      "price": "$15.59",
+      "extracted_price": 15.59,
+      "old_price": "$24",
+      "extracted_old_price": 24,
+      "rating": 5,
+      "reviews": 7,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875447bdf8f2b809a6fa22c00a9336b66162c.jpeg",
+      "tag": "35% OFF",
+      "extensions": [
+        "35% OFF"
+      ]
+    },
+    {
+      "position": 12,
+      "title": "Party Pick Office Gift Basket",
+      "product_link": "https://www.google.com/shopping/product/7218697643065518764?gl=us",
+      "product_id": "7218697643065518764",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7218697643065518764",
+      "link": "https://www.winecountrygiftbaskets.com/information/affil_redir.asp?r=2&v=11+10+00+444&sc=GOGL444&srsltid=AfmBOooEnTz77rvgcecyHOkbEnpQ3BZr2X4asGMzZk8EEofD8iYFmll9SDc",
+      "links": [
+        "https://www.winecountrygiftbaskets.com/information/affil_redir.asp?r=2&v=11+10+00+444&sc=GOGL444&srsltid=AfmBOooEnTz77rvgcecyHOkbEnpQ3BZr2X4asGMzZk8EEofD8iYFmll9SDc"
+      ],
+      "source": "Wine Country Gift Baskets",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875449d0b559010d55f8ee54f869feb9d5b60.png",
+      "price": "$195.00",
+      "extracted_price": 195,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544d48dc3292fb7a2413f6c3902f17cf5ef.jpeg",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 13,
+      "title": "TEEBIM Thank You Gifts for Women Boss Coworker Manager Office",
+      "product_link": "https://www.google.com/shopping/product/11102798088151708273?gl=us",
+      "product_id": "11102798088151708273",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11102798088151708273",
+      "link": "https://www.amazon.com/Thank-Coworker-Manager-Office-Teacher/dp/B0C4F2F9FQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJI5U6KB3TRRH",
+      "links": [
+        "https://www.amazon.com/Thank-Coworker-Manager-Office-Teacher/dp/B0C4F2F9FQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJI5U6KB3TRRH",
+        "https://www.ebay.com/itm/395946720134?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorbIWqFz0Jcp-4hzbVmAk1h6fuZBlS8U8k6LpETsTnyqrCWqrMYQ9Q",
+        "https://www.tiktok.com/view/product/1729428348504675024?sku_id=1729428348504740560&source=gmc&trackParams=%7B%22enter_method%22:%22direct%22,%22enter_from%22:%22seo_outside%22,%22enter_from_info%22:%22seo_outside%22,%22source_page_type%22:%22seo_outside_page%22,%22entrance_from%22:%22link%22,%22previous_page%22:%22deeplink_ug_seo_outside_gg_pdp_gmc_direct%22,%22page_name%22:%22product_detail%22,%22media_source%22:%22deeplink_ug_seo_outside_gg_pdp_gmc_direct%22%7D"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544d32a8af0997380e23d0d1c739ca622d2.png",
+      "price": "$20.99",
+      "extracted_price": 20.99,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544550c031b582d1d36224eac878442c425.jpeg"
+    },
+    {
+      "position": 14,
+      "title": "Christmas Hygge Gift Box | Christmas Care Package | Holiday Gift Box Green Hot Chocolate / Happy Birthday",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3767934929794949569",
+      "product_id": "3767934929794949569",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3767934929794949569",
+      "link": "https://happyhyggegifts.com/products/christmas-gift-box-hygge-gift-cox-gift-box-for-women-winter-gift-box-self-care-gift-box-christmas-care-package-holiday-gift-box?variant=44095537905913&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo1WmomJpCRnXTq5koRgkYq8Sqh0C4zTLfUsZyFHtT0az8aHD0OldI",
+      "links": [
+        "https://happyhyggegifts.com/products/christmas-gift-box-hygge-gift-cox-gift-box-for-women-winter-gift-box-self-care-gift-box-christmas-care-package-holiday-gift-box?variant=44095537905913&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo1WmomJpCRnXTq5koRgkYq8Sqh0C4zTLfUsZyFHtT0az8aHD0OldI"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875443d65aefed15f485bb419a0a7dd8e0f1d.jpeg",
+      "price": "$58.00",
+      "extracted_price": 58,
+      "rating": 5,
+      "reviews": 4,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754499260d6b7b0e42ce9db8180e0294053d.jpeg"
+    },
+    {
+      "position": 15,
+      "title": "Harry & David Christmas Gifts Dried Fruit Holiday Tree Nuts",
+      "product_link": "https://www.google.com/shopping/product/10000885125963980879?gl=us",
+      "product_id": "10000885125963980879",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10000885125963980879",
+      "link": "https://harryanddavid.com/h/gourmet-foods/dried-fruit-nuts/31922?adtype=pla&selectSku=31922X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOoowbtsZwGPllELS62QeOqjzcM5caJEI6jbp2v1ISciu-SXP3pHqRGU",
+      "links": [
+        "https://harryanddavid.com/h/gourmet-foods/dried-fruit-nuts/31922?adtype=pla&selectSku=31922X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOoowbtsZwGPllELS62QeOqjzcM5caJEI6jbp2v1ISciu-SXP3pHqRGU"
+      ],
+      "source": "Harry & David",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544a8e68ea63069c2fe5888ad3b62a1e114.png",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "rating": 4.1,
+      "reviews": 326,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875442cfa64f8d59d8a4902db599522b5f812.jpeg"
+    },
+    {
+      "position": 16,
+      "title": "10Pcs Christmas Coffee Gifts, Bulk New Year Gifts, Holiday Gift, Merry Christmas, Coworker Gifts, Corporate Gifts, Christmas Tag",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6946229889815979005",
+      "product_id": "6946229889815979005",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6946229889815979005",
+      "link": "https://www.etsy.com/listing/1075512472/10pcs-christmas-coffee-gifts-bulk-new?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1075512472/10pcs-christmas-coffee-gifts-bulk-new?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e1cc2f978abe42f67c0bd2be8385521c.png",
+      "price": "$29.76",
+      "extracted_price": 29.76,
+      "old_price": "$37",
+      "extracted_old_price": 37,
+      "rating": 4.8,
+      "reviews": 49,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875448b24010a725cb9a3e6a3c45d988de09b.jpeg",
+      "tag": "20% OFF",
+      "extensions": [
+        "20% OFF"
+      ]
+    },
+    {
+      "position": 17,
+      "title": "Gourmet Gift Baskets The Corporate Show Stopper Christmas Gift Basket",
+      "product_link": "https://www.google.com/shopping/product/1666106803848498158?gl=us",
+      "product_id": "1666106803848498158",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1666106803848498158",
+      "link": "https://www.gourmetgiftbaskets.com/Christmas-Gift-Basket-Jumbo.asp?sku5230=&srsltid=AfmBOooUybUY3wk9E8U-LXIRWNz2_09xbqkuuSAYinRfUkGSTkep7DEZ9VU",
+      "links": [
+        "https://www.gourmetgiftbaskets.com/Christmas-Gift-Basket-Jumbo.asp?sku5230=&srsltid=AfmBOooUybUY3wk9E8U-LXIRWNz2_09xbqkuuSAYinRfUkGSTkep7DEZ9VU",
+        "https://www.ebay.com/itm/235838056622?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoobt23NiEAjirb_kQgL-u8iy1uSYqIBMznRIZ04V1vkG89ndHlLcyk"
+      ],
+      "source": "GourmetGiftBaskets.com",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754411a627126fa70e3a0f41f8ebd0db008f.png",
+      "price": "$159.99",
+      "extracted_price": 159.99,
+      "rating": 4.3,
+      "reviews": 94,
+      "extensions": [
+        "15-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544072f1bb942173f6f293fdb37b07b2b4d.jpeg"
+    },
+    {
+      "position": 18,
+      "title": "LUICONMO Gifts for Women 2024 Unique Christmas Gift Sets",
+      "product_link": "https://www.google.com/shopping/product/74903884524748585?gl=us",
+      "product_id": "74903884524748585",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=74903884524748585",
+      "link": "https://www.amazon.com/Christmas-Gifts-Women-2024-Coworkers/dp/B0DH2H2318?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3CA730RGM2IV3",
+      "links": [
+        "https://www.amazon.com/Christmas-Gifts-Women-2024-Coworkers/dp/B0DH2H2318?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3CA730RGM2IV3",
+        "https://www.ebay.com/itm/196877520996?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOop8DwTN3pq73qDBbm_3-6qDRN-l0ncgCKpv6tAQvJ8oSnbknX85zUA",
+        "https://www.ebay.com/itm/267089954607?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopcvlBVnuNvhTRhFGaB7oTBWk8ipMr9Hgx__LmIniPbBnSmURr8S0I"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875446cb6ebd0a447970231b0b7d4812609dd.png",
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "old_price": "$27",
+      "extracted_old_price": 27,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754467e5fc9e3a4283664f1f4bdd5a34608b.jpeg",
+      "tag": "18% OFF",
+      "extensions": [
+        "18% OFF"
+      ]
+    },
+    {
+      "position": 19,
+      "title": "Harney & Sons Holiday Duo Gift",
+      "product_link": "https://www.google.com/shopping/product/2102677501196441728?gl=us",
+      "product_id": "2102677501196441728",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2102677501196441728",
+      "link": "https://www.harney.com/products/holiday-duo-gift?variant=39972648452167&srsltid=AfmBOopSZkU7KRmeBslRESZSgKLP-mAgpIpx8gsQn5XXVaRm1hXnOzI80fY",
+      "links": [
+        "https://www.harney.com/products/holiday-duo-gift?variant=39972648452167&srsltid=AfmBOopSZkU7KRmeBslRESZSgKLP-mAgpIpx8gsQn5XXVaRm1hXnOzI80fY",
+        "https://www.themayfairhall.com/products/holiday-duo-gift?variant=49971735232787&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqrtHOA4CiWUYvMWEd1NcJT-WgZ0d9Sl3FBL9xPSQWBeZnfGNd6YSo"
+      ],
+      "source": "Harney & Sons Fine Teas",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544168e19fc6e839d06de75a4507faf2ff4.png",
+      "price": "$29.95",
+      "extracted_price": 29.95,
+      "old_price": "$35",
+      "extracted_old_price": 35,
+      "extensions": [
+        "30-day returns",
+        "14% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544601611ef046be8b7067c109d27951d84.jpeg",
+      "tag": "14% OFF"
+    },
+    {
+      "position": 20,
+      "title": "Unisex Christmas Gift for Women & Men | Holiday Hygge Gift Box Green / Thank You",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15341377673608592242",
+      "product_id": "15341377673608592242",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15341377673608592242",
+      "link": "https://happyhyggegifts.com/products/unisex-christmas-gifts-for-women-men-holiday-gift-box-with-tumbler-candle-socks-christmas-gift-box-hygge-gift-holiday-gift-baskets?variant=44150593519865&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoowtWKxbrKMYYcm82gwcAl3g6OXQQbp0Eoa2fv-rhE7URJUw8QQPOA",
+      "links": [
+        "https://happyhyggegifts.com/products/unisex-christmas-gifts-for-women-men-holiday-gift-box-with-tumbler-candle-socks-christmas-gift-box-hygge-gift-holiday-gift-baskets?variant=44150593519865&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoowtWKxbrKMYYcm82gwcAl3g6OXQQbp0Eoa2fv-rhE7URJUw8QQPOA"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544114ed44a81cf031b09edd7f030f2be6a.jpeg",
+      "price": "$59.00",
+      "extracted_price": 59,
+      "rating": 5,
+      "reviews": 4,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544542a0689f0bc796220734a458ea18a48.jpeg"
+    },
+    {
+      "position": 21,
+      "title": "Christmas gift box, Employee Christmas gifts, Measuring cups, Baking gifts, Measuring spoons,",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7268499334975565022",
+      "product_id": "7268499334975565022",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7268499334975565022",
+      "link": "https://www.etsy.com/listing/1091389646/christmas-gift-box-employee-christmas?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1091389646/christmas-gift-box-employee-christmas?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - AFewSpareMoments",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754477af0ab772cc08603c8e1f323b64bcd6.png",
+      "price": "$29.95",
+      "extracted_price": 29.95,
+      "rating": 5,
+      "reviews": 9,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544ed070c591794fc1003fa1e6b42ea25d1.jpeg",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 22,
+      "title": "Corporate Holiday Gift Box",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:594960312740755605",
+      "product_id": "594960312740755605",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=594960312740755605",
+      "link": "https://wowbouquet.com/product/personal-holiday-box/?srsltid=AfmBOopFMQ60AV_4WinoRKzSBlbFtZQd-sKd6g77J_JzQXYzAP3Uv1lx1dI",
+      "links": [
+        "https://wowbouquet.com/product/personal-holiday-box/?srsltid=AfmBOopFMQ60AV_4WinoRKzSBlbFtZQd-sKd6g77J_JzQXYzAP3Uv1lx1dI"
+      ],
+      "source": "WOW Bouquet",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875447a0482e2b5b091ca93fbee2ad716c62b.jpeg",
+      "price": "$116.99",
+      "extracted_price": 116.99,
+      "old_price": "$130",
+      "extracted_old_price": 130,
+      "rating": 5,
+      "reviews": 53,
+      "extensions": [
+        "180-day returns",
+        "10% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e756b5ad5fdde5f54c628cd43373835d.jpeg",
+      "tag": "10% OFF"
+    },
+    {
+      "position": 23,
+      "title": "28 Pack Hand Cream Gift Set- Christmas Gifts Stocking Stuffers for Women,Bridesmaid Gifts Teacher Gifts Nurse Gift,Travel Size Hand Lotion for Dry",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:18108180242823961972",
+      "product_id": "18108180242823961972",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18108180242823961972",
+      "link": "https://www.amazon.com/Set-Easter-Stuffers-Teacher-Appreciation-Mothers/dp/B094JJNY19?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1P8D7U3JR8YZH",
+      "links": [
+        "https://www.amazon.com/Set-Easter-Stuffers-Teacher-Appreciation-Mothers/dp/B094JJNY19?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1P8D7U3JR8YZH"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754415f9e5cf3cd66056eace3c0eb762eb4e.png",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "old_price": "$19",
+      "extracted_old_price": 19,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875445c8fb06b88ccc07afcb0bb4a59e74b94.jpeg",
+      "tag": "21% OFF",
+      "extensions": [
+        "21% OFF"
+      ]
+    },
+    {
+      "position": 24,
+      "title": "Harry & David Holiday Sweets Mini Gift",
+      "product_link": "https://www.google.com/shopping/product/1006176603768232282?gl=us",
+      "product_id": "1006176603768232282",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1006176603768232282",
+      "link": "https://harryanddavid.com/h/chocolates-sweets-candy/chocolate-boxes-bars/33810?adtype=pla&selectSku=33810X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOopObjHKY4XklgWpq36vykJeLdi9mb6nTxE2iWrzh6daU8rRGPzr-Uw",
+      "links": [
+        "https://harryanddavid.com/h/chocolates-sweets-candy/chocolate-boxes-bars/33810?adtype=pla&selectSku=33810X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOopObjHKY4XklgWpq36vykJeLdi9mb6nTxE2iWrzh6daU8rRGPzr-Uw"
+      ],
+      "source": "Harry & David",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544a84a72ea791b348971ad97f6163b6d34.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.4,
+      "reviews": 70,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544cf348376872f15d9a458514acf39e28a.jpeg"
+    },
+    {
+      "position": 25,
+      "title": "Christmas Hygge Gift Box | Christmas Care Package | Holiday Gift Box Thank You",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7076408945540448354",
+      "product_id": "7076408945540448354",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7076408945540448354",
+      "link": "https://happyhyggegifts.com/products/last-minute-christmas-gift-box-new-years-present?variant=44204491931897&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqWnmfk7nmmkSA4DJxNBzEtVGhRjFpN9N8RCd2ZKG4YxQbKPHMbo_U",
+      "links": [
+        "https://happyhyggegifts.com/products/last-minute-christmas-gift-box-new-years-present?variant=44204491931897&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqWnmfk7nmmkSA4DJxNBzEtVGhRjFpN9N8RCd2ZKG4YxQbKPHMbo_U"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544c649dd0b1529d99f96f185aaa0cdbeb7.jpeg",
+      "price": "$51.00",
+      "extracted_price": 51,
+      "rating": 5,
+      "reviews": 2,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754479c7df96c286340dc2ffe1479b41a748.jpeg"
+    },
+    {
+      "position": 26,
+      "title": "Personalized Christmas Gifts for Women Christmas Gifts for Coworkers (Female) Coworker Gift for Her Bulk Christmas Gifts Colleague Gift Xmas",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10800271255476407613",
+      "product_id": "10800271255476407613",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10800271255476407613",
+      "link": "https://www.etsy.com/listing/1297214014/personalized-christmas-gifts-for-women?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1297214014/personalized-christmas-gifts-for-women?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - CustomDivaTees",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441f4065af272eaad0a6994edb2246b998.png",
+      "price": "$9.60",
+      "extracted_price": 9.6,
+      "rating": 4.9,
+      "reviews": 201,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544862dbb0b55ae45bc76750af9b5fe0dac.jpeg"
+    },
+    {
+      "position": 27,
+      "title": "Christmas Gifts Lottery Ticket Personalized Package for Multiple Christmas Gifts Employees Friends Coworker Gifts 10",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10822754237505023502",
+      "product_id": "10822754237505023502",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10822754237505023502",
+      "link": "https://weatheredraindrop.com/products/family-christmas-gifts-lottery-ticket-personalized-package-for-multiple-christmas-gifts-copy?variant=45675696652508&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopqyOU2CI88Ze-vC2ogzGLxfH29dSGWNje3zXrAT_DJvJeI5DbD6J8",
+      "links": [
+        "https://weatheredraindrop.com/products/family-christmas-gifts-lottery-ticket-personalized-package-for-multiple-christmas-gifts-copy?variant=45675696652508&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopqyOU2CI88Ze-vC2ogzGLxfH29dSGWNje3zXrAT_DJvJeI5DbD6J8"
+      ],
+      "source": "Weathered Raindrop",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754404a2ae732e6d46cfc476b10884af9a99.png",
+      "price": "$30.00",
+      "extracted_price": 30,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875443b63bb30171f7de0d84fa2f743bf9970.jpeg",
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 28,
+      "title": "ZICOTO Super Funny Notepads",
+      "product_link": "https://www.google.com/shopping/product/2330355080897181741?gl=us",
+      "product_id": "2330355080897181741",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2330355080897181741",
+      "link": "https://www.amazon.com/ZICOTO-Super-Funny-Notepads-Laugh/dp/B0B5GZX1NN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2M6ZRYJV7F8X0",
+      "links": [
+        "https://www.amazon.com/ZICOTO-Super-Funny-Notepads-Laugh/dp/B0B5GZX1NN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2M6ZRYJV7F8X0"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544d5426d652bc3a064d9c1368cf68da128.png",
+      "price": "$12.34",
+      "extracted_price": 12.34,
+      "old_price": "$13",
+      "extracted_old_price": 13,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544041ef0dedc3d78d5a2558dfdad759ac1.jpeg",
+      "tag": "5% OFF",
+      "extensions": [
+        "5% OFF"
+      ]
+    },
+    {
+      "position": 29,
+      "title": "Harry & David Holiday Tea and Mugs Gift",
+      "product_link": "https://www.google.com/shopping/product/6437702314507372208?gl=us",
+      "product_id": "6437702314507372208",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6437702314507372208",
+      "link": "https://harryanddavid.com/h/gourmet-foods/tea/26554?adtype=pla&selectSku=26554X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOooHI1G4GRwzukq_lgGZT8bd8kqVaCFz-VTS7MWNd_gl7dCdcNYpL3Y",
+      "links": [
+        "https://harryanddavid.com/h/gourmet-foods/tea/26554?adtype=pla&selectSku=26554X&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOooHI1G4GRwzukq_lgGZT8bd8kqVaCFz-VTS7MWNd_gl7dCdcNYpL3Y"
+      ],
+      "source": "Harry & David",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441b10a1f96c81cd161e51650e8085772e.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4.5,
+      "reviews": 58,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544f05c0b2d10c649439b25bfad682b9b33.jpeg"
+    },
+    {
+      "position": 30,
+      "title": "Christmas Coworker Gifts for Women Men, Thank You/Appreciation/Birthday Gifts for Coworkers, Funny Xmas Gift for Co Workers 20oz Tumbler, Office Gifts",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17363179267216823186",
+      "product_id": "17363179267216823186",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17363179267216823186",
+      "link": "https://www.walmart.com/ip/Christmas-Coworker-Gifts-Women-Men-Thank-You-Appreciation-Birthday-Coworkers-Funny-Xmas-Gift-Co-Workers-20oz-Tumbler-Office-Female-Best-Male/5288668821?wmlspartner=wlpa&selectedSellerId=101557832",
+      "links": [
+        "https://www.walmart.com/ip/Christmas-Coworker-Gifts-Women-Men-Thank-You-Appreciation-Birthday-Coworkers-Funny-Xmas-Gift-Co-Workers-20oz-Tumbler-Office-Female-Best-Male/5288668821?wmlspartner=wlpa&selectedSellerId=101557832"
+      ],
+      "source": "Walmart - pingpingmaoyi",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e0b2d32534461e01ffd65bd06ab2d4f7.png",
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875440a8d9b3fed1e6e0a1f59210b1b2c12ad.jpeg",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 31,
+      "title": "Bulk Christmas Gifts for Coworkers, Appreciation Gift, Thank You Gift, Family Gift, Teacher Gift, Employee Gift, Team Gift, Candle Gift",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10435234956737348587",
+      "product_id": "10435234956737348587",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10435234956737348587",
+      "link": "https://www.etsy.com/listing/1609515088/bulk-christmas-gifts-for-coworkers?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1609515088/bulk-christmas-gifts-for-coworkers?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - WoodsandWicksCo",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875445660c7e5f59d9d8c47e6027c0d61993e.png",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "old_price": "$20",
+      "extracted_old_price": 20,
+      "rating": 4.9,
+      "reviews": 98,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544d2493d7aa5fbdae3689fa8c6fb9200f9.jpeg",
+      "tag": "50% OFF",
+      "extensions": [
+        "50% OFF"
+      ]
+    },
+    {
+      "position": 32,
+      "title": "Christmas Day Gift",
+      "product_link": "https://www.google.com/shopping/product/2546714298219574297?gl=us",
+      "product_id": "2546714298219574297",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2546714298219574297",
+      "link": "https://www.stonewallkitchen.com/christmas-day-gift-191338.html?srsltid=AfmBOoqv5oY-5RctZS0VwzEu535UzDaLtFHTk4gVNy88MJ0fWhZ-J8RuEGk",
+      "links": [
+        "https://www.stonewallkitchen.com/christmas-day-gift-191338.html?srsltid=AfmBOoqv5oY-5RctZS0VwzEu535UzDaLtFHTk4gVNy88MJ0fWhZ-J8RuEGk"
+      ],
+      "source": "Stonewall Kitchen",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875444e54a65828f54602709fbe2895111083.png",
+      "price": "$125.00",
+      "extracted_price": 125,
+      "rating": 3.6,
+      "reviews": 5,
+      "extensions": [
+        "60-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875448049bb40eb3057f65c983f33017eb5d3.jpeg",
+      "delivery": "Free by 12/18"
+    },
+    {
+      "position": 33,
+      "title": "MarJunSep 15 Pairs Women's Christmas Socks Gifts for Women Adults Family Coworkers Cotton Holiday Socks Stocking Stuffers",
+      "product_link": "https://www.google.com/shopping/product/1775690279145660753?gl=us",
+      "product_id": "1775690279145660753",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1775690279145660753",
+      "link": "https://www.amazon.com/Womens-Christmas-Holiday-Cotton-Novelty/dp/B07JVPS727?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3UHZO5GGHQ2JX",
+      "links": [
+        "https://www.amazon.com/Womens-Christmas-Holiday-Cotton-Novelty/dp/B07JVPS727?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3UHZO5GGHQ2JX"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e7a962b6d6cace5d844826d093ddf255.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544849e12a0a68705154ce228d33cfe8505.jpeg"
+    },
+    {
+      "position": 34,
+      "title": "christmas gift Sugar scrub gift for her teacher christmas gifts",
+      "product_link": "https://www.google.com/shopping/product/12167056477139405953?gl=us",
+      "product_id": "12167056477139405953",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12167056477139405953",
+      "link": "https://browniesandgingersoap.com/products/christmas-gift-sugar-scrub-gift-for-her-teacher-christmas-gifts-coworker-christmas-gift-hostess-gift-sugar-scrub-set-secret-sister?variant=43003311423645&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooMlIGhvMBDUUIEFXg03gYp128axZeZo3FH1Do1upxTsREGoq9djl8",
+      "links": [
+        "https://browniesandgingersoap.com/products/christmas-gift-sugar-scrub-gift-for-her-teacher-christmas-gifts-coworker-christmas-gift-hostess-gift-sugar-scrub-set-secret-sister?variant=43003311423645&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooMlIGhvMBDUUIEFXg03gYp128axZeZo3FH1Do1upxTsREGoq9djl8"
+      ],
+      "source": "Brownies & Ginger Soap Co",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRkoZKa-j14CV7SwLdcpMAIsiuMYJqlE6Mv458bDoLgCFfFV3QfRcZEuSxeo5YYMk9ErOjj-tZWTkfArExfrcRaSZrVfGzAXO5la-0bg429brPK",
+      "price": "$17.00",
+      "extracted_price": 17,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544205295c7cb73741b7b5b0f705418f893.jpeg"
+    },
+    {
+      "position": 35,
+      "title": "Deluxe Holiday Gift Box | Winter Gift Set | Sending a Hug Gift Basket Golden tin (Vanilla) / Comfort & Joy",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7060401183397043360",
+      "product_id": "7060401183397043360",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7060401183397043360",
+      "link": "https://happyhyggegifts.com/products/deluxe-holiday-gift-box-christmas-gift-idea-warm-gift-winter-gift-box-sending-a-hug-gift-box-for-women-hygge-gift-box-new-years-gifts?variant=44212821131513&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopmZuuUmrfOUYvgDzFTvaLlVpyuimGIV0-oUlXS3wsVmUDkRMJa4Ag",
+      "links": [
+        "https://happyhyggegifts.com/products/deluxe-holiday-gift-box-christmas-gift-idea-warm-gift-winter-gift-box-sending-a-hug-gift-box-for-women-hygge-gift-box-new-years-gifts?variant=44212821131513&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopmZuuUmrfOUYvgDzFTvaLlVpyuimGIV0-oUlXS3wsVmUDkRMJa4Ag"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544e006f7d521c44f326a53f64f1e2ff78e.jpeg",
+      "price": "$60.00",
+      "extracted_price": 60,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875445b3efa18dd6c07ac020a30bd3bb70fd9.jpeg"
+    },
+    {
+      "position": 36,
+      "title": "Christmas Holiday Employee Gift - Staff Christmas gifts - Holiday gift - Bulk Corporate basket - Xmas - Holiday Gift Set - Secretary Gift",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:15443891024001929005",
+      "product_id": "15443891024001929005",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15443891024001929005",
+      "link": "https://www.etsy.com/listing/1099862707/christmas-holiday-employee-gift-staff?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1099862707/christmas-holiday-employee-gift-staff?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - SucculentkreationsCo",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875446d171204a8f9b871708f68cc558d23a1.png",
+      "price": "$20.94",
+      "extracted_price": 20.94,
+      "old_price": "$32",
+      "extracted_old_price": 32,
+      "rating": 4.8,
+      "reviews": 12,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875444ba76fbf5f69c36080907f8fade79aa5.jpeg",
+      "tag": "35% OFF",
+      "extensions": [
+        "35% OFF"
+      ]
+    },
+    {
+      "position": 37,
+      "title": "Cheryl's Cookies Premiere Entertainment Basket",
+      "product_link": "https://www.google.com/shopping/product/13509386070232219100?gl=us",
+      "product_id": "13509386070232219100",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13509386070232219100",
+      "link": "https://www.cheryls.com/entertainment-gift-basket-premier-hdy25-255081?adtype=pla&selectSku=255081&srsltid=AfmBOoqZ0H8UxGDa-jpM-4T6iVjjvEEtC6vGlZY9dq_bYWSKjiPBWPiOuhE",
+      "links": [
+        "https://www.cheryls.com/entertainment-gift-basket-premier-hdy25-255081?adtype=pla&selectSku=255081&srsltid=AfmBOoqZ0H8UxGDa-jpM-4T6iVjjvEEtC6vGlZY9dq_bYWSKjiPBWPiOuhE"
+      ],
+      "source": "Cheryl's Cookies",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875442809b9682065582f38f489067466731f.png",
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "old_price": "$200",
+      "extracted_old_price": 200,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e28754407afd4ccfc49794fc5f36d74ca4ec204.jpeg",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ]
+    },
+    {
+      "position": 38,
+      "title": "Christmas Coworker Gifts for Women Thank You Gifts, Boss Day Gifts Boss Lady, Birthday Chaos Coordinator Gifts for Manager Office Nurse Teacher",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6178746391591961468",
+      "product_id": "6178746391591961468",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6178746391591961468",
+      "link": "https://www.amazon.com/Administrative-Professional-Coordinator-Coworker-Appreciation/dp/B0CWNN2GSQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3I0A8X36IF19",
+      "links": [
+        "https://www.amazon.com/Administrative-Professional-Coordinator-Coworker-Appreciation/dp/B0CWNN2GSQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3I0A8X36IF19"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875441986d401042c014e3a06126ee6a6ad9b.png",
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "old_price": "$20",
+      "extracted_old_price": 20,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544ac12ee234878158649224eb551c02a58.jpeg",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ]
+    },
+    {
+      "position": 39,
+      "title": "Wolfermans Mix & Match Bakery Gift",
+      "product_link": "https://www.google.com/shopping/product/5366480300647393920?gl=us",
+      "product_id": "5366480300647393920",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5366480300647393920",
+      "link": "https://wolfermans.com/w/muffins-breads/breads-samplers/8203?adtype=pla&selectSku=1020-8203W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOorXUVbZTD42SBM2c0j0RwjV78fepiUb5uvuRPIiliziOAHOFtN_m3M",
+      "links": [
+        "https://wolfermans.com/w/muffins-breads/breads-samplers/8203?adtype=pla&selectSku=1020-8203W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOorXUVbZTD42SBM2c0j0RwjV78fepiUb5uvuRPIiliziOAHOFtN_m3M",
+        "https://wolfermans.com/w/monthly-clubs/bakery-favorites-clubs?adtype=pla&selectSku=1020-51122W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOoqqQbjW3ufLb2nUbj1d5LYsLqpURDsYEgEu5WHvMHpEv89WleI96R8",
+        "https://wolfermans.com/w/monthly-clubs/bakery-favorites-clubs?adtype=pla&selectSku=1020-51148W&utm_medium=organic&utm_source=google&utm_campaign=organicshopping&srsltid=AfmBOopzoI31g4NhoD1MRzAAqHSFBG1jNs4UCuxNTA-pfKuOHtfvQUmOW8E"
+      ],
+      "source": "Wolferman's Bakery",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544974fa117021b1a449c839adf5a4e8fb9.png",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "rating": 4,
+      "reviews": 618,
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875445da2669f49715d1ed34d0c60b956bef9.jpeg"
+    },
+    {
+      "position": 40,
+      "title": "Holiday Employee Appreciation Gift |Mug, Cozy Socks, Notebook & more Merry Christmas",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:18094140342759807484",
+      "product_id": "18094140342759807484",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18094140342759807484",
+      "link": "https://happyhyggegifts.com/products/holiday-employee-appreciation-gift-box-festive-mug-cozy-socks-notebook-scented-candle-seasonal-treats?variant=45663598706937&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOor3vjqXgNAOcfM70vIN4UI1MLlYEDsYmxfOPoTI2NNwMBRvhD9OHxs",
+      "links": [
+        "https://happyhyggegifts.com/products/holiday-employee-appreciation-gift-box-festive-mug-cozy-socks-notebook-scented-candle-seasonal-treats?variant=45663598706937&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOor3vjqXgNAOcfM70vIN4UI1MLlYEDsYmxfOPoTI2NNwMBRvhD9OHxs"
+      ],
+      "source": "Happy Hygge Gifts",
+      "source_icon": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e287544aae472e0426b351a5e8e518a88d0864c.jpeg",
+      "price": "$58.00",
+      "extracted_price": 58,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dd927fb79adebeb1a1f4/images/06ad3732f2dd9660bd896f670e2875447c6f9ce7073461612ac20375eb6a3bf9.jpeg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=christmas+office+gifts&start=10"
+  }
+}

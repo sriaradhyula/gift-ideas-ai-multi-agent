@@ -1,0 +1,1043 @@
+{
+  "search_metadata": {
+    "id": "6757dcbc72e8d4dc8a6f72a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3ae470934fc8169d/6757dcbc72e8d4dc8a6f72a9.json",
+    "created_at": "2024-12-10 06:16:28 UTC",
+    "processed_at": "2024-12-10 06:16:28 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=adult+kid+toys&num=5&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/3ae470934fc8169d/6757dcbc72e8d4dc8a6f72a9.html",
+    "total_time_taken": 2.52
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "adult kid toys",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "5",
+    "device": "desktop",
+    "direct_link": true
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "adult kid toys"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Nearby",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys+nearby&shoprs=CAEYAyoOYWR1bHQga2lkIHRveXMyDAgDEgZOZWFyYnkYAligvSBgAg"
+        },
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys+sale&shoprs=CAESBEoCGAEYBioOYWR1bHQga2lkIHRveXMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYoL0gYAI"
+        },
+        {
+          "text": "Get it fast",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCoOYWR1bHQga2lkIHRveXMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAVIASoEEAEYAWAC"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys&shoprs=CAESAmoAGBYqDmFkdWx0IGtpZCB0b3lzMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAI"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys&shoprs=CAEYFyoOYWR1bHQga2lkIHRveXMyHAgXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFgAogBAQ"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys&shoprs=CAEYFyoOYWR1bHQga2lkIHRveXMyHAgXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFgAogBAg"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $20",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys+under+%2420&shoprs=CAESDRILEQAAAADQEnNBGAEYBSoOYWR1bHQga2lkIHRveXMyIggFEglVbmRlciAkMjAYAiINEgsRAAAAANASc0EYASoCGAFYoL0gYAI"
+        },
+        {
+          "text": "Over $20",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys+over+%2420&shoprs=CAESDRILCQAAAADQEnNBGAEYBSoOYWR1bHQga2lkIHRveXMyIQgFEghPdmVyICQyMBgCIg0SCwkAAAAA0BJzQRgBKgIYAVigvSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=target+adult+kid+toys&shoprs=CAEYAioOYWR1bHQga2lkIHRveXMyCggCEgZUYXJnZXRYoL0gYAI"
+        },
+        {
+          "text": "Walmart",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=walmart+adult+kid+toys&shoprs=CAEYAioOYWR1bHQga2lkIHRveXMyCwgCEgdXYWxtYXJ0WKC9IGAC"
+        },
+        {
+          "text": "eBay",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=ebay+adult+kid+toys&shoprs=CAEYAioOYWR1bHQga2lkIHRveXMyCAgCEgRlQmF5WKC9IGAC"
+        },
+        {
+          "text": "Mercari",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=mercari+adult+kid+toys&shoprs=CAEYAioOYWR1bHQga2lkIHRveXMyCwgCEgdNZXJjYXJpWKC9IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Category",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Dolls",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=dolls+adult+kid+toys&shoprs=CAEYCSoOYWR1bHQga2lkIHRveXMyCQgJEgVEb2xsc2AC"
+        },
+        {
+          "text": "Action Figures",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=action+figures+adult+kid+toys&shoprs=CAEYCSoOYWR1bHQga2lkIHRveXMyEggJEg5BY3Rpb24gRmlndXJlc2AC"
+        },
+        {
+          "text": "Stuffed Animals",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=stuffed+animals+adult+kid+toys&shoprs=CAEYCSoOYWR1bHQga2lkIHRveXMyEwgJEg9TdHVmZmVkIEFuaW1hbHNgAg"
+        },
+        {
+          "text": "Baby Learning & Development Toys",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=baby+learning+%26+development+toys+adult+kid&shoprs=CAEYCSoOYWR1bHQga2lkIHRveXMyJAgJEiBCYWJ5IExlYXJuaW5nICYgRGV2ZWxvcG1lbnQgVG95c2AC"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "input_type": "color",
+      "options": [
+        {
+          "text": "Brown",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=brown+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyFwgBEgVCcm93bjoMCMTGrwEQx8avATAAWKC9IGAC"
+        },
+        {
+          "text": "Beige",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=beige+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyGAgBEgVCZWlnZToNCMTGrwEQiIyZ3wMwAFigvSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys+free+shipping&shoprs=CAESBFICEAEYGSoOYWR1bHQga2lkIHRveXMyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAI"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Rubie's",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rubie%27s+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyFwgBEgdSdWJpZSdzOgoIg_M8EKbiPTABWKC9IGAC"
+        },
+        {
+          "text": "ONO",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=ono+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyFAgBEgNPTk86CwiD8zwQpt-JBDABWKC9IGAC"
+        },
+        {
+          "text": "Force 1",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=force+1+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyGAgBEgdGb3JjZSAxOgsIg_M8EKuCmAEwAVigvSBgAg"
+        },
+        {
+          "text": "USAopoly",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=usaopoly+adult+kid+toys&shoprs=CAEYASoOYWR1bHQga2lkIHRveXMyGAgBEghVU0FvcG9seToKCIPzPBDG3j4wAVigvSBgAg"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "The Executive Fidget Set",
+      "product_link": "https://www.google.com/shopping/product/3143043881710249635?gl=us",
+      "product_id": "3143043881710249635",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3143043881710249635",
+      "link": "https://www.amazon.com/Executive-Fidget-Set-Decompression-Gadgets/dp/B09MK91KFK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3GPCWPD9T4JQ2",
+      "links": [
+        "https://www.amazon.com/Executive-Fidget-Set-Decompression-Gadgets/dp/B09MK91KFK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3GPCWPD9T4JQ2"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86f842362c0073028cf8780f298fe91316.png",
+      "price": "$149.98",
+      "extracted_price": 149.98,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8653fbc706da2ee73caf81f227b24320ff.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 2,
+      "title": "UGears 3D Wooden Mechanical Model Safe",
+      "product_link": "https://www.google.com/shopping/product/12658175241542135182?gl=us",
+      "product_id": "12658175241542135182",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12658175241542135182",
+      "link": "https://ugearsmodels.com/safe.html?currency=usd&srsltid=AfmBOoqSO7YCpt3GVSeCfRZvypWGUhkVLrWH6bSbduMbWiMd4xHXF7P_4nQ",
+      "links": [
+        "https://ugearsmodels.com/safe.html?currency=usd&srsltid=AfmBOoqSO7YCpt3GVSeCfRZvypWGUhkVLrWH6bSbduMbWiMd4xHXF7P_4nQ",
+        "https://www.rockler.com/ugears-safe?country=US&promo=shopping",
+        "https://ugears.us/products/safe?variant=17383325251&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopUgIqRMFifKYob0ztmOR67K0itT8peMurZ_fhvpI72xRNH58dK9JI"
+      ],
+      "source": "Ugears Models",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c865b4d377463b421c329c6fcd323044782.png",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "rating": 4.6,
+      "reviews": 245,
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86ad754e6eeb36143a7d248a7fcb4ee5db.webp",
+      "delivery": "Free by 12/16"
+    },
+    {
+      "position": 3,
+      "title": "Fat Brain Toys DIY Miniature Model Kit Harper's Library Toy",
+      "product_link": "https://www.google.com/shopping/product/8332288846841025570?gl=us",
+      "product_id": "8332288846841025570",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8332288846841025570",
+      "link": "https://www.fatbraintoys.com/toy_companies/fat_brain_toys/diy_miniature_model_kit_harpers_library.cfm?country=US&source=google_pla&kwid=FB288-H-10",
+      "links": [
+        "https://www.fatbraintoys.com/toy_companies/fat_brain_toys/diy_miniature_model_kit_harpers_library.cfm?country=US&source=google_pla&kwid=FB288-H-10",
+        "https://www.amazon.com/Fat-Brain-Toys-Miniature-Model/dp/B07G2MT9FQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A154Z3BZB2CCWS",
+        "https://woodartsupply.com/products/fat-brain-toys-diy-miniature-model-kit-harpers-library-crafting-kit-for-teens-adults?variant=44679606665382&sfdr_ptcid=45068_4_701236979&sfdr_hash=fe70b8ad5fc308ba8c42d90bcf1bd302&srsltid=AfmBOorsZ0iagqH0xtUTatmvFGdJRTVTGmy5IzVSmif-ltez2ooFutpxYgM"
+      ],
+      "source": "Fat Brain Toys",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8698951d4f7b44f16386f91aea81610c2c.png",
+      "price": "$36.95",
+      "extracted_price": 36.95,
+      "rating": 4.7,
+      "reviews": 24,
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86849a0c1603035b7ed4577baba6559a3a.webp"
+    },
+    {
+      "position": 4,
+      "title": "Think Link Fidget Toy for adults children (multiple colors), Quiet Sensory Toy",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:802646070382457356",
+      "product_id": "802646070382457356",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=802646070382457356",
+      "link": "https://www.etsy.com/listing/491319961/think-link-fidget-toy-for-adults?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/491319961/think-link-fidget-toy-for-adults?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86982330e5ae8beec267abe34b3d28a066.png",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "rating": 4.9,
+      "reviews": 2100,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86fbd6c6259f4bc26657c36c176493e594.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 5,
+      "title": "Force1 Orbiter Extreme Drone",
+      "product_link": "https://www.google.com/shopping/product/1943002033862286347?gl=us",
+      "product_id": "1943002033862286347",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1943002033862286347",
+      "link": "https://www.walmart.com/ip/Force1-Obiter-Extreme/6835621352?wmlspartner=wlpa&selectedSellerId=388",
+      "links": [
+        "https://www.walmart.com/ip/Force1-Obiter-Extreme/6835621352?wmlspartner=wlpa&selectedSellerId=388",
+        "https://usatoyz.com/products/force1-obiter-extreme-rc-aerial-drone-with-360-spins?variant=41175147282526&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOork2AhuoCL2ymVdr8fucLvMjevcMilg5rTW96LwcaefQQuRpM8xgY8",
+        "https://usatoyz.com/products/force1-obiter-extreme-rc-aerial-drone-with-360-spins-1?variant=41276089335902&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooC2JDrQqxGM1t_8rJiiq1N1nhCXgyYEIhMMsudsQ4sgSsw6Xzodd8"
+      ],
+      "source": "Walmart - USA Toyz",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c867c3fe026f1405f604ffbcd6ce3b903ec.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$30",
+      "extracted_old_price": 30,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8608711fb052d5d348f33040345b444586.webp",
+      "tag": "33% OFF",
+      "extensions": [
+        "33% OFF"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "EDC Metal Fidget Slider Toys- Stress Relief EDC Fidget Slider Casual Metal Adult's Hand Toys Office Desk Toys Gifts Stress Toys for Adults",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13075186720927906328",
+      "product_id": "13075186720927906328",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13075186720927906328",
+      "link": "https://www.amazon.com/Fidget-Slider-Stress-Relief-Casual/dp/B0CR1GSC5H?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AB6PBF3OM0BQP",
+      "links": [
+        "https://www.amazon.com/Fidget-Slider-Stress-Relief-Casual/dp/B0CR1GSC5H?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AB6PBF3OM0BQP"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c862fb28e75b80f6f2c2c1cee12ffd4fc69.png",
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86e767ac27a1a2e5ca711575a1b5fdc1bb.webp"
+    },
+    {
+      "position": 7,
+      "title": "Feel Flux FLUXONS Magnetic Fidget Balls",
+      "product_link": "https://www.google.com/shopping/product/1424315880722186060?gl=us",
+      "product_id": "1424315880722186060",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1424315880722186060",
+      "link": "https://www.vat19.com/item/fluxons-magnetic-fidget-spheres?adid=gshopping&srsltid=AfmBOopINjlTbRAAAub0uTCGJ6qOpeOdjd4k9eRIsdcRZwvmsg_vAr3GIKU",
+      "links": [
+        "https://www.vat19.com/item/fluxons-magnetic-fidget-spheres?adid=gshopping&srsltid=AfmBOopINjlTbRAAAub0uTCGJ6qOpeOdjd4k9eRIsdcRZwvmsg_vAr3GIKU",
+        "https://shop.feelflux.com/products/fluxons?variant=47833563955528&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopIl5dje70cS3XZ4C0S3HmzhxjyY6MwUT3hEb50YtRZGH3FGRr58OE",
+        "https://www.ebay.com/itm/116260261257?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqOy4bgj6JN4KOq3Jor9FSQbcb0tIxrlYUpgAJjHXd8sNmk-MWUHmc"
+      ],
+      "source": "Vat19.com",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8666e23fe9f21bfad02b8b03972db445fb.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4,
+      "reviews": 1,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86305fff9de828b63ba136237bb128aba3.webp",
+      "delivery": "Free by 12/18"
+    },
+    {
+      "position": 8,
+      "title": "Prank Water Lighter Toys For Adult Kids Children Gag Toys & Practical",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:1500232575015796049",
+      "product_id": "1500232575015796049",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1500232575015796049",
+      "link": "https://www.ebay.com/itm/156222206868?chn=ps&mkevt=1&mkcid=28&var=457165553915&google_free_listing_action=view_item&srsltid=AfmBOoqGzjQm7h2Z1AAfXNQb0tW9eHA5H7Rni-W-ReWf4I1kEo1iJMYaQ9M",
+      "links": [
+        "https://www.ebay.com/itm/156222206868?chn=ps&mkevt=1&mkcid=28&var=457165553915&google_free_listing_action=view_item&srsltid=AfmBOoqGzjQm7h2Z1AAfXNQb0tW9eHA5H7Rni-W-ReWf4I1kEo1iJMYaQ9M"
+      ],
+      "source": "eBay - spendingmoney047",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86f967373ac75a5765670d2e2b4dcd230b.png",
+      "price": "$8.26",
+      "extracted_price": 8.26,
+      "rating": 4.6,
+      "reviews": 13,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86d96e8f7f342788fad647177294de30ec.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 9,
+      "title": "Force1 Scoot Skeet Drone Electronic Shooting Game",
+      "product_link": "https://www.google.com/shopping/product/4489487193163994311?gl=us",
+      "product_id": "4489487193163994311",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4489487193163994311",
+      "link": "https://usatoyz.com/products/scoot-skeet-purple-green-duo?variant=40196448911454&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopsKTzKcrrjz8qWdC7lWlPEt0ROR2LdQiMI-2998-mEsHGyJb6n5ws",
+      "links": [
+        "https://usatoyz.com/products/scoot-skeet-purple-green-duo?variant=40196448911454&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopsKTzKcrrjz8qWdC7lWlPEt0ROR2LdQiMI-2998-mEsHGyJb6n5ws",
+        "https://www.macys.com/shop/product/force1-scoot-skeet-drone-electronic-shooting-game-for-kids-adults-purple-green?ID=18641856&pla_country=US&CAGPSPN=pla",
+        "https://www.orientaltrading.com/force1-scoot-skeet-drone-electronic-shooting-game-for-kids-and-adults-purple-green-a2-14525333.fltr?sku=14525333&cm_mmc=GooglePLA-_-Free-_-Google-_-14525333&BP=PS544"
+      ],
+      "source": "USA Toyz",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866594f9fb0a53600797a8e24ac189ccfe.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c869f3a5a90f97be1dcbe4d4c7cbde9e413.webp",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 10,
+      "title": "TwCare 20 Pack High Speed Hand Fidget Spinners",
+      "product_link": "https://www.google.com/shopping/product/3300599847916824507?gl=us",
+      "product_id": "3300599847916824507",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3300599847916824507",
+      "link": "https://www.walmart.com/ip/20-Pack-High-Speed-Hand-Fidget-Spinners-Kids-Adults-Boys-Girls-Sensory-Pack-Stress-Anxiety-ADHD-Relief-Fidgets-Toy-Party-Favors-Birthday-Gifts-Goodie/3500180412?wmlspartner=wlpa&selectedSellerId=101033962",
+      "links": [
+        "https://www.walmart.com/ip/20-Pack-High-Speed-Hand-Fidget-Spinners-Kids-Adults-Boys-Girls-Sensory-Pack-Stress-Anxiety-ADHD-Relief-Fidgets-Toy-Party-Favors-Birthday-Gifts-Goodie/3500180412?wmlspartner=wlpa&selectedSellerId=101033962",
+        "https://www.amazon.com/Spinners-Fingertip-Birthday-Stuffers-Classroom/dp/B0C897Z3KL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A24C7NQJ8VF5NI",
+        "https://www.ebay.com/itm/155731039898?chn=ps&mkevt=1&mkcid=28&var=456905947486&google_free_listing_action=view_item"
+      ],
+      "source": "Walmart - TwCare LLC",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c865274326acb223e14dbaee02885dcacb7.png",
+      "price": "$18.99",
+      "extracted_price": 18.99,
+      "rating": 4,
+      "reviews": 4,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86a3d18f80799fb67f5ace14a1c07fa6b2.webp"
+    },
+    {
+      "position": 11,
+      "title": "Infinity Cube Fidget Toy",
+      "product_link": "https://www.google.com/shopping/product/17161408227353275227?gl=us",
+      "product_id": "17161408227353275227",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17161408227353275227",
+      "link": "https://www.amazon.com/Infinity-Fidgeting-Spinner-Anxiety-Fingers/dp/B071X8S8WQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2LHYSNWVMO0WD",
+      "links": [
+        "https://www.amazon.com/Infinity-Fidgeting-Spinner-Anxiety-Fingers/dp/B071X8S8WQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2LHYSNWVMO0WD",
+        "https://www.walmart.com/ip/Infinity-Cube-Sensory-Fidget-AIF4-nbsp-Toy-EDC-Fidgeting-Game-Kids-Adults-Cool-Mini-Gadget-Best-Stress-Anxiety-Relief-Kill-Time-Unique-Idea-That-Ligh/13664174935?wmlspartner=wlpa&selectedSellerId=101618715",
+        "https://www.ebay.com/itm/195479236926?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoontbk0lUD2KTedmfOE9j543tKqR0qnZPPMWiZNBX5aj5HhUdq-LCg"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86cf51d9fea3d8c97072a914e6482768f6.png",
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "old_price": "$17",
+      "extracted_old_price": 17,
+      "rating": 1,
+      "reviews": 1,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8645f9ec579b602214fb41719605da6bbb.webp",
+      "tag": "47% OFF",
+      "extensions": [
+        "47% OFF"
+      ]
+    },
+    {
+      "position": 12,
+      "title": "Antsy Labs Get Fidget Cube Now Fidget Toy",
+      "product_link": "https://www.google.com/shopping/product/425995339206126693?gl=us",
+      "product_id": "425995339206126693",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=425995339206126693",
+      "link": "https://www.antsylabs.com/products/fidget-cube-the-original-fidget-toy?variant=454637158425&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoozoF6Ssob8oV3MZr1tEQmUiCIQLMZKt3bScbeW0WCdFGY0rOoT2hc",
+      "links": [
+        "https://www.antsylabs.com/products/fidget-cube-the-original-fidget-toy?variant=454637158425&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoozoF6Ssob8oV3MZr1tEQmUiCIQLMZKt3bScbeW0WCdFGY0rOoT2hc"
+      ],
+      "source": "Antsy Labs",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86130d4f69fdc5751f11b4042ae8d8f3de.png",
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "old_price": "$13",
+      "extracted_old_price": 13,
+      "rating": 4.7,
+      "reviews": 355,
+      "extensions": [
+        "14-day returns",
+        "7% OFF"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8610b310f21864189967aeaa5cc6796ce2.webp",
+      "tag": "7% OFF",
+      "delivery": "Free $49+"
+    },
+    {
+      "position": 13,
+      "title": "Bop It! Game",
+      "product_link": "https://www.google.com/shopping/product/16040416960669276660?gl=us",
+      "product_id": "16040416960669276660",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16040416960669276660",
+      "link": "https://www.target.com/p/bop-it-game/-/A-50693112?ref=tgt_adv_xsf&AFID=google&CPNG=Toys&adgroup=87-10",
+      "links": [
+        "https://www.target.com/p/bop-it-game/-/A-50693112?ref=tgt_adv_xsf&AFID=google&CPNG=Toys&adgroup=87-10",
+        "https://www.walmart.com/ip/Bop-It-The-Classic-Game-of-Bop-It-Pull-It-Twist-It-for-Kids-and-Family-Ages-8-and-Up-1-Player/517230221?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.selfridges.com/US/en/product/board-games-bop-it!_R00137952/"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8690a65dcccda64d7628363c512422047d.png",
+      "price": "$8.59",
+      "extracted_price": 8.59,
+      "old_price": "$16",
+      "extracted_old_price": 16,
+      "rating": 4.6,
+      "reviews": 636,
+      "extensions": [
+        "Free 90-day returns",
+        "46% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c863f7bd0c4d41f3ce38f5367a5d9cd8d4d.webp",
+      "tag": "46% OFF",
+      "delivery": "Free $35+"
+    },
+    {
+      "position": 14,
+      "title": "Cool Stuff Thing Game Toy Adult Teen Children Kid Stress Relief",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14371241686308725616",
+      "product_id": "14371241686308725616",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14371241686308725616",
+      "link": "https://www.ebay.com/itm/315334814633?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqIWrV-TLS1Gs4hiSUbu15MP8lerH1gWqmUuqbmPZYUxoWFEsXwIt4",
+      "links": [
+        "https://www.ebay.com/itm/315334814633?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqIWrV-TLS1Gs4hiSUbu15MP8lerH1gWqmUuqbmPZYUxoWFEsXwIt4"
+      ],
+      "source": "eBay - forrairastore",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c860572f7da68ae7501db708d95dd6da3d2.png",
+      "price": "$30.77",
+      "extracted_price": 30.77,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86608c3cdf6fa22033059afb7e8d8ba43d.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 15,
+      "title": "Gear fidget toy for kid and adult, for focus and fun. Dual spinning gears.",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17893502695393286",
+      "product_id": "17893502695393286",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17893502695393286",
+      "link": "https://www.etsy.com/listing/1645424683/gear-fidget-toy-for-kid-and-adult-for?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1645424683/gear-fidget-toy-for-kid-and-adult-for?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86297748ca658a9cd6c044af4b661ca64f.png",
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "rating": 5,
+      "reviews": 2,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86d664bff6be2ae419593301f444af8957.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "Fidget Spinners Gifts for Adults and Kids",
+      "product_link": "https://www.google.com/shopping/product/5518636008927258206?gl=us",
+      "product_id": "5518636008927258206",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5518636008927258206",
+      "link": "https://www.amazon.com/Spinners-Spinner-Anxiety-Luminous-Release/dp/B07WDNSK5T?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1R323BFY25H0T",
+      "links": [
+        "https://www.amazon.com/Spinners-Spinner-Anxiety-Luminous-Release/dp/B07WDNSK5T?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1R323BFY25H0T",
+        "https://www.ebay.com/itm/395944456599?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOop8sTWo-vQzXP8lI8VlhJCpTGJ3LkHtbGubI_NmlN0cHrQKRF5JVyc",
+        "https://www.ebay.com/itm/235835038113?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorgvgphGlL9puIvgomcOFQEZoJ5rzDGXvnP4quF-qwERsFeDm9g5Eo"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c863fac7b2c4fe88dbf84c744ce519d9db7.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$26",
+      "extracted_old_price": 26,
+      "rating": 4,
+      "reviews": 4,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c869972cb2859df5abe69c13b0766f27819.webp",
+      "tag": "23% OFF",
+      "extensions": [
+        "23% OFF"
+      ]
+    },
+    {
+      "position": 17,
+      "title": "Triumph Lumen-X Lazer 6' Interactive Air Hockey Table",
+      "product_link": "https://www.google.com/shopping/product/13639415376309187647?gl=us",
+      "product_id": "13639415376309187647",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13639415376309187647",
+      "link": "https://www.dickssportinggoods.com/p/triumph-lumen-x-lazer-6-air-hockey-table-17wmvutrmphlmnxlzstg/17wmvutrmphlmnxlzstg?sku=18340733&srsltid=AfmBOoouvzWl3pQOKA_Gl1PneqKQWypNXFRfM-k14px_0uUSbbECdeMQKHM",
+      "links": [
+        "https://www.dickssportinggoods.com/p/triumph-lumen-x-lazer-6-air-hockey-table-17wmvutrmphlmnxlzstg/17wmvutrmphlmnxlzstg?sku=18340733&srsltid=AfmBOoouvzWl3pQOKA_Gl1PneqKQWypNXFRfM-k14px_0uUSbbECdeMQKHM",
+        "https://www.amazon.com/Triumph-Interactive-Featuring-All-Rail-Lighting/dp/B01MREOEQ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.wayfair.com/Triumph-Sports--72-Air-Hockey-Table-with-Digital-Scoreboard-and-Lights-456800W-L1306-K~VVSL1007.html?refid=FR49-VVSL1007"
+      ],
+      "source": "DICK'S Sporting Goods",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866097f73d878bdc5e42119d8050677b42.png",
+      "price": "$469.99",
+      "extracted_price": 469.99,
+      "rating": 4,
+      "reviews": 43,
+      "extensions": [
+        "Free 90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86f53df7eb361ec89d071a373313bb2bfc.webp"
+    },
+    {
+      "position": 18,
+      "title": "Stellar Factory Werewolf Party Game",
+      "product_link": "https://www.google.com/shopping/product/13989085175951605313?gl=us",
+      "product_id": "13989085175951605313",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13989085175951605313",
+      "link": "https://stellarfactory.com/products/stellar-factory-werewolf-a-party-game-for-devious-people?variant=32421821743194&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqqL6BCPm83SCHb_0cJaY9Yy-kAofHK9vIld1231BTelMRhvMnnE7I",
+      "links": [
+        "https://stellarfactory.com/products/stellar-factory-werewolf-a-party-game-for-devious-people?variant=32421821743194&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqqL6BCPm83SCHb_0cJaY9Yy-kAofHK9vIld1231BTelMRhvMnnE7I",
+        "https://www.amazon.com/Stellar-Factory-Werewolf-Devious-People/dp/B01MTMWYES?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1IO1QQINFFGFU",
+        "https://www.walmart.com/ip/Stellar-Factory-Werewolf-a-Party-Game-for-Devious-People/746447266?wmlspartner=wlpa&selectedSellerId=101026587"
+      ],
+      "source": "Stellar Factory",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86d2dcda6445a92578be24df18e4171312.png",
+      "price": "$12.95",
+      "extracted_price": 12.95,
+      "rating": 4.8,
+      "reviews": 567,
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8663b1d636e606e80e6fb490e609672c38.webp"
+    },
+    {
+      "position": 19,
+      "title": "LIFCAUSAL Ufo Fingertip Upgrade Flying Spinner Decompression Toy for Adult and Kids (Blue)",
+      "product_link": "https://www.google.com/shopping/product/15072983716340607706?gl=us",
+      "product_id": "15072983716340607706",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15072983716340607706",
+      "link": "https://www.sears.com/goolrc-ufo-fingertip-upgrade-flight-gyro-flying-spinner-decompression-toy-for-adult-and-kids-blue/p-A124694169?sid=ISxMP3xSOxGGxDTxSURF&srsltid=AfmBOoopLJbGaCkfAD8HeTN34Kh3oklOJUWCfC5RzZBuFwm-DsKuzPSjNKs",
+      "links": [
+        "https://www.sears.com/goolrc-ufo-fingertip-upgrade-flight-gyro-flying-spinner-decompression-toy-for-adult-and-kids-blue/p-A124694169?sid=ISxMP3xSOxGGxDTxSURF&srsltid=AfmBOoopLJbGaCkfAD8HeTN34Kh3oklOJUWCfC5RzZBuFwm-DsKuzPSjNKs",
+        "https://www.ebay.com/itm/286064671501?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopRiuU-y8x28tk6rGW-_9v8MvGzPnofecrm2TlyTNzSgBusott_w0s"
+      ],
+      "source": "Sears - zabiva",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86ab1ab513a694b8b15cb9c1371f6acfde.png",
+      "price": "$19.27",
+      "extracted_price": 19.27,
+      "old_price": "$36",
+      "extracted_old_price": 36,
+      "rating": 4,
+      "reviews": 1,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c862aa259ee85be4a64e23e34d6114b59b0.webp",
+      "tag": "45% OFF",
+      "extensions": [
+        "45% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 20,
+      "title": "Fidget Dodecagon –12 Side Fidget Toy Cube Relieves Stress and Anxiety Anti Depression Cube for Children and Adults",
+      "product_link": "https://www.google.com/shopping/product/1361501812013439670?gl=us",
+      "product_id": "1361501812013439670",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1361501812013439670",
+      "link": "https://www.walmart.com/ip/Fidget-Dodecagon-12-Sided-Fidget-Toy-Cube-Stress-Relieves-and-Anxiety-Anti-Depression-Cube-12-Sides-Fidget-for-Children-and-Adults/3067205443?wmlspartner=wlpa&selectedSellerId=101090649",
+      "links": [
+        "https://www.walmart.com/ip/Fidget-Dodecagon-12-Sided-Fidget-Toy-Cube-Stress-Relieves-and-Anxiety-Anti-Depression-Cube-12-Sides-Fidget-for-Children-and-Adults/3067205443?wmlspartner=wlpa&selectedSellerId=101090649",
+        "https://www.amazon.com/Dodecagon-12-Side-Relieves-Depression-Children/dp/B071D15FVK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9HWYGT32V06A",
+        "https://www.ebay.com/itm/386575342694?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoq8ionAISijfDFm88_AyRLn3MbusueUwd6nAAEC_P-hShJdxRmP8YI"
+      ],
+      "source": "Walmart - DoDoMagXanadu",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86abcbc6bb56ab60fde9bde0cd7d6feb41.png",
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "rating": 4.1,
+      "reviews": 16,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c867a846503fc8d4fd3a35e4dc97160efcc.webp"
+    },
+    {
+      "position": 21,
+      "title": "COZYMATE Keyboard Fidget Toys",
+      "product_link": "https://www.google.com/shopping/product/16092005277836543785?gl=us",
+      "product_id": "16092005277836543785",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16092005277836543785",
+      "link": "https://www.amazon.com/Keyboard-Clicker-Keychain-Decompression-Macaroon1/dp/B0C9TF2GH8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A15EIX4MUTH1UJ",
+      "links": [
+        "https://www.amazon.com/Keyboard-Clicker-Keychain-Decompression-Macaroon1/dp/B0C9TF2GH8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A15EIX4MUTH1UJ",
+        "https://www.amazon.com/Keyboard-Clicker-Keychain-Sensory-Decompression/dp/B0CXSCBV7R?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1DOU6GX3LFL7Y",
+        "https://www.amazon.com/Keyboard-Clicker-Keychain-Decompression-RPSCatPaw/dp/B0CJ8PNC5J?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A15EIX4MUTH1UJ"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c862771062176d840e64596478d6b365762.png",
+      "price": "$11.69",
+      "extracted_price": 11.69,
+      "old_price": "$13",
+      "extracted_old_price": 13,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86bbb1936aabd8226245402184ca7eb218.webp",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ]
+    },
+    {
+      "position": 22,
+      "title": "Minimalist Infinity Fidget Cube | Adult Desk fidget toy | Best Gift for coworkers and friend | Birthday present for kids | As seen on tiktok",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14417040187851422851",
+      "product_id": "14417040187851422851",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14417040187851422851",
+      "link": "https://www.etsy.com/listing/1812520314/minimalist-infinity-fidget-cube-adult?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1812520314/minimalist-infinity-fidget-cube-adult?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8632b5b45ab17205034aa30d739571f76f.png",
+      "price": "$13.38",
+      "extracted_price": 13.38,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c863b728f5484f60ed225c6bf866cf1bea3.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 23,
+      "title": "Metal Anti Gravity Mechanical Gyroscope Fidget Spinner Adults Kids Educational Toys Technology",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9865376844127514195",
+      "product_id": "9865376844127514195",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9865376844127514195",
+      "link": "https://www.aliexpress.com/item/3256807175414147.html?_randl_currency=USD&_randl_shipto=US&src=google",
+      "links": [
+        "https://www.aliexpress.com/item/3256807175414147.html?_randl_currency=USD&_randl_shipto=US&src=google"
+      ],
+      "source": "AliExpress",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86b08f53551fc0df70122c9b2d6e8debf8.png",
+      "price": "$23.17",
+      "extracted_price": 23.17,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866796744172a2dff61a1136df78dcabba.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 24,
+      "title": "ONO Roller Handheld Fidget Toy",
+      "product_link": "https://www.google.com/shopping/product/10062359709836685398?gl=us",
+      "product_id": "10062359709836685398",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10062359709836685398",
+      "link": "https://onoroller.com/products/roller-alu-junior?variant=43957768290531&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoou6wCN95K3oAPGqv52vv6JUILmL5llC00ICWgFuoH-PVGvK9DVAFo",
+      "links": [
+        "https://onoroller.com/products/roller-alu-junior?variant=43957768290531&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoou6wCN95K3oAPGqv52vv6JUILmL5llC00ICWgFuoH-PVGvK9DVAFo",
+        "https://www.amazon.com/ONO-Roller-Handheld-Promotes-Portable/dp/B0C2X48134?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A12SS3RLMWRZEA",
+        "https://www.walmart.com/ip/Purple-Junior-ONO-Roller-Handheld-Fidget-Toy-Adults-Help-Relieve-Stress-Anxiety-Tension-Promotes-Focus-Clarity-Compact-Portable-Design/5384065760?wmlspartner=wlpa&selectedSellerId=101056386"
+      ],
+      "source": "onoroller.com",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86a85ca16af1117ef20476669d2ef1c5e2.png",
+      "price": "$35.00",
+      "extracted_price": 35,
+      "rating": 4.8,
+      "reviews": 857,
+      "extensions": [
+        "15-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86ae96889507bbd85d813f71f0c9916a2a.webp"
+    },
+    {
+      "position": 25,
+      "title": "Peacnng Fidget Toys",
+      "product_link": "https://www.google.com/shopping/product/10275948683127381708?gl=us",
+      "product_id": "10275948683127381708",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10275948683127381708",
+      "link": "https://www.walmart.com/ip/PEACNNG-Fidget-Toys-for-Adults-Kids-Teens-6Pcs-Fidget-Gyro-Toys-Party-Favors-for-Kids-3-Desk-Toys-for-Office-for-Adults-Best-Gift/3931745110?wmlspartner=wlpa&selectedSellerId=101296736",
+      "links": [
+        "https://www.walmart.com/ip/PEACNNG-Fidget-Toys-for-Adults-Kids-Teens-6Pcs-Fidget-Gyro-Toys-Party-Favors-for-Kids-3-Desk-Toys-for-Office-for-Adults-Best-Gift/3931745110?wmlspartner=wlpa&selectedSellerId=101296736",
+        "https://www.walmart.com/ip/PEACNNG-Fidget-Toys-for-Adults-Kids-Teens-6Pcs-Fidget-Gyro-Toys-Party-Favors-for-Kids-3-Desk-Toys-for-Office-for-Adults-Best-Gift/3931745110?wmlspartner=wlpa&selectedSellerId=101665817"
+      ],
+      "source": "Walmart - PEACNNG Co. Ltd",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86126643341b5e6b8205910b4e5a2cc4a3.png",
+      "price": "$28.00",
+      "extracted_price": 28,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866fea35dd5dcae6491c390701246b8e8d.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 26,
+      "title": "Moinin Squishy Fidget Sensory Stress Human Face Toy",
+      "product_link": "https://www.google.com/shopping/product/8383242425628280675?gl=us",
+      "product_id": "8383242425628280675",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8383242425628280675",
+      "link": "https://www.amazon.com/Squishy-Decompression-Birthday-Christmas-Stocking/dp/B0B24SNXBX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3HEXXF3MEAW9I",
+      "links": [
+        "https://www.amazon.com/Squishy-Decompression-Birthday-Christmas-Stocking/dp/B0B24SNXBX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3HEXXF3MEAW9I"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86b4de6fbc3953e89ae4562658a227bc10.png",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c863c433b9493364bd16d862bd026bfa054.webp"
+    },
+    {
+      "position": 27,
+      "title": "Oversized Bolt & Nut, Adult Fidget Toy, Fidget Toy, Fidget Toys, Gift for Kids, Gift for Dad, Fun Gift, Funny Gift, Gag Gift",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:5609235517961663888",
+      "product_id": "5609235517961663888",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5609235517961663888",
+      "link": "https://www.etsy.com/listing/1228662154/oversized-bolt-nut-adult-fidget-toy?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1228662154/oversized-bolt-nut-adult-fidget-toy?gpla=1&gao=1&"
+      ],
+      "source": "Etsy - MappingCosmos",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86244784afa808501f0f83ab32e04037e0.png",
+      "price": "$14.35",
+      "extracted_price": 14.35,
+      "old_price": "$16",
+      "extracted_old_price": 16,
+      "rating": 4.5,
+      "reviews": 4,
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86a6d11154102eb5bfb9090968da4f856c.webp",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ]
+    },
+    {
+      "position": 28,
+      "title": "LEGO Art Hokusai The Great Wave 31208",
+      "product_link": "https://www.google.com/shopping/product/4707252649709971207?gl=us",
+      "product_id": "4707252649709971207",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4707252649709971207",
+      "link": "https://www.target.com/p/lego-art-hokusai-8211-the-great-wave-wall-art-adults-set-31208/-/A-86216149?ref=tgt_adv_xsf&AFID=google&CPNG=Toys&adgroup=204-0",
+      "links": [
+        "https://www.target.com/p/lego-art-hokusai-8211-the-great-wave-wall-art-adults-set-31208/-/A-86216149?ref=tgt_adv_xsf&AFID=google&CPNG=Toys&adgroup=204-0",
+        "https://www.amazon.com/LEGO-Art-Hokusai-Japanese-Creative/dp/B0BBSKBXQ2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.lego.com/en-us/product/hokusai--the-great-wave-31208"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c864dd089d827fb4de980949a85c7bfa064.png",
+      "price": "$84.99",
+      "extracted_price": 84.99,
+      "rating": 4.8,
+      "reviews": 1200,
+      "extensions": [
+        "Free 90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86e68471ba337b7b300642b64cb26189a5.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 29,
+      "title": "X-Shot Insanity Motorized Rage Fire Blaster",
+      "product_link": "https://www.google.com/shopping/product/15379875916171322222?gl=us",
+      "product_id": "15379875916171322222",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15379875916171322222",
+      "link": "https://www.samsclub.com/p/zuru-x-shot-insanity-rage-fire-blaster/P990337234?itemNumber=990357692",
+      "links": [
+        "https://www.samsclub.com/p/zuru-x-shot-insanity-rage-fire-blaster/P990337234?itemNumber=990357692",
+        "https://www.macys.com/shop/product/x-shot-excel-insanity-motorized-rage-fire-gatlin-blaster?ID=16422485&pla_country=US&CAGPSPN=pla",
+        "https://www.walmart.com/ip/X-Shot-Excel-Insanity-Motorized-Rage-Fire-Gatlin-Blaster/5073349077?wmlspartner=wlpa&selectedSellerId=101601880"
+      ],
+      "source": "Sam's Club",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86f208446124f4e6117e0ee34d1d4384d0.png",
+      "price": "$49.97",
+      "extracted_price": 49.97,
+      "rating": 3.9,
+      "reviews": 418,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c862b4ec5074a6a627eb4d997d6891171f2.webp"
+    },
+    {
+      "position": 30,
+      "title": "Anzmtosn Infinity Fidget Cube Fidget Spinner Toy",
+      "product_link": "https://www.google.com/shopping/product/12556410861248711117?gl=us",
+      "product_id": "12556410861248711117",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12556410861248711117",
+      "link": "https://www.walmart.com/ip/Infinity-Fidget-Cube-Spinner-Toy-Kids-Adults-Metal-Transformable-Anti-Anxiety-Focusing-Block-Toy-EDC-2-1-Gyro-Office-Desk-Gadgets-Decor-Stress-Reliev/5445025260?wmlspartner=wlpa&selectedSellerId=101173368",
+      "links": [
+        "https://www.walmart.com/ip/Infinity-Fidget-Cube-Spinner-Toy-Kids-Adults-Metal-Transformable-Anti-Anxiety-Focusing-Block-Toy-EDC-2-1-Gyro-Office-Desk-Gadgets-Decor-Stress-Reliev/5445025260?wmlspartner=wlpa&selectedSellerId=101173368"
+      ],
+      "source": "Walmart - Shenzhenshibangduoladianzikejimaoyiyouxiangongsi",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86e26c5670146eb37d57a6f4294e4afd2b.png",
+      "price": "$11.98",
+      "extracted_price": 11.98,
+      "rating": 2.8,
+      "reviews": 4,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86ee6c752dbc58fad724b12e6d994b58db.webp"
+    },
+    {
+      "position": 31,
+      "title": "Fidget Spinners for Adults and Kids",
+      "product_link": "https://www.google.com/shopping/product/8520251538392985167?gl=us",
+      "product_id": "8520251538392985167",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8520251538392985167",
+      "link": "https://www.amazon.com/Spinners-Spinner-Anxiety-Luminous-Release/dp/B07WDH3SWT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1R323BFY25H0T",
+      "links": [
+        "https://www.amazon.com/Spinners-Spinner-Anxiety-Luminous-Release/dp/B07WDH3SWT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1R323BFY25H0T",
+        "https://www.sears.com/innplus-fidget-spinners-fidget-spinner-for-adults-and/p-A067918794?sid=ISxMP3xSOxGGxDTxSURF&srsltid=AfmBOopvMYqrKSCEbiswAqvP6UhV9MW9HnsF0eHKvOw0vT63lGjJLJ92aFA"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8642ff0a63c4dff45842bf244f4756c3c7.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$26",
+      "extracted_old_price": 26,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86b85cd040c7b64cd9b60b03a38cd7db0c.webp",
+      "tag": "23% OFF",
+      "extensions": [
+        "23% OFF"
+      ]
+    },
+    {
+      "position": 32,
+      "title": "Articulated Onix - 37cm long, Flexible Fidget Desk Toy for Kids and Adults, Perfect Gift for Every Fan",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7049345864974702189",
+      "product_id": "7049345864974702189",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7049345864974702189",
+      "link": "https://www.etsy.com/listing/1767692722/articulated-onix-37cm-long-flexible?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1767692722/articulated-onix-37cm-long-flexible?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8618f33d4713f356f659514c90821c3d5e.png",
+      "price": "$17.22",
+      "extracted_price": 17.22,
+      "rating": 5,
+      "reviews": 2,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86e3f06df566eb58a90dc875dd11d2f422.webp"
+    },
+    {
+      "position": 33,
+      "title": "MindWare Capture The Flag Redux",
+      "product_link": "https://www.google.com/shopping/product/13690305501226645114?gl=us",
+      "product_id": "13690305501226645114",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13690305501226645114",
+      "link": "https://www.starluxgames.com/product/capture-the-flag-redux-a-glow-in-the-dark-outdoor-game/",
+      "links": [
+        "https://www.starluxgames.com/product/capture-the-flag-redux-a-glow-in-the-dark-outdoor-game/",
+        "https://www.amazon.com/Redux-Original-Birthday-Alternative-Flashlight/dp/B00XK9C4H0?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ADHF4ZZ9Q4K22",
+        "https://shopoverthemoonchildren.com/products/capture-the-flag-redux?srsltid=AfmBOoqrkVBCWZBrVTrvG-vuFkD6cksVbdNaoc69O5jmMN7Nn0hlMOzpW9A"
+      ],
+      "source": "Starlux Games",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c868c578237594551bbb77132fa24359b11.png",
+      "price": "$49.90",
+      "extracted_price": 49.9,
+      "extensions": [
+        "60-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86af06a0ef477ed946bf06f47ce6b88fc0.webp",
+      "delivery": "Free 3-day"
+    },
+    {
+      "position": 34,
+      "title": "Throw Throw Burrito Game",
+      "product_link": "https://www.google.com/shopping/product/6813648937414733804?gl=us",
+      "product_id": "6813648937414733804",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6813648937414733804",
+      "link": "https://www.tradeinn.com/kidinn/en/asmodee-throw-throw-burrito-board-game/139266367/p?utm_source=google_products&utm_medium=merchant&id_producte=17454334&country=us&srsltid=AfmBOooxJyrmF7T-ska2qpT38-KRznqgLE579Ev7m7BI1mJwSHmpbbNE-YU",
+      "links": [
+        "https://www.tradeinn.com/kidinn/en/asmodee-throw-throw-burrito-board-game/139266367/p?utm_source=google_products&utm_medium=merchant&id_producte=17454334&country=us&srsltid=AfmBOooxJyrmF7T-ska2qpT38-KRznqgLE579Ev7m7BI1mJwSHmpbbNE-YU",
+        "https://www.amazon.com/Throw-Burrito-Dodgeball-Exploding-Kittens/dp/B07TS96J7Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.walmart.com/ip/Throw-Throw-Burrito-by-Exploding-Kittens-A-Dodgeball-Card-Game-Family-Friendly-Party-Games-for-Adults-Teens-Kids-2-6-Players/329639633?wmlspartner=wlpa&selectedSellerId=0"
+      ],
+      "source": "Kidinn.com",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c860035f3792fce0d0537873e3a18d6f262.png",
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "rating": 4.7,
+      "reviews": 726,
+      "extensions": [
+        "45-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866a8ad14c094649ea1e82161b68b957b6.webp"
+    },
+    {
+      "position": 35,
+      "title": "Jeexi Infinity Cube Fidget Cube Toy",
+      "product_link": "https://www.google.com/shopping/product/13060623771448525890?gl=us",
+      "product_id": "13060623771448525890",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13060623771448525890",
+      "link": "https://www.walmart.com/ip/Infinity-Cube-3-Pack-Fidget-Toy-Stress-Anxiety-Relief-Adults-Kids-Hand-Held-Magic-Puzzle-Flip-Fidgeting-Finger-Toys-ADD-ADHD-Passing-Time-Galaxy-Spac/520100223?wmlspartner=wlpa&selectedSellerId=101032870",
+      "links": [
+        "https://www.walmart.com/ip/Infinity-Cube-3-Pack-Fidget-Toy-Stress-Anxiety-Relief-Adults-Kids-Hand-Held-Magic-Puzzle-Flip-Fidgeting-Finger-Toys-ADD-ADHD-Passing-Time-Galaxy-Spac/520100223?wmlspartner=wlpa&selectedSellerId=101032870"
+      ],
+      "source": "Walmart - New age U.S., Inc",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8633b464194357839fa8cba45cc49d305e.png",
+      "price": "$11.49",
+      "extracted_price": 11.49,
+      "old_price": "$17",
+      "extracted_old_price": 17,
+      "rating": 4.7,
+      "reviews": 10,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86aa05ebda398fe3f932048d613a13de9f.webp",
+      "tag": "32% OFF",
+      "extensions": [
+        "32% OFF"
+      ]
+    },
+    {
+      "position": 36,
+      "title": "theFube Fidget Cube",
+      "product_link": "https://www.google.com/shopping/product/4946054642490426849?gl=us",
+      "product_id": "4946054642490426849",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4946054642490426849",
+      "link": "https://www.amazon.com/PILPOC-theFube-Fidget-Cube-Protective/dp/B0CVYJCJ1C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AVSLPWRO061OI",
+      "links": [
+        "https://www.amazon.com/PILPOC-theFube-Fidget-Cube-Protective/dp/B0CVYJCJ1C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AVSLPWRO061OI",
+        "https://www.sears.com/pilpoc-thefube-fidget-cube-6-sided-fidget-toys-for-adults-and-kids-fidget-cube-toy-for-stress/p-A126291181?sid=ISxMP3xSOxGGxDTxSURF&srsltid=AfmBOopeJpHgrD5_HwkoECW_BZbDX4Fl-iUbU1tbPDMZ_R60Xr9HmzMBcg8"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8692e1f65b149127334cc40def4e293f49.png",
+      "price": "$11.16",
+      "extracted_price": 11.16,
+      "old_price": "$14",
+      "extracted_old_price": 14,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c8659828b1334586619832877f982088caf.webp",
+      "tag": "20% OFF",
+      "extensions": [
+        "20% OFF"
+      ]
+    },
+    {
+      "position": 37,
+      "title": "Fidget toy for child/adult with Autism",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:17361959149692741720",
+      "product_id": "17361959149692741720",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17361959149692741720",
+      "link": "https://www.etsy.com/listing/1762047386/fidget-toy-for-childadult-with-autism?gpla=1&gao=1&",
+      "links": [
+        "https://www.etsy.com/listing/1762047386/fidget-toy-for-childadult-with-autism?gpla=1&gao=1&"
+      ],
+      "source": "Etsy",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c866c21d537ac045bd2ff8de79c4796000a.png",
+      "price": "$6.67",
+      "extracted_price": 6.67,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86f95a9fb3c68be24c0ad16b7a71a61fe5.webp"
+    },
+    {
+      "position": 38,
+      "title": "Speks Magnetic Balls",
+      "product_link": "https://www.google.com/shopping/product/758973887258088844?gl=us",
+      "product_id": "758973887258088844",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=758973887258088844",
+      "link": "https://www.getspeks.com/products/speks?variant=31173123342423&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOor_KIBzdpnYj_tgzqsKz7Tb8GOn02omiESdYujB2U1PZ2IRYlfXrJg",
+      "links": [
+        "https://www.getspeks.com/products/speks?variant=31173123342423&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOor_KIBzdpnYj_tgzqsKz7Tb8GOn02omiESdYujB2U1PZ2IRYlfXrJg",
+        "https://www.getspeks.com/products/speks?currency=USD&variant=31173123342423&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=e4a5e5a41e79&srsltid=AfmBOorS8fGJveipjbBEiSypnSE9zsm040tc1aqwPSdOYir0BtwcKBEg1Lk"
+      ],
+      "source": "Speks",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86aa59bd94750b4d11d9fd40f3f3f2c10c.png",
+      "price": "$62.95",
+      "extracted_price": 62.95,
+      "rating": 4.6,
+      "reviews": 8500,
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86e84b3f64c46ec44a028f54619f185617.webp"
+    },
+    {
+      "position": 39,
+      "title": "Capture The Flag",
+      "product_link": "https://www.google.com/shopping/product/16561497599546367690?gl=us",
+      "product_id": "16561497599546367690",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16561497599546367690",
+      "link": "https://www.target.com/p/starlux-games-capture-the-flag-redux-23pc/-/A-85315581?ref=tgt_adv_xsf&AFID=google&CPNG=Sports&adgroup=91-14",
+      "links": [
+        "https://www.target.com/p/starlux-games-capture-the-flag-redux-23pc/-/A-85315581?ref=tgt_adv_xsf&AFID=google&CPNG=Sports&adgroup=91-14",
+        "https://itsthoughtful.com/products/capture-the-flag-redux?variant=39308261097606&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo-BsiCpY09uwup8kZDBA9IR3IVkF6V0SHgmkYAbH7xEXX5Qk10urw",
+        "https://www.fatbraintoys.com/toy_companies/starlux_games/capture_the_flag_redux.cfm?country=US&source=google_pla&kwid=SLG001-1"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c864dd7d3eca13a93e1429115c7e46c81e5.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4.8,
+      "reviews": 20,
+      "extensions": [
+        "Free 90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c865766f91d84de86ae20769cd1c9eff4ec.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 40,
+      "title": "Bezgar Remote Control Cars RC Monster Truck",
+      "product_link": "https://www.google.com/shopping/product/10502223006927746369?gl=us",
+      "product_id": "10502223006927746369",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10502223006927746369",
+      "link": "https://www.walmart.com/ip/YCFUN-Remote-Control-Cars-Monster-Trucks-1-14-RC-Car-for-Adult-Electronic-ABS-Boy-Toys-Age-5-7-8-11/610420330?wmlspartner=wlpa&selectedSellerId=101079544",
+      "links": [
+        "https://www.walmart.com/ip/YCFUN-Remote-Control-Cars-Monster-Trucks-1-14-RC-Car-for-Adult-Electronic-ABS-Boy-Toys-Age-5-7-8-11/610420330?wmlspartner=wlpa&selectedSellerId=101079544",
+        "https://www.amazon.com/RACENT-Remote-Control-Cars-Boys/dp/B0CRQW4YFP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3LNU2QH79J34B",
+        "https://discounttoday.net/product/bezgar-remote-control-cars-rc-monster-truck-rc-car-toy-car-for-adults-boys-kids-6-2-rechargeable-batteries/?srsltid=AfmBOoqaJm-njQGnmiM9OMVE7ClvcsFk2_80zsRAht4Tw2ZKT27tzma44kE"
+      ],
+      "source": "Walmart - Shenzhen Chengfeng Technology co., Ltd.",
+      "source_icon": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c86fa97530ea82caba765c723ed21921bc9.png",
+      "price": "$26.99",
+      "extracted_price": 26.99,
+      "old_price": "$70",
+      "extracted_old_price": 70,
+      "rating": 4.3,
+      "reviews": 49,
+      "thumbnail": "https://serpapi.com/searches/6757dcbc72e8d4dc8a6f72a9/images/9ce4ecd9933ee5c9784f74f756f12c860c8059f877256eb96ba2fd15fa346c73.webp",
+      "tag": "61% OFF",
+      "extensions": [
+        "61% OFF"
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=adult+kid+toys&start=10"
+  }
+}

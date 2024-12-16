@@ -1,0 +1,2269 @@
+{
+  "search_metadata": {
+    "id": "6757dc4611d624020df07587",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/179026f1a4b75707/6757dc4611d624020df07587.json",
+    "created_at": "2024-12-10 06:14:30 UTC",
+    "processed_at": "2024-12-10 06:14:30 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=VR+Headsets&num=5&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/179026f1a4b75707/6757dc4611d624020df07587.html",
+    "total_time_taken": 5.25
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "VR Headsets",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "5",
+    "device": "desktop",
+    "direct_link": true
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "VR Headsets"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Nearby",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+nearby&shoprs=CAEYAyoLdnIgaGVhZHNldHMyDAgDEgZOZWFyYnkYAlj-tCBgAg"
+        },
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+sale&shoprs=CAESBEoCGAEYBioLdnIgaGVhZHNldHMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY_rQgYAI"
+        },
+        {
+          "text": "Get it by Thu",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCoLdnIgaGVhZHNldHMyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAI"
+        },
+        {
+          "text": "Used",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=used+VR+Headsets&shoprs=CAEYCioLdnIgaGVhZHNldHMyCAgKEgRVc2VkWP60IGAC"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets&shoprs=CAESAmoAGBYqC3ZyIGhlYWRzZXRzMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAI"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets&shoprs=CAEYFyoLdnIgaGVhZHNldHMyHAgXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFgAogBAQ"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets&shoprs=CAEYFyoLdnIgaGVhZHNldHMyHAgXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFgAogBAg"
+        }
+      ]
+    },
+    {
+      "type": "Use",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "PC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=pc+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyEggBEgJQQzoKCLzxahC98WowAlj-tCBgAg"
+        },
+        {
+          "text": "Gaming Console",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=gaming+console+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyHwgBEg5HYW1pbmcgQ29uc29sZToLCLzxahCJtv8BMAJY_rQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $35",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+under+%2435&shoprs=CAESDRILEQAAAAB2sIBBGAEYBSoLdnIgaGVhZHNldHMyIggFEglVbmRlciAkMzUYAiINEgsRAAAAAHawgEEYASoCGAFY_rQgYAI"
+        },
+        {
+          "text": "$35 - $90",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+between+%2435+and+%2490&shoprs=CAESFhIUCQAAAAB2sIBBEQAAAAAqdZVBGAEYBSoLdnIgaGVhZHNldHMyKwgFEgkkMzUgLSAkOTAYAiIWEhQJAAAAAHawgEERAAAAACp1lUEYASoCGAFY_rQgYAI"
+        },
+        {
+          "text": "$90 - $200",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+between+%2490+and+%24200&shoprs=CAESFhIUCQAAAAAqdZVBEQAAAACE16dBGAEYBSoLdnIgaGVhZHNldHMyLAgFEgokOTAgLSAkMjAwGAIiFhIUCQAAAAAqdZVBEQAAAACE16dBGAEqAhgBWP60IGAC"
+        },
+        {
+          "text": "$200 - $450",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+between+%24200+and+%24450&shoprs=CAESFhIUCQAAAACE16dBEQAAAIB00rpBGAEYBSoLdnIgaGVhZHNldHMyLQgFEgskMjAwIC0gJDQ1MBgCIhYSFAkAAAAAhNenQREAAACAdNK6QRgBKgIYAVj-tCBgAg"
+        },
+        {
+          "text": "Over $450",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+over+%24450&shoprs=CAESDRILCQAAAIB00rpBGAEYBSoLdnIgaGVhZHNldHMyIggFEglPdmVyICQ0NTAYAiINEgsJAAAAgHTSukEYASoCGAFY_rQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "With Controller",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets+with+controller&shoprs=CAEYASoLdnIgaGVhZHNldHMyIQgBEg9XaXRoIENvbnRyb2xsZXIYAjoKCNjxahDZ8WowA1j-tCBgAg"
+        },
+        {
+          "text": "Bundle",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=bundle+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyGAgBEgZCdW5kbGU6DAiEnf4BEIWd_gEwA1j-tCBgAg"
+        },
+        {
+          "text": "With Vision Correction",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets+with+vision+correction&shoprs=CAEYASoLdnIgaGVhZHNldHMyKAgBEhZXaXRoIFZpc2lvbiBDb3JyZWN0aW9uGAI6CgjG8moQx_JqMANY_rQgYAI"
+        },
+        {
+          "text": "With 4K Display",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets+with+4k+display&shoprs=CAEYASoLdnIgaGVhZHNldHMyIwgBEg9XaXRoIDRLIERpc3BsYXkYAjoMCLSd2wMQyp_bAzADWP60IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "input_type": "color",
+      "options": [
+        {
+          "text": "Black",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=black+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyFwgBEgVCbGFjazoMCMXG_AEQxsb8ATAAWP60IGAC"
+        },
+        {
+          "text": "White",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=white+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyFwgBEgVXaGl0ZToMCMXG_AEQysb8ATAAWP60IGAC"
+        },
+        {
+          "text": "Blue",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=blue+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyFggBEgRCbHVlOgwIxcb8ARDNxvwBMABY_rQgYAI"
+        },
+        {
+          "text": "Charcoal",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=charcoal+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyGggBEghDaGFyY29hbDoMCMXG_AEQzMb8ATAAWP60IGAC"
+        },
+        {
+          "text": "Silver",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=silver+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyGAgBEgZTaWx2ZXI6DAjFxvwBEMzQ_wEwAFj-tCBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Walmart",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=walmart+vr+headsets&shoprs=CAEYAioLdnIgaGVhZHNldHMyCwgCEgdXYWxtYXJ0WP60IGAC"
+        },
+        {
+          "text": "Best Buy",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=best+buy+vr+headsets&shoprs=CAEYAioLdnIgaGVhZHNldHMyDAgCEghCZXN0IEJ1eVj-tCBgAg"
+        },
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=target+vr+headsets&shoprs=CAEYAioLdnIgaGVhZHNldHMyCggCEgZUYXJnZXRY_rQgYAI"
+        },
+        {
+          "text": "GameStop",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=gamestop+vr+headsets&shoprs=CAEYAioLdnIgaGVhZHNldHMyDAgCEghHYW1lU3RvcFj-tCBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Storage Capacity",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 64 GB storage",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+64+gb+storage+vr+headsets&shoprs=CAESEioQCIOe2wMSCREAAAAAAABQQBgBKgt2ciBoZWFkc2V0czI6CAESE1VuZGVyIDY0IEdCIHN0b3JhZ2UiEioQCIOe2wMSCREAAAAAAABQQCoCGAE6CQiDntsDEAAwBlj-tCBgAg"
+        },
+        {
+          "text": "64 – 128 GB storage",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=64+gb+storage+to+128+gb+storage+vr+headsets&shoprs=CAESGyoZCIOe2wMSEgkAAAAAAABQQBEAAAAAAABgQBgBKgt2ciBoZWFkc2V0czJmCAESFTY0IOKAkyAxMjggR0Igc3RvcmFnZSIbKhkIg57bAxISCQAAAAAAAFBAEQAAAAAAAGBAKiMKHzY0IEdCIHN0b3JhZ2UgdG8gMTI4IEdCIHN0b3JhZ2UYAToJCIOe2wMQADAGWP60IGAC"
+        },
+        {
+          "text": "128 – 256 GB storage",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=128+gb+storage+to+256+gb+storage+vr+headsets&shoprs=CAESGyoZCIOe2wMSEgkAAAAAAABgQBEAAAAAAABwQBgBKgt2ciBoZWFkc2V0czJoCAESFjEyOCDigJMgMjU2IEdCIHN0b3JhZ2UiGyoZCIOe2wMSEgkAAAAAAABgQBEAAAAAAABwQCokCiAxMjggR0Igc3RvcmFnZSB0byAyNTYgR0Igc3RvcmFnZRgBOgkIg57bAxAAMAZY_rQgYAI"
+        },
+        {
+          "text": "Over 256 GB storage",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+256+gb+storage+vr+headsets&shoprs=CAESEioQCIOe2wMSCQkAAAAAAABwQBgBKgt2ciBoZWFkc2V0czI6CAESE092ZXIgMjU2IEdCIHN0b3JhZ2UiEioQCIOe2wMSCQkAAAAAAABwQCoCGAE6CQiDntsDEAAwBlj-tCBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Max Refresh Rate",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 60Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+60hz+vr+headsets&shoprs=CAESESoPCNfxahIJEQAAAAAAAE5AGAEqC3ZyIGhlYWRzZXRzMi8IARIKVW5kZXIgNjBIeiIRKg8I1_FqEgkRAAAAAAAATkAqAhgBOggI1_FqEAAwBlj-tCBgAg"
+        },
+        {
+          "text": "60 – 90Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=60hz+to+90hz+vr+headsets&shoprs=CAESGioYCNfxahISCQAAAAAAAE5AEQAAAAAAgFZAGAEqC3ZyIGhlYWRzZXRzMkcIARILNjAg4oCTIDkwSHoiGioYCNfxahISCQAAAAAAAE5AEQAAAAAAgFZAKhAKDDYwSHogdG8gOTBIehgBOggI1_FqEAAwBlj-tCBgAg"
+        },
+        {
+          "text": "90 – 120Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=90hz+to+120hz+vr+headsets&shoprs=CAESGioYCNfxahISCQAAAAAAgFZAEQAAAAAAAF5AGAEqC3ZyIGhlYWRzZXRzMkkIARIMOTAg4oCTIDEyMEh6IhoqGAjX8WoSEgkAAAAAAIBWQBEAAAAAAABeQCoRCg05MEh6IHRvIDEyMEh6GAE6CAjX8WoQADAGWP60IGAC"
+        },
+        {
+          "text": "Over 120Hz",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+120hz+vr+headsets&shoprs=CAESESoPCNfxahIJCQAAAAAAAF5AGAEqC3ZyIGhlYWRzZXRzMi8IARIKT3ZlciAxMjBIeiIRKg8I1_FqEgkJAAAAAAAAXkAqAhgBOggI1_FqEAAwBlj-tCBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Field of View",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 100° FOV",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+100%C2%B0+fov+vr+headsets&shoprs=CAESESoPCNbxahIJEQAAAAAAAFlAGAEqC3ZyIGhlYWRzZXRzMjQIARIPVW5kZXIgMTAwwrAgRk9WIhEqDwjW8WoSCREAAAAAAABZQCoCGAE6CAjW8WoQADAGWP60IGAC"
+        },
+        {
+          "text": "100 – 110° FOV",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=100%C2%B0+fov+to+110%C2%B0+fov+vr+headsets&shoprs=CAESGioYCNbxahISCQAAAAAAAFlAEQAAAAAAgFtAGAEqC3ZyIGhlYWRzZXRzMlcIARIRMTAwIOKAkyAxMTDCsCBGT1YiGioYCNbxahISCQAAAAAAAFlAEQAAAAAAgFtAKhoKFjEwMMKwIEZPViB0byAxMTDCsCBGT1YYAToICNbxahAAMAZY_rQgYAI"
+        },
+        {
+          "text": "110 – 120° FOV",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=110%C2%B0+fov+to+120%C2%B0+fov+vr+headsets&shoprs=CAESGioYCNbxahISCQAAAAAAgFtAEQAAAAAAAF5AGAEqC3ZyIGhlYWRzZXRzMlcIARIRMTEwIOKAkyAxMjDCsCBGT1YiGioYCNbxahISCQAAAAAAgFtAEQAAAAAAAF5AKhoKFjExMMKwIEZPViB0byAxMjDCsCBGT1YYAToICNbxahAAMAZY_rQgYAI"
+        },
+        {
+          "text": "Over 120° FOV",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+120%C2%B0+fov+vr+headsets&shoprs=CAESESoPCNbxahIJCQAAAAAAAF5AGAEqC3ZyIGhlYWRzZXRzMjMIARIOT3ZlciAxMjDCsCBGT1YiESoPCNbxahIJCQAAAAAAAF5AKgIYAToICNbxahAAMAZY_rQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Battery Life",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 2.5 hrs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+2.5+hrs+vr+headsets&shoprs=CAESEioQCLj12QMSCREAAAAAAAAEQBgBKgt2ciBoZWFkc2V0czI0CAESDVVuZGVyIDIuNSBocnMiEioQCLj12QMSCREAAAAAAAAEQCoCGAE6CQi49dkDEAAwBlj-tCBgAg"
+        },
+        {
+          "text": "2.5 – 6 hrs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=2.5+hrs+to+6+hrs+vr+headsets&shoprs=CAESGyoZCLj12QMSEgkAAAAAAAAEQBEAAAAAAAAYQBgBKgt2ciBoZWFkc2V0czJPCAESDTIuNSDigJMgNiBocnMiGyoZCLj12QMSEgkAAAAAAAAEQBEAAAAAAAAYQCoUChAyLjUgaHJzIHRvIDYgaHJzGAE6CQi49dkDEAAwBlj-tCBgAg"
+        },
+        {
+          "text": "6 – 12 hrs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=6+hrs+to+12+hrs+vr+headsets&shoprs=CAESGyoZCLj12QMSEgkAAAAAAAAYQBEAAAAAAAAoQBgBKgt2ciBoZWFkc2V0czJNCAESDDYg4oCTIDEyIGhycyIbKhkIuPXZAxISCQAAAAAAABhAEQAAAAAAAChAKhMKDzYgaHJzIHRvIDEyIGhycxgBOgkIuPXZAxAAMAZY_rQgYAI"
+        },
+        {
+          "text": "Over 12 hrs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+12+hrs+vr+headsets&shoprs=CAESEioQCLj12QMSCQkAAAAAAAAoQBgBKgt2ciBoZWFkc2V0czIyCAESC092ZXIgMTIgaHJzIhIqEAi49dkDEgkJAAAAAAAAKEAqAhgBOgkIuPXZAxAAMAZY_rQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Bundled",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "W",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=w+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyFAgBEgFXOg0Iwcb8ARCnidH1AzAAWP60IGAC"
+        },
+        {
+          "text": "Rift + Touch Bundle",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=rift+%2B+touch+bundle+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyJggBEhNSaWZ0ICsgVG91Y2ggQnVuZGxlOg0Iwcb8ARC96bP9BDAAWP60IGAC"
+        },
+        {
+          "text": "with Xbox Controller & ...",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vr+headsets+with+xbox+controller+%26+oculus+remote+%26+sensor&shoprs=CAEYASoLdnIgaGVhZHNldHMyQggBEi13aXRoIFhib3ggQ29udHJvbGxlciAmIE9jdWx1cyBSZW1vdGUgJiBTZW5zb3IYAjoNCMHG_AEQluC2_QQwAFj-tCBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets+free+shipping&shoprs=CAESBFICEAEYGSoLdnIgaGVhZHNldHMyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAI"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "HP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=hp+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyEggBEgJIUDoKCIPzPBD84z0wAVj-tCBgAg"
+        },
+        {
+          "text": "Google",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=google+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyFggBEgZHb29nbGU6CgiD8zwQzNQ-MAFY_rQgYAI"
+        },
+        {
+          "text": "HTC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=htc+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyEwgBEgNIVEM6CgiD8zwQ3uU9MAFY_rQgYAI"
+        },
+        {
+          "text": "Sharper Image",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=sharper+image+vr+headsets&shoprs=CAEYASoLdnIgaGVhZHNldHMyHQgBEg1TaGFycGVyIEltYWdlOgoIg_M8EOLUPjABWP60IGAC"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Meta Quest 3",
+      "product_link": "https://www.google.com/shopping/product/11271686055511015112?gl=us",
+      "product_id": "11271686055511015112",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11271686055511015112",
+      "link": "https://www.walmart.com/ip/Meta-Quest-3-512GB-Breakthrough-Mixed-Reality-Powerful-Performance-Asgard-s-Wrath-2/3551794083?wmlspartner=wlpa&selectedSellerId=0",
+      "links": [
+        "https://www.walmart.com/ip/Meta-Quest-3-512GB-Breakthrough-Mixed-Reality-Powerful-Performance-Asgard-s-Wrath-2/3551794083?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.meta.com/quest/quest-3?srsltid=AfmBOoqWldZS4H2mXCPG7ZhDwtKFhajlWfFBHmUbfAb1dfOo9dacEYCVz3s",
+        "https://www.amazon.com/Meta-Quest-3-512GB-Headset-Oculus-VR/dp/B0CFRMSZW4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AFCHJUPZ7U8LJ"
+      ],
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a1656a7cf13429aa62d21583e9700ba20.png",
+      "price": "$499.00",
+      "extracted_price": 499,
+      "rating": 4.6,
+      "reviews": 11000,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYDqYDBBoZAPRArwik_cdiwc9i6A_jeSS7sa_XYGe4WLemt-TKgR5iMSb-M2WV0piJTsrbhftxfMqol9B9jI4olCCmoRFz",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 2,
+      "title": "Sony PlayStation VR2 Horizon Call of the Mountain Bundle",
+      "product_link": "https://www.google.com/shopping/product/16171178627748605291?gl=us",
+      "product_id": "16171178627748605291",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16171178627748605291",
+      "link": "https://www.amazon.com/PlayStation-Horizon-MountainTM-Bundle-PSVR2-5/dp/B0C1Q9X8VH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/PlayStation-Horizon-MountainTM-Bundle-PSVR2-5/dp/B0C1Q9X8VH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.samsclub.com/p/psvr2-hzn-cotm-bndl-vr2-software-bundle/PL984182127?itemNumber=984182127",
+        "https://www.bestbuy.com/site/sony-playstation-vr2-horizon-call-of-the-mountain-bundle-white/6542113.p?skuId=6542113&utm_source=feed"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a42aee83244996558066532c7d0c8b2fd.png",
+      "price": "$349.00",
+      "extracted_price": 349,
+      "old_price": "$600",
+      "extracted_old_price": 600,
+      "rating": 4.4,
+      "reviews": 3200,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRqbOP2tkCNbl40q7Qckofh-hVVE7U0SEGErIgLdxal2FTDNvuyJxO6_o9I0NOoFNQHLFObVikxRbigxvXIXCjeIDfoE32nmVDUiTM4RcDBfk1tFLv6A3iF",
+      "tag": "41% OFF",
+      "extensions": [
+        "41% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 3,
+      "title": "Meta Quest 3S VR Headset",
+      "product_link": "https://www.google.com/shopping/product/3738707933651052088?gl=us",
+      "product_id": "3738707933651052088",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3738707933651052088",
+      "link": "https://www.walmart.com/ip/Meta-Quest-3S-128GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/5871736556?wmlspartner=wlpa&selectedSellerId=101289432",
+      "links": [
+        "https://www.walmart.com/ip/Meta-Quest-3S-128GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/5871736556?wmlspartner=wlpa&selectedSellerId=101289432",
+        "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.target.com/p/meta-quest-3s-128gb-batman-arkham-shadow-and-3-month-trial-of-meta-quest-all-in-one-headset/-/A-92995299?ref=tgt_adv_xsf&AFID=google&CPNG=ELECTRONICS&adgroup=207-16"
+      ],
+      "source": "Walmart - SquarElectronix",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102aa22c71ba396ac96ddfb8be64682a29d7.png",
+      "price": "$298.00",
+      "extracted_price": 298,
+      "rating": 4.8,
+      "reviews": 921,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWb5viR_1WTlK32ozDo3dNQSfm4zf7raSUxvvZzXikrVTXADjgiGkLjhE82ZDCgxmSb3nxjEQ3Mf1sr3LU8gw5ycDYetMj",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 4,
+      "title": "Meta Quest 3S VR Headset",
+      "product_link": "https://www.google.com/shopping/product/3738707933651052088?gl=us",
+      "product_id": "3738707933651052088",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3738707933651052088",
+      "link": "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.walmart.com/ip/Meta-Quest-3S-128GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/5871736556?wmlspartner=wlpa&selectedSellerId=101289432",
+        "https://www.target.com/p/meta-quest-3s-128gb-batman-arkham-shadow-and-3-month-trial-of-meta-quest-all-in-one-headset/-/A-92995299?ref=tgt_adv_xsf&AFID=google&CPNG=ELECTRONICS&adgroup=207-16"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ae99baaa922490aea5d7218ff434b5d3b.png",
+      "price": "$299.00",
+      "extracted_price": 299,
+      "rating": 4.8,
+      "reviews": 921,
+      "snippet": "Fun (138 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "Also nearby"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a628e4e3adc4530e0e0866e635068d9db.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 5,
+      "title": "Sony PlayStation VR2 Horizon Call of the Mountain Bundle",
+      "product_link": "https://www.google.com/shopping/product/7972028175362723646?gl=us",
+      "product_id": "7972028175362723646",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7972028175362723646",
+      "link": "https://direct.playstation.com/en-us/buy-consoles/playstationvr2-horizon-call-of-the-mountain-bundle?srsltid=AfmBOookHyjDEqyaTlhADhb3QZkZ6MoICyV_FAank7OxJAXl8ynSetxCy_k",
+      "links": [
+        "https://direct.playstation.com/en-us/buy-consoles/playstationvr2-horizon-call-of-the-mountain-bundle?srsltid=AfmBOookHyjDEqyaTlhADhb3QZkZ6MoICyV_FAank7OxJAXl8ynSetxCy_k",
+        "https://www.macys.com/shop/product/playstation-vr2-horizon-call-of-the-mountain-with-accessories-25-psn?ID=20432570&pla_country=US&CAGPSPN=pla",
+        "https://www.walmart.com/ip/VR-PLAYSTATION-VR2-2-SENSE-CONTROLLERS-WITH-HORIZON/2872588626?wmlspartner=wlpa&selectedSellerId=360"
+      ],
+      "source": "PlayStation",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102aa5fcec7d475c2e5cf782db329e022ca7.png",
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "old_price": "Was $600",
+      "extracted_old_price": 600,
+      "rating": 4.4,
+      "reviews": 3200,
+      "snippet": "Fun (458 user reviews)",
+      "extensions": [
+        "Free 30-day returns",
+        "Also nearby",
+        "41% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a4fd60fda609760dea0b45df2d491114c.webp",
+      "tag": "41% OFF",
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 6,
+      "title": "Apple Vision Pro",
+      "product_link": "https://www.google.com/shopping/product/11035504884468900315?gl=us",
+      "product_id": "11035504884468900315",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11035504884468900315",
+      "link": "https://www.apple.com/us/xc/product/MQL83?cid=aos-us-seo-pla-vision",
+      "links": [
+        "https://www.apple.com/us/xc/product/MQL83?cid=aos-us-seo-pla-vision",
+        "https://www.ebay.com/itm/296248216084?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://stockx.com/apple-vision-pro?country=US&currencyCode=USD&size=M+Band%2C+33W+Light+Seal"
+      ],
+      "source": "Apple",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a42df29d737b811630d42bb9031b8fd19.png",
+      "price": "$3,499.00",
+      "extracted_price": 3499,
+      "rating": 4.1,
+      "reviews": 339,
+      "snippet": "Comfortable to use (31 user reviews)",
+      "extensions": [
+        "Free 14-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a39a7dfd200d76619acc9f66f7103af49.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 7,
+      "title": "Meta Quest 3",
+      "product_link": "https://www.google.com/shopping/product/11271686055511015112?gl=us",
+      "product_id": "11271686055511015112",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11271686055511015112",
+      "link": "https://www.meta.com/quest/quest-3?srsltid=AfmBOopBM7PrN3s03pYhjAto-M8Yrrv9lwPFIvX4IKWgRhFZrl1d9RqYCRI",
+      "links": [
+        "https://www.meta.com/quest/quest-3?srsltid=AfmBOopBM7PrN3s03pYhjAto-M8Yrrv9lwPFIvX4IKWgRhFZrl1d9RqYCRI",
+        "https://www.walmart.com/ip/Meta-Quest-3-512GB-Breakthrough-Mixed-Reality-Powerful-Performance-Asgard-s-Wrath-2/3551794083?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.amazon.com/Meta-Quest-3-512GB-Headset-Oculus-VR/dp/B0CFRMSZW4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AFCHJUPZ7U8LJ"
+      ],
+      "source": "Meta",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ab36c31fcb7dd582c7b4ba99c50fa3e39.png",
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "old_price": "$650",
+      "extracted_old_price": 650,
+      "rating": 4.6,
+      "reviews": 11000,
+      "snippet": "Fun (2,385 user reviews)",
+      "extensions": [
+        "30-day returns",
+        "23% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102aa636a21806dac8baaabde973996924c6.webp",
+      "tag": "23% OFF",
+      "delivery": "Free by 12/24"
+    },
+    {
+      "position": 8,
+      "title": "Sony PlayStation VR2",
+      "product_link": "https://www.google.com/shopping/product/2997688562045562576?gl=us",
+      "product_id": "2997688562045562576",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2997688562045562576",
+      "link": "https://www.bestbuy.com/site/sony-playstation-vr2-multi/6542114.p?skuId=6542114&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/sony-playstation-vr2-multi/6542114.p?skuId=6542114&utm_source=feed",
+        "https://www.walmart.com/ip/PlayStation-VR2-Headset/3586747159?wl13=2482&selectedSellerId=0&wmlspartner=wlpa",
+        "https://www.gamestop.com/consoles-hardware/playstation-5/consoles/products/sony-playstation-vr2/393118.html"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102abbfc5f9d5b6d8e0706955fa51546f762.png",
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "old_price": "$550",
+      "extracted_old_price": 550,
+      "rating": 4.4,
+      "reviews": 3200,
+      "snippet": "Fun (458 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102aed6bea42322bdc563c9fb21997259c66.webp",
+      "tag": "36% OFF",
+      "extensions": [
+        "36% OFF"
+      ],
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 9,
+      "title": "HTC VIVE Pro 2",
+      "product_link": "https://www.google.com/shopping/product/10642358036234507966?gl=us",
+      "product_id": "10642358036234507966",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10642358036234507966",
+      "link": "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.vive.com/us/product/vive-pro2/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOoqYrT-tuqo7pD7h_ijg3j6WiF5MsvgYy1ma747vrns0tsBj1Sw_yn4",
+        "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78019082?cid=us:seo:41h72l&srsltid=AfmBOoqzzvZED_i7C0_8-M3IJnAjHhYJ5SzCrGbwOryLiOqXGwZ4h3IYdsk"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a6cabe960a726124ef7419c78f81c00f9.png",
+      "price": "$498.99",
+      "extracted_price": 498.99,
+      "old_price": "$699",
+      "extracted_old_price": 699,
+      "rating": 4.1,
+      "reviews": 119,
+      "snippet": "PC · 120° FOV · 120Hz",
+      "extensions": [
+        "30-day returns",
+        "28% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ad847b5f638fc9f230e3ea156ba1657a5.webp",
+      "tag": "28% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 10,
+      "title": "Pimax Crystal Light Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/1778184884890385526?gl=us",
+      "product_id": "1778184884890385526",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1778184884890385526",
+      "link": "https://pimax.com/products/pimax-crystal-light?currency=USD&variant=41086638817323&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOoqWz6Gz9jrUCycPywasenfEqmW71svSe3HdwYrJXfSwl2Guw9ojZ0A",
+      "links": [
+        "https://pimax.com/products/pimax-crystal-light?currency=USD&variant=41086638817323&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOoqWz6Gz9jrUCycPywasenfEqmW71svSe3HdwYrJXfSwl2Guw9ojZ0A",
+        "https://pimax.com/products/pimax-crystal-light-headset-only?currency=USD&variant=41104132341803&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOorfQrOSAjHYj6U8xbCGPY403lSphoaFX8sC5yOKkDBMGfY7Gmw2mig",
+        "https://www.apevie.com/products/pimax-crystal-lights?variant=42951285538956&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopEiSrQtVkjoeNSDsUifSGs9ISTh16MTyRd8byPtlUwllGd3ZQBmHs"
+      ],
+      "source": "pimax store",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a9a3b0d0f2791c528bb5322d7b2001990.png",
+      "price": "$599.00",
+      "extracted_price": 599,
+      "snippet": "120Hz",
+      "extensions": [
+        "Free 15-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a5be0233315a0e84d2ab5f16999c88cab.webp",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 11,
+      "title": "Valve Index VR Headset",
+      "product_link": "https://www.google.com/shopping/product/11168675851788772300?gl=us",
+      "product_id": "11168675851788772300",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11168675851788772300",
+      "link": "https://www.gamestop.com/consoles-hardware/virtual-reality/products/valve-index-vr-headset/343454.html",
+      "links": [
+        "https://www.gamestop.com/consoles-hardware/virtual-reality/products/valve-index-vr-headset/343454.html",
+        "https://www.ebay.com/itm/235810813857?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m95734315291/?srsltid=AfmBOoryWWLSQ45rT4GgMbLkKZFLk9J08myb32pgs7sludU4VvHLtg4awfY"
+      ],
+      "source": "GameStop",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102af9f4e4c7079b2b8b6b2ad26e3892a330.png",
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.5,
+      "reviews": 74,
+      "snippet": "PC · Black",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a5c13ea51a536af6237e6af6045431017.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 12,
+      "title": "Meta Quest 2 All-in-One Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/13134479140382571237?gl=us",
+      "product_id": "13134479140382571237",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13134479140382571237",
+      "link": "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+      "links": [
+        "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+        "https://stockx.com/oculus-quest-2-advanced-all-in-one-virtual-reality-headset-128g-899-00182-02?country=US&currencyCode=USD",
+        "https://www.ebay.com/itm/134350144413?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Walmart - Nationwide Distributor",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ac51b432766c947af3f932fd5558fce09.png",
+      "price": "$328.99",
+      "extracted_price": 328.99,
+      "second_hand_condition": "refurbished",
+      "rating": 4.4,
+      "reviews": 21000,
+      "snippet": "Fun (5,007 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a6f1cb81189375c190a3a1bb010ffbbf2.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 13,
+      "title": "Oculus Quest 2 All-In-One VR Headset",
+      "product_link": "https://www.google.com/shopping/product/18167554522140218462?gl=us",
+      "product_id": "18167554522140218462",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18167554522140218462",
+      "link": "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+      "links": [
+        "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+        "https://www.amazon.com/Oculus-Christmas-Holiday-Entertainments-Advanced/dp/B09L1CZ4TX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1WIUJ9723RLZ5",
+        "https://www.walmart.com/ip/Meta-Quest-2-All-in-One-Wireless-VR-Headset-256GB/519725606?wmlspartner=wlpa&selectedSellerId=9300"
+      ],
+      "source": "Lensrentals",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102af09754ac05de09783dd69e6809a2916f.png",
+      "price": "$119.00",
+      "extracted_price": 119,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.4,
+      "reviews": 21000,
+      "snippet": "Fun (5,007 user reviews)",
+      "extensions": [
+        "Free 30-day returns",
+        "32% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a942431c186e2a5aa628216ff6c6429fb.webp",
+      "tag": "32% OFF"
+    },
+    {
+      "position": 14,
+      "title": "Valve Index VR Kit",
+      "product_link": "https://www.google.com/shopping/product/10302562072460584877?gl=us",
+      "product_id": "10302562072460584877",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10302562072460584877",
+      "link": "https://tundra-labs.com/products/valve-index-full-kit-refurbished?variant=42086871302353&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorbTourkKJwUrxXBJTP8C2avtkpb0OTkisdrxl0YGt9A_ALdnGnU5g",
+      "links": [
+        "https://tundra-labs.com/products/valve-index-full-kit-refurbished?variant=42086871302353&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorbTourkKJwUrxXBJTP8C2avtkpb0OTkisdrxl0YGt9A_ALdnGnU5g",
+        "https://www.ebay.com/itm/335655006164?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.ebay.com/itm/315227083209?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Tundra Labs",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRek3c9fNFVHqNJusEuEoNqHpDUU7uYZ7AgAbVD4DtIDTx9vH5lRfh37Cg2NWntuh5xYa8uL_Qe4h8Uz7hvdEoP67haFOfbTlk",
+      "price": "$730.00",
+      "extracted_price": 730,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.5,
+      "reviews": 74,
+      "snippet": "PC · Black · VR System",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a4ba938153358e600bbb9d3b91632c32e.webp"
+    },
+    {
+      "position": 15,
+      "title": "HTC Vive Flow VR",
+      "product_link": "https://www.google.com/shopping/product/16277245058524219282?gl=us",
+      "product_id": "16277245058524219282",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16277245058524219282",
+      "link": "https://www.amazon.com/HTC-America-Virtual-Headsetwith-Controller/dp/B0C5GCYZS5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/HTC-America-Virtual-Headsetwith-Controller/dp/B0C5GCYZS5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bhphotovideo.com/c/product/1768106-REG/htc_99hatk004_00_vive_flow_with_controller.html?kw=HTVFLOWC&ap=y&smp=Y&BI=E7249&srsltid=AfmBOorr3oUTVaeiSvkW_njijIrLbmZgb7e6pmMnma1WdfK-nuGonMNold8",
+        "https://www.adorama.com/htc99hasv002.html?refby=inc-google-shop-o"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ab1b5ce1e6afff29a1abdacbd16b83ba8.png",
+      "price": "$457.29",
+      "extracted_price": 457.29,
+      "old_price": "$538",
+      "extracted_old_price": 538,
+      "rating": 3,
+      "reviews": 20,
+      "snippet": "PC, Smartphone · 100° FOV · 75Hz",
+      "extensions": [
+        "30-day returns",
+        "15% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a5fdc23f816f0a3786193a2311ef25aee.webp",
+      "tag": "15% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "HTC VIVE Focus Plus Headset",
+      "product_link": "https://www.google.com/shopping/product/4509697409248864637?gl=us",
+      "product_id": "4509697409248864637",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4509697409248864637",
+      "link": "https://www.bjs.com/product/htc-vive-focus-plus-all-in-one-vr-system-with-controllers/3000000000004726863?fulfillment=shipping",
+      "links": [
+        "https://www.bjs.com/product/htc-vive-focus-plus-all-in-one-vr-system-with-controllers/3000000000004726863?fulfillment=shipping",
+        "https://business.vive.com/us/product/focus-plus/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOorbr2P9cP0lwhzErw7aBOcu54WboWld4tn54nje-WofTNlQUGmQ7Jg",
+        "https://www.dell.com/en-us/shop/virtual-reality/apd/aa754317/gaming-gaming-accessories?tfcid=91049735&dgc=opl&srsltid=AfmBOorUhGXd8AsyZ-1OuETBBJoYciNWNkLQKp93e2yudfLQTtIjvPUqfSQ"
+      ],
+      "source": "BJ's Wholesale Club",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a518f0202ba75f542739ba683cdf495c9.png",
+      "price": "$274.99",
+      "extracted_price": 274.99,
+      "old_price": "$400",
+      "extracted_old_price": 400,
+      "rating": 3.6,
+      "reviews": 8,
+      "snippet": "PC · 110° FOV · 75Hz",
+      "extensions": [
+        "365-day returns",
+        "31% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a9f7d9e0ede24bc352ddbdcea96e6020a.webp",
+      "tag": "31% OFF"
+    },
+    {
+      "position": 17,
+      "title": "HTC Vive Focus Vision VR Headset Business Edition",
+      "product_link": "https://www.google.com/shopping/product/12102659228946980459?gl=us",
+      "product_id": "12102659228946980459",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12102659228946980459",
+      "link": "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+      "links": [
+        "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+        "https://www.amazon.com/HTC-Vive-Focus-Vision-Controllers-Consumer/dp/B0DDRLX7V4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78807442?cid=us:seo:41h72l&srsltid=AfmBOormPdjhWT6fjwc9q2zcBpGFOvbRIK4iNyhzb4Qj_mb7n_AbIj-mN5Y"
+      ],
+      "source": "vive.com/us",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ae323608a5cc83aad1a4f5b5b65e87b08.png",
+      "price": "$999.00",
+      "extracted_price": 999,
+      "snippet": "PC · 120° FOV · 90Hz",
+      "extensions": [
+        "14-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a891eff81d1962da233cf3ca12b7fbe40.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 18,
+      "title": "Sharper Image Bluetooth VR Headset with Earphones",
+      "product_link": "https://www.google.com/shopping/product/1959519524103056267?gl=us",
+      "product_id": "1959519524103056267",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1959519524103056267",
+      "link": "https://www.sharperimage.com/view/product/Bluetooth+VR+Headset+with+Earphones+by+Sharper+Image/205979?pc=20GOOGLE&srsltid=AfmBOopbauwe_o1MBtLc5HaaH8SApk4bw4IVJxgj9hljiUXzOMa7EREiK-o",
+      "links": [
+        "https://www.sharperimage.com/view/product/Bluetooth+VR+Headset+with+Earphones+by+Sharper+Image/205979?pc=20GOOGLE&srsltid=AfmBOopbauwe_o1MBtLc5HaaH8SApk4bw4IVJxgj9hljiUXzOMa7EREiK-o",
+        "https://www.ebay.com/itm/126269102238?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m90739126855/?srsltid=AfmBOooiSYH7IPgIatXo_har-Bl0Xf_A-zodszD41hPEaB_ydyFVxH0PyTE"
+      ],
+      "source": "SharperImage",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ac5e09ee2d0704e4d30128803d86fdab2.png",
+      "price": "$47.99",
+      "extracted_price": 47.99,
+      "old_price": "$60",
+      "extracted_old_price": 60,
+      "rating": 4.1,
+      "reviews": 138,
+      "snippet": "Fun (47 user reviews)",
+      "extensions": [
+        "60-day returns",
+        "20% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a0a675e227cab2a8437968b7352ef7278.webp",
+      "tag": "20% OFF"
+    },
+    {
+      "position": 19,
+      "title": "HTC Vive XR Elite VR",
+      "product_link": "https://www.google.com/shopping/product/3263468674127962083?gl=us",
+      "product_id": "3263468674127962083",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3263468674127962083",
+      "link": "https://www.knoxlabs.com/products/vive-xr-elite?variant=49961454141760&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq4-9UsVnoslBKr9EipwthXJ84dBCDdW3KhT7f3WcW7dOMhcdfyexE",
+      "links": [
+        "https://www.knoxlabs.com/products/vive-xr-elite?variant=49961454141760&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq4-9UsVnoslBKr9EipwthXJ84dBCDdW3KhT7f3WcW7dOMhcdfyexE",
+        "https://www.amazon.com/Vive-Elite-Virtual-Reality-Headset-Controllers/dp/B0BQXDFLJ6?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A21C579I9MM2U0",
+        "https://www.adorama.com/htcvivexre.html?refby=inc-google-shop-o"
+      ],
+      "source": "Knoxlabs",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a3b34706f631c997e886c127969263598.png",
+      "price": "$799.00",
+      "extracted_price": 799,
+      "old_price": "$899",
+      "extracted_old_price": 899,
+      "rating": 4.3,
+      "reviews": 23,
+      "snippet": "PC · 110° FOV · 90Hz",
+      "extensions": [
+        "30-day returns",
+        "11% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a7bd67ace1f4c2ef6c4b2f6e1b5e22faf.webp",
+      "tag": "11% OFF"
+    },
+    {
+      "position": 20,
+      "title": "HTC Vive XR Elite VR Headset",
+      "product_link": "https://www.google.com/shopping/product/8814910125118103561?gl=us",
+      "product_id": "8814910125118103561",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8814910125118103561",
+      "link": "https://www.amazon.com/HTC-Vive-Elite-Deluxe-Pack-Controllers/dp/B0D6D5Q5M2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/HTC-Vive-Elite-Deluxe-Pack-Controllers/dp/B0D6D5Q5M2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78806465?cid=us:seo:41h72l&srsltid=AfmBOopuiSgXrK_5ZanLPvVljkoWnZ5Kfa517DqTz2EHpqmcXcqSUAadD_E",
+        "https://www.bhphotovideo.com/c/product/1843363-REG/htc_99haul003_00_vive_xr_elite_with.html?kw=HTVXRELTDP&ap=y&smp=Y&BI=E7249&srsltid=AfmBOop5F7zA87_vpx6K08HJWExYfjYP6JItvrnc6k42B3O5bDFMXnbvOPY"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ae510ed9a2c7677769b83ac6ceac0688b.png",
+      "price": "$799.99",
+      "extracted_price": 799.99,
+      "old_price": "$899",
+      "extracted_old_price": 899,
+      "rating": 4.3,
+      "reviews": 23,
+      "snippet": "PC · 110° FOV · 90Hz",
+      "extensions": [
+        "30-day returns",
+        "11% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a0f77560e9e358e4d53996ad3b27f1b9f.webp",
+      "tag": "11% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 21,
+      "title": "Meta Quest Pro VR Headset",
+      "product_link": "https://www.google.com/shopping/product/3044956690194648632?gl=us",
+      "product_id": "3044956690194648632",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3044956690194648632",
+      "link": "https://www.bhphotovideo.com/c/product/1740526-REG/meta_quest_899_00412_01_pro_vr_headset.html?kw=MEPRO&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo4aC_qtpV3OjqfXIRDs62xZlnYNsrPbxjt__KvkOB2dy9JmM3nq9E",
+      "links": [
+        "https://www.bhphotovideo.com/c/product/1740526-REG/meta_quest_899_00412_01_pro_vr_headset.html?kw=MEPRO&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo4aC_qtpV3OjqfXIRDs62xZlnYNsrPbxjt__KvkOB2dy9JmM3nq9E",
+        "https://www.knoxlabs.com/products/10x-meta-quest-pro-business-vr-headset?variant=49932206375232&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooYeUi-WJ1qskIWX6T5EHT2Wxp72dJjwMiNssEHaCJzG0ZRTNLgH90",
+        "https://www.insight.com/en_US/shop/product/899-00412-01-FACE/FACEBOOK+TECHNOLOGIES,+LLC/899-00412-01/Meta-Quest-Pro---virtual-reality-system/?srsltid=AfmBOorvW9lVd1XCbPGuO-12LNqIl39Gcuj3KEgm2J4K-5OsT1y58j7tyYY"
+      ],
+      "source": "B&H Photo-Video-Audio",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ac03ac3991df08c4c38cf37ae8bb38798.png",
+      "price": "$999.00",
+      "extracted_price": 999,
+      "rating": 3.9,
+      "reviews": 934,
+      "snippet": "Good image quality (64 user reviews)",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102ad6f526b34ed3cc331903a53188018287.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 22,
+      "title": "Direkt-tek Android All-In-One VR Glasses",
+      "product_link": "https://www.google.com/shopping/product/4349608200057791952?gl=us",
+      "product_id": "4349608200057791952",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4349608200057791952",
+      "link": "https://www.electronicexpress.com/catalog/119509/DirektTek-AVR2BK?srsltid=AfmBOooZEGeaPCYGrtU4lLyFN2kc9hoxYwKxjZt4yqeIaS35QN6042QdmuE",
+      "links": [
+        "https://www.electronicexpress.com/catalog/119509/DirektTek-AVR2BK?srsltid=AfmBOooZEGeaPCYGrtU4lLyFN2kc9hoxYwKxjZt4yqeIaS35QN6042QdmuE",
+        "https://www.walmart.com/ip/VR-Tek-Android-All-In-One-VR-Glasses-Full-HD-Resolution-2560-1400-5-5-Screen-with-Bluetooth-and-WiFi-Black/56206934?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.walmart.com/ip/VR-Tek-Android-All-In-One-VR-Glasses-Full-HD-Resolution-2560-1400-5-5-Screen-with-Bluetooth-and-WiFi-Black/56206934?wmlspartner=wlpa&selectedSellerId=101015394"
+      ],
+      "source": "Electronic Express",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a0c446674db93e186da385d878f497e45.png",
+      "price": "$179.00",
+      "extracted_price": 179,
+      "old_price": "$230",
+      "extracted_old_price": 230,
+      "rating": 2.3,
+      "reviews": 11,
+      "snippet": "96° FOV · Black · VR System",
+      "extensions": [
+        "30-day returns",
+        "22% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102abd246e256603b5ad846137c247cc5d6e.webp",
+      "tag": "22% OFF",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 23,
+      "title": "Meta Quest 3 512GB Headset",
+      "product_link": "https://www.google.com/shopping/product/17825270077529677274?gl=us",
+      "product_id": "17825270077529677274",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17825270077529677274",
+      "link": "https://www.walmart.com/ip/New-Item-3-New-Item-3/5885275821?wl13=1598&selectedSellerId=0&wmlspartner=wlpa",
+      "links": [
+        "https://www.walmart.com/ip/New-Item-3-New-Item-3/5885275821?wl13=1598&selectedSellerId=0&wmlspartner=wlpa",
+        "https://www.amazon.com/Meta-Quest-512GB-Powerful-Ultimate-Experiences/dp/B0DDWH41HB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.gamestop.com/consoles-hardware/virtual-reality/products/meta-quest-3-512gb---the-most-powerful-quest---ultimate-mixed-reality-experiences---all-in-one-headset-batman-arkham-shadow-included/415512.html"
+      ],
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a06d556b6b48b5fa1c885b6186f964b93.png",
+      "price": "$499.00",
+      "extracted_price": 499,
+      "rating": 4.5,
+      "reviews": 2700,
+      "snippet": "Fun (564 user reviews)",
+      "extensions": [
+        "Free 90-day returns",
+        "3.6 mi · In stock"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dc4611d624020df07587/images/479aa3543bd57d270b229e46fba2102a3d1c5830c3fd7e8c5b9bce46860dee09.webp",
+      "delivery": "$9.95 same-day"
+    },
+    {
+      "position": 24,
+      "title": "Lenovo ThinkReality VRX Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/11296508141914101388?gl=us",
+      "product_id": "11296508141914101388",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11296508141914101388",
+      "link": "https://www.lenovo.com/us/en/p/smart-devices/virtual-reality/thinkreality-vrx/12de0003us?cid=us:seo:41h72l&srsltid=AfmBOookW4x2GZiTwCx5Az2-PEgjLZqGkx2dV4MQ8LPktEK_Ep4fxl7vYu8",
+      "links": [
+        "https://www.lenovo.com/us/en/p/smart-devices/virtual-reality/thinkreality-vrx/12de0003us?cid=us:seo:41h72l&srsltid=AfmBOookW4x2GZiTwCx5Az2-PEgjLZqGkx2dV4MQ8LPktEK_Ep4fxl7vYu8",
+        "https://www.ebay.com/itm/404570546016?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "http://www.provantage.com/lenovo-12de0003us~7LEN81F3.htm?source=googleps&srsltid=AfmBOoqvCecnhz8t2BlXdvPWFKc-6LN6H704IPyTtY4T-3FG-aspUyFktkE"
+      ],
+      "source": "Lenovo",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQlFc_A95cG0jHfmaRfp7ctg11O4mkEi7BF4ZPZDEDlbumwh8UkmjbpPcFKPPbrhPOd6ckumlJDhvdfoU_7qIY9RlQ6dJukbQ",
+      "price": "$1,299.00",
+      "extracted_price": 1299,
+      "snippet": "Smartphone · 90Hz · With Controller",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSg8cyUmM8A8x_CXrcmuoCCHRmZP_yaiKQV7UH9qXB8M6oa2npUcD08dxbVz3ar38ROoXbzOylJmhpi9W1LPLEoxeDOvkx5Kw",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 25,
+      "title": "HTC Vive Pro 2 PC-VR Headset",
+      "product_link": "https://www.google.com/shopping/product/15386748323549872890?gl=us",
+      "product_id": "15386748323549872890",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15386748323549872890",
+      "link": "https://www.amazon.com/HTC-VIVE-Pro-Headset-Windows/dp/B094R6QYMX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AP3VA1GJZM3EQ",
+      "links": [
+        "https://www.amazon.com/HTC-VIVE-Pro-Headset-Windows/dp/B094R6QYMX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AP3VA1GJZM3EQ"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "price": "$483.03",
+      "extracted_price": 483.03,
+      "alternative_price": {
+        "price": "Usually $817",
+        "extracted_price": 817,
+        "currency": "Usually"
+      },
+      "rating": 4.1,
+      "reviews": 7,
+      "snippet": "PC · With Headphones · VR System",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1Fe-a6La5rlnZmq6FDrLS2aovHfux5O6DMm24nRlJF2aq69WIDTxNnEbYNClfV8IElXDbeadcM5cjhAJ6V_MkctV7FN8h3L7BhL7CrYDNtsQSXJKA6pjs",
+      "tag": "LOW PRICE",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 26,
+      "title": "Zeiss VR ONE Plus Virtual Reality Smartphone Headset",
+      "product_link": "https://www.google.com/shopping/product/11432169916330409629?gl=us",
+      "product_id": "11432169916330409629",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11432169916330409629",
+      "link": "https://acephoto.net/cameras/zeiss-vr-one-plus-virtual-reality-smartphone-headset/?setCurrencyId=1&sku=ACE53971",
+      "links": [
+        "https://acephoto.net/cameras/zeiss-vr-one-plus-virtual-reality-smartphone-headset/?setCurrencyId=1&sku=ACE53971",
+        "https://www.ebay.com/itm/315394825878?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m33414338335/?srsltid=AfmBOoocudW-Jo9DdYy9nffUWFsnDH0z-vhQWHHKIqv8lyk-wNckVDFFUfU"
+      ],
+      "source": "acephoto.net",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSv002d5A4dAATnAa6I6wTOZQ9cLQnjuY6qCOzH2LmseWB7O5an9mfC6EL9skPo4C4MlIIN0Y9AuVNrwSHNoRA0MIQDme8",
+      "price": "$129.00",
+      "extracted_price": 129,
+      "rating": 3.9,
+      "reviews": 49,
+      "snippet": "Smartphone · Augmented Reality · Black, White",
+      "extensions": [
+        "15-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROwd_vvDhZeOtyl6RxySB942teBmxwDv24yZCPWAOeyiuD7WTCsWTFQsgwNGe0SYk_dOpyqzgJj2c1Jk8oj0e1RjUWiSQSFB8dYGo2mg8HQ6IKbmWQld0SZQ"
+    },
+    {
+      "position": 27,
+      "title": "Samsung Gear VR Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/10134720142721961698?gl=us",
+      "product_id": "10134720142721961698",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10134720142721961698",
+      "link": "https://goodwillfinds.com/10014-0001-134679.html?srsltid=AfmBOopL5nKEvQLoXeAPOgccvy9mWXmJjrwmDZVSXNz6LcaXYK1iZHvrvg8",
+      "links": [
+        "https://goodwillfinds.com/10014-0001-134679.html?srsltid=AfmBOopL5nKEvQLoXeAPOgccvy9mWXmJjrwmDZVSXNz6LcaXYK1iZHvrvg8",
+        "https://www.ebay.com/itm/133753272821?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m49277786681/?srsltid=AfmBOop-59QDbh65rHUNEfiSliuC9roisgDLzqExHiHXPBL47bi9SVLyg3w"
+      ],
+      "source": "GoodwillFinds",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ91a43hbNA6Bk5Jd1je5gj9WZi8ows9AoMHeuswfIlDEUv8YZZ6E6FwQH8WoU5ZjreVNYe3squ5fG_7_5Bbm0ETmlCJbl8cLe4pw",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.5,
+      "reviews": 2000,
+      "snippet": "Fun (426 user reviews)",
+      "extensions": [
+        "7-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-NMaQSE3SA6JKi0Be1AgQ0U8S-0tMV5tGtPMHVqKaLbpQTZhbG5TG_DM6XLgxYKolZUVszJm7VyLHxPvszhXMyDOUc-m0K_J_Iftrjo_Y"
+    },
+    {
+      "position": 28,
+      "title": "PlayStation VR Marvel's Iron Man Bundle",
+      "product_link": "https://www.google.com/shopping/product/9010193035035999345?gl=us",
+      "product_id": "9010193035035999345",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9010193035035999345",
+      "link": "https://www.ebay.com/itm/315932030672?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqRpzMKuHA77aHMrwjFuECFiQXHiaK3ZqM_GXBFIpWyQ7cknfbyjsY",
+      "links": [
+        "https://www.ebay.com/itm/315932030672?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqRpzMKuHA77aHMrwjFuECFiQXHiaK3ZqM_GXBFIpWyQ7cknfbyjsY",
+        "https://www.amazon.com/Sony-Playstation-VR-Marvels-Bundle/dp/B09D2V23MW?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A23TIJNHAGX299",
+        "https://www.walmart.com/ip/PlayStation-VR-Marvel-s-Iron-Man-VR-Bundle/533123154?wmlspartner=wlpa&selectedSellerId=101083516"
+      ],
+      "source": "eBay - digitalfleamarkets4you",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "price": "$379.95",
+      "extracted_price": 379.95,
+      "rating": 3.5,
+      "reviews": 225,
+      "snippet": "Fun (49 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRyWgQ1KgVseJINQLKzsp_3wEcQv80kvo5pK-_SwmjsljTdJVtYo1PPjIxIT9MevC9-fMq9DxhTcOfHUB812gMWT5EpfHbIVlVc7D6E4JjVLdo5cZoN9RQ3FA",
+      "delivery": "Free by 12/18"
+    },
+    {
+      "position": 29,
+      "title": "DPVR E4 Gaming PC VR Headset",
+      "product_link": "https://www.google.com/shopping/product/10349090142174024533?gl=us",
+      "product_id": "10349090142174024533",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10349090142174024533",
+      "link": "https://www.dpvr.com/en/shop/dpvr-e4-pc-virtual-reality-headset/?srsltid=AfmBOopesrLtJ0MKhVk45N7KiefwBEL1ZOBcgle1z0oD7y5lCLRBhX9VNqI",
+      "links": [
+        "https://www.dpvr.com/en/shop/dpvr-e4-pc-virtual-reality-headset/?srsltid=AfmBOopesrLtJ0MKhVk45N7KiefwBEL1ZOBcgle1z0oD7y5lCLRBhX9VNqI",
+        "https://www.ebay.com/itm/135080060351?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoo-IjqBVnEiHbaUr5zdiIDhGgf-8dKRckkN48GMAXVGA1ic64k2dkc",
+        "https://www.ebay.com/itm/334762146860?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOop4v_EBVhzB7I5I1YuKGvUMqc8u6iYk4Cuo3YIe9EVSwTlaRfbqbek"
+      ],
+      "source": "DPVR",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQYgtFnNuA5l1e-MMItzyDRxFL9ivxYz0kGzTkn812a1Gb3MCTOLZ5YsybVm3yh-vq3Q_7vKwzm8RWSCI1jwsADKv8G_yI",
+      "price": "$599.00",
+      "extracted_price": 599,
+      "snippet": "PC · 116° FOV · 120Hz",
+      "extensions": [
+        "14-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2hVtqjRvJUBeRFJSLbWkNBWLJvm_4QgtJoSURqh554ZGaGQF9Rv-yo8YmelLAZZWzLIxNCD6TyHYB-I9EggkOF97AaswnFEplpbgArs9Jf9SBJGZ_xmYOLz4",
+      "delivery": "Free by 12/16"
+    },
+    {
+      "position": 30,
+      "title": "HTC Vive Pro Focus Plus 6DOF VR Headset",
+      "product_link": "https://www.google.com/shopping/product/4192752926645300646?gl=us",
+      "product_id": "4192752926645300646",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4192752926645300646",
+      "link": "https://www.amazon.com/HTC-Headset-Including-Controllers-Cushion/dp/B07Y5NNP2B?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N5GWWNMC5K57",
+      "links": [
+        "https://www.amazon.com/HTC-Headset-Including-Controllers-Cushion/dp/B07Y5NNP2B?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N5GWWNMC5K57",
+        "https://www.ebay.com/itm/296174822727?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOordr7ZysNVtMQ_5LnXjVLBD7_tx3F_uSB4OTxem-1MT22QdlodQWc0"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "price": "$229.99",
+      "extracted_price": 229.99,
+      "rating": 3.6,
+      "reviews": 8,
+      "snippet": "PC · With Controller · With Headphones",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHhTV47NsDMeCIC2_KYDVSdDSAV4UoaClWVC2coOjBBbd6mcdxKPwD1meBEM6PQolJgR6xuuIgoq9mGJFn72erprHz-hyC4RJjUUgQjrGqDv-8zgrazZce_g",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 31,
+      "title": "Pioneer Electronics Pimax Crystal VR Headset",
+      "product_link": "https://www.google.com/shopping/product/2212235368506666098?gl=us",
+      "product_id": "2212235368506666098",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2212235368506666098",
+      "link": "https://www.knoxlabs.com/products/pimax-crystal?srsltid=AfmBOop2icSZMVnMqcaDxR73fVbo3tRlbUN3ZjOVaD_34K7vxj97IqBONho",
+      "links": [
+        "https://www.knoxlabs.com/products/pimax-crystal?srsltid=AfmBOop2icSZMVnMqcaDxR73fVbo3tRlbUN3ZjOVaD_34K7vxj97IqBONho",
+        "https://www.knoxlabs.com/products/pimax-crystal?variant=45661480452416&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopm0uAT3bSXgEx1AssjwHLeBqw4YOQ_h98HywCdpqAMws_eoiTPNLk",
+        "https://www.knoxlabs.com/products/pimax-crystal?srsltid=AfmBOopxPSzEasCRq267LaJzlgLifGJL0QOdZn-r1H6R2B_9gKFgfWxszRI"
+      ],
+      "source": "Knoxlabs",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpGkhKcptcA181m8_v_J32xS8MZ08e6yhyRkdYIyXnb0xxFgsYwlgQwUhtSaSem-7fI69Wyg9w-EO0OTaGkQ2jobqyI-Im9AdZ",
+      "price": "$1,599.00",
+      "extracted_price": 1599,
+      "rating": 3.8,
+      "reviews": 12,
+      "snippet": "Black",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv5kxwMdQnJkPgZ6iTOZML54n2Fkp8dtojxaPCK0KWWuWUcXBBrrYjOg77gMfPPDBw5seBca0vwggX7JEptkDiqKKtIqo5MP2fG9nLxldX1vE35xwwVCzP",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 32,
+      "title": "DESTEK V5 VR Headset",
+      "product_link": "https://www.google.com/shopping/product/6706885990261898749?gl=us",
+      "product_id": "6706885990261898749",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6706885990261898749",
+      "link": "https://destek.us/products/v5-vr-headset-compatible-smartphones-with-5-5-6-8in-screen?variant=31749592645764&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq-njKtEJHVl_Tb8SuNCrR4srtyeffjhJCtnqP3wHvEl6l8huDN6YQ",
+      "links": [
+        "https://destek.us/products/v5-vr-headset-compatible-smartphones-with-5-5-6-8in-screen?variant=31749592645764&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq-njKtEJHVl_Tb8SuNCrR4srtyeffjhJCtnqP3wHvEl6l8huDN6YQ"
+      ],
+      "source": "Destek",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRsK3UNPcLibaLZrykXRAwTAedJL87eQGpXbHSRRbC3kSdg2d9JJ6sLZN6hzdwhlwHaI__aMcznibVRKPyEMKDBCtY",
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "rating": 4.7,
+      "reviews": 35,
+      "snippet": "Smartphone · 110° FOV · Blue",
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7ksDTIObh7aUcGXVHTLo_qDBo81YWnNWeXKInSjBSw-NPCw545bj_SFaCVxPqPnJNWuteZCD97m39rifNdEDS2yfxR4PQUUfpl5-0qRDmIzVpKLywThn4",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 33,
+      "title": "HTC Vive Focus 3 Headset",
+      "product_link": "https://www.google.com/shopping/product/12954172133884614415?gl=us",
+      "product_id": "12954172133884614415",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12954172133884614415",
+      "link": "https://www.dell.com/en-us/shop/vive-focus-3-virtual-reality-headset/apd/ab654892/gaming-gaming-accessories?tfcid=91049735&dgc=opl&srsltid=AfmBOoq37VsS4AbwkuJDScbXkhHYn7NGofZLxGC7Ha3k3Is5JX2Zk_Sh2cM",
+      "links": [
+        "https://www.dell.com/en-us/shop/vive-focus-3-virtual-reality-headset/apd/ab654892/gaming-gaming-accessories?tfcid=91049735&dgc=opl&srsltid=AfmBOoq37VsS4AbwkuJDScbXkhHYn7NGofZLxGC7Ha3k3Is5JX2Zk_Sh2cM",
+        "https://www.amazon.com/Enterprise-Virtual-Reality-not-machine-specific/dp/B0962LK37V?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.vive.com/us/product/vive-focus3/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooIPQPNa6xI77_Xt5ejvtfYrnFZl44UHbcfmStc58ukXhR4GrP7dAw"
+      ],
+      "source": "Dell",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSk9zd0HItj4cB5A6Q2-pR8BmGxtNeaH4P-0si5EnFKv6CmkQAsfZfKKp8ncY_R4p18pkyunqUnshR192Er9VaUHVKI30w",
+      "price": "$1,300.00",
+      "extracted_price": 1300,
+      "rating": 4.2,
+      "reviews": 9,
+      "snippet": "PC · 120° FOV · 90Hz",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtjoyfkkNBttO79IPgbRiQquR2WYq8eFPyWoRN9NepZchbwJPuiohrpaM94LaMlZ4DP2DHzueqagcL7JiocolDKQiF0fUgbTEmrKCGrD4",
+      "delivery": "Free by 12/16"
+    },
+    {
+      "position": 34,
+      "title": "Sony PlayStation VR HDR Compatible Headset GameStop Premium Refurbished",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:275913403661825911",
+      "product_id": "275913403661825911",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=275913403661825911",
+      "link": "https://www.gamestop.com/consoles-hardware/playstation-4/consoles/products/sony-playstation-vr-hdr-compatible-headset-gamestop-premium-refurbished/162387.html",
+      "links": [
+        "https://www.gamestop.com/consoles-hardware/playstation-4/consoles/products/sony-playstation-vr-hdr-compatible-headset-gamestop-premium-refurbished/162387.html"
+      ],
+      "source": "GameStop",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQLc1Qw2DGgifAJ-S20cYvOEn-sq8qeQu8gdLwODQFcIcsAEWDqmFUJ5hr0oBbhzRJ4kfyXO26U4ejpi8JPtYABZNxivKdZa116",
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "second_hand_condition": "refurbished",
+      "rating": 4.6,
+      "reviews": 5000,
+      "snippet": "Fun (888 user reviews)",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEH7VlSsM5AAYz8hmHtwZF_tmBbRdjw1w6gczz-55ubhQiwYz4qGq_ARcdsKLpLFZPbBha5DsYJHM68r1MKTEe56xuXg0cSpAUL0JYpNkfBaQ9X0MtroRyDw",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 35,
+      "title": "Xreal Air AR Glasses",
+      "product_link": "https://www.google.com/shopping/product/13477262317865862657?gl=us",
+      "product_id": "13477262317865862657",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13477262317865862657",
+      "link": "https://www.amazon.com/Glasses-Massive-Micro-OLED-Augmented-iOS-Consoles-Compatible/dp/B0C3MKPLHP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MP9UBTN7Z9V",
+      "links": [
+        "https://www.amazon.com/Glasses-Massive-Micro-OLED-Augmented-iOS-Consoles-Compatible/dp/B0C3MKPLHP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MP9UBTN7Z9V",
+        "https://www.ebay.com/itm/365008076712?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://global.microless.com/product/xreal-air-ar-sunglasses-46-fov-display-micro-oled-panel-1920-x-1080-pixels-per-eye-up-to-120hz-refresh-rate-up-to-400-nits-brightness-2x-built-in-speakers-2x-micrphones-black-air-1/?currency=usd&srsltid=AfmBOoqxL99gT20Xe-FDkfz4Qg_mTMQrDXSSRzsnYJtlhm_kJyTmZweiiko"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "price": "$197.00",
+      "extracted_price": 197,
+      "rating": 2.9,
+      "reviews": 12,
+      "snippet": "Augmented Reality · Black",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL9wH_hkiJyIB28xXcZZv0yTg0tI1I2_0xdRPiWgxij2LigcBFiXUPrjuA_dhtFGhZSwkYFoQQe87hDygHtxxSpTrcJ1DeUhF41DHxPwkTYLWSQxa-AbJxgw",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 36,
+      "title": "Nintendo Labo Toy-Con 04 VR Kit",
+      "product_link": "https://www.google.com/shopping/product/18339710620838161234?gl=us",
+      "product_id": "18339710620838161234",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18339710620838161234",
+      "link": "https://mail.estarland.com/product-description/NintendoSwitch/Labo-Toy-Con-04-VR-Kit-Starter-Set--Blaster/68203",
+      "links": [
+        "https://mail.estarland.com/product-description/NintendoSwitch/Labo-Toy-Con-04-VR-Kit-Starter-Set--Blaster/68203",
+        "https://www.amazon.com/Nintendo-Labo-Lab-Toy-04-Switch/dp/B07PWJP96F?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3C2UZZKYRDEBM",
+        "https://www.ebay.com/itm/395135516308?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "eStarland.com",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZFFGpZ99omh8121OcJVG9OLFCGnO2OoTIr5TCbIethlYtq5_t9Spvgm4MpZ9AjfS0uqmfuxLi9RRTH4RxoDLTPg3FdGlwO5XV2A",
+      "price": "$99.95",
+      "extracted_price": 99.95,
+      "rating": 4.6,
+      "reviews": 212,
+      "snippet": "Fun (73 user reviews)",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmiIgGkwpQsz_s50OfrpG7krR2uL6hnl1y-jIaMtHSqIVZz5IzEjEDJeyqlN4DS7gPmotMe-pNHRCuU-ynUY0ffkeZOVoVJesSGnSJQApoCzckfRl9fVI5"
+    },
+    {
+      "position": 37,
+      "title": "Wireless Gear Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/18322963370085916543?gl=us",
+      "product_id": "18322963370085916543",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18322963370085916543",
+      "link": "https://www.officedepot.com/a/products/729008/Wireless-Gear-Plastic-Virtual-Reality-Headset/?utm_source=google&utm_medium=sag&srsltid=AfmBOoqRvg0_nyoaH6nSDmNAdd5iqTxX1UTrqs7Fsc2DJrJCH2QsIhtm1Ic&region_id=005101",
+      "links": [
+        "https://www.officedepot.com/a/products/729008/Wireless-Gear-Plastic-Virtual-Reality-Headset/?utm_source=google&utm_medium=sag&srsltid=AfmBOoqRvg0_nyoaH6nSDmNAdd5iqTxX1UTrqs7Fsc2DJrJCH2QsIhtm1Ic&region_id=005101",
+        "https://www.walmart.com/ip/Wireless-Gear-Plastic-Virtual-Reality-Headset-White/655141970?wmlspartner=wlpa&selectedSellerId=19037",
+        "https://www.ebay.com/itm/176719296083?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorIYeS665T12Zt2i1tthEn5SH9nXDYkyPxEPI29QGPa9deYpVv1nSI"
+      ],
+      "source": "Office Depot",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "price": "$27.91",
+      "extracted_price": 27.91,
+      "old_price": "$42",
+      "extracted_old_price": 42,
+      "rating": 2.8,
+      "reviews": 47,
+      "snippet": "PC, Smartphone · White",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTm_IulB66XHkYIAtmUON-76ZVHtKMhjkCkIPOCJKQJ3CnOCjObK3tU6v0tk-REFmiydikWt9_uR7uHNyLp3GpJdd-bIv56fOrEpAQ0pK7Xg995SLgF19dB3g",
+      "tag": "33% OFF",
+      "extensions": [
+        "33% OFF"
+      ]
+    },
+    {
+      "position": 38,
+      "title": "Htc Vive Pro",
+      "product_link": "https://www.google.com/shopping/product/9682537125406019760?gl=us",
+      "product_id": "9682537125406019760",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9682537125406019760",
+      "link": "https://www.newegg.com/p/N82E16826918035?item=9SIB7VEJRW0698&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-vr%20headset-_-vive-_-9SIB7VEJRW0698&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-vr%20headset-_-vive-_-9SIB7VEJRW0698&source=region&srsltid=AfmBOoorpd-veuu0T8v1zQGxJqDgMHr8j54ISHlZs8jmIjjWlAnC2L0eOsM",
+      "links": [
+        "https://www.newegg.com/p/N82E16826918035?item=9SIB7VEJRW0698&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-vr%20headset-_-vive-_-9SIB7VEJRW0698&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-vr%20headset-_-vive-_-9SIB7VEJRW0698&source=region&srsltid=AfmBOoorpd-veuu0T8v1zQGxJqDgMHr8j54ISHlZs8jmIjjWlAnC2L0eOsM",
+        "https://www.ebay.com/itm/375766675053?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m38910420993/?srsltid=AfmBOoo_h0ssyLXUSUS1u173vkwHNm7v6KYINyrNoXlig_IJylv7CRtEZh8"
+      ],
+      "source": "Newegg.com - B-IN Electronics",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+      "price": "$1,599.00",
+      "extracted_price": 1599,
+      "rating": 4.7,
+      "reviews": 514,
+      "snippet": "Good image quality (102 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKhV87DBJGd89TpRBZ5SH5_elz18wBUFoxLU7tVTnQGRWMqIHtmNUTploF1GfQVDyiKJZ-lHFYBzLb-RdO_pet1w8ZaqubGcjLgTelxNSPq6YInGbDDXetfg",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 39,
+      "title": "Varjo Aero VR Headset",
+      "product_link": "https://www.google.com/shopping/product/4765462046202711157?gl=us",
+      "product_id": "4765462046202711157",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4765462046202711157",
+      "link": "https://www.knoxlabs.com/products/varjo-aero?variant=45661535109440&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo7kkZIh3WI399rEdeRtuVV2ShJY47aByayUVCsxOUI_nSe6AEjdTo",
+      "links": [
+        "https://www.knoxlabs.com/products/varjo-aero?variant=45661535109440&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo7kkZIh3WI399rEdeRtuVV2ShJY47aByayUVCsxOUI_nSe6AEjdTo",
+        "https://www.knoxlabs.com/products/varjo-aero?variant=46854146785600&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorq3L-9RWeKetBuWyuCXdlV3IxxWTnvh7Bauo791li1sd6Mj-LCfBg",
+        "https://www.knoxlabs.com/products/varjo-aero?variant=45661535142208&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoobnesMz7lrW7cxR64ZSnJFKwwKPewwb-srKQmPZP-mJjA9J7WkQyc"
+      ],
+      "source": "Knoxlabs",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpGkhKcptcA181m8_v_J32xS8MZ08e6yhyRkdYIyXnb0xxFgsYwlgQwUhtSaSem-7fI69Wyg9w-EO0OTaGkQ2jobqyI-Im9AdZ",
+      "price": "$1,990.00",
+      "extracted_price": 1990,
+      "rating": 4.8,
+      "reviews": 47,
+      "snippet": "Good image quality (13 user reviews)",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLpSYYG_XWWkV_NyxD3lyaH2N1B-sMyj3q8zJnmNH-wHopxvqP6p9QHaLHDgrGN8yB_UDIg97sdR27PEPCoSgp8mH-yxxEkK_g_R2PdTtB1MPACh4su_haXQ"
+    },
+    {
+      "position": 40,
+      "title": "Google Daydream View VR Headset",
+      "product_link": "https://www.google.com/shopping/product/3495387888883973282?gl=us",
+      "product_id": "3495387888883973282",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3495387888883973282",
+      "link": "https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MK1JG3LFEH53",
+      "links": [
+        "https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MK1JG3LFEH53",
+        "https://www.walmart.com/ip/Google-Daydream-View-Slate/331408178?wmlspartner=wlpa&selectedSellerId=102480109",
+        "https://www.ebay.com/itm/115615956396?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooLHaoKrP5yG_P9WqGgQ1-_l2GY0R5nZQJc3w74w8smZP0i2Q0kRgs"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "rating": 4.4,
+      "reviews": 336,
+      "snippet": "Comfortable to use (38 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWRtq6M4N9ZF2qijebhLrNeELZFTpHaL6NRUwQSVkhipYkkaL8BLe-e8wWFySSnuUcAhfNfLPxgd9io3JzvWk1G2fx1MleKIsgGoTLWucW"
+    },
+    {
+      "position": 41,
+      "title": "HP Reverb G2 Virtual Reality Headset",
+      "product_link": "https://www.google.com/shopping/product/1629918215386878059?gl=us",
+      "product_id": "1629918215386878059",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1629918215386878059",
+      "link": "https://www.mercari.com/us/item/m80580908815/?srsltid=AfmBOop0i_oeMZPMYOfPEfx0WZhhBtxhCPLCSdEvzM-pGtMyOCiICZ7nGNk",
+      "links": [
+        "https://www.mercari.com/us/item/m80580908815/?srsltid=AfmBOop0i_oeMZPMYOfPEfx0WZhhBtxhCPLCSdEvzM-pGtMyOCiICZ7nGNk",
+        "https://vroptician.com/prescription-lens-inserts/hp-reverb-g2?ccy=usd",
+        "https://creationnetworks.net/products/hp-reverb-g2-virtual-reality-headset-headset-only?variant=43284925120748&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorEfEP25gUzzotfJskLgkKExCj8kGb1dDVFcgw1gJ5yZrb5jVJ4Zzw"
+      ],
+      "source": "Mercari",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLmA5xX97YEyUeWttyp0GZJoClgBhChGvNVAgVZG1iY4w1WterJxcgj1K9DQWQeWmoxdOF-_ORNeOMQysiGBy38MCwRDT4jB0",
+      "price": "$316.16",
+      "extracted_price": 316.16,
+      "old_price": "$570",
+      "extracted_old_price": 570,
+      "rating": 4.2,
+      "reviews": 480,
+      "snippet": "Good image quality (89 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7TNUCzZUc3BshrRbwxc8y3eViP_pgXR39IfPaIjYxRTpvBBu3vO7tz7glQXVUObfehGJ4PxlI6mBV-XS0U4V3vxzuYkGpM1pijvTl2VLM",
+      "tag": "44% OFF",
+      "extensions": [
+        "44% OFF"
+      ]
+    },
+    {
+      "position": 42,
+      "title": "iLive Reality+ VR/ AR Headset",
+      "product_link": "https://www.google.com/shopping/product/7303200616599337459?gl=us",
+      "product_id": "7303200616599337459",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7303200616599337459",
+      "link": "https://www.kohls.com/product/prd-7147632/ilive-reality-vrar-headset.jsp?skuid=74801891&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=74801891",
+      "links": [
+        "https://www.kohls.com/product/prd-7147632/ilive-reality-vrar-headset.jsp?skuid=74801891&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=74801891",
+        "https://www.mercari.com/us/item/m57081610122/?srsltid=AfmBOopnFGsuZ27zrKUksrKCfgZlsgKbGMFIUeFIYE2ogQ2JjfuBLDAc3sM",
+        "https://www.mercari.com/us/item/m23859397597/?srsltid=AfmBOorlfpNZHH15MNTba0ZYUMwq8KTJEqdLwaxsvfNp9Z8JSz9eqTTKEGw"
+      ],
+      "source": "Kohl's",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRWReG2j4Uvu8-0BW6qWvI5WUhkFFJety9-UjYwe521rRIRvjYxBCzws24pFsXzHOWjtIMhz4vSiqn-ZP3KitYYWL3P8MfI",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "rating": 3.1,
+      "reviews": 9,
+      "snippet": "Smartphone · Augmented Reality · White",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTH2yBJMKtqrtaGk6MqNTqZApbkjXV-xZ_u9to6C5z48FeMHW3Fal7N1FXUvGNa3eLSubCeSE-WP_953f7oANRktF5K77WwC7a21GhnIHMBgS3Jn6o3d655"
+    },
+    {
+      "position": 43,
+      "title": "Oculus Quest 128GB All-in-One VR Gaming Headset",
+      "product_link": "https://www.google.com/shopping/product/207260265902541093?gl=us",
+      "product_id": "207260265902541093",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=207260265902541093",
+      "link": "https://stockx.com/oculus-quest-all-in-one-vr-headset-128gb-black?country=US&currencyCode=USD",
+      "links": [
+        "https://stockx.com/oculus-quest-all-in-one-vr-headset-128gb-black?country=US&currencyCode=USD",
+        "https://www.ebay.com/itm/335469144452?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+        "https://www.lensrentals.com/buy/root/video/cameras/type/vr-360/oculus-quest-all-in-one-vr-headset-128gb?srsltid=AfmBOoqESdnUkbBtqKmOoCqHyFwVmqqtDFp2fYS_HISzoGd3K2QjMI_LAUo"
+      ],
+      "source": "StockX",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_ugYiHpGWv1cfKk_mWhXv2WQ1ZZM8yVCs_zMjb1D5f8jXPcnvn4TH9QPK6kxkrT_MXtyNRkXU6JAdV2zEAU_RsMyh",
+      "price": "$534.00",
+      "extracted_price": 534,
+      "old_price": "Was $973",
+      "extracted_old_price": 973,
+      "rating": 4.7,
+      "reviews": 2100,
+      "snippet": "Fun (399 user reviews)",
+      "extensions": [
+        "14-day returns",
+        "45% OFF"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSCLXUbtNc6E136rW88nYL5fNZikm_WY1zdAY7bGZmcJN_FAu5-UtLy4kpKujQTLEoIyUbIDhcdIZumo4l3spq0y60BiP_9gxfGqryWrs4xAY7A2zDaCzZQgw",
+      "tag": "45% OFF"
+    }
+  ],
+  "categorized_shopping_results": [
+    {
+      "title": "PC VR headsets",
+      "description": "These headsets require a powerful gaming PC for optimal performance and offer the highest resolution, refresh rates, and graphics capabilities for a truly immersive experience. However, they are tethered to your computer, limiting your freedom of movement.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Meta Quest 3S VR Headset",
+          "product_link": "https://www.google.com/shopping/product/3738707933651052088?gl=us",
+          "product_id": "3738707933651052088",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3738707933651052088",
+          "link": "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+          "links": [
+            "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.walmart.com/ip/Meta-Quest-3S-128GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/5871736556?wmlspartner=wlpa&selectedSellerId=101289432",
+            "https://www.target.com/p/meta-quest-3s-128gb-batman-arkham-shadow-and-3-month-trial-of-meta-quest-all-in-one-headset/-/A-92995299?ref=tgt_adv_xsf&AFID=google&CPNG=ELECTRONICS&adgroup=207-16"
+          ],
+          "source": "Amazon.com",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b13261f46e2a6e3918fefa6e4d5bef5313.png",
+          "price": "$299.00",
+          "extracted_price": 299,
+          "rating": 4.8,
+          "reviews": 921,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2eafrTBgcaluUrPtQrnWi_SQAEG4ZVvJkw5-PHExidj6ugUK47jaJQp3FUwnOVvhmKIxjP03vIrpC3HSO8Gvbf6HKIR3EKhwE7AcqflfeDProohIUshcr",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 2,
+          "title": "HTC VIVE Pro 2",
+          "product_link": "https://www.google.com/shopping/product/10642358036234507966?gl=us",
+          "product_id": "10642358036234507966",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10642358036234507966",
+          "link": "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+          "links": [
+            "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.vive.com/us/product/vive-pro2/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOoqYrT-tuqo7pD7h_ijg3j6WiF5MsvgYy1ma747vrns0tsBj1Sw_yn4",
+            "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78019082?cid=us:seo:41h72l&srsltid=AfmBOoqzzvZED_i7C0_8-M3IJnAjHhYJ5SzCrGbwOryLiOqXGwZ4h3IYdsk"
+          ],
+          "source": "Amazon.com",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b18f0de798636cd8b4a9f12988d03d7f83.png",
+          "price": "$498.99",
+          "extracted_price": 498.99,
+          "old_price": "$699",
+          "extracted_old_price": 699,
+          "rating": 4.1,
+          "reviews": 119,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIV4FHfX6IeSgDiPwxJIGi-SGO9VmFvu3KQdJCzGyXihic_9zm_H3NQqLoraCr5ik16XddAYuCnnB4WOvhhmjuEf8AwtAnzTU_DsVxel4",
+          "tag": "28% OFF",
+          "extensions": [
+            "28% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 3,
+          "title": "Pimax Crystal Light Virtual Reality Headset Only",
+          "product_link": "https://www.google.com/shopping/product/1778184884890385526?gl=us",
+          "product_id": "1778184884890385526",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1778184884890385526",
+          "link": "https://pimax.com/products/pimax-crystal-light?currency=USD&variant=41086638817323&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOoqWz6Gz9jrUCycPywasenfEqmW71svSe3HdwYrJXfSwl2Guw9ojZ0A",
+          "links": [
+            "https://pimax.com/products/pimax-crystal-light?currency=USD&variant=41086638817323&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOoqWz6Gz9jrUCycPywasenfEqmW71svSe3HdwYrJXfSwl2Guw9ojZ0A",
+            "https://pimax.com/products/pimax-crystal-light-headset-only?currency=USD&variant=41104132341803&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=b6766cb429ff&srsltid=AfmBOorfQrOSAjHYj6U8xbCGPY403lSphoaFX8sC5yOKkDBMGfY7Gmw2mig",
+            "https://www.apevie.com/products/pimax-crystal-lights?variant=42951285538956&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopEiSrQtVkjoeNSDsUifSGs9ISTh16MTyRd8byPtlUwllGd3ZQBmHs"
+          ],
+          "source": "pimax store",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b1c4594c49b04367658476a479aa30058d.png",
+          "price": "$599.00",
+          "extracted_price": 599,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAzwvF9_HMnvx-n0zrK6TUB8biNULIP3yrnnhWlk8M36vIh06xIQR3kPomiwdVCOJqMpp8yyqQYN66QW3qCEylfCDtX0zB946fZSR29QUbB2ar9o4Wft8EAA",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 4,
+          "title": "Pimax 5K SUPER",
+          "product_link": "https://www.google.com/shopping/product/4150610216211328091?gl=us",
+          "product_id": "4150610216211328091",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4150610216211328091",
+          "link": "https://www.knoxlabs.com/products/pimax-5k-super-vr-headset?srsltid=AfmBOoqmfsjk3x0P44-85j-UE9WCkgquq2E5bry43DS3-cI7Fc1z9Wlazkk",
+          "links": [
+            "https://www.knoxlabs.com/products/pimax-5k-super-vr-headset?srsltid=AfmBOoqmfsjk3x0P44-85j-UE9WCkgquq2E5bry43DS3-cI7Fc1z9Wlazkk",
+            "https://www.ebay.com/itm/296400420419?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.knoxlabs.com/products/pimax-5k-super-vr-headset?srsltid=AfmBOooMqaV1zv5GsVcdeKHpsOvJEzSU78-JtkEqgjiP0HEBzc0lhmnD3sk"
+          ],
+          "source": "Knoxlabs",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b1978d316cbf9c4c201df2da3eb115b40b.png",
+          "price": "$725.99",
+          "extracted_price": 725.99,
+          "rating": 4,
+          "reviews": 1,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1_Rb7uYiIXjv6qRJ6uLO61yqzTIAfMhd1wI7N7aonHUCYxLT7Yfiet_YrKK2EK0GAT3suP0WZKgcaYmqJLHVOA9-NvOx_GfOf_PxAYvjLWzFXhr4a1WIE"
+        },
+        {
+          "position": 5,
+          "title": "Meta Quest 2 All-in-One Virtual Reality Headset",
+          "product_link": "https://www.google.com/shopping/product/13134479140382571237?gl=us",
+          "product_id": "13134479140382571237",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13134479140382571237",
+          "link": "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+          "links": [
+            "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+            "https://stockx.com/oculus-quest-2-advanced-all-in-one-virtual-reality-headset-128g-899-00182-02?country=US&currencyCode=USD",
+            "https://www.ebay.com/itm/134350144413?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Walmart - Nationwide Distributor",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b164eb3169d408cca5f98307acb753891b.png",
+          "price": "$328.99",
+          "extracted_price": 328.99,
+          "second_hand_condition": "refurbished",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAoBwiCnWrGwwp4S9ic7mzHwziVK-3-XK77rlLVnAhV7PfxVdjLcnile0e0Lwk6_0Facw677_dPKQa0PaCwHT_JmpHbIKCCQ",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 6,
+          "title": "HP Reverb G2 Virtual Reality Headset",
+          "product_link": "https://www.google.com/shopping/product/1629918215386878059?gl=us",
+          "product_id": "1629918215386878059",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1629918215386878059",
+          "link": "https://www.ebay.com/itm/313703911932?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "links": [
+            "https://www.ebay.com/itm/313703911932?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://vroptician.com/prescription-lens-inserts/hp-reverb-g2?ccy=usd",
+            "https://creationnetworks.net/products/hp-reverb-g2-virtual-reality-headset-headset-only?variant=43284925120748&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqfnPG8jpVS_Io3F5M81pnQ3TYplqElpzho1wEQiJQJaE03u2xP56U"
+          ],
+          "source": "eBay",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b1f4abca5ec8b83b8c5fde25aa11e65184.png",
+          "price": "$50.00",
+          "extracted_price": 50,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.2,
+          "reviews": 480,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ3w_Qw1hInz2v25cyxgnvMi15sPKlA4R_IIHoOgZ2uLIzPZtndtTfcJuqdVJs1_79Y0vTVI33Vo5YSsfpAvQAEhN_LQUJcfKfD_ATOpc-X",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 7,
+          "title": "Apple Vision Pro",
+          "product_link": "https://www.google.com/shopping/product/11035504884468900315?gl=us",
+          "product_id": "11035504884468900315",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11035504884468900315",
+          "link": "https://www.apple.com/us/xc/product/MQL83?cid=aos-us-seo-pla-vision",
+          "links": [
+            "https://www.apple.com/us/xc/product/MQL83?cid=aos-us-seo-pla-vision",
+            "https://www.ebay.com/itm/296248216084?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://stockx.com/apple-vision-pro?country=US&currencyCode=USD&size=M+Band%2C+33W+Light+Seal"
+          ],
+          "source": "Apple",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8c0c01e558528e9411524ec0956f937599011a995349b13b193c2c30f34232551bed7e7013d75b2fc.png",
+          "price": "$3,499.00",
+          "extracted_price": 3499,
+          "rating": 4.1,
+          "reviews": 339,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9iXOMR5_FlPlKP1jAxBbk-f_9FicAjNySM144fyjqLTIkfUzoUjP7_qzPoKxrBgvDB5kyNJcs64ELCi2-aXDL4Cy7MsQI-zhZ3mQ_7iLYvmnCnnqSkQ-o",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 8,
+          "title": "Valve Index VR Kit PC VR Headset 1007",
+          "product_link": "https://www.google.com/shopping/product/10302562072460584877?gl=us",
+          "product_id": "10302562072460584877",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10302562072460584877",
+          "link": "https://tundra-labs.com/products/valve-index-full-kit-refurbished?variant=42086871302353&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorbTourkKJwUrxXBJTP8C2avtkpb0OTkisdrxl0YGt9A_ALdnGnU5g",
+          "links": [
+            "https://tundra-labs.com/products/valve-index-full-kit-refurbished?variant=42086871302353&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorbTourkKJwUrxXBJTP8C2avtkpb0OTkisdrxl0YGt9A_ALdnGnU5g",
+            "https://www.ebay.com/itm/335655006164?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.ebay.com/itm/315227083209?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Tundra Labs",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRek3c9fNFVHqNJusEuEoNqHpDUU7uYZ7AgAbVD4DtIDTx9vH5lRfh37Cg2NWntuh5xYa8uL_Qe4h8Uz7hvdEoP67haFOfbTlk",
+          "price": "$730.00",
+          "extracted_price": 730,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.5,
+          "reviews": 74,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdfaHp4uLF4dmIAyguP_Tazer6w-efCZLW-PdK1QNeR41h4Lsz3jnoNz48vhjeLIFeSkqPYL0beW7QMt94VJVaD51plIg9GxBk2-HrzaNXSs4r6HgJ5ltl"
+        },
+        {
+          "position": 9,
+          "title": "Oculus Quest 2 All-In-One VR Headset",
+          "product_link": "https://www.google.com/shopping/product/18167554522140218462?gl=us",
+          "product_id": "18167554522140218462",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18167554522140218462",
+          "link": "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+          "links": [
+            "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+            "https://www.amazon.com/Oculus-Christmas-Holiday-Entertainments-Advanced/dp/B09L1CZ4TX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1WIUJ9723RLZ5",
+            "https://www.walmart.com/ip/Meta-Quest-2-All-in-One-Wireless-VR-Headset-256GB/519725606?wmlspartner=wlpa&selectedSellerId=9300"
+          ],
+          "source": "Lensrentals",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTF6iCW3SZBa7mZJgZpD6P-tDy1h2h7EUW_XRWCQ_fagxFRpmbTIwuBpp3dWFcEKDK4X4D4oanytrMRoXlbFHWxsgHqF5e0QJWDEAFa",
+          "price": "$119.00",
+          "extracted_price": 119,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTfRTonUiKm9zK5IoJHXhgolljL0_MBqvStcTBavJAQs_cnZCYPmNAI5zh12zRg2rb68r7drcIETzVjTr_n4ctN4KzGRjiENQ",
+          "tag": "32% OFF",
+          "extensions": [
+            "32% OFF"
+          ]
+        },
+        {
+          "position": 10,
+          "title": "HTC VIVE Focus Vision VR Headset",
+          "product_link": "https://www.google.com/shopping/product/12102659228946980459?gl=us",
+          "product_id": "12102659228946980459",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12102659228946980459",
+          "link": "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+          "links": [
+            "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+            "https://www.amazon.com/HTC-Vive-Focus-Vision-Controllers-Consumer/dp/B0DDRLX7V4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78807442?cid=us:seo:41h72l&srsltid=AfmBOormPdjhWT6fjwc9q2zcBpGFOvbRIK4iNyhzb4Qj_mb7n_AbIj-mN5Y"
+          ],
+          "source": "vive.com/us",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRevtL7sGlpvkTO4Vn2RTqzl9JJvDYadrYkFOmMYFeZLmK2fXVLLXY7lBz-_4pt1uvkBeXUIbRgaGydsBx1NOKuALf5X5I",
+          "price": "$999.00",
+          "extracted_price": 999,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdtRTuDLTTNLOR61UexP8i6RmG1-mxB9cBhTwod9CROEDrWEtgO-7f2HvlpT3dPA1TGwlHGzI5kIpHVsECwJsX_mG63YvDraowrcMg8X9qtnOQYevcFhLF",
+          "delivery": "Free 2-day"
+        }
+      ]
+    },
+    {
+      "title": "Standalone VR headsets",
+      "description": "These headsets are self-contained, with built-in processors and wireless connectivity, allowing for complete freedom of movement. They are ideal for casual gaming, entertainment, and social VR. While their graphics capabilities are typically lower than PC VR headsets, they are becoming increasingly powerful.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Oculus Go 32gb Vr Headset Standalone (charger Included, No Controller)",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13722629718528662617",
+          "product_id": "13722629718528662617",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13722629718528662617",
+          "link": "https://www.ebay.com/itm/386273841292?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "links": [
+            "https://www.ebay.com/itm/386273841292?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "eBay",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced54986a44f4da247a415a8d10870a00bb3.png",
+          "price": "$200.00",
+          "extracted_price": 200,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 922,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQazEo1XOamBKZjpioxCrh3jN3LQNo_9nZ_v1bK5hDMTB1N4_DrNDsJIZW4B42tT_R0MIK5bBqFza8Nnwk13zuGLwqSKBmksgsIHRryEXQTbUGruUdDPfXNUQ"
+        },
+        {
+          "position": 2,
+          "title": "PICO 4 128G VR Headset White",
+          "product_link": "https://www.google.com/shopping/product/17113332156369024296?gl=us",
+          "product_id": "17113332156369024296",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17113332156369024296",
+          "link": "https://www.amazon.com/PICO-256GB-VR-%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%94%E3%82%B3/dp/B0BDYCV3PQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AW9TRI3NEK1SN",
+          "links": [
+            "https://www.amazon.com/PICO-256GB-VR-%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%94%E3%82%B3/dp/B0BDYCV3PQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AW9TRI3NEK1SN"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced53a9348023562516f58ab07f9aa36d8ed.png",
+          "price": "$705.23",
+          "extracted_price": 705.23,
+          "rating": 4.8,
+          "reviews": 6,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBvQeHJAvGrS3CnI3Ys5LO6E36jn0BLdiNj-8BErhmFXOM4PxTJJxhd7isPSYEjOYru0ZtLtJ5p7rDmiyBGd6TjuoE-JZ9Fo3vZkgKFVVdKxnyMdx6S0sV",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 3,
+          "title": "Oculus Go Standalone Virtual Reality Headset - 32gb P/n 315-00745-03",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14690478691784095295",
+          "product_id": "14690478691784095295",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14690478691784095295",
+          "link": "https://www.ebay.com/itm/325834986440?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoojftBZTvedLkEifgmKVs1i8IyZhii3EH37ZbclAAeh8C94C87PWhA",
+          "links": [
+            "https://www.ebay.com/itm/325834986440?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoojftBZTvedLkEifgmKVs1i8IyZhii3EH37ZbclAAeh8C94C87PWhA"
+          ],
+          "source": "eBay - fortuneinternational",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+          "price": "$239.00",
+          "extracted_price": 239,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 922,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQI4tbn2566iRwoR43Vc0E5miYoNoWhOBVmMGrtU8havsmarL-PpUgUyqOB6Qe2oj-xXFrcZFEYw7nhWRvczHBIX0D7QfzjXq4nI4utTt3zBm4fAd22HQuVFg",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 4,
+          "title": "Oculus Quest 2 All-In-One VR Headset",
+          "product_link": "https://www.google.com/shopping/product/18167554522140218462?gl=us",
+          "product_id": "18167554522140218462",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18167554522140218462",
+          "link": "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+          "links": [
+            "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+            "https://www.amazon.com/Oculus-Christmas-Holiday-Entertainments-Advanced/dp/B09L1CZ4TX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1WIUJ9723RLZ5",
+            "https://www.walmart.com/ip/Meta-Quest-2-All-in-One-Wireless-VR-Headset-256GB/519725606?wmlspartner=wlpa&selectedSellerId=9300"
+          ],
+          "source": "Lensrentals",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced5dbec58954e4a5046109952646a84c84e.png",
+          "price": "$119.00",
+          "extracted_price": 119,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTfRTonUiKm9zK5IoJHXhgolljL0_MBqvStcTBavJAQs_cnZCYPmNAI5zh12zRg2rb68r7drcIETzVjTr_n4ctN4KzGRjiENQ",
+          "tag": "32% OFF",
+          "extensions": [
+            "32% OFF"
+          ]
+        },
+        {
+          "position": 5,
+          "title": "HTC VIVE Focus Vision VR Headset",
+          "product_link": "https://www.google.com/shopping/product/12102659228946980459?gl=us",
+          "product_id": "12102659228946980459",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12102659228946980459",
+          "link": "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+          "links": [
+            "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+            "https://www.amazon.com/HTC-Vive-Focus-Vision-Controllers-Consumer/dp/B0DDRLX7V4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78807442?cid=us:seo:41h72l&srsltid=AfmBOormPdjhWT6fjwc9q2zcBpGFOvbRIK4iNyhzb4Qj_mb7n_AbIj-mN5Y"
+          ],
+          "source": "vive.com/us",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced551d88aee9ba6eb7f5fea6263cdb14616.png",
+          "price": "$999.00",
+          "extracted_price": 999,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdtRTuDLTTNLOR61UexP8i6RmG1-mxB9cBhTwod9CROEDrWEtgO-7f2HvlpT3dPA1TGwlHGzI5kIpHVsECwJsX_mG63YvDraowrcMg8X9qtnOQYevcFhLF",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 6,
+          "title": "HTC VIVE Pro 2",
+          "product_link": "https://www.google.com/shopping/product/10642358036234507966?gl=us",
+          "product_id": "10642358036234507966",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10642358036234507966",
+          "link": "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+          "links": [
+            "https://www.amazon.com/HTC-Vive-Pro-Headset-Only-pc/dp/B092LBLT7P?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.vive.com/us/product/vive-pro2/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOoqYrT-tuqo7pD7h_ijg3j6WiF5MsvgYy1ma747vrns0tsBj1Sw_yn4",
+            "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78019082?cid=us:seo:41h72l&srsltid=AfmBOoqzzvZED_i7C0_8-M3IJnAjHhYJ5SzCrGbwOryLiOqXGwZ4h3IYdsk"
+          ],
+          "source": "Amazon.com",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced5a9a7ec8f532455756d8d00a7ba4115e0.png",
+          "price": "$498.99",
+          "extracted_price": 498.99,
+          "old_price": "$699",
+          "extracted_old_price": 699,
+          "rating": 4.1,
+          "reviews": 119,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIV4FHfX6IeSgDiPwxJIGi-SGO9VmFvu3KQdJCzGyXihic_9zm_H3NQqLoraCr5ik16XddAYuCnnB4WOvhhmjuEf8AwtAnzTU_DsVxel4",
+          "tag": "28% OFF",
+          "extensions": [
+            "28% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 7,
+          "title": "Meta Quest 2 All-in-One Virtual Reality Headset",
+          "product_link": "https://www.google.com/shopping/product/13134479140382571237?gl=us",
+          "product_id": "13134479140382571237",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13134479140382571237",
+          "link": "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+          "links": [
+            "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+            "https://stockx.com/oculus-quest-2-advanced-all-in-one-virtual-reality-headset-128g-899-00182-02?country=US&currencyCode=USD",
+            "https://www.ebay.com/itm/134350144413?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Walmart - Nationwide Distributor",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd8daaea0071d17b32a2bed14de7f81b6a0f3866ed62fe3ced501d54152b108298b5db0c7cca6a6cf73.png",
+          "price": "$328.99",
+          "extracted_price": 328.99,
+          "second_hand_condition": "refurbished",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAoBwiCnWrGwwp4S9ic7mzHwziVK-3-XK77rlLVnAhV7PfxVdjLcnile0e0Lwk6_0Facw677_dPKQa0PaCwHT_JmpHbIKCCQ",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 8,
+          "title": "Meta Quest 3S VR Headset",
+          "product_link": "https://www.google.com/shopping/product/13571999558320575193?gl=us",
+          "product_id": "13571999558320575193",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13571999558320575193",
+          "link": "https://www.gamestop.com/consoles-hardware/virtual-reality/products/meta-quest-3s-256gb---dive-into-mixed-reality---unreal-experiences---all-in--one-headset-batman-arkham-shadow-included/415530.html",
+          "links": [
+            "https://www.gamestop.com/consoles-hardware/virtual-reality/products/meta-quest-3s-256gb---dive-into-mixed-reality---unreal-experiences---all-in--one-headset-batman-arkham-shadow-included/415530.html",
+            "https://www.walmart.com/ip/Meta-Quest-3S-256GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/6228355412?wmlspartner=wlpa&selectedSellerId=0",
+            "https://www.meta.com/quest/quest-3s/?variant=256&srsltid=AfmBOoqFfPaAiru3k753GvOVqRbKzCtF3fhINdXFDdwqHUcRqL27kv2iY44"
+          ],
+          "source": "GameStop",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQLc1Qw2DGgifAJ-S20cYvOEn-sq8qeQu8gdLwODQFcIcsAEWDqmFUJ5hr0oBbhzRJ4kfyXO26U4ejpi8JPtYABZNxivKdZa116",
+          "price": "$399.99",
+          "extracted_price": 399.99,
+          "rating": 4.8,
+          "reviews": 921,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIE4KWxU9ZElpYfiStNSS9UYNzIGOjf0lARvNvlBcOMNB5uUYrP550C8qhTjUdrq4K9Z1qrd3fWKVXvok8o6t3R-SXKv7GGMsQ21nMGmEu1dSCP0qbGDwe",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 9,
+          "title": "Meta Quest Pro VR Headset",
+          "product_link": "https://www.google.com/shopping/product/3044956690194648632?gl=us",
+          "product_id": "3044956690194648632",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3044956690194648632",
+          "link": "https://www.bhphotovideo.com/c/product/1740526-REG/meta_quest_899_00412_01_pro_vr_headset.html?kw=MEPRO&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo4aC_qtpV3OjqfXIRDs62xZlnYNsrPbxjt__KvkOB2dy9JmM3nq9E",
+          "links": [
+            "https://www.bhphotovideo.com/c/product/1740526-REG/meta_quest_899_00412_01_pro_vr_headset.html?kw=MEPRO&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoo4aC_qtpV3OjqfXIRDs62xZlnYNsrPbxjt__KvkOB2dy9JmM3nq9E",
+            "https://www.knoxlabs.com/products/10x-meta-quest-pro-business-vr-headset?variant=49932206375232&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooYeUi-WJ1qskIWX6T5EHT2Wxp72dJjwMiNssEHaCJzG0ZRTNLgH90",
+            "https://www.insight.com/en_US/shop/product/899-00412-01-FACE/FACEBOOK+TECHNOLOGIES,+LLC/899-00412-01/Meta-Quest-Pro---virtual-reality-system/?srsltid=AfmBOorvW9lVd1XCbPGuO-12LNqIl39Gcuj3KEgm2J4K-5OsT1y58j7tyYY"
+          ],
+          "source": "B&H Photo-Video-Audio",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+          "price": "$999.00",
+          "extracted_price": 999,
+          "rating": 3.9,
+          "reviews": 934,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0V-rOLcM63ueoUCxeFApIKFc7faL-gxyVJrZ7ixsA2oAeb3_rx8UfzvWc8zRKVsOITK9wLpP2wIgiksQlIqeRehOR451jfedq1OKJodKRp_Sj_mPxKiBFAw",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 10,
+          "title": "HTC Vive XR Elite VR",
+          "product_link": "https://www.google.com/shopping/product/3263468674127962083?gl=us",
+          "product_id": "3263468674127962083",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3263468674127962083",
+          "link": "https://www.amazon.com/Vive-Elite-Virtual-Reality-Headset-Controllers/dp/B0BQXDFLJ6?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A21C579I9MM2U0",
+          "links": [
+            "https://www.amazon.com/Vive-Elite-Virtual-Reality-Headset-Controllers/dp/B0BQXDFLJ6?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A21C579I9MM2U0",
+            "https://www.adorama.com/htcvivexre.html?refby=inc-google-shop-o",
+            "https://www.ebay.com/itm/135053906931?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$799.00",
+          "extracted_price": 799,
+          "rating": 4.3,
+          "reviews": 23,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGLSfOohNFY_ypsyMdwv2CezxczFElrv2XM6w9ubYtqE2jYMcg1Knf1UrWietkcDQDUiGg9myQTbl4TABOsekwnA9NXlpzzS9AsF9lQB37pe-jrbBxQkn4kg",
+          "delivery": "Free delivery"
+        }
+      ]
+    },
+    {
+      "title": "Budget VR headsets",
+      "description": "These headsets offer an affordable entry point into VR, typically under $300. They may compromise on features like resolution, refresh rate, and tracking accuracy, but are perfect for trying out VR or for users on a tight budget.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Google Daydream View VR Headset",
+          "product_link": "https://www.google.com/shopping/product/3495387888883973282?gl=us",
+          "product_id": "3495387888883973282",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3495387888883973282",
+          "link": "https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MK1JG3LFEH53",
+          "links": [
+            "https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1MK1JG3LFEH53",
+            "https://www.walmart.com/ip/Google-Daydream-View-Slate/331408178?wmlspartner=wlpa&selectedSellerId=102480109",
+            "https://www.ebay.com/itm/115615956396?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooLHaoKrP5yG_P9WqGgQ1-_l2GY0R5nZQJc3w74w8smZP0i2Q0kRgs"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a53529496fc8b47e4a26871d4d3d59628f.png",
+          "price": "$24.99",
+          "extracted_price": 24.99,
+          "rating": 4.4,
+          "reviews": 336,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSbVUW8uugC6_QFplwzE828czYBtBZ8YjXZrJ4UT0RS0gQJNDjUDZ16hQFKGYdJfcP1xVZ_j5VMWN0C2WjtVCsTfna7nN9grPsftesRGp6K"
+        },
+        {
+          "position": 2,
+          "title": "Meta Quest 3S Advanced All-in-One VR Headset with Batman: Arkham Shadow (128GB)",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:5440167450113307364",
+          "product_id": "5440167450113307364",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5440167450113307364",
+          "link": "https://www.bhphotovideo.com/c/product/1847668-REG/meta_quest_sk_1000203_01_3s_advanced_all_in_one_vr.html?kw=MEQ3S128GB&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqNcPHkVSLxDG63Cq1RJP6ifXDsRxb8u9lQ_AxPzSDxaG88hFyKaCY",
+          "links": [
+            "https://www.bhphotovideo.com/c/product/1847668-REG/meta_quest_sk_1000203_01_3s_advanced_all_in_one_vr.html?kw=MEQ3S128GB&ap=y&smp=Y&BI=E7249&srsltid=AfmBOoqNcPHkVSLxDG63Cq1RJP6ifXDsRxb8u9lQ_AxPzSDxaG88hFyKaCY"
+          ],
+          "source": "B&H Photo-Video-Audio",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a56ac9acbd0305c53ea5cebd4180741a4d.png",
+          "price": "$299.99",
+          "extracted_price": 299.99,
+          "rating": 4.8,
+          "reviews": 921,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPaLViTLDeHtYPy6DRUdQXQF18kbQyPDiGrj_ScD1lCRpoElB4qter9lxLiEScjpkS10v6Qu5ZlCJ_JQfzaxw3XkfvUK8tKJsNg3UrCFmieFQgH8Oetjao8Q",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 3,
+          "title": "Oculus Rift VR Virtual Reality",
+          "product_link": "https://www.google.com/shopping/product/9107496349483230840?gl=us",
+          "product_id": "9107496349483230840",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9107496349483230840",
+          "link": "https://www.ebay.com/itm/275845949522?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorC_HRtthaTw3MQvCKDF2j0_EeuWIq2Uu0vRqLQwk5EVltADTMXQO4",
+          "links": [
+            "https://www.ebay.com/itm/275845949522?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorC_HRtthaTw3MQvCKDF2j0_EeuWIq2Uu0vRqLQwk5EVltADTMXQO4",
+            "https://www.ebay.com/itm/195747415162?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.ebay.com/itm/335650941606?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "eBay - lovely241",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+          "price": "$242.19",
+          "extracted_price": 242.19,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.5,
+          "reviews": 1200,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTt677NUnpNy30cf4RXIA8SDTyaMdwi5QChMuVumGK1PIoEIUJR761PEJDpsgKho3LR1l5WcJ2a3407LGqIXpbCvrk1OqNob0ZyGx0SJBtI7e8psC_Q-Xfj",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 4,
+          "title": "Vodiac X VR Headset for Smartphone with 100 Experiences",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13889504181215357237",
+          "product_id": "13889504181215357237",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13889504181215357237",
+          "link": "https://www.qvc.com/qvc.product.E325426.html?colorId=000&sizeId=000&ref=GBA",
+          "links": [
+            "https://www.qvc.com/qvc.product.E325426.html?colorId=000&sizeId=000&ref=GBA"
+          ],
+          "source": "QVC",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a5fc86eefacc39b65b343718401b312bb0.png",
+          "price": "$54.98",
+          "extracted_price": 54.98,
+          "old_price": "$60",
+          "extracted_old_price": 60,
+          "rating": 2.1,
+          "reviews": 34,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4PWK2cG35rjg45R7llNmsBfI_hWjeci9tP9_9m9pBDq93E55ZNRdeXD0PXSfXmtwK-67G1n8HyqfMKbn8EZhObBRcBMcy1QAdVVWLxtyQxsNpWQraSGlb",
+          "tag": "8% OFF",
+          "extensions": [
+            "8% OFF"
+          ]
+        },
+        {
+          "position": 5,
+          "title": "DESTEK V5 VR Headset with Bluetooth Controller Gift for Kids&Adults",
+          "product_link": "https://www.google.com/shopping/product/9063927249368198560?gl=us",
+          "product_id": "9063927249368198560",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9063927249368198560",
+          "link": "https://destek.us/products/v5-vr-headset-with-bluetooth-controller-gift-for-kids-adults?variant=37491501367463&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorGIlWqPclGyv4U6GIKzyngyFeNUoO-HBKn9zRKzym8n_hbkinX4ao",
+          "links": [
+            "https://destek.us/products/v5-vr-headset-with-bluetooth-controller-gift-for-kids-adults?variant=37491501367463&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorGIlWqPclGyv4U6GIKzyngyFeNUoO-HBKn9zRKzym8n_hbkinX4ao",
+            "https://www.ebay.com/itm/186165928366?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.ebay.com/itm/286016379966?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Destek",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a50ce1fc3094faa86db83ee7d86c034a0d.png",
+          "price": "$49.99",
+          "extracted_price": 49.99,
+          "rating": 4.7,
+          "reviews": 54,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAN2YnUQP40Hk98X1_6VHzCpzQsur1NRACSjo0XoyGv6ZLNEUhygXPVopmBKsmP0Lze2kkCFFa9voML-4pJ-lvGroRSZO9rGapC3NwH8ClxsZpctadlLMxYA",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 6,
+          "title": "2023 Newest Virtual Reality Headset with Controller and Headphones, 3D VR Glasses for Video Movies & Games, Compatible iOS and Android Smartphones",
+          "product_link": "https://www.google.com/shopping/product/12560521823451154743?gl=us",
+          "product_id": "12560521823451154743",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12560521823451154743",
+          "link": "https://www.amazon.com/Controller-Headphones-Compatible-Smartphones-4-7-7-8in/dp/B0CMXLFG77?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1RNZBW32IHE3Y",
+          "links": [
+            "https://www.amazon.com/Controller-Headphones-Compatible-Smartphones-4-7-7-8in/dp/B0CMXLFG77?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1RNZBW32IHE3Y",
+            "https://www.amazon.com/Controller-Headphones-Compatible-Smartphones-4-7-7-8in/dp/B0CMXLY87C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1RNZBW32IHE3Y",
+            "https://www.amazon.com/Controller-Headphones-Compatible-Smartphones-4-7-7-8in/dp/B0CMXJMBXX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1RNZBW32IHE3Y"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a51fa32a047fbbfaca99ba544611dd9979.png",
+          "price": "$54.25",
+          "extracted_price": 54.25,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGTnfkgkFkyh9MtL9t5rdbe-QpMC6AlLcz9N7GNmZmnuExvLZEQ7DazHagbLGxtq7jcbqG-j1G9ZZZqpcGdFVZNu4CT81TM3V8moTV4Wfjy51pkMNdJCpFqw",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 7,
+          "title": "Bluetooth VR Headset with Earphones by Sharper Image",
+          "product_link": "https://www.google.com/shopping/product/1959519524103056267?gl=us",
+          "product_id": "1959519524103056267",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1959519524103056267",
+          "link": "https://www.sharperimage.com/view/product/Bluetooth+VR+Headset+with+Earphones+by+Sharper+Image/205979?pc=20GOOGLE&srsltid=AfmBOopbauwe_o1MBtLc5HaaH8SApk4bw4IVJxgj9hljiUXzOMa7EREiK-o",
+          "links": [
+            "https://www.sharperimage.com/view/product/Bluetooth+VR+Headset+with+Earphones+by+Sharper+Image/205979?pc=20GOOGLE&srsltid=AfmBOopbauwe_o1MBtLc5HaaH8SApk4bw4IVJxgj9hljiUXzOMa7EREiK-o",
+            "https://www.ebay.com/itm/126269102238?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.mercari.com/us/item/m90739126855/?srsltid=AfmBOooiSYH7IPgIatXo_har-Bl0Xf_A-zodszD41hPEaB_ydyFVxH0PyTE"
+          ],
+          "source": "SharperImage",
+          "source_icon": "https://serpapi.com/searches/6757dc4611d624020df07587/images/93778d9673e74cb13e8cbe4e176ba895b7683bfa9d8f2cd858ef42e76dff2f74b7e989cf8228f68c17be539326dcd5a5bc0778c4eafef380eb12d99f719aa3e6.png",
+          "price": "$47.99",
+          "extracted_price": 47.99,
+          "old_price": "$60",
+          "extracted_old_price": 60,
+          "rating": 4.1,
+          "reviews": 138,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSaCsy9G886cfvq4HKVWHWDSOAl4p1RG-sLD0Wi7BDVtcrXm6qmQwXJgIQvsdbAzjqEoxRZp7tHJtu0yRKtl_VlNmZ7GHLIoYVSQA0jDE-CPUCtYqpEXOFs",
+          "tag": "20% OFF",
+          "extensions": [
+            "20% OFF"
+          ]
+        },
+        {
+          "position": 8,
+          "title": "Oculus Quest 2 All-In-One VR Headset",
+          "product_link": "https://www.google.com/shopping/product/8684591947192568295?gl=us",
+          "product_id": "8684591947192568295",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8684591947192568295",
+          "link": "https://www.ebay.com/itm/196541267190?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+          "links": [
+            "https://www.ebay.com/itm/196541267190?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.walmart.com/ip/TEC-New-Oculus-Meta-Quest-2-128GB-Advanced-All-In-One-Virtual-Reality-Headset/808429709?wmlspartner=wlpa&selectedSellerId=14673",
+            "https://www.mercari.com/us/item/m38380171288/?srsltid=AfmBOoolRRAqXJTH_0upaHP_XH98Zu1kOJHjKdMpl-f7fGn59aSfAcP1tpY"
+          ],
+          "source": "eBay",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSN1XmQeJU_yT0zcxhHYWuffZKmEBeCLcmLdkaZM422mZbdDohDeZ1F0htTlz68NMC5ys71nX8kDNtoHo_3z5uYipJX7A",
+          "price": "$295.00",
+          "extracted_price": 295,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqcaVK-i1fu9fSEDb9IiOI_1fa3erYuZ0TzQTYaIDWdeaWap3ruf3ymEg2eOS5tRAFbZcsibr8IgWvPJVTy8QAQEa34-mh18A3EjlxXLE"
+        },
+        {
+          "position": 9,
+          "title": "iLive \"Reality+\" VR/AR Headset",
+          "product_link": "https://www.google.com/shopping/product/7303200616599337459?gl=us",
+          "product_id": "7303200616599337459",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7303200616599337459",
+          "link": "https://www.kohls.com/product/prd-7147632/ilive-reality-vrar-headset.jsp?skuid=74801891&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=74801891",
+          "links": [
+            "https://www.kohls.com/product/prd-7147632/ilive-reality-vrar-headset.jsp?skuid=74801891&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=74801891",
+            "https://www.mercari.com/us/item/m57081610122/?srsltid=AfmBOopnFGsuZ27zrKUksrKCfgZlsgKbGMFIUeFIYE2ogQ2JjfuBLDAc3sM",
+            "https://www.mercari.com/us/item/m23859397597/?srsltid=AfmBOorlfpNZHH15MNTba0ZYUMwq8KTJEqdLwaxsvfNp9Z8JSz9eqTTKEGw"
+          ],
+          "source": "Kohl's",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRWReG2j4Uvu8-0BW6qWvI5WUhkFFJety9-UjYwe521rRIRvjYxBCzws24pFsXzHOWjtIMhz4vSiqn-ZP3KitYYWL3P8MfI",
+          "price": "$14.99",
+          "extracted_price": 14.99,
+          "rating": 3.1,
+          "reviews": 9,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnjSyAAuyMwwUHIh4FJm7ZnA5zELBaUSnUNxyyCPj-Q2HSOupvg1sINRDMgeOdVny9PmUfvtChvyDeyfVGdmZrrQ3-sOKGzTeuV58-sNERXZxrYH0nTAYH"
+        },
+        {
+          "position": 10,
+          "title": "Wireless Gear Plastic Virtual Reality Headset UN1336",
+          "product_link": "https://www.google.com/shopping/product/18322963370085916543?gl=us",
+          "product_id": "18322963370085916543",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18322963370085916543",
+          "link": "https://www.officedepot.com/a/products/729008/Wireless-Gear-Plastic-Virtual-Reality-Headset/?utm_source=google&utm_medium=sag&srsltid=AfmBOoqRvg0_nyoaH6nSDmNAdd5iqTxX1UTrqs7Fsc2DJrJCH2QsIhtm1Ic&region_id=005101",
+          "links": [
+            "https://www.officedepot.com/a/products/729008/Wireless-Gear-Plastic-Virtual-Reality-Headset/?utm_source=google&utm_medium=sag&srsltid=AfmBOoqRvg0_nyoaH6nSDmNAdd5iqTxX1UTrqs7Fsc2DJrJCH2QsIhtm1Ic&region_id=005101",
+            "https://www.walmart.com/ip/Wireless-Gear-Plastic-Virtual-Reality-Headset-White/655141970?wmlspartner=wlpa&selectedSellerId=19037",
+            "https://www.ebay.com/itm/176719296083?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorIYeS665T12Zt2i1tthEn5SH9nXDYkyPxEPI29QGPa9deYpVv1nSI"
+          ],
+          "source": "Office Depot",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+          "price": "$27.91",
+          "extracted_price": 27.91,
+          "old_price": "$42",
+          "extracted_old_price": 42,
+          "rating": 2.8,
+          "reviews": 47,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgYgWIUGwXJwCOvQR8GdAcD9Ex0EBYwJ9z1yusajx2rJr6wckFXnRjHawSdX4Ei-rakY_8u-QRRUvqs3iinF_v9ILZsC0waQ",
+          "tag": "33% OFF",
+          "extensions": [
+            "33% OFF"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mixed reality headsets",
+      "description": "These headsets combine virtual reality with augmented reality, blending the digital and physical worlds. They can overlay digital objects and information onto your real-world surroundings, opening up possibilities for a wide range of applications, from gaming and entertainment to education and productivity.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Zappar Zapbox Mixed Reality Headset for iPhone",
+          "product_link": "https://www.google.com/shopping/product/17415558571509905694?gl=us",
+          "product_id": "17415558571509905694",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17415558571509905694",
+          "source": "GameStop",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQLc1Qw2DGgifAJ-S20cYvOEn-sq8qeQu8gdLwODQFcIcsAEWDqmFUJ5hr0oBbhzRJ4kfyXO26U4ejpi8JPtYABZNxivKdZa116",
+          "price": "$99.99",
+          "extracted_price": 99.99,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSq-P5YLgG9eqMA96pQVB-5qd7KMnroQMvQyl_qmJ2WVhNY1vw7OaB1fMD98lkfUKcLjVKAbsEL3Fm0rccMT6srxtgmwpUfIkSimVcKVitzIEMwxTRwtpHdxQ",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 2,
+          "title": "Meta Quest 3 Headset 512GB with Batman",
+          "product_link": "https://www.google.com/shopping/product/17825270077529677274?gl=us",
+          "product_id": "17825270077529677274",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17825270077529677274",
+          "source": "Target",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+          "price": "$499.99",
+          "extracted_price": 499.99,
+          "rating": 4.5,
+          "reviews": 2700,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcgPBNt7nQB9ojq9Mq5rXY9johYcoRqRdhcJZENAVlS6x6ZQ64wNYkDNoX8neF7mxdJuo28lS44KkXwUatEy1HAFcVEbeLXA",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 3,
+          "title": "Lenovo Explorer Headset G0A20002WW",
+          "product_link": "https://www.google.com/shopping/product/10633713518770771152?gl=us",
+          "product_id": "10633713518770771152",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10633713518770771152",
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$399.99",
+          "extracted_price": 399.99,
+          "old_price": "$450",
+          "extracted_old_price": 450,
+          "rating": 4.2,
+          "reviews": 473,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU_bxPTXU7Ln7oaHtcOZM0YDgCUjvGvOvYK7xbXKpBERFI2ZssKW_pg27F3FCQXmUwGX3e1bAndJAFpdcTjgQwFJxdgkwB5aF3avRZe-XR1e9lG7FwvGPp",
+          "tag": "11% OFF",
+          "extensions": [
+            "11% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 4,
+          "title": "(2 pack) Meta Quest 3S 128gb Dive into Mixed Reality Unreal Experiences All-In-One Headset",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16779572033236407222",
+          "product_id": "16779572033236407222",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16779572033236407222",
+          "source": "Walmart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+          "price": "$598.00",
+          "extracted_price": 598,
+          "rating": 4.8,
+          "reviews": 921,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIUM3rt9E0CAK9WsrqAEX5DKCRUHNazuhhTjp8vU_VnVB5PFMyqP3Io0SXJPlF-z6ffXMxYoNRGYwYSt0V0kNngomOaFzrag",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 5,
+          "title": "Samsung HMD Odyssey Windows Mixed Reality Headset & 2 Controllers Xe800zaa-hc1us",
+          "product_link": "https://www.google.com/shopping/product/11938334459171603734?gl=us",
+          "product_id": "11938334459171603734",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11938334459171603734",
+          "source": "Back Market",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQttBrLD36PDDPlV8mKHkUuL2gL5QsMg4ntt3fcRg27obElEgwXD4KHiy6oKsUQyKHWCLJlMBH9dRegHElG7A1dgzkbTDgpT4n1BIk",
+          "price": "$349.00",
+          "extracted_price": 349,
+          "second_hand_condition": "refurbished",
+          "rating": 4.2,
+          "reviews": 316,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROE8LxAtg2CtjQ4B1uxRpTeYDD1PAuCHjPOaMrCSfiR0gzBcmyAOMSEyfDPz-8LAUZkrx0V1-KWwTExv0ILkVHHHiLNua7RGHJKWI0yapB7I8E5tkZvqrX",
+          "tag": "59% OFF",
+          "extensions": [
+            "59% OFF"
+          ]
+        },
+        {
+          "position": 6,
+          "title": "Meta Quest 3S VR Headset",
+          "product_link": "https://www.google.com/shopping/product/3738707933651052088?gl=us",
+          "product_id": "3738707933651052088",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3738707933651052088",
+          "link": "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+          "links": [
+            "https://www.amazon.com/Meta-Quest-3S-128GB-All-One/dp/B0DDK1WM9K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.walmart.com/ip/Meta-Quest-3S-128GB-Dive-into-Mixed-Reality-Unreal-Experiences-All-In-One-Headset/5871736556?wmlspartner=wlpa&selectedSellerId=101289432",
+            "https://www.target.com/p/meta-quest-3s-128gb-batman-arkham-shadow-and-3-month-trial-of-meta-quest-all-in-one-headset/-/A-92995299?ref=tgt_adv_xsf&AFID=google&CPNG=ELECTRONICS&adgroup=207-16"
+          ],
+          "source": "Amazon.com",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$299.00",
+          "extracted_price": 299,
+          "rating": 4.8,
+          "reviews": 921,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2eafrTBgcaluUrPtQrnWi_SQAEG4ZVvJkw5-PHExidj6ugUK47jaJQp3FUwnOVvhmKIxjP03vIrpC3HSO8Gvbf6HKIR3EKhwE7AcqflfeDProohIUshcr",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 7,
+          "title": "HTC VIVE Pro 2",
+          "product_link": "https://www.google.com/shopping/product/10642358036234507966?gl=us",
+          "product_id": "10642358036234507966",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10642358036234507966",
+          "source": "vive.com/us",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRevtL7sGlpvkTO4Vn2RTqzl9JJvDYadrYkFOmMYFeZLmK2fXVLLXY7lBz-_4pt1uvkBeXUIbRgaGydsBx1NOKuALf5X5I",
+          "price": "$499.99",
+          "extracted_price": 499.99,
+          "rating": 4.1,
+          "reviews": 119,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRfn-uPkilqUhPTUQg8UNPTYKJLuEl6WWfYlQTua_R15wZfzquX1xcOhf2BPPUh3qGvAE5yQ_u9f6cBLnOYLKAIppkSdztAyMqgC3daniIBv2i2r8ExQMYB1qI",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 8,
+          "title": "Meta Quest 2 All-in-One Virtual Reality Headset",
+          "product_link": "https://www.google.com/shopping/product/13134479140382571237?gl=us",
+          "product_id": "13134479140382571237",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13134479140382571237",
+          "link": "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+          "links": [
+            "https://www.walmart.com/ip/Restored-Meta-Quest-2-Oculus-128GB-Advanced-All-In-One-Virtual-reality-Headset-Refurbished/157184523?wmlspartner=wlpa&selectedSellerId=1925",
+            "https://stockx.com/oculus-quest-2-advanced-all-in-one-virtual-reality-headset-128g-899-00182-02?country=US&currencyCode=USD",
+            "https://www.ebay.com/itm/134350144413?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+          ],
+          "source": "Walmart - Nationwide Distributor",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+          "price": "$328.99",
+          "extracted_price": 328.99,
+          "second_hand_condition": "refurbished",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAoBwiCnWrGwwp4S9ic7mzHwziVK-3-XK77rlLVnAhV7PfxVdjLcnile0e0Lwk6_0Facw677_dPKQa0PaCwHT_JmpHbIKCCQ",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 9,
+          "title": "HTC VIVE Focus Vision VR Headset",
+          "product_link": "https://www.google.com/shopping/product/12102659228946980459?gl=us",
+          "product_id": "12102659228946980459",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12102659228946980459",
+          "link": "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+          "links": [
+            "https://www.vive.com/us/product/vive-focus-vision/overview/?wpsrc=GoogleMerchantCenter&srsltid=AfmBOooSGi8lhqkv7RK_J0BNRVEiH54vg-dWJkJLzrbttCAnZ1PcvYYj-YQ",
+            "https://www.amazon.com/HTC-Vive-Focus-Vision-Controllers-Consumer/dp/B0DDRLX7V4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+            "https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/ar-vr/78807442?cid=us:seo:41h72l&srsltid=AfmBOormPdjhWT6fjwc9q2zcBpGFOvbRIK4iNyhzb4Qj_mb7n_AbIj-mN5Y"
+          ],
+          "source": "vive.com/us",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRevtL7sGlpvkTO4Vn2RTqzl9JJvDYadrYkFOmMYFeZLmK2fXVLLXY7lBz-_4pt1uvkBeXUIbRgaGydsBx1NOKuALf5X5I",
+          "price": "$999.00",
+          "extracted_price": 999,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdtRTuDLTTNLOR61UexP8i6RmG1-mxB9cBhTwod9CROEDrWEtgO-7f2HvlpT3dPA1TGwlHGzI5kIpHVsECwJsX_mG63YvDraowrcMg8X9qtnOQYevcFhLF",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 10,
+          "title": "Oculus Quest 2 All-In-One VR Headset",
+          "product_link": "https://www.google.com/shopping/product/18167554522140218462?gl=us",
+          "product_id": "18167554522140218462",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18167554522140218462",
+          "link": "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+          "links": [
+            "https://www.lensrentals.com/buy/root/production/audio-visual/extended-reality/vr-headsets/oculus-quest-2-advanced-all-in-one-vr-headset-256gb?srsltid=AfmBOoo2u5-uNDIoi_V7r8yDeSTJOhHffFL3npY9h_jl6vcud3iN1dwGevQ",
+            "https://www.amazon.com/Oculus-Christmas-Holiday-Entertainments-Advanced/dp/B09L1CZ4TX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1WIUJ9723RLZ5",
+            "https://www.walmart.com/ip/Meta-Quest-2-All-in-One-Wireless-VR-Headset-256GB/519725606?wmlspartner=wlpa&selectedSellerId=9300"
+          ],
+          "source": "Lensrentals",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTF6iCW3SZBa7mZJgZpD6P-tDy1h2h7EUW_XRWCQ_fagxFRpmbTIwuBpp3dWFcEKDK4X4D4oanytrMRoXlbFHWxsgHqF5e0QJWDEAFa",
+          "price": "$119.00",
+          "extracted_price": 119,
+          "second_hand_condition": "pre-owned",
+          "rating": 4.4,
+          "reviews": 21000,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTfRTonUiKm9zK5IoJHXhgolljL0_MBqvStcTBavJAQs_cnZCYPmNAI5zh12zRg2rb68r7drcIETzVjTr_n4ctN4KzGRjiENQ",
+          "tag": "32% OFF",
+          "extensions": [
+            "32% OFF"
+          ]
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=VR+Headsets&start=10"
+  }
+}

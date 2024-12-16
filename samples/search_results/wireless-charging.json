@@ -1,0 +1,2514 @@
+{
+  "search_metadata": {
+    "id": "6757dbe0819c75e7de487159",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cc517487f5a6bfc9/6757dbe0819c75e7de487159.json",
+    "created_at": "2024-12-10 06:12:48 UTC",
+    "processed_at": "2024-12-10 06:12:48 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=Wireless+Charging&num=5&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/cc517487f5a6bfc9/6757dbe0819c75e7de487159.html",
+    "total_time_taken": 13.08
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "Wireless Charging",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "5",
+    "device": "desktop",
+    "direct_link": true
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "Wireless Charging"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Get it by Thu",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+charging&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCoRd2lyZWxlc3MgY2hhcmdpbmcyJggUEg1HZXQgaXQgYnkgVGh1Ig2aAQoKCBACOAFABEgBKgQQARgBYAI"
+        },
+        {
+          "text": "On sale",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+sale&shoprs=CAESBEoCGAEYBioRd2lyZWxlc3MgY2hhcmdpbmcyEwgGEgdPbiBzYWxlGAIiBEoCGAFYhPQgYAI"
+        },
+        {
+          "text": "Used",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=used+Wireless+Charging&shoprs=CAEYCioRd2lyZWxlc3MgY2hhcmdpbmcyCAgKEgRVc2VkWIT0IGAC"
+        },
+        {
+          "text": "Small business",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+charging&shoprs=CAESAmoAGBYqEXdpcmVsZXNzIGNoYXJnaW5nMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAI"
+        }
+      ]
+    },
+    {
+      "type": "Sort by",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Price: low to high",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+charging&shoprs=CAEYFyoRd2lyZWxlc3MgY2hhcmdpbmcyHAgXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFgAogBAQ"
+        },
+        {
+          "text": "Price: high to low",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+charging&shoprs=CAEYFyoRd2lyZWxlc3MgY2hhcmdpbmcyHAgXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFgAogBAg"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Charging Station",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=charging+station+wireless&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIggBEhBDaGFyZ2luZyBTdGF0aW9uOgwIoO-CARCi74IBMANYhPQgYAI"
+        },
+        {
+          "text": "Fast Charging",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=fast+charging+wireless&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyHwgBEg1GYXN0IENoYXJnaW5nOgwI5tqYARDn2pgBMANYhPQgYAI"
+        },
+        {
+          "text": "Wireless Charger",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=wireless+charger+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIAgBEhBXaXJlbGVzcyBDaGFyZ2VyOgoI0OxsENHsbDADWIT0IGAC"
+        },
+        {
+          "text": "Solar",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=solar+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyFQgBEgVTb2xhcjoKCI-SeBCQkngwA1iE9CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Car Charger",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=car+charger+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyGwgBEgtDYXIgQ2hhcmdlcjoKCNPsbBDV7GwwAliE9CBgAg"
+        },
+        {
+          "text": "Power Bank",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=power+bank+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyGggBEgpQb3dlciBCYW5rOgoI0-xsENfsbDACWIT0IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Anker US",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=anker+us+wireless+charging&shoprs=CAEYAioRd2lyZWxlc3MgY2hhcmdpbmcyDAgCEghBbmtlciBVU1iE9CBgAg"
+        },
+        {
+          "text": "Target",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=target+wireless+charging&shoprs=CAEYAioRd2lyZWxlc3MgY2hhcmdpbmcyCggCEgZUYXJnZXRYhPQgYAI"
+        },
+        {
+          "text": "Walmart",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=walmart+wireless+charging&shoprs=CAEYAioRd2lyZWxlc3MgY2hhcmdpbmcyCwgCEgdXYWxtYXJ0WIT0IGAC"
+        },
+        {
+          "text": "Vistaprint",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=vistaprint+wireless+charging&shoprs=CAEYAioRd2lyZWxlc3MgY2hhcmdpbmcyDggCEgpWaXN0YXByaW50WIT0IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Maximum Output",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 5 volts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+5+volts+wireless+charging&shoprs=CAESEioQCLfjmAESCREAAAAAAAAUQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI0CAESDVVuZGVyIDUgdm9sdHMiEioQCLfjmAESCREAAAAAAAAUQCoCGAE6CQi345gBEAAwBliE9CBgAg"
+        },
+        {
+          "text": "5 – 9 volts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=5+volts+to+9+volts+wireless+charging&shoprs=CAESGyoZCLfjmAESEgkAAAAAAAAUQBEAAAAAAAAiQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzJRCAESDTUg4oCTIDkgdm9sdHMiGyoZCLfjmAESEgkAAAAAAAAUQBEAAAAAAAAiQCoWChI1IHZvbHRzIHRvIDkgdm9sdHMYAToJCLfjmAEQADAGWIT0IGAC"
+        },
+        {
+          "text": "9 – 12 volts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=9+volts+to+12+volts+wireless+charging&shoprs=CAESGyoZCLfjmAESEgkAAAAAAAAiQBEAAAAAAAAoQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzJTCAESDjkg4oCTIDEyIHZvbHRzIhsqGQi345gBEhIJAAAAAAAAIkARAAAAAAAAKEAqFwoTOSB2b2x0cyB0byAxMiB2b2x0cxgBOgkIt-OYARAAMAZYhPQgYAI"
+        },
+        {
+          "text": "Over 12 volts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+12+volts+wireless+charging&shoprs=CAESEioQCLfjmAESCQkAAAAAAAAoQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI0CAESDU92ZXIgMTIgdm9sdHMiEioQCLfjmAESCQkAAAAAAAAoQCoCGAE6CQi345gBEAAwBliE9CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Watts",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "5 watts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=5+watts+wireless+charging&shoprs=CAESGyoZCImergESEgkAAAAAAAAUQBEAAAAAAAAUQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI3CAESBzUgd2F0dHMiGyoZCImergESEgkAAAAAAAAUQBEAAAAAAAAUQCoCGAE6CQiJnq4BEAAwBliE9CBgAg"
+        },
+        {
+          "text": "15 watts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=15+watts+wireless+charging&shoprs=CAESGyoZCImergESEgkAAAAAAAAuQBEAAAAAAAAuQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI4CAESCDE1IHdhdHRzIhsqGQiJnq4BEhIJAAAAAAAALkARAAAAAAAALkAqAhgBOgkIiZ6uARAAMAZYhPQgYAI"
+        },
+        {
+          "text": "30 watts",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=30+watts+wireless+charging&shoprs=CAESGyoZCImergESEgkAAAAAAAA-QBEAAAAAAAA-QBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI4CAESCDMwIHdhdHRzIhsqGQiJnq4BEhIJAAAAAAAAPkARAAAAAAAAPkAqAhgBOgkIiZ6uARAAMAZYhPQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $15",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+under+%2415&shoprs=CAESDRILEQAAAAA4nGxBGAEYBSoRd2lyZWxlc3MgY2hhcmdpbmcyIggFEglVbmRlciAkMTUYAiINEgsRAAAAADicbEEYASoCGAFYhPQgYAI"
+        },
+        {
+          "text": "$15 - $30",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+between+%2415+and+%2430&shoprs=CAESFhIUCQAAAAA4nGxBEQAAAAA4nHxBGAEYBSoRd2lyZWxlc3MgY2hhcmdpbmcyKwgFEgkkMTUgLSAkMzAYAiIWEhQJAAAAADicbEERAAAAADicfEEYASoCGAFYhPQgYAI"
+        },
+        {
+          "text": "$30 - $60",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+between+%2430+and+%2460&shoprs=CAESFhIUCQAAAAA4nHxBEQAAAAA4nIxBGAEYBSoRd2lyZWxlc3MgY2hhcmdpbmcyKwgFEgkkMzAgLSAkNjAYAiIWEhQJAAAAADicfEERAAAAADicjEEYASoCGAFYhPQgYAI"
+        },
+        {
+          "text": "Over $60",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+over+%2460&shoprs=CAESDRILCQAAAAA4nIxBGAEYBSoRd2lyZWxlc3MgY2hhcmdpbmcyIQgFEghPdmVyICQ2MBgCIg0SCwkAAAAAOJyMQRgBKgIYAViE9CBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Samsung",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=samsung+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyFwgBEgdTYW1zdW5nOgoIg_M8EO7mPTABWIT0IGAC"
+        },
+        {
+          "text": "Pottery Barn",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=pottery+barn+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyHAgBEgxQb3R0ZXJ5IEJhcm46CgiD8zwQ4OU-MAFYhPQgYAI"
+        },
+        {
+          "text": "Anker",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=anker+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyFQgBEgVBbmtlcjoKCIPzPBCZ8D4wAViE9CBgAg"
+        },
+        {
+          "text": "Energizer",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=energizer+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyGQgBEglFbmVyZ2l6ZXI6CgiD8zwQ4-E9MAFYhPQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Cable Length",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Under 36 in long cable",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=under+36+in+long+cable+wireless+charging&shoprs=CAESEioQCNau2gMSCREAAAAAKdxWQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI9CAESFlVuZGVyIDM2IGluIGxvbmcgY2FibGUiEioQCNau2gMSCREAAAAAKdxWQCoCGAE6CQjWrtoDEAAwBliE9CBgAg"
+        },
+        {
+          "text": "36 – 48 in long cable",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=36+in+long+cable+to+48+in+long+cable+wireless+charging&shoprs=CAESGyoZCNau2gMSEgkAAAAAKdxWQBEAAABA4XpeQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzJtCAESFzM2IOKAkyA0OCBpbiBsb25nIGNhYmxlIhsqGQjWrtoDEhIJAAAAACncVkARAAAAQOF6XkAqKAokMzYgaW4gbG9uZyBjYWJsZSB0byA0OCBpbiBsb25nIGNhYmxlGAE6CQjWrtoDEAAwBliE9CBgAg"
+        },
+        {
+          "text": "48 – 60 in long cable",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=48+in+long+cable+to+60+in+long+cable+wireless+charging&shoprs=CAESGyoZCNau2gMSEgkAAABA4XpeQBEAAADAzAxjQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzJtCAESFzQ4IOKAkyA2MCBpbiBsb25nIGNhYmxlIhsqGQjWrtoDEhIJAAAAQOF6XkARAAAAwMwMY0AqKAokNDggaW4gbG9uZyBjYWJsZSB0byA2MCBpbiBsb25nIGNhYmxlGAE6CQjWrtoDEAAwBliE9CBgAg"
+        },
+        {
+          "text": "Over 60 in long cable",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=over+60+in+long+cable+wireless+charging&shoprs=CAESEioQCNau2gMSCQkAAADAzAxjQBgBKhF3aXJlbGVzcyBjaGFyZ2luZzI8CAESFU92ZXIgNjAgaW4gbG9uZyBjYWJsZSISKhAI1q7aAxIJCQAAAMDMDGNAKgIYAToJCNau2gMQADAGWIT0IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "input_type": "color",
+      "options": [
+        {
+          "text": "Silver",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=silver+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyGAgBEgZTaWx2ZXI6DAjnna4BEO2drgEwAFiE9CBgAg"
+        },
+        {
+          "text": "Blue",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=blue+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyFwgBEgRCbHVlOg0I552uARC4o5DfAzAAWIT0IGAC"
+        },
+        {
+          "text": "Charcoal",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=charcoal+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyGwgBEghDaGFyY29hbDoNCOedrgEQ8o2Q3wMwAFiE9CBgAg"
+        },
+        {
+          "text": "Gray",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=gray+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyFwgBEgRHcmF5Og0I552uARDdqpDfAzAAWIT0IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Sport Team",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Texas Longhorns",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=texas+longhorns+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIQgBEg9UZXhhcyBMb25naG9ybnM6DAjyna4BEPudrgEwAFiE9CBgAg"
+        },
+        {
+          "text": "Clemson Tigers",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=clemson+tigers+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIAgBEg5DbGVtc29uIFRpZ2VyczoMCPKdrgEQg56uATAAWIT0IGAC"
+        },
+        {
+          "text": "Georgia Bulldogs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=georgia+bulldogs+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIggBEhBHZW9yZ2lhIEJ1bGxkb2dzOgwI8p2uARD8na4BMABYhPQgYAI"
+        },
+        {
+          "text": "Baltimore Ravens",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=baltimore+ravens+wireless+charging&shoprs=CAEYASoRd2lyZWxlc3MgY2hhcmdpbmcyIggBEhBCYWx0aW1vcmUgUmF2ZW5zOgwI8p2uARD_na4BMABYhPQgYAI"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Free shipping",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging+free+shipping&shoprs=CAESBFICEAEYGSoRd2lyZWxlc3MgY2hhcmdpbmcyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAI"
+        }
+      ]
+    }
+  ],
+  "inline_shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Belkin BoostCharge Pro Convertible Magnetic Wireless Charging Stand with Qi2 15W | Black",
+      "price": "£29.99",
+      "extracted_price": 29.99,
+      "old_price": "£40",
+      "extracted_old_price": 40,
+      "link": "https://www.belkin.com/uk/p/convertible-magnetic-wireless-charging-stand-with-qi2-15w/WIA008btBK.html",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABABGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYASABEgK72vD_BwE&sig=AOD64_3g__95jh1UMUn6awTGh0VgZVohow&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQDQ&adurl=",
+      "source": "belkin uk",
+      "rating": 4.6,
+      "reviews": 202,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScbl-eSjqZM9hFin95Y-7iCE4m57-EwRD06tDdkvMfoIpdcxU_vfD0umAGBefRuct7kX8Y2GWrCQvNVepr2EsKd4yr-7MeP-goBXluO4kaXaCdRL3-oH7s3p_Y2imoMfsyq61QE9g&usqp=CAc",
+      "extensions": [
+        "90-day return policy",
+        "Sale"
+      ],
+      "tag": "Sale"
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Flask 2-in-1 Wireless Charger with Magnetic",
+      "price": "£124.72 + tax",
+      "extracted_price": 124.72,
+      "link": "https://getri.io/products/0001?variant=45161970729174&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABADGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYAiABEgIqOPD_BwE&sig=AOD64_3PrlPhVbvavE11KdUVZR0-Bmpsmw&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQGw&adurl=",
+      "source": "getri",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnebinGBeqonQlfGXLQsLZAvrtvGUYXr2u_W1sSAYgo5gEQ9O3Oul2RW4oboOCC2GjrsuiIUnCjI8hjlB8ItvvDw-VsRGxDgupJcx7vDbX06b-Lb72BivM3_Hqu8QgLq-3WHHGvcA&usqp=CAc"
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "3-in-1 Wireless Charging Station - Apple Certified, Black",
+      "price": "£67.49",
+      "extracted_price": 67.49,
+      "link": "https://alogic.co.uk/products/3-in-1-wireless-charging-station-apple-certified?currency=GBP&variant=44153823232309&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=83e96b6a88e0",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABAFGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYAyABEgKbFPD_BwE&sig=AOD64_0DyrTpE7-A6dFkugY7QRj1Ej6lqw&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQJA&adurl=",
+      "source": "alogic uk",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZbn6N5wXmfzQc6iXmQJzHYrPg77nZw5yY6_L8fECb695VYFn8rBGwUUWs--vcm9mUkvxC7seDBO8lRPCOBS7N7G64TIQvbX9HrEcqDtwbpuhEHXGkwHpuw5kWWbyZPDytsR4WXac&usqp=CAc",
+      "extensions": [
+        "14-day returns (most)"
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "Wireless Wood Qi Charger",
+      "price": "£22.75 + tax",
+      "extracted_price": 22.75,
+      "link": "https://www.wine-n-gear.com/product/wholesale-charger-wood-qi-wireless",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABAHGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYBCABEgI5dfD_BwE&sig=AOD64_08RS-i-BAm9GBu4ii-4rAMXPi3fg&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQKw&adurl=",
+      "source": "wine-n-gear",
+      "shipping": "Free shipping",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRR7PM8QSHx28PeEOasn315t3bCgS1OKYK_Hj8RBChABBf4dQsWYMNPTd5Dpj3XQt9w8KGMpL9KagpR2mO76IY6_aYm9rbLX2HLYji-ZcwuOHq0O0EOUFzXS8ihZya8C7WDhmc7fTo&usqp=CAc",
+      "extensions": [
+        "30-day returns (most)"
+      ]
+    },
+    {
+      "position": 5,
+      "block_position": "top",
+      "title": "MANKIW 3 in 1 Wireless Charger for MagSafe, Magnetic Fast Charging Station Stand for iPhone 15/14/13/12 Series, AirPods Pro/3/2 & iWatch",
+      "price": "£16.99",
+      "extracted_price": 16.99,
+      "link": "https://www.amazon.co.uk/MANKIW-Wireless-Charger-Magnetic-Charging-Black/dp/B0DBZKZ7LB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2KFM28GTH7EKA",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABAJGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYBSABEgI2SfD_BwE&sig=AOD64_2zBQFEBPDdCJ-fSoaOu3_MniWE4g&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQNQ&adurl=",
+      "source": "amazon.co.uk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAkwuHFGSe0ZWFVnYxq3CNroh1DCBYvvS19z6TukaN0_GaYfJqcKSf1GSKHck_MLiQrS3DueEMdCdSlBNSv2b3TSXeALtFtTDVSUAx4jPVYCdgvC-P_5XDuqSchFFgLS7q62B7zg&usqp=CAc"
+    },
+    {
+      "position": 6,
+      "block_position": "top",
+      "title": "Ansmann WiLine Wireless Charger, 5W, 1001-0125-520",
+      "price": "£16.22",
+      "extracted_price": 16.22,
+      "link": "https://uk.rs-online.com/web/p/wireless-chargers/2498438",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABALGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYBiABEgIdIvD_BwE&sig=AOD64_2kzA9x4rhXGE8EqYyFjubioFg-Xg&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQPA&adurl=",
+      "source": "rs uk",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgztkckKFCpgmEC8oTKzdnGWhkVnlbRrYeMjLxt45FQ-4KmV3lyuBDn5k8tsA0zRsLBa78SDxLW_dxhhLTBpjMQasYqd10RCeuZJOjnzI4WykRXCLp6Cl4OB3CCJRxnKjTyW6Tmoiprw&usqp=CAc",
+      "extensions": [
+        "30-day returns (most)"
+      ]
+    },
+    {
+      "position": 7,
+      "block_position": "top",
+      "title": "Matrix+ 3-in-1 Magnetic Charging Dock with 5000mAH Wireless Power Bank & 30W Multi Country Power Adapter, Black",
+      "price": "£59.99",
+      "extracted_price": 59.99,
+      "old_price": "£100",
+      "extracted_old_price": 100,
+      "link": "https://alogic.co.uk/products/matrix-3-in-1-universal-magnetic-charging-dock-with-power-bank?currency=GBP&variant=47335550026037&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=83e96b6a88e0",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABANGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYByABEgJBlvD_BwE&sig=AOD64_1RH9K3PBqCbczqBHbJirEgsOuEoQ&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQRA&adurl=",
+      "source": "alogic uk",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4Q0bjPoKyGrtJ1JIA1t2gsC3ZYs7fDAqa0YxmaSDC_23-WHIgsAeXxliPoEAeW4oE9pk7JTVMCav3n9D1cYNmRXR7HflSgOEPpkGhPAJQPAK4-Kt8tnSkDpPPKOaybfTWY9BcGg&usqp=CAc",
+      "extensions": [
+        "14-day returns (most)"
+      ]
+    },
+    {
+      "position": 8,
+      "block_position": "top",
+      "title": "Matrix+ 3-in-1 Magnetic Charging Dock with 5000mAH Wireless Power Bank & 30W Multi Country Power Adapter, White",
+      "price": "£59.99",
+      "extracted_price": 59.99,
+      "old_price": "£100",
+      "extracted_old_price": 100,
+      "link": "https://alogic.co.uk/products/matrix-3-in-1-universal-magnetic-charging-dock-with-power-bank?currency=GBP&variant=47335550058805&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=83e96b6a88e0",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABAPGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYCCABEgICE_D_BwE&sig=AOD64_3A18njCmKsAxkJHgAjxJwv9OUPPg&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQTw&adurl=",
+      "source": "alogic uk",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRl2VmkAnINHy2jmgvIQN4T9r8VO1bti3oW42bin6A4SkRSitphAUs6LjHNQzGLcInzsSO98ZW7x61HGqOS7zaGo-mPPVjPDhQ3QWI7b--ZbuOfpLfEcy1oaDD_qEaumywly4l6dUc&usqp=CAc",
+      "extensions": [
+        "14-day returns (most)"
+      ]
+    },
+    {
+      "position": 9,
+      "block_position": "top",
+      "title": "Matrix Ultimate 3-in-1 Wireless Charger with 5,000mAh MagSafe Power Bank - Global Edition",
+      "price": "£119.99",
+      "extracted_price": 119.99,
+      "link": "https://alogic.co.uk/products/matrix-ultimate-3-in-1-wireless-charger-with-5-000mah-magsafe-power-bank-global-edition?currency=GBP&variant=48132372529461&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=83e96b6a88e0",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABARGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYCSABEgJnCPD_BwE&sig=AOD64_1lo_hoZXcWeuzyXQqknndwO6AOvw&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQWQ&adurl=",
+      "source": "alogic uk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5BK6bwexpJyFTCymU9CKd5JY-PCx529SFSgJtszVCSpePerEXvtMeNJQCcedELzllipDRjpf9wzrKzG3yVxgFX7_ZI99LBldqTgV8r0vqwya2cS4mWA_QBeU3454yMVl75YUuDg&usqp=CAc",
+      "extensions": [
+        "14-day returns (most)"
+      ]
+    },
+    {
+      "position": 10,
+      "block_position": "top",
+      "title": "Matrix Ultimate 3-in-1 Wireless Charger with 5,000mAh MagSafe Power Bank",
+      "price": "£127.99",
+      "extracted_price": 127.99,
+      "link": "https://alogic.co.uk/products/matrix-ultimate-3-in-1-wireless-charger-with-5-000mah-magsafe-power-bank?currency=GBP&variant=47787014914357&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=83e96b6a88e0",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjC1df7xZyKAxUgTv8BHZnIDUEYABATGgJtZA&co=1&gclid=EAIaIQobChMIwtXX-8WcigMVIE7_AR2ZyA1BEAQYCiABEgIHofD_BwE&sig=AOD64_2Vb636Oi_3s2poLb-XLAVixOXrrA&ctype=5&q=&ved=2ahUKEwjh09L7xZyKAxVYpIkEHeXjH5YQww8oAnoECAUQYA&adurl=",
+      "source": "alogic uk",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9qsU_iKzNPJs-YnX6HvWCz7Q06U7O72TeDPweSHgf-48pBfYEJ3EkJh1RTfbY1CIiAeZFy4xT6RwVeY3l3KOvoxlorlqEHN8Jbp7tNmkiBxRWcB0kDCIYS7xMpGYso3eqxdAniz0HNl4&usqp=CAc",
+      "extensions": [
+        "14-day returns (most)"
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Anker 313 Wireless Charger Slim Pad 10W Qi-Certified Charging for iPhone 12",
+      "product_link": "https://www.google.com/shopping/product/16061198501445269188?gl=us",
+      "product_id": "16061198501445269188",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16061198501445269188",
+      "link": "https://www.walmart.com/ip/Anker-313-Wireless-Charger-Slim-Pad-10W-Qi-Certified-Charging-for-iPhone-12/351784095?wmlspartner=wlpa&selectedSellerId=508",
+      "links": [
+        "https://www.walmart.com/ip/Anker-313-Wireless-Charger-Slim-Pad-10W-Qi-Certified-Charging-for-iPhone-12/351784095?wmlspartner=wlpa&selectedSellerId=508",
+        "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.anker.com/products/a2503?variant=39295736283286"
+      ],
+      "source": "Walmart - AnkerDirect",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fc81bd81c1ee56289b2a975961c939cb.png",
+      "price": "$18.99",
+      "extracted_price": 18.99,
+      "rating": 4.7,
+      "reviews": 2000,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSLIiHVoo0cBMRwpfrVaPwVraFr8UeNtVwEyvDj5PR0-b4OKlegq0CVbsrF1oIq2cOJOEwrJWnlQE3zCfJw1mP7t0rTd8MY5w"
+    },
+    {
+      "position": 2,
+      "title": "iOttie Easy One Touch Wireless 2 Mount",
+      "product_link": "https://www.google.com/shopping/product/13668012699017228219?gl=us",
+      "product_id": "13668012699017228219",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13668012699017228219",
+      "link": "https://www.amazon.com/iOttie-Wireless-Charging-Dashboard-Smartphones/dp/B07X4YDKTF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/iOttie-Wireless-Charging-Dashboard-Smartphones/dp/B07X4YDKTF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/iottie-easy-one-touch-2-wireless-fast-charge-universal-dash-windshield-mount-for-mobile-phones-black/6399216.p?skuId=6399216&utm_source=feed",
+        "https://www.iottie.com/product/easy-one-touch-wireless-2-dashboard-windshield/?srsltid=AfmBOor6iNOHRrI8Iq-f4ijOsPOkOTAHUC8lWF6I5MP4xJPqTwEBvHlL6Zk"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab23cfc37b4ed56c0cd270b9ff622be3087.png",
+      "price": "$49.95",
+      "extracted_price": 49.95,
+      "rating": 4.3,
+      "reviews": 1500,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7omK0o9yJo3jjqLIhGJNRruVCwix7I3OTdNIX5JX9cQ2c06RvyNQGRWWj7FfjkWpZq8iXDl4g5Pre59gtA3IP3Kxv5FWt4sYjWqGBqB0",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 3,
+      "title": "Anker MagGo Charging Station",
+      "product_link": "https://www.google.com/shopping/product/12078060602950556434?gl=us",
+      "product_id": "12078060602950556434",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12078060602950556434",
+      "link": "https://www.bestbuy.com/site/anker-wireless-charging-station-qi-2-0-15w-3-in-1-black/6576356.p?skuId=6576356&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/anker-wireless-charging-station-qi-2-0-15w-3-in-1-black/6576356.p?skuId=6576356&utm_source=feed",
+        "https://www.verizon.com/products/anker-qi-2-0-15w-wireless-charging-station-3-in-1-pad-with-40w-charger/?sku=sku6010289",
+        "https://www.target.com/p/anker-maggo-15w-qi2-3-in-1-wireless-black-charging-station-with-charger-bundle/-/A-91309797?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2741763835bafca717691d3f31237f573.png",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.1,
+      "reviews": 13,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuAWuBhb_lWocXbKuzFRQD7UKmhqQbsj3SUO0x_41Am3v87ycrExNZMUncEI3ccWveJPmSQ9qU1mrwj2h8ABOXhE84DHRt5tL8URFr4sDS",
+      "tag": "30% OFF",
+      "extensions": [
+        "30% OFF"
+      ],
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 4,
+      "title": "Anker 313 Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/11859917371136447922?gl=us",
+      "product_id": "11859917371136447922",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11859917371136447922",
+      "link": "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+      "links": [
+        "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.anker.com/products/a2503?variant=39295736283286",
+        "https://www.walmart.com/ip/Anker-Wireless-Charger-313-Charger-Pad-Qi-Certified-10W-Max-iPhone-12-12-Pro-12-mini-12-Pro-Max-SE-2020-11-AirPods-No-AC-Adapter-Not-Compatible-MagSa/993997336?wmlspartner=wlpa&selectedSellerId=508"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab28826e30e511a397a2c1d84f57446b3ed.png",
+      "price": "$16.29",
+      "extracted_price": 16.29,
+      "rating": 4.7,
+      "reviews": 2000,
+      "snippet": "Easy to use (140 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab29267549bed8c0dcfc21cca57fac1e25c.webp"
+    },
+    {
+      "position": 5,
+      "title": "Best Buy Essentials 3-in-1 Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/11567577133841629385?gl=us",
+      "product_id": "11567577133841629385",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11567577133841629385",
+      "link": "https://www.bestbuy.com/site/best-buy-essentials-3-in-1-7-5w-magnetic-wireless-charger-with-apple-watch-charger-holder-for-iphone-apple-watch-airpods-white/6512180.p?skuId=6512180&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/best-buy-essentials-3-in-1-7-5w-magnetic-wireless-charger-with-apple-watch-charger-holder-for-iphone-apple-watch-airpods-white/6512180.p?skuId=6512180&utm_source=feed",
+        "https://www.ebay.com/itm/204601397190?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOops0jNvnFn-aDiGY6peP5ud8n562LneZpMb4caHMfIoJfwGgnW8sTI",
+        "https://www.ebay.com/itm/156526246265?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopIAMrV2iHOjW8W4EN76ecW8kK13fs_9HsGyPdcnYB8PG5fV7ZtAAk"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fd7dae0895a6d44bdeae5191cb8ee8ae.png",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "rating": 4.3,
+      "reviews": 1000,
+      "snippet": "Charges quickly (35 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2bddc25d13b48048a7f467eac4d4201bc.webp",
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 6,
+      "title": "Anker Wireless Charger PowerWave Stand Qi-Certified for iPhone 15/14/13/12 Series SE",
+      "product_link": "https://www.google.com/shopping/product/1272358072725747080?gl=us",
+      "product_id": "1272358072725747080",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1272358072725747080",
+      "link": "https://www.anker.com/products/a2524?variant=37438027137174",
+      "links": [
+        "https://www.anker.com/products/a2524?variant=37438027137174",
+        "https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.ebay.com/itm/266163757583?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorockcv1EfgiLOFMCT3eU8iUqLkTYHaEaSQSeMMnKoBHUfcP2LfgAQ"
+      ],
+      "source": "Anker US",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fbe41474467eb94f61e79eec6876bd49.png",
+      "price": "$23.99",
+      "extracted_price": 23.99,
+      "rating": 4.9,
+      "reviews": 9500,
+      "snippet": "Easy to use (870 user reviews)",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2d48026b45e2a2a73037fa0d7046e5b0e.webp",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 7,
+      "title": "Apple MagSafe Charger",
+      "product_link": "https://www.google.com/shopping/product/98248911342593733?gl=us",
+      "product_id": "98248911342593733",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=98248911342593733",
+      "link": "https://www.walmart.com/ip/Apple-MagSafe-Charger-Wireless-Charger-with-Fast-Charging-Capability-Type-C-Wall-Charger-Compatible-with-iPhone-and-AirPods/5426829749?wmlspartner=wlpa&selectedSellerId=101019548",
+      "links": [
+        "https://www.walmart.com/ip/Apple-MagSafe-Charger-Wireless-Charger-with-Fast-Charging-Capability-Type-C-Wall-Charger-Compatible-with-iPhone-and-AirPods/5426829749?wmlspartner=wlpa&selectedSellerId=101019548",
+        "https://www.amazon.com/Apple-MagSafe-Charger-Capability-Compatible/dp/B0DGJ4QQ5W?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.bestbuy.com/site/apple-magsafe-iphone-charger-white/6341029.p?skuId=6341029&utm_source=feed"
+      ],
+      "source": "Walmart - IT Nuggets Online, LLC",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2040ebab34a39bf30b7b96770fefc0c5b.png",
+      "price": "$20.02",
+      "extracted_price": 20.02,
+      "rating": 4.4,
+      "reviews": 13000,
+      "snippet": "Charges quickly (940 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab246e001bac779ca84de466d073bb320f9.webp"
+    },
+    {
+      "position": 8,
+      "title": "Custom Wireless Charging Pad | No Minimum Quantity | Event Planning & Entertainment, Crafts, Beauty & Spa, Styles & Themes, Art & Entertainment Templa",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6906324896579128253",
+      "product_id": "6906324896579128253",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6906324896579128253",
+      "link": "https://www.vistaprint.com/promotional-products/technology/wireless-chargers/wireless-charging-pad?qty=1&Substrate%20Color=%23f5f5f6&attributes=Substrate%20Color_%23f5f5f6&quickView=08db61a9-141e-4b9e-8865-6e0f64bf2f09&source=PLA&srsltid=AfmBOoolpGTlkaEUMhjDgx39gmCTXTeD2oQo7KQ2fPeSe74lJcCeuTQSV9k",
+      "links": [
+        "https://www.vistaprint.com/promotional-products/technology/wireless-chargers/wireless-charging-pad?qty=1&Substrate%20Color=%23f5f5f6&attributes=Substrate%20Color_%23f5f5f6&quickView=08db61a9-141e-4b9e-8865-6e0f64bf2f09&source=PLA&srsltid=AfmBOoolpGTlkaEUMhjDgx39gmCTXTeD2oQo7KQ2fPeSe74lJcCeuTQSV9k"
+      ],
+      "source": "Vistaprint",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab28907f625cf2507d6834f6c1cd0b623f9.png",
+      "price": "$13.45",
+      "extracted_price": 13.45,
+      "old_price": "$15",
+      "extracted_old_price": 15,
+      "rating": 3.7,
+      "reviews": 127,
+      "snippet": "Pad · White",
+      "extensions": [
+        "30-day returns",
+        "10% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab222d3993ec591495e6a4fa12655288108.webp",
+      "tag": "10% OFF"
+    },
+    {
+      "position": 9,
+      "title": "Anker 313 Wireless Charger Stand Qi Certified for iPhone",
+      "product_link": "https://www.google.com/shopping/product/18402097221385345965?gl=us",
+      "product_id": "18402097221385345965",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18402097221385345965",
+      "link": "https://www.amazon.com/Anker-Wireless-Charger-PowerWave-Qi-Certified/dp/B07WFB6QMV?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+      "links": [
+        "https://www.amazon.com/Anker-Wireless-Charger-PowerWave-Qi-Certified/dp/B07WFB6QMV?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.mercari.com/us/item/m29685388067/?srsltid=AfmBOorhWn4cCki5dEtM3eFx379z_yDnlQnjYxn24zjvjuNHJq0OGP8WTgM",
+        "https://www.bonanza.com/listings/Anker-Wireless-Charger-2-Pack-PowerWave-Stand-Qi-Certified-7-5W-for-iPhone-11/874134748?goog_pla=1"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2a52421718f9c7d215bb2bb7cc0ead364.png",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "old_price": "$40",
+      "extracted_old_price": 40,
+      "rating": 4.9,
+      "reviews": 9500,
+      "snippet": "Easy to use (870 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab20d28ae58ecf5c4f7c8c8f94f0b385a9b.webp",
+      "tag": "25% OFF",
+      "extensions": [
+        "25% OFF"
+      ]
+    },
+    {
+      "position": 10,
+      "title": "Wireless Charging Pad",
+      "product_link": "https://www.google.com/shopping/product/13668010008876181508?gl=us",
+      "product_id": "13668010008876181508",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13668010008876181508",
+      "link": "https://www.homedepot.com/p/mophie-Wireless-Charging-Pad-15-Watt-in-Black-401305902/320962985?source=shoppingads&locale=en-US&srsltid=AfmBOoqjPU7aSW1gIDNX8xV8jYKbeuU6CtesFbYsfx9YX-TGQerYAAozP54",
+      "links": [
+        "https://www.homedepot.com/p/mophie-Wireless-Charging-Pad-15-Watt-in-Black-401305902/320962985?source=shoppingads&locale=en-US&srsltid=AfmBOoqjPU7aSW1gIDNX8xV8jYKbeuU6CtesFbYsfx9YX-TGQerYAAozP54"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2903ead31068d198046b743fa5e6f9543.png",
+      "price": "$24.98",
+      "extracted_price": 24.98,
+      "rating": 3.1,
+      "reviews": 535,
+      "snippet": "Runs hot (82 user reviews)",
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2573d93d244be9836ce68e7130ff3ed79.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 11,
+      "title": "Anker MagGo 2-in-1 Wireless Charging Station",
+      "product_link": "https://www.google.com/shopping/product/17270665835693021689?gl=us",
+      "product_id": "17270665835693021689",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17270665835693021689",
+      "link": "https://www.anker.com/products/a25x1-maggo-qi2-wireless-charging-stand-magsafe-compatible?variant=44058196639894",
+      "links": [
+        "https://www.anker.com/products/a25x1-maggo-qi2-wireless-charging-stand-magsafe-compatible?variant=44058196639894",
+        "https://www.amazon.com/Anker-MagSafe-Compatible-Wireless-Magnetic-Certified/dp/B0D8PPMHX2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.walmart.com/ip/Upgraded-Anker-MagSafe-Compatible-Charger-Stand-MagGo-2-in-1-Charging-Station-Qi2-Certified-15W-Wireless-Charger-Stand/9231562076?wmlspartner=wlpa&selectedSellerId=508"
+      ],
+      "source": "Anker US",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26311ac831a5f4d40f7d33442527874e5.png",
+      "price": "$28.79",
+      "extracted_price": 28.79,
+      "old_price": "$36",
+      "extracted_old_price": 36,
+      "rating": 4.4,
+      "reviews": 7,
+      "snippet": "Stand · Fast Charging · Charging Station",
+      "extensions": [
+        "Free 30-day returns",
+        "20% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2523536a8960d747b1c06377ddc7e60c3.webp",
+      "tag": "20% OFF",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 12,
+      "title": "Doug Mockett Invisible Under-Desk Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/10335144073981357840?gl=us",
+      "product_id": "10335144073981357840",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10335144073981357840",
+      "link": "https://www.mockett.com/wcs4-95.html?srsltid=AfmBOooDuMYl6EsrrISDDfuYPtA8h7eo0CFO8p_egWZKL0wkyYX_2r1DGXc",
+      "links": [
+        "https://www.mockett.com/wcs4-95.html?srsltid=AfmBOooDuMYl6EsrrISDDfuYPtA8h7eo0CFO8p_egWZKL0wkyYX_2r1DGXc"
+      ],
+      "source": "Doug Mockett & Company",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26098ea6b0450b61cdd9ed23305173448.png",
+      "price": "$83.20",
+      "extracted_price": 83.2,
+      "snippet": "Mount · Charging Station · White",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab252713c467eb9148a5a0e9237eab72234.webp"
+    },
+    {
+      "position": 13,
+      "title": "Samsung Duo Fast Wireless Charger Pad",
+      "product_link": "https://www.google.com/shopping/product/7913389988088097418?gl=us",
+      "product_id": "7913389988088097418",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7913389988088097418",
+      "link": "https://www.samsung.com/us/mobile/mobile-accessories/phones/15w-wireless-charger-duo-with-ta-dark-gray-ep-p5400tbegus/",
+      "links": [
+        "https://www.samsung.com/us/mobile/mobile-accessories/phones/15w-wireless-charger-duo-with-ta-dark-gray-ep-p5400tbegus/",
+        "https://www.amazon.com/SAMSUNG-Wireless-Cordless-Charging-Microfiber/dp/B0BNW9CVJ8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AEYJD57BBX5VO",
+        "https://www.walmart.com/ip/Samsung-15W-Wireless-Charger-Duo-w-USB-C-Cable-Charge-2-Devices-at-Once-Cordless-Super-Fast-Charging-Pad-for-Galaxy-Phones-and-Devices-Black/5258440459?wmlspartner=wlpa&selectedSellerId=0"
+      ],
+      "source": "Samsung",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab27a3dae6cb82bfda9df90db941a25f9e7.png",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "rating": 3.1,
+      "reviews": 264,
+      "snippet": "Pad · Fast Charging · White, Red, Black, Dark ...",
+      "extensions": [
+        "Free 15-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab20ad3e410a12dc18ea12c2301adc8d199.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 14,
+      "title": "3-in-1 Wireless Charging Station",
+      "product_link": "https://www.google.com/shopping/product/4758068572183710126?gl=us",
+      "product_id": "4758068572183710126",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4758068572183710126",
+      "link": "https://www.amazon.com/Charging-Station-iPhone-Wireless-Charger/dp/B0BFCC18FS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A202Z5MHUWLL5U",
+      "links": [
+        "https://www.amazon.com/Charging-Station-iPhone-Wireless-Charger/dp/B0BFCC18FS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A202Z5MHUWLL5U",
+        "https://www.ebay.com/itm/375778668967?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopPHvvU7aCPHfSuDoCRcUTz-b24ASuBLHn94IdHdc8iNZyYLV4ntgY",
+        "https://www.bonanza.com/listings/3-In-1-Wireless-Charging-Station-For-iPhone-Apple-Watch-AirPods/1581743800?goog_pla=1"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab243fe74b05c1228d8ab3a6e7d03d534cf.png",
+      "price": "$25.99",
+      "extracted_price": 25.99,
+      "old_price": "$30",
+      "extracted_old_price": 30,
+      "rating": 5,
+      "reviews": 1,
+      "snippet": "Stand · Fast Charging · Charging Station",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab21bb3d0b63791da781bbef1fa5e00985a.webp",
+      "tag": "13% OFF",
+      "extensions": [
+        "13% OFF"
+      ]
+    },
+    {
+      "position": 15,
+      "title": "mophie 4-in-1 Wireless Charging Mat",
+      "product_link": "https://www.google.com/shopping/product/10105186493121563984?gl=us",
+      "product_id": "10105186493121563984",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10105186493121563984",
+      "link": "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+        "https://www.bhphotovideo.com/c/product/1823888-REG/mophie_401306598_4_in_1_wireless_charging_mat.html?kw=MO401306598&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooGMZ4KzjWdwdXfZSGNAZxAbZpYyc1F-d1kFugs83u5UtBKEjSnX30",
+        "https://www.rushordertees.com/catalog/mophie/r-4-in-1-wireless-charging-mat/?color=c346&size=ONE%20SIZE&sample_design_id=8780797&shopping=true&opl=true&utm_medium=organicpla&srsltid=AfmBOort_Sx_eQQbh-pWkNrA1FKPKra7ljI2jpGCBY_lxC4X1mO28H989co"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab25603cd27a7ea7d310b1a56c3ee39448c.png",
+      "price": "$104.99",
+      "extracted_price": 104.99,
+      "old_price": "$150",
+      "extracted_old_price": 150,
+      "rating": 3.8,
+      "reviews": 325,
+      "snippet": "Pad",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2499c002cfb6322ef290b9a2b30ef9384.webp",
+      "tag": "30% OFF",
+      "extensions": [
+        "30% OFF"
+      ],
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 16,
+      "title": "Quad Lock Weatherproof Wireless Charging Head",
+      "product_link": "https://www.google.com/shopping/product/7608724185063695555?gl=us",
+      "product_id": "7608724185063695555",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7608724185063695555",
+      "link": "https://www.quadlockcase.com/products/weatherproof-wireless-charging-head?srsltid=AfmBOorOX4XYtB-j2qzCN_t4lcKUYQxds0SVBuphJCboz05UL9e0qTfEaCI",
+      "links": [
+        "https://www.quadlockcase.com/products/weatherproof-wireless-charging-head?srsltid=AfmBOorOX4XYtB-j2qzCN_t4lcKUYQxds0SVBuphJCboz05UL9e0qTfEaCI",
+        "https://www.amazon.com/Quad-Lock-Weatherproof-Wireless-Charging/dp/B09MRS7XZH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A10JJU1RT0NLKW",
+        "https://www.ebay.com/itm/295962307677?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorZJkbBLznVvbp1GG-WAyu0-iPh3evikLhFY3opTegwle_Ck1EU4N8"
+      ],
+      "source": "Quad Lock US",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2ba685b6aef23ea43635a1d640063dd55.png",
+      "price": "$74.99",
+      "extracted_price": 74.99,
+      "rating": 4.5,
+      "reviews": 2500,
+      "snippet": "Easy to set up (341 user reviews)",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2f0fa8f0647ac6d97c6ebd6564875d6db.webp",
+      "delivery": "Free by 12/18"
+    },
+    {
+      "position": 17,
+      "title": "Anker MagGo Wireless Charging Station",
+      "product_link": "https://www.google.com/shopping/product/13333129633538114024?gl=us",
+      "product_id": "13333129633538114024",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13333129633538114024",
+      "link": "https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible",
+      "links": [
+        "https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible",
+        "https://www.amazon.com/Compatible-Anker-Charging-Certified-Wireless/dp/B0CF56WHV4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.walmart.com/ip/Anker-MagGo-3-in-1-Charging-Station-Qi2-Certified-15W-MagSafe-Compatible-Wireless-Charger-Stand-Black-40W-USB-C-Charger-Included/5356704803?wmlspartner=wlpa&selectedSellerId=508"
+      ],
+      "source": "Anker US",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2a5a17b15da89c3b073baf84a04e90779.png",
+      "price": "$82.49",
+      "extracted_price": 82.49,
+      "old_price": "$110",
+      "extracted_old_price": 110,
+      "rating": 4.7,
+      "reviews": 410,
+      "snippet": "Compact (147 user reviews)",
+      "extensions": [
+        "Free 30-day returns",
+        "25% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab209037797707c23cb86eb652e39f17274.webp",
+      "tag": "25% OFF",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 18,
+      "title": "Anker Wireless Charging Pad 10W",
+      "product_link": "https://www.google.com/shopping/product/8876261374161484632?gl=us",
+      "product_id": "8876261374161484632",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8876261374161484632",
+      "link": "https://www.target.com/p/anker-10w-wireless-charging-pad-with-4-39-cable-and-18w-wall-charger-black/-/A-89089865?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+      "links": [
+        "https://www.target.com/p/anker-10w-wireless-charging-pad-with-4-39-cable-and-18w-wall-charger-black/-/A-89089865?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+        "https://www.walmart.com/ip/Anker-318-Wireless-Charger-Pad-with-4-Cable-10W-B2548JF1-1-Black/3485252039?wmlspartner=wlpa&selectedSellerId=0",
+        "https://www.ebay.com/itm/395560780427?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fffea2f19ca2bb9312cd90b42f904955.png",
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "old_price": "$20",
+      "extracted_old_price": 20,
+      "rating": 3.8,
+      "reviews": 102,
+      "snippet": "Pad · 9 volts · Wall Charger",
+      "extensions": [
+        "Free 90-day returns",
+        "20% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2adb88ae84a052989509d57ed710f6744.webp",
+      "tag": "20% OFF",
+      "delivery": "Free $35+"
+    },
+    {
+      "position": 19,
+      "title": "Anker 313 Wireless Charger Stand",
+      "product_link": "https://www.google.com/shopping/product/742470410427564081?gl=us",
+      "product_id": "742470410427564081",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=742470410427564081",
+      "link": "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Fast-Charging/dp/B083BTZY8Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+      "links": [
+        "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Fast-Charging/dp/B083BTZY8Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.newegg.com/p/359-00D8-001T6?item=9SIACCUCBB8139&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&source=region&srsltid=AfmBOopsLKhco0lNwM6Zv63E9MttExRM6n-8CEgzNNgYS_yue0w95z5vHrQ",
+        "https://www.ebay.com/itm/365261527219?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopj4pKxO2kundxcVX93gvqSvJt9_y7gapC6auSGmeJTKEVsjTlciss"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fc50fb1bb3a09913fe901b96ecec9400.png",
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "rating": 4.7,
+      "reviews": 7,
+      "snippet": "Stand · Fast Charging · Wall Charger",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2aca0a69b32b16fed3990f34b1ea2f289.webp"
+    },
+    {
+      "position": 20,
+      "title": "Ikea Livboj wireless charger",
+      "product_link": "https://www.google.com/shopping/product/7356341473952054452?gl=us",
+      "product_id": "7356341473952054452",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7356341473952054452",
+      "link": "https://www.ikea.com/us/en/p/livboj-wireless-charger-black-90447058/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicks_Lighting_&_Home_electronics",
+      "links": [
+        "https://www.ikea.com/us/en/p/livboj-wireless-charger-black-90447058/?utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicks_Lighting_&_Home_electronics",
+        "https://www.ebay.com/itm/164757666027?chn=ps&mkevt=1&mkcid=28&var=464244101653&google_free_listing_action=view_item",
+        "https://www.mercari.com/us/item/m17397670432/?srsltid=AfmBOopwETvU5LqiJckRvhfJnuW9UKDHG8slYVRYfkE3EQRuhNW19FZeC8M"
+      ],
+      "source": "IKEA",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2efdd5e7535a61174290508ba0f18965c.png",
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "rating": 3.8,
+      "reviews": 2700,
+      "snippet": "Charges slowly (107 user reviews)",
+      "extensions": [
+        "Free 365-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab25af4df32c6f7765f05f7575e378796dd.webp"
+    },
+    {
+      "position": 21,
+      "title": "ANKER MagGo Induction Charger",
+      "product_link": "https://www.google.com/shopping/product/12078060602950556434?gl=us",
+      "product_id": "12078060602950556434",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12078060602950556434",
+      "link": "https://www.bestbuy.com/site/anker-wireless-charging-station-qi-2-0-15w-3-in-1-black/6576356.p?skuId=6576356&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/anker-wireless-charging-station-qi-2-0-15w-3-in-1-black/6576356.p?skuId=6576356&utm_source=feed",
+        "https://www.verizon.com/products/anker-qi-2-0-15w-wireless-charging-station-3-in-1-pad-with-40w-charger/?sku=sku6010289",
+        "https://www.target.com/p/anker-maggo-15w-qi2-3-in-1-wireless-black-charging-station-with-charger-bundle/-/A-91309797?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2f2b4214e6bdacc8c3213be7f8a6a2799.png",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "old_price": "$100",
+      "extracted_old_price": 100,
+      "rating": 4.1,
+      "reviews": 13,
+      "snippet": "Fast Charging",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab27459697139093efa4d6d5f4ad98d6b5d.webp",
+      "tag": "30% OFF",
+      "extensions": [
+        "30% OFF"
+      ],
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 22,
+      "title": "Smart Gear 3-in-1 Wireless Charging Clock",
+      "product_link": "https://www.google.com/shopping/product/17527413584245002402?gl=us",
+      "product_id": "17527413584245002402",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17527413584245002402",
+      "link": "https://www.kohls.com/product/prd-7087672/smart-gear-3-in-1-wireless-charging-clock.jsp?skuid=48691973&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=48691973",
+      "links": [
+        "https://www.kohls.com/product/prd-7087672/smart-gear-3-in-1-wireless-charging-clock.jsp?skuid=48691973&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=48691973"
+      ],
+      "source": "Kohl's",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2a53fed554dd3f821ff704f7f340526ee.png",
+      "price": "$24.00",
+      "extracted_price": 24,
+      "old_price": "$40",
+      "extracted_old_price": 40,
+      "snippet": "Stand · Fast Charging",
+      "extensions": [
+        "30-day returns",
+        "40% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2b2c0fdf3535d6a53cc652d088c5ee28b.webp",
+      "tag": "40% OFF"
+    },
+    {
+      "position": 23,
+      "title": "Nimble Podium 3-in-1 Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/10003489743476046038?gl=us",
+      "product_id": "10003489743476046038",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10003489743476046038",
+      "link": "https://www.apple.com/us/xc/product/HRXC2?cid=aos-us-seo-pla-3pp",
+      "links": [
+        "https://www.apple.com/us/xc/product/HRXC2?cid=aos-us-seo-pla-3pp",
+        "https://www.gonimble.com/products/podium-3-in-1-wireless-charger"
+      ],
+      "source": "Apple",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab22a6c1bd53596967b63d21f6a62b0ca14.png",
+      "price": "$139.95",
+      "extracted_price": 139.95,
+      "rating": 1,
+      "reviews": 1,
+      "extensions": [
+        "Free 14-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab21f4032558a8a5775eed9a94a82dda725.webp",
+      "delivery": "Free 2-day"
+    },
+    {
+      "position": 24,
+      "title": "Wireless Portable Charger",
+      "product_link": "https://www.google.com/shopping/product/6161595824825502021?gl=us",
+      "product_id": "6161595824825502021",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6161595824825502021",
+      "link": "https://www.amazon.com/Wireless-Portable-Charging-External-Compatible/dp/B0915T91JN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A17V99AE1N6ZHR",
+      "links": [
+        "https://www.amazon.com/Wireless-Portable-Charging-External-Compatible/dp/B0915T91JN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A17V99AE1N6ZHR",
+        "https://gorillacasestore.com/products/wireless-portable-charger-30-800mah-15w-25w-pd-qc4-0-fast-charging-smart-led-display-usb-c-power-bank?currency=USD&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=9608afea100c&srsltid=AfmBOoqFtcROkA2ZZtnYLbUnW-eQSmgOUnkWasdWKoFuaSVDzNTA6UrzZEw",
+        "https://www.bonanza.com/listings/Wireless-Portable-Charger-30-800mAh-15W-Wireless-Charging-25W-PD-QC4-0-Fast-Char/1667310774?goog_pla=1"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab24387c3a4947337ee5fcc4a896709d943.png",
+      "price": "$25.95",
+      "extracted_price": 25.95,
+      "old_price": "$40",
+      "extracted_old_price": 40,
+      "snippet": "Pad · Fast Charging · Black",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab24f00c43576d05002d5a1ae090e221656.webp",
+      "tag": "35% OFF",
+      "extensions": [
+        "35% OFF"
+      ]
+    },
+    {
+      "position": 25,
+      "title": "Magnetic Qi Wireless Charging Phone Holder",
+      "product_link": "https://www.google.com/shopping/product/18084702793906546679?gl=us",
+      "product_id": "18084702793906546679",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18084702793906546679",
+      "link": "https://www.atachmounts.com/Magnetic-Qi-Wireless-Charging-Phone-Holder_p_596.html?srsltid=AfmBOoppFeutOe5VvzGYx-qFF0lJP9pWxaK3J6H0emR1mRDW3BHk3O4DeXE",
+      "links": [
+        "https://www.atachmounts.com/Magnetic-Qi-Wireless-Charging-Phone-Holder_p_596.html?srsltid=AfmBOoppFeutOe5VvzGYx-qFF0lJP9pWxaK3J6H0emR1mRDW3BHk3O4DeXE"
+      ],
+      "source": "A-Tach Mounts",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26da279ec1fef2f3badc2c87ff890ed45.png",
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "snippet": "9 volts · Fast Charging · Charging Station",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2c05a9d93255bfaa5eb8847ebc5a0f4b0.webp"
+    },
+    {
+      "position": 26,
+      "title": "Google Pixel Stand",
+      "product_link": "https://www.google.com/shopping/product/10148803374715915709?gl=us",
+      "product_id": "10148803374715915709",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10148803374715915709",
+      "link": "https://www.bestbuy.com/site/google-pixel-stand-2nd-gen-clearly-white/6483837.p?skuId=6483837&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/google-pixel-stand-2nd-gen-clearly-white/6483837.p?skuId=6483837&utm_source=feed",
+        "https://www.instacart.com/products/26321585-google-2nd-gen-pixel-stand-clearly-white-each?retailer_id=1366&product_id=26321585&utm_term=pbi-0&utm_campaign=google-2nd-gen-pixel-stand---clearly-white---1-each_best-buy&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-26321585_retailerid=1366&region_id=17518286659",
+        "https://realry.com/products/66c608e27f5c39a5250463a8?srsltid=AfmBOoov7UggiW1vVeVcThMHRibstMFGAR2SOauVChWMYBWIxPLFRfsMx_0"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2954a78469218b410ef02cea6c12f679d.png",
+      "price": "$79.00",
+      "extracted_price": 79,
+      "rating": 4.5,
+      "reviews": 645,
+      "snippet": "Charges quickly (82 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2c6417d2e3097567236cb32d44b04ae5e.webp",
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 27,
+      "title": "Legrand WCP10 Wireless Charging Puck",
+      "product_link": "https://www.google.com/shopping/product/15706247522392196836?gl=us",
+      "product_id": "15706247522392196836",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15706247522392196836",
+      "link": "https://www.homedepot.com/p/Legrand-Wiremold-Qi-Certified-Flush-Mount-Embedded-Wireless-Charging-Puck-for-Furniture-WCP10/315989954?source=shoppingads&locale=en-US&srsltid=AfmBOorL0lAhXLDNpr5uRBBKXpF_98x4al9DDM20TUgo6PbgGQREz7lspz8",
+      "links": [
+        "https://www.homedepot.com/p/Legrand-Wiremold-Qi-Certified-Flush-Mount-Embedded-Wireless-Charging-Puck-for-Furniture-WCP10/315989954?source=shoppingads&locale=en-US&srsltid=AfmBOorL0lAhXLDNpr5uRBBKXpF_98x4al9DDM20TUgo6PbgGQREz7lspz8",
+        "https://www.build.com/product/summary/1791095?uid=4229943&jmtest=gg-gbav2_4229943&srsltid=AfmBOorBMpL270rycD4Elbgx0jP-DLwbAFphN7QCOp-0h86b3gIowyL63gg",
+        "https://us.rs-online.com/product/wiremold/wcp10/74617289/?srsltid=AfmBOor4qd1HM4oOipTt-zAD3HYENMYg2oAFsMrf0NmhlDJ-iy_VhwzDpr0"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2be867a3e5667b2c00ae48a55fa9500fa.png",
+      "price": "$47.57",
+      "extracted_price": 47.57,
+      "rating": 5,
+      "reviews": 1,
+      "snippet": "Stand · Fast Charging · Charging Station",
+      "extensions": [
+        "90-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2265c5c9e6ba2bc739857bc509dbad357.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 28,
+      "title": "Anker PowerWave II Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/16310875815716072596?gl=us",
+      "product_id": "16310875815716072596",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16310875815716072596",
+      "link": "https://www.anker.com/products/b2519?variant=37438489788566",
+      "links": [
+        "https://www.anker.com/products/b2519?variant=37438489788566",
+        "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Charging/dp/B083B9HB6Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+        "https://www.lowes.com/pd/Anker-PowerWave-II-Pad-Black-Wireless-Charging-Mat-for-General-Phone-Compatibility-1-USB-Port-Smart-Charging-Anti-Slip-Design/5001895449?user=shopping&feed=yes&srsltid=AfmBOoqKKf9HSxKRR7jfw8w7FNodOnP3G1JyDvwJbLJynwiBwHTXvE88NCw"
+      ],
+      "source": "Anker US",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2d70f938ec542bac0d9eee1c8afc8e5e1.png",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "rating": 4.5,
+      "reviews": 477,
+      "snippet": "Charges quickly (63 user reviews)",
+      "extensions": [
+        "Free 30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab23b379ed078c71cd78f0229ea571945e8.webp",
+      "delivery": "Free by 12/19"
+    },
+    {
+      "position": 29,
+      "title": "3-in-1 Wireless Charger Stand for iPhone 16 15 14 Pro Max 13 12 11 Watch 10 9 8 7 6",
+      "product_link": "https://www.google.com/shopping/product/2960796314718793042?gl=us",
+      "product_id": "2960796314718793042",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2960796314718793042",
+      "link": "https://www.amazon.com/Wireless-Charger-iPhone-Charging-Station/dp/B0C2BMNHW2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1SU4K1CBNYD0G",
+      "links": [
+        "https://www.amazon.com/Wireless-Charger-iPhone-Charging-Station/dp/B0C2BMNHW2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1SU4K1CBNYD0G",
+        "https://www.walmart.com/ip/Wireless-Charger-iPhone-Charging-Station-3-1-Stand-Multiple-Devices-Apple-15-14-Pro-Max-13-12-11-Watches-9-8-7-6-5-4-3-2-SE-Airpods/6207209196?wmlspartner=wlpa&selectedSellerId=101641146",
+        "https://www.ebay.com/itm/134846652787?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab25196c259bd873f6d871196bdf55e32f7.png",
+      "price": "$22.49",
+      "extracted_price": 22.49,
+      "snippet": "Stand · 9 volts · Fast Charging",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab291bfee3616d8520c546c7da58e19d6c8.webp"
+    },
+    {
+      "position": 30,
+      "title": "Peak Design Mobile Wireless Charging Stand",
+      "product_link": "https://www.google.com/shopping/product/5323169571377742713?gl=us",
+      "product_id": "5323169571377742713",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5323169571377742713",
+      "link": "https://peakdesign.com/products/wireless-charging-stand-qi1?variant=41341338878029",
+      "links": [
+        "https://peakdesign.com/products/wireless-charging-stand-qi1?variant=41341338878029",
+        "https://www.adorama.com/pdcsbk1.html?refby=inc-google-shop-o",
+        "https://shopmoment.com/products/peak-design-mobile-wireless-charging-stand-with-peak-slimlink-black?currency=USD&variant=47464488599867&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=e62591f830ee&srsltid=AfmBOopcek0E39DfEKSJpkYckL3E0CraKw5wYVQEhxI6QvUBhHjI2lFH_iQ"
+      ],
+      "source": "Peak Design",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26168da5806e5059882f49d96c58333e2.png",
+      "price": "$67.95",
+      "extracted_price": 67.95,
+      "rating": 4.6,
+      "reviews": 30,
+      "snippet": "Stand · Charging Station",
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26a82876abc929f06e5f56d89e624876c.webp",
+      "delivery": "Free $99+"
+    },
+    {
+      "position": 31,
+      "title": "Intelli Foldable 3-in-1 Wireless Charger",
+      "product_link": "https://www.google.com/shopping/product/361901241278175173?gl=us",
+      "product_id": "361901241278175173",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=361901241278175173",
+      "link": "https://www.bestbuy.com/site/intelli-foldable-3-in-1-wireless-charger-with-magnetic-phone-watch-and-headphone-charging-white/6560681.p?skuId=6560681&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/intelli-foldable-3-in-1-wireless-charger-with-magnetic-phone-watch-and-headphone-charging-white/6560681.p?skuId=6560681&utm_source=feed",
+        "https://itdevicesonline.com/product-details/2850202?srsltid=AfmBOor-mXcerx0m4ysS1MeG8kIKSTid4z8jG4tcaojhcAx2GNxLzNbvtDw",
+        "https://colescomputers.com/products/intelli-foldup-foldable-3-in-1-wireless-charger-white?variant=45975443603674&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqOQ09yjVuU83zMXK6cMDVsFKT6V1IBvb1DIqNQNv2fKxxJ9k9GEj8"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2ce699834da469c2990d47e11be7cace2.png",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "old_price": "$50",
+      "extracted_old_price": 50,
+      "rating": 4.2,
+      "reviews": 19,
+      "snippet": "Pad · Charging Station",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2edef815f128b3d6ec69990573567a835.webp",
+      "tag": "40% OFF",
+      "extensions": [
+        "40% OFF"
+      ],
+      "delivery": "Free $35+"
+    },
+    {
+      "position": 32,
+      "title": "Mark & Graham Wireless Charging Tray",
+      "product_link": "https://www.google.com/shopping/product/17306178670444537708?gl=us",
+      "product_id": "17306178670444537708",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17306178670444537708",
+      "link": "https://www.markandgraham.com/products/linen-wireless-charging-tray/?catalogId=46&sku=9006013&cm_ven=FreePLA&cm_cat=Google&cm_pla=Office%20%2B%20Tech%20%3E%20Charging%20Solutions&srsltid=AfmBOoplmOE8j5Z7ibdDgFHzhOqQzCKmcrpgF3r1BL2y6OsENqU5I4nnYW0",
+      "links": [
+        "https://www.markandgraham.com/products/linen-wireless-charging-tray/?catalogId=46&sku=9006013&cm_ven=FreePLA&cm_cat=Google&cm_pla=Office%20%2B%20Tech%20%3E%20Charging%20Solutions&srsltid=AfmBOoplmOE8j5Z7ibdDgFHzhOqQzCKmcrpgF3r1BL2y6OsENqU5I4nnYW0"
+      ],
+      "source": "Mark and Graham",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2405806ee703f61a050c2e63c85fb6ff1.png",
+      "price": "$100.00",
+      "extracted_price": 100,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2471629738660a3ba457bab49a615930f.webp"
+    },
+    {
+      "position": 33,
+      "title": "Rokform Magnetic Wireless Charging Stand",
+      "product_link": "https://www.google.com/shopping/product/11642750477285305324?gl=us",
+      "product_id": "11642750477285305324",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11642750477285305324",
+      "link": "https://www.rokform.com/products/magsafe-magnetic-wireless-charging-stand?variant=44115481788590&country=US&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_content=Magnetic+Wireless+Charging+Stand&srsltid=AfmBOooN6mMsQk-JN39DPRwdRFSlIk66tefl_P_adlker5gHsx0odS--_Ac",
+      "links": [
+        "https://www.rokform.com/products/magsafe-magnetic-wireless-charging-stand?variant=44115481788590&country=US&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_content=Magnetic+Wireless+Charging+Stand&srsltid=AfmBOooN6mMsQk-JN39DPRwdRFSlIk66tefl_P_adlker5gHsx0odS--_Ac",
+        "https://www.amazon.com/Rokform-Magnetic-Wireless-Charger-Charging/dp/B0CLT4VPD7?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ADBCUN3NTIPNY",
+        "https://nonstopciclismo.com/products/rokform-magnetic-wireless-charging-stand?variant=43733585002673&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorkzEPDlWsj5qfgoV6hyB_WMtlNxzzScttFwWd5ZS_eYRe_i_epUxw"
+      ],
+      "source": "Rokform",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab25e51f10385cac34918932b17b4d90e45.png",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 3.8,
+      "reviews": 201,
+      "snippet": "Stand · Charging Station",
+      "extensions": [
+        "60-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab22d26475848c19f2dca28f00393a26526.webp",
+      "delivery": "Free by 12/17"
+    },
+    {
+      "position": 34,
+      "title": "Anker 313 Wireless Charging Stand, Qi-Certified for iPhone 16/16 Pro/16 Pro Max/15/14/13, 10W Fast Charging for Galaxy S23/S22/S21 (No AC Adapter)",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:8220494878248045070",
+      "product_id": "8220494878248045070",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8220494878248045070",
+      "link": "https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+      "links": [
+        "https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ"
+      ],
+      "source": "Amazon.com - Seller",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab242cb3ae59f8fa9b0aa8cc0be6161a0ec.png",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.9,
+      "reviews": 9500,
+      "snippet": "Easy to use (870 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab28497cfc6ef18b0e4e5fb8db9a1f82a44.webp"
+    },
+    {
+      "position": 35,
+      "title": "Adafruit Universal Qi Wireless Charging Transmitter",
+      "product_link": "https://www.google.com/shopping/product/16237795061216987506?gl=us",
+      "product_id": "16237795061216987506",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16237795061216987506",
+      "link": "https://www.adafruit.com/product/2162",
+      "links": [
+        "https://www.adafruit.com/product/2162",
+        "https://www.digikey.com/en/products/detail/adafruit-industries-llc/2162/6827104",
+        "https://www.electromaker.io/shop/product/universal-qi-wireless-charging-transmitter?srsltid=AfmBOooaRxdIkZ8AkN_Ly3snyBcQNDUR3ZLNMsl9sIuiBz-06Uk_jt4nklo"
+      ],
+      "source": "Adafruit Industries",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab25c88f72c913cbe2793ece5387b7a40aa.png",
+      "price": "$26.95",
+      "extracted_price": 26.95,
+      "extensions": [
+        "30-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2eedca2e9200b1185655a4f67a64a2ace.webp",
+      "delivery": "Free $250+"
+    },
+    {
+      "position": 36,
+      "title": "Energizer Max 15W Universal Wireless Charging Pad",
+      "product_link": "https://www.google.com/shopping/product/6150209099202213966?gl=us",
+      "product_id": "6150209099202213966",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6150209099202213966",
+      "link": "https://www.bestbuy.com/site/energizer-max-15w-qi-certified-universal-wireless-charging-pad-usb-c-cable-included-qc-3-0-or-power-deliver-adapter-required-black/6577441.p?skuId=6577441&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/energizer-max-15w-qi-certified-universal-wireless-charging-pad-usb-c-cable-included-qc-3-0-or-power-deliver-adapter-required-black/6577441.p?skuId=6577441&utm_source=feed",
+        "https://realry.com/products/664b43bf3c4016958e02980e?srsltid=AfmBOoqTWDHVzBwFvVggJBiB1FgEuSFlcvtoHp8kScs6548wo3vSv2G5624",
+        "https://www.doordash.com/product/6577441?utm_source=Google&utm_medium=PLA&utm_campaign=organic_product_listing&business_id=11630312&frt=18&srsltid=AfmBOoq7Y2XOactawihjg8lfoHPNrkXsdjbU05AkRvH0BntN529d_W2AjFk"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab26e1f69e67825e50e2e4e78f38625d343.png",
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "old_price": "$15",
+      "extracted_old_price": 15,
+      "rating": 3.9,
+      "reviews": 24,
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab215a890b271bd1a610a6e59abd36efcba.webp",
+      "tag": "26% OFF",
+      "extensions": [
+        "26% OFF"
+      ],
+      "delivery": "Free $35+"
+    },
+    {
+      "position": 37,
+      "title": "Armor All Dash Wireless Charging Pad",
+      "product_link": "https://www.google.com/shopping/product/14375172335208253222?gl=us",
+      "product_id": "14375172335208253222",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14375172335208253222",
+      "link": "https://www.homedepot.com/p/Armor-All-Dash-Wireless-Charging-Pad-AWC8-1005-BLK/310679424?source=shoppingads&locale=en-US&srsltid=AfmBOoq00R7pqP2Na0nMuApek-muOfrg7eDUibiyTJTkj4q4JJSlnY3yNak",
+      "links": [
+        "https://www.homedepot.com/p/Armor-All-Dash-Wireless-Charging-Pad-AWC8-1005-BLK/310679424?source=shoppingads&locale=en-US&srsltid=AfmBOoq00R7pqP2Na0nMuApek-muOfrg7eDUibiyTJTkj4q4JJSlnY3yNak",
+        "https://www.menards.com/main/p-5999193515885706.htm?utm_source=google&utm_medium=organic-shopping&utm_content=2609235&utm_campaign=Armor+All",
+        "https://www.walmart.com/ip/Armor-All-Dash-Wireless-Charging-Pad-Phone-Stand-Universal-5W-QI-Enabled/764503407?wmlspartner=wlpa&selectedSellerId=0"
+      ],
+      "source": "Home Depot",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab24d31f26aa5c1308aac54c52d0c53cd4f.png",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "rating": 3.6,
+      "reviews": 32,
+      "snippet": "Pad",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab21182f755a29e8f28b28b56208b980ddd.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 38,
+      "title": "Atomi 20W Qi Wireless Charging Multiport Charge Tower",
+      "product_link": "https://www.google.com/shopping/product/3541407051180440454?gl=us",
+      "product_id": "3541407051180440454",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3541407051180440454",
+      "link": "https://www.samsclub.com/p/atomi-20w-qi-wireless-charging-multiport-charge-tower/P03005855?itemNumber=990006203",
+      "links": [
+        "https://www.samsclub.com/p/atomi-20w-qi-wireless-charging-multiport-charge-tower/P03005855?itemNumber=990006203",
+        "https://www.walmart.com/ip/Atomi-20W-Qi-Wireless-Charging-Multiport-Charge-Tower/938347185?wmlspartner=wlpa&selectedSellerId=102574643",
+        "https://www.ebay.com/itm/256020196179?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOooefXNqGwEDwjZoTC54uaa9d7TrUF9-EThWmmrRIacN0M6hH02oLAE"
+      ],
+      "source": "Sam's Club",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2d9eeffdf05614822c4241d8dae785e78.png",
+      "price": "$34.98",
+      "extracted_price": 34.98,
+      "rating": 3.8,
+      "reviews": 121,
+      "snippet": "Pad · Fast Charging · White",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2bd4dbe9176a67d1d75f93859bfa3da75.webp"
+    },
+    {
+      "position": 39,
+      "title": "Amazon Basics Wireless Phone Charger",
+      "product_link": "https://www.google.com/shopping/product/9840666084845271041?gl=us",
+      "product_id": "9840666084845271041",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9840666084845271041",
+      "link": "https://www.amazon.com/AmazonBasics-15W-Certified-Wireless-Charging/dp/B0872RLX6Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "links": [
+        "https://www.amazon.com/AmazonBasics-15W-Certified-Wireless-Charging/dp/B0872RLX6Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://www.ebay.com/itm/186788204533?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOop533tW8_sEir9Q1XE9sFpli9HdNRHlvR_XA0ZBIxmMRd_Amf7HmYI",
+        "https://www.ebay.com/itm/356280611753?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoohy1hwlDubLct22DCjdY1PNFI-l43QlBYwLdLkxqPjLefl_sXitec"
+      ],
+      "source": "Amazon.com",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2e243a6ee56ef64c52d93f924ea9a9a12.png",
+      "price": "$15.98",
+      "extracted_price": 15.98,
+      "old_price": "$18",
+      "extracted_old_price": 18,
+      "snippet": "Pad · Fast Charging",
+      "extensions": [
+        "30-day returns",
+        "11% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab23bd3af82ff9e133febc580ca5cd5071a.webp",
+      "tag": "11% OFF"
+    },
+    {
+      "position": 40,
+      "title": "AT&T Wireless Charging Pad 15W",
+      "product_link": "https://www.google.com/shopping/product/13865099321549760635?gl=us",
+      "product_id": "13865099321549760635",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13865099321549760635",
+      "link": "https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html?source=E-g2s10000000000X&wtExtndSource=SWIS-AT&T",
+      "links": [
+        "https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html?source=E-g2s10000000000X&wtExtndSource=SWIS-AT&T",
+        "https://www.amazon.com/AT-Certified-Case-Friendly-Wireless-Charging/dp/B0CDG2Y6RL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2F3S5XI3J6S50",
+        "https://www.ebay.com/itm/186319981317?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+      ],
+      "source": "AT&T",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2981886ecc00d47a4d0dffb8c5902dad4.png",
+      "price": "$10.00",
+      "extracted_price": 10,
+      "rating": 3,
+      "reviews": 215,
+      "snippet": "Pad",
+      "extensions": [
+        "14-day returns"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2a6a04cbdee42efd986574de7ba1701f7.webp",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 41,
+      "title": "Belkin 10W Wireless Charging Pad",
+      "product_link": "https://www.google.com/shopping/product/11686437238358244734?gl=us",
+      "product_id": "11686437238358244734",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11686437238358244734",
+      "link": "https://www.bestbuy.com/site/belkin-quick-charge-wireless-charging-pad-10w-qi-certified-charger-pad-for-iphone-samsung-galaxy-apple-airpods-pro-more-white/6402755.p?skuId=6402755&utm_source=feed",
+      "links": [
+        "https://www.bestbuy.com/site/belkin-quick-charge-wireless-charging-pad-10w-qi-certified-charger-pad-for-iphone-samsung-galaxy-apple-airpods-pro-more-white/6402755.p?skuId=6402755&utm_source=feed",
+        "https://www.amazon.com/Belkin-WIA001ttWH-Wireless-Charger-10W/dp/B086KXY2RK?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A37FI61TFZMV1Y",
+        "https://www.belkin.com/p/10w-wireless-charging-pad-qc-3.0-wall-charger-cable/WIA001ttWH.html?srsltid=AfmBOorVyuHA3vd5QOt-ceF3jsW6q97jSm91CWkuflbeKfrHmy1GBXnYBlE"
+      ],
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab28ee7344d2c30f7605df883758ff4a47d.png",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "old_price": "$30",
+      "extracted_old_price": 30,
+      "rating": 4.1,
+      "reviews": 2700,
+      "snippet": "Easy to use (208 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2a909ee813dd3893b9045bf320a42aa9c.webp",
+      "tag": "16% OFF",
+      "extensions": [
+        "16% OFF"
+      ],
+      "delivery": "Free $35+"
+    },
+    {
+      "position": 42,
+      "title": "Tomb45 Powered Mat Wireless Charging",
+      "product_link": "https://www.google.com/shopping/product/12817713911968413726?gl=us",
+      "product_id": "12817713911968413726",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12817713911968413726",
+      "link": "https://tomb45.com/products/new-colors-tomb45-powered-mats-wireless-charging-organizing-mat-powerclips-sold-separately?variant=33608908570764&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorGAsTYAsdg1WCSQD5Gb4BQSPqENUmxK3MpWoTd4zKC8q66WfZ_OjI",
+      "links": [
+        "https://tomb45.com/products/new-colors-tomb45-powered-mats-wireless-charging-organizing-mat-powerclips-sold-separately?variant=33608908570764&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorGAsTYAsdg1WCSQD5Gb4BQSPqENUmxK3MpWoTd4zKC8q66WfZ_OjI",
+        "https://www.amazon.com/organizing-Wireless-Charging-Capability-powerclips/dp/B09Q5D2QZS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+        "https://appletonbarbersupply.com/products/tomb45-powered-mats-wireless-charging-organizing-mat?variant=40458694525030&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqrjeKSEOoGKRVKB5oRC4UJ_1RNTN9wjFCrPLjX5gbaTXioYk0yHn0"
+      ],
+      "source": "Tomb45",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab274e2618812197ef26fb5ed3d2a704096.png",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "snippet": "Pad · Fast Charging · Red, Green, Blue, ...",
+      "extensions": [
+        "30-day returns"
+      ],
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2fda9f4b95dec2ae8578f1e7930694001.webp"
+    },
+    {
+      "position": 43,
+      "title": "Trio 3-in-1 Wireless Charging Station",
+      "product_link": "https://www.google.com/shopping/product/14490987724429917592?gl=us",
+      "product_id": "14490987724429917592",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14490987724429917592",
+      "link": "https://journeyofficial.com/products/rapid-trio-3-in-1-wireless-charging-station?variant=43372183257329&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoodfNhFlm9w-7kGs7q1v-cWm4GzsBpjyAJSHCSN4QrxYRTRRyu3Uyw",
+      "links": [
+        "https://journeyofficial.com/products/rapid-trio-3-in-1-wireless-charging-station?variant=43372183257329&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoodfNhFlm9w-7kGs7q1v-cWm4GzsBpjyAJSHCSN4QrxYRTRRyu3Uyw",
+        "https://pwrmobile.shop/products/stand-3-in-2?currency=USD&variant=41657820479628&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=e89999ca1221&srsltid=AfmBOor3u0rkhmRcGWpeRtyeR1PFv7uLlTtOx7z1042SPBR1WrnWNLeqROM"
+      ],
+      "source": "Journey",
+      "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab2aaa9e2803f44aa39e46184e546f87254.png",
+      "price": "$95.99",
+      "extracted_price": 95.99,
+      "old_price": "$120",
+      "extracted_old_price": 120,
+      "rating": 5,
+      "reviews": 679,
+      "snippet": "Quality build (66 user reviews)",
+      "extensions": [
+        "Free 30-day returns",
+        "20% OFF"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/7896d4100241e880bedae7cbfb880ab21948f4582c098dc1017436791e580865.webp",
+      "tag": "20% OFF"
+    }
+  ],
+  "categorized_shopping_results": [
+    {
+      "title": "Wireless charging pads",
+      "description": "The most common type of wireless charger, pads provide a flat surface to place your device for charging. They offer a simple and compact solution for wireless charging and are available with various features like fast charging and LED indicators.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Anker 313 Wireless Charger Slim Pad 10W Qi-Certified Charging for iPhone 12",
+          "product_link": "https://www.google.com/shopping/product/11859917371136447922?gl=us",
+          "product_id": "11859917371136447922",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11859917371136447922",
+          "link": "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+          "links": [
+            "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.anker.com/products/a2503?variant=39295736283286",
+            "https://www.walmart.com/ip/Anker-Wireless-Charger-313-Charger-Pad-Qi-Certified-10W-Max-iPhone-12-12-Pro-12-mini-12-Pro-Max-SE-2020-11-AirPods-No-AC-Adapter-Not-Compatible-MagSa/993997336?wmlspartner=wlpa&selectedSellerId=508"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc807926ee3f0706ca54867f48f518896ec02768.png",
+          "price": "$16.29",
+          "extracted_price": 16.29,
+          "rating": 4.7,
+          "reviews": 2000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQydJ-3-hBO0yw9D1nvTW-lbffoF4ScVjJUGshWSZVQMpaNOjgZaBWSL7hnXL9Q2HSb8TUMxN-ocde4PfUl5ojiHsTU1VqP-UtvxnkEP5e3kM2XqeDZYfBzDA"
+        },
+        {
+          "position": 2,
+          "title": "30W Wireless Charger Pad Wireless Charger 30W Fast Wireless Charger Wireless Charging Compatible with Samsung Galaxy S22/S22+/S21/S20/S10",
+          "product_link": "https://www.google.com/shopping/product/17406450635578019700?gl=us",
+          "product_id": "17406450635578019700",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17406450635578019700",
+          "link": "https://www.amazon.com/Wireless-Charger-Charging-Compatible-Samsung/dp/B0BBVJWDJN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AKOXOO1AB7MCD",
+          "links": [
+            "https://www.amazon.com/Wireless-Charger-Charging-Compatible-Samsung/dp/B0BBVJWDJN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AKOXOO1AB7MCD",
+            "https://www.walmart.com/ip/30W-Wireless-Charger-Pad-30W-Fast-Charger-Charging-Compatible-Samsung-Galaxy-S22-S22-S21-S20-S10-iPhone-15-13-14-12-11-Series/9169256487?wmlspartner=wlpa&selectedSellerId=101678019",
+            "https://www.ebay.com/itm/134949206064?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoq8zcpRP60gkh-lmrCRNzCZXLtP6UOmerzYt9SMyUE6xnpyOXPJgK4"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc807926a6f06d1d7b303e429e0088a616bca89e.png",
+          "price": "$12.59",
+          "extracted_price": 12.59,
+          "old_price": "$14",
+          "extracted_old_price": 14,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuLTc0Np36cxjj4JKXqGWQuNoTMKiDzpPBizTp4UohVa8udzB1ra9uPbbRe8C6NdkdUT-2XD5wUtyl4kydUWqmpVBNB_rfCKjRD8igVn5cS9_tIDC9ZHwM",
+          "tag": "10% OFF",
+          "extensions": [
+            "10% OFF"
+          ]
+        },
+        {
+          "position": 3,
+          "title": "mooas All-Rounder 4 in 1 Fast Wireless Charging nightlight Clock",
+          "product_link": "https://www.google.com/shopping/product/12258420067915015237?gl=us",
+          "product_id": "12258420067915015237",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12258420067915015237",
+          "link": "https://www.amazon.com/mooas-All-Rounder-Wireless-nightlight-Compatible/dp/B0BBFCLQGX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2Q5MDB49K2S2U",
+          "links": [
+            "https://www.amazon.com/mooas-All-Rounder-Wireless-nightlight-Compatible/dp/B0BBFCLQGX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2Q5MDB49K2S2U"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc807926362e59c6660433ee770c431edbd1d1d0.png",
+          "price": "$28.99",
+          "extracted_price": 28.99,
+          "old_price": "$31",
+          "extracted_old_price": 31,
+          "rating": 4.8,
+          "reviews": 14,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTkr1Ccct_grXT9-_AOJeuX8yXw290_nBP7IYdxymSopcFzPqabs3SwK4JcNTfluJH14oceQpOa9rHUqOO0Q5gj09H3fIpDfZIamSFLjmYeUtSGGoCZDQsE",
+          "tag": "6% OFF",
+          "extensions": [
+            "6% OFF"
+          ]
+        },
+        {
+          "position": 4,
+          "title": "mophie 4-in-1 Wireless Charging Mat",
+          "product_link": "https://www.google.com/shopping/product/10105186493121563984?gl=us",
+          "product_id": "10105186493121563984",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10105186493121563984",
+          "link": "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+          "links": [
+            "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+            "https://www.bhphotovideo.com/c/product/1823888-REG/mophie_401306598_4_in_1_wireless_charging_mat.html?kw=MO401306598&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooGMZ4KzjWdwdXfZSGNAZxAbZpYyc1F-d1kFugs83u5UtBKEjSnX30",
+            "https://www.rushordertees.com/catalog/mophie/r-4-in-1-wireless-charging-mat/?color=c346&size=ONE%20SIZE&sample_design_id=8780797&shopping=true&opl=true&utm_medium=organicpla&srsltid=AfmBOort_Sx_eQQbh-pWkNrA1FKPKra7ljI2jpGCBY_lxC4X1mO28H989co"
+          ],
+          "source": "Best Buy",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc8079267f47a25123abed9cbd6072da1efbd901.png",
+          "price": "$104.99",
+          "extracted_price": 104.99,
+          "old_price": "$150",
+          "extracted_old_price": 150,
+          "rating": 3.8,
+          "reviews": 325,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe5gH5vWcvSwgt245T5Li2UIS1fmLwDUbjjq0DTBnpqJGGzwI0cEur9Ca3xLMhhSvo77_IIxP_r7_XP_Tv17RApE1Z_Ey_8tWJjc9y9QGfrwfHAxIJX08i9A",
+          "tag": "30% OFF",
+          "extensions": [
+            "30% OFF"
+          ],
+          "delivery": "Free by 12/17"
+        },
+        {
+          "position": 5,
+          "title": "Promotional 1 Pcs. Annular Wireless Charging Pad With Lighting White",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:7203332077147940732",
+          "product_id": "7203332077147940732",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7203332077147940732",
+          "link": "https://www.logotech.com/annular-wireless-charging-pad-with-lighting-137078.html?color=20178&utm_source=google&utm_medium=merchant&utm_campaign=FRProdList&srsltid=AfmBOop_dCeZZv3uSJEJzihw4zNYY83n9v5XcLf0aq8d5Ui6h_DluOVwA18",
+          "links": [
+            "https://www.logotech.com/annular-wireless-charging-pad-with-lighting-137078.html?color=20178&utm_source=google&utm_medium=merchant&utm_campaign=FRProdList&srsltid=AfmBOop_dCeZZv3uSJEJzihw4zNYY83n9v5XcLf0aq8d5Ui6h_DluOVwA18"
+          ],
+          "source": "Logotech",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc80792625da2402cda8be05c05205c89f057fb5.png",
+          "price": "$5.96",
+          "extracted_price": 5.96,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnw0wjzOzraU57i0yEB97QXI8CQo9RM5y9Ea5FKNfoixu0C0-n7cZz76qdx4BL7sxV_A5wl0SA7nh-CPVmRlZ8_Kcr5IVEBA",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 6,
+          "title": "Anker Wireless Charger PowerWave Stand Qi-Certified for iPhone 15/14/13/12 Series SE",
+          "product_link": "https://www.google.com/shopping/product/1272358072725747080?gl=us",
+          "product_id": "1272358072725747080",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1272358072725747080",
+          "link": "https://www.anker.com/products/a2524?variant=37438027137174",
+          "links": [
+            "https://www.anker.com/products/a2524?variant=37438027137174",
+            "https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.ebay.com/itm/266163757583?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorockcv1EfgiLOFMCT3eU8iUqLkTYHaEaSQSeMMnKoBHUfcP2LfgAQ"
+          ],
+          "source": "Anker US",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc807926a3f893077b3284d7b5154ed75deafe4c.png",
+          "price": "$23.99",
+          "extracted_price": 23.99,
+          "rating": 4.9,
+          "reviews": 9500,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsyDsoWXSgJovZGWF3Sb-fSSIE55qGuMutphan_mkSWkVhgEUumlfCtYAbPIO11EHd3FVltorhBd9PO7dO9CFMD_CRZH2DTZMmZNUa1IH_8cfyp0ytzU8pHnk",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 7,
+          "title": "Anker PowerWave Pad Lite+ Wireless Charging Pad",
+          "product_link": "https://www.google.com/shopping/product/1624728637351705294?gl=us",
+          "product_id": "1624728637351705294",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1624728637351705294",
+          "link": "https://www.walmart.com/ip/Anker-PowerWave-Pad-Lite-Wireless-Charging-Pad-with-Power-Adapter-5W-Black/964694704?wmlspartner=wlpa&selectedSellerId=0",
+          "links": [
+            "https://www.walmart.com/ip/Anker-PowerWave-Pad-Lite-Wireless-Charging-Pad-with-Power-Adapter-5W-Black/964694704?wmlspartner=wlpa&selectedSellerId=0",
+            "https://www.ebay.com/itm/154855038925?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item",
+            "https://www.mercari.com/us/item/m82251363922/?srsltid=AfmBOoocy9Cu8scI2qSEmbj7PDQZG0GyI0xGqG207IisYVVOd99QiVAIxtQ"
+          ],
+          "source": "Walmart",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c543a564a8abbb4182d8a4db00daa11edffb215f9fc8079265902f7744844be02042a545c4faef4be.png",
+          "price": "$14.97",
+          "extracted_price": 14.97,
+          "rating": 3,
+          "reviews": 99,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRR6ul_3BNUzDj1dZ1OdVb9nWYjaUrTkU363gnO3rOACYMfNH9ko0Bzeu6XNs5W23qjbiV2mQ33LbLkKJebByBimEW6cnEfSJG7ivr9LpnxqLGynLRrV8rQ"
+        },
+        {
+          "position": 8,
+          "title": "Custom Wireless Charging Pad | No Minimum Quantity | Event Planning & Entertainment, Crafts, Beauty & Spa, Styles & Themes, Art & Entertainment Templa",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6906324896579128253",
+          "product_id": "6906324896579128253",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6906324896579128253",
+          "link": "https://www.vistaprint.com/promotional-products/technology/wireless-chargers/wireless-charging-pad?qty=1&Substrate%20Color=%23f5f5f6&attributes=Substrate%20Color_%23f5f5f6&quickView=08db61a9-141e-4b9e-8865-6e0f64bf2f09&source=PLA&srsltid=AfmBOoolpGTlkaEUMhjDgx39gmCTXTeD2oQo7KQ2fPeSe74lJcCeuTQSV9k",
+          "links": [
+            "https://www.vistaprint.com/promotional-products/technology/wireless-chargers/wireless-charging-pad?qty=1&Substrate%20Color=%23f5f5f6&attributes=Substrate%20Color_%23f5f5f6&quickView=08db61a9-141e-4b9e-8865-6e0f64bf2f09&source=PLA&srsltid=AfmBOoolpGTlkaEUMhjDgx39gmCTXTeD2oQo7KQ2fPeSe74lJcCeuTQSV9k"
+          ],
+          "source": "Vistaprint",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTCjE0SXiiqjFwyXj-At2MeTIjsJf8fOo8DP21alNKHhSr8CpM5zwJZYHdtPG2w0OdzBldUlmJH--PbZefKWkQJYUux4kAto6PLWg",
+          "price": "$13.45",
+          "extracted_price": 13.45,
+          "old_price": "$15",
+          "extracted_old_price": 15,
+          "rating": 3.7,
+          "reviews": 127,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_GiOhR7zFFVVIm9PCjiaN6tAZL-1m_7nS-2AzP2-Evl8kSfgIylSSanixZ1EDc8Ocw2m4BRF3G9i0YbDHrE8NRrWMvqwA",
+          "tag": "10% OFF",
+          "extensions": [
+            "10% OFF"
+          ]
+        },
+        {
+          "position": 9,
+          "title": "Anker 315 Wireless Charger 10W Max Fast Charging",
+          "product_link": "https://www.google.com/shopping/product/8704753833604737593?gl=us",
+          "product_id": "8704753833604737593",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8704753833604737593",
+          "link": "https://www.walmart.com/ip/Anker-315-Wireless-Charger-Pad-10W-Max-Fast-Charging-Compatible-iPhone-14-13-Series-Samsung-S22-AirPods-Buds-Google-More-Wall-Not-Included/2452576879?wmlspartner=wlpa&selectedSellerId=508",
+          "links": [
+            "https://www.walmart.com/ip/Anker-315-Wireless-Charger-Pad-10W-Max-Fast-Charging-Compatible-iPhone-14-13-Series-Samsung-S22-AirPods-Buds-Google-More-Wall-Not-Included/2452576879?wmlspartner=wlpa&selectedSellerId=508",
+            "https://www.amazon.com/Anker-Wireless-Charging-Compatible-Included/dp/B0B469HLNL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://reebelo.com/products/anker-315-wireless-charger-black-excellent-yuiuh?utm_organicad=true&srsltid=AfmBOoqMU-KZBeU1daCyeEmTBucMue04-2gRW556hJZosM17nNr_1BoL1SU"
+          ],
+          "source": "Walmart - AnkerDirect",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu7prefiWK_9aeR52iM1ELj5kzXwplMELdhwd-SLGrnHFu-1rYr5a923LrfwJBoCzLHFCevret0bypkEGIOPLpMsq-aVMtOA",
+          "price": "$14.99",
+          "extracted_price": 14.99,
+          "rating": 4.7,
+          "reviews": 99,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSt4yY9IBz0zm5HlQB7W-VMMDg-5OX_qfxkg2kb6z4FSUKQDp0MRviCPHyxOKOoJwAE_aRSd-A0fRWiLnISQ-8I2mVTsat6DQ"
+        },
+        {
+          "position": 10,
+          "title": "Positive Promotions 25 Personalized LED LightUp 15W Wireless Charging Pads Laser-Engraved | Doctor's Day Gifts",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13051031435360191879",
+          "product_id": "13051031435360191879",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13051031435360191879",
+          "link": "https://www.positivepromotions.com/led-light-up-15w-wireless-charging-pad-laser-engraved-personalization-available/p/osb1157/?srsltid=AfmBOoohyYVYyy1tgpaynLWq0qY8TcizxXu4jUpdhd143Bsv07lPQOanBno",
+          "links": [
+            "https://www.positivepromotions.com/led-light-up-15w-wireless-charging-pad-laser-engraved-personalization-available/p/osb1157/?srsltid=AfmBOoohyYVYyy1tgpaynLWq0qY8TcizxXu4jUpdhd143Bsv07lPQOanBno"
+          ],
+          "source": "Positive Promotions",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRpHmJXLcxd1T9mDQEdhpvERLvvHIFwmSadc0ngt3eRUtUscXfVkFsIaTqMPflWRsaznWCmhppPlFSyN1zIV9Tj8bnCYbzSv7uUpQjYiNEwcxA6",
+          "price": "$214.75",
+          "extracted_price": 214.75,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqEV7Dlfm4CYvZiiyILRfPOHrxjiBsY7PLyxOP6koXCsP8-nzzjKJBRp8CxLo7fUwZ1SqwLfAnqtJQj9tFzJ9I-LnFdvaJFeMGoWQMTctR"
+        }
+      ]
+    },
+    {
+      "title": "Wireless charging stands",
+      "description": "Stands elevate your device while charging, allowing for hands-free use and convenient viewing. They are ideal for smartphones and tablets, especially when watching videos or making calls.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Anker MagGo Wireless Charging MagSafe Charger Compatible",
+          "product_link": "https://www.google.com/shopping/product/13125901408600099836?gl=us",
+          "product_id": "13125901408600099836",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13125901408600099836",
+          "link": "https://www.amazon.com/Anker-MagSafe-Compatible-Wireless-Magnetic-Certified/dp/B0D8PN1GBP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+          "links": [
+            "https://www.amazon.com/Anker-MagSafe-Compatible-Wireless-Magnetic-Certified/dp/B0D8PN1GBP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.anker.com/products/a25x1-maggo-qi2-wireless-charging-stand-magsafe-compatible?variant=44058196672662",
+            "https://www.walmart.com/ip/Upgraded-Anker-MagSafe-Compatible-Charger-Stand-MagGo-2-in-1-Charging-Station-Qi2-Certified-15W-Wireless-Charger-Stand/9209359496?wmlspartner=wlpa&selectedSellerId=508"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d386d4507d3aa3e8122a89d08f6d383c8.png",
+          "price": "$28.79",
+          "extracted_price": 28.79,
+          "old_price": "$36",
+          "extracted_old_price": 36,
+          "rating": 4.4,
+          "reviews": 7,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzukBYbd_cM2REruzI6a5rKbvSkgckPPa626b8iPi10KuIstKJeAc6hKr24H1EGmPeiwI2uvnxdl8JqULNYk7N6EvOXGcXzgkd55MWrrifL2NHo7ULrvjn",
+          "tag": "20% OFF",
+          "extensions": [
+            "20% OFF"
+          ]
+        },
+        {
+          "position": 2,
+          "title": "KU XIU Magnetic Wireless Charging Stand Only for iPad Pro 13 M4 2024",
+          "product_link": "https://www.google.com/shopping/product/4678776665131431533?gl=us",
+          "product_id": "4678776665131431533",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4678776665131431533",
+          "link": "https://www.amazon.com/KU-XIU-Magnetic-Pro-Adjustable/dp/B0D6W47GGB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2SGR7FZ2YPJLZ",
+          "links": [
+            "https://www.amazon.com/KU-XIU-Magnetic-Pro-Adjustable/dp/B0D6W47GGB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2SGR7FZ2YPJLZ"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d1d08bcc4651eeabaf045860143a094ca.png",
+          "price": "$89.99",
+          "extracted_price": 89.99,
+          "old_price": "$100",
+          "extracted_old_price": 100,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9oK80YayJ_S4--BQETqrty1h9yCRiXMDSgzr7X-ArovzbKq9nuiXsTq4870jG-LI0IT4b9BKiLXrjEDmMwWaukroAk7tMQkfPn0RfuBm_xe7MkMw3XDZT",
+          "tag": "10% OFF",
+          "extensions": [
+            "10% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 3,
+          "title": "Mophie 15W Wireless Charging Stand",
+          "product_link": "https://www.google.com/shopping/product/11717544608856234156?gl=us",
+          "product_id": "11717544608856234156",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11717544608856234156",
+          "link": "https://www.bestbuy.com/site/mophie-15w-wireless-charging-stand-black/6432664.p?skuId=6432664&utm_source=feed",
+          "links": [
+            "https://www.bestbuy.com/site/mophie-15w-wireless-charging-stand-black/6432664.p?skuId=6432664&utm_source=feed",
+            "https://www.amazon.com/mophie-Wireless-Universal-Qi-Enabled-Smartphones/dp/B09B2T11QM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJK3SJQRH914T",
+            "https://www.kohls.com/product/prd-4982035/mophie-wireless-charge-stand-15w.jsp?skuid=69342238&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=69342238"
+          ],
+          "source": "Best Buy",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d6b582fc48664c0e5f90efdfed76194fc.png",
+          "price": "$27.99",
+          "extracted_price": 27.99,
+          "old_price": "$50",
+          "extracted_old_price": 50,
+          "rating": 3.7,
+          "reviews": 1000,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqt7J2AByV-Ln_dtIZMtqSPqxMGrdTmJWrU8gpePtwX7vGPH678dbx-zCKJwqHmZTa84Ia5tCdDv0R0ry9Pxl2fhY0Wk6HLJPi2tWUpIM",
+          "tag": "44% OFF",
+          "extensions": [
+            "44% OFF"
+          ],
+          "delivery": "Free $35+"
+        },
+        {
+          "position": 4,
+          "title": "Custom Anker PowerWave 10W Stand Charger",
+          "product_link": "https://www.google.com/shopping/product/12927408490542148705?gl=us",
+          "product_id": "12927408490542148705",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12927408490542148705",
+          "link": "https://www.target.com/p/anker-10w-wireless-max-fast-charging-stand-black/-/A-89089889?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+          "links": [
+            "https://www.target.com/p/anker-10w-wireless-max-fast-charging-stand-black/-/A-89089889?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+            "https://www.lowes.com/pd/Anker-Wireless-Charger-for-iPhone-11-Galaxy-S20-Note-10-Fast-Charging-Black-48-in-Cord-Micro-USB-Connector/1003245984?user=shopping&feed=yes&srsltid=AfmBOooIVyFB1KtB0Pn1c9j5lE_CVfR54MK7DC0dZh6RIVRc3FYFinLXPLQ",
+            "https://www.ebay.com/itm/335678120280?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorFuPOrWxSBEG1Zv65AZfom0YoMY5e3Vr5ew2jiJXNk5X_oSfn5lIw"
+          ],
+          "source": "Target",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d187c7e59d458bd56a997dbf8ff8ecd27.png",
+          "price": "$29.99",
+          "extracted_price": 29.99,
+          "rating": 4,
+          "reviews": 85,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2TNXkj0qMV1Mk6e4B2ByXQh05ElnL5v3Q1FddSArBkDC0PyxaYyGjUcNgpZG1xyj6fAEDTMefTgh6s78b6Bf2suz8df5e",
+          "delivery": "Free $35+"
+        },
+        {
+          "position": 5,
+          "title": "Anker Wireless Charger PowerWave Stand Qi-Certified for iPhone 15/14/13/12 Series SE",
+          "product_link": "https://www.google.com/shopping/product/1272358072725747080?gl=us",
+          "product_id": "1272358072725747080",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1272358072725747080",
+          "link": "https://www.anker.com/products/a2524?variant=37438027137174",
+          "links": [
+            "https://www.anker.com/products/a2524?variant=37438027137174",
+            "https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.ebay.com/itm/266163757583?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorockcv1EfgiLOFMCT3eU8iUqLkTYHaEaSQSeMMnKoBHUfcP2LfgAQ"
+          ],
+          "source": "Anker US",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d6566df2ddb1f762021a566259e926a44.png",
+          "price": "$23.99",
+          "extracted_price": 23.99,
+          "rating": 4.9,
+          "reviews": 9500,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsyDsoWXSgJovZGWF3Sb-fSSIE55qGuMutphan_mkSWkVhgEUumlfCtYAbPIO11EHd3FVltorhBd9PO7dO9CFMD_CRZH2DTZMmZNUa1IH_8cfyp0ytzU8pHnk",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 6,
+          "title": "MagEZ Stand for Tablets, MagEZ Charging Stand - Black available in the US only / Black/Grey (Twill)",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:213165991588321016",
+          "product_id": "213165991588321016",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=213165991588321016",
+          "link": "https://www.ipitaka.com/products/magez-stand?currency=USD&variant=40639666126918&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=0eeb518a2959",
+          "links": [
+            "https://www.ipitaka.com/products/magez-stand?currency=USD&variant=40639666126918&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=0eeb518a2959"
+          ],
+          "source": "ipitaka.com",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6dfc06d9a9f05dba2137e703ccd47ba3ae.png",
+          "price": "$102.99",
+          "extracted_price": 102.99,
+          "old_price": "$129",
+          "extracted_old_price": 129,
+          "rating": 4.8,
+          "reviews": 67,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsvBhP4FsygHnL6xL-bVS8_r6mwpYK9DilCbSaAp-s2yZzdOufCAg_ZIkxgENi39TS-Jtahjt5lho1uyOUpfVvJiBeyfjLUq1mpq6owTFwsdVQYoSc95d13w",
+          "tag": "20% OFF",
+          "extensions": [
+            "20% OFF"
+          ],
+          "delivery": "Free by 12/20"
+        },
+        {
+          "position": 7,
+          "title": "Dealworthy 10W Qi Charging Stand",
+          "product_link": "https://www.google.com/shopping/product/9818703287955610748?gl=us",
+          "product_id": "9818703287955610748",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9818703287955610748",
+          "link": "https://www.target.com/p/10w-qi-charging-stand-dealworthy-8482-black/-/A-91252351?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+          "links": [
+            "https://www.target.com/p/10w-qi-charging-stand-dealworthy-8482-black/-/A-91252351?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics&adgroup=80-8",
+            "https://www.doordash.com/product/198420077617?utm_source=Google&utm_medium=PLA&utm_campaign=organic_product_listing&business_id=956270&frt=18&srsltid=AfmBOooAZzKbQzcruqaJSQu683Px6Nad3md2nozKq554L1X-_hy152fRLL4&region_id=2833006",
+            "https://www.shipt.com/shop/products/101485620?srsltid=AfmBOor8MYfDUCZX_V9J9DOxvxC1jV-wbNGxUTYR5kcB2TjyLvbbLxdY904"
+          ],
+          "source": "Target",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685ca5a53071be2283c88a67d1ddf63e15e47ae2bc387be58e6d02b8a920636b8a39dc065fb062819a37.png",
+          "price": "$14.99",
+          "extracted_price": 14.99,
+          "rating": 4.4,
+          "reviews": 10,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2yd4-cQDr9jhZoF1c8st-6Rvyb7puBaSxxQCQbhE95-lo4L200PttJ-wFECe-4KtktXEOskgoo8Uyga2lC0sfCWec5JljJg",
+          "delivery": "Free $35+"
+        },
+        {
+          "position": 8,
+          "title": "G64D7 | Dell | Tablet Wireless Charging Stand Docking Station With Power Adapter",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9448951140769303926",
+          "product_id": "9448951140769303926",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9448951140769303926",
+          "link": "https://www.serverblink.com/g64d7-dell-tablet-wireless-charging-stand-docking-station-with-power-adapter/?srsltid=AfmBOorGEoE8RhkZNp4eLGDF8NX8nLrguHrzHgkJZaE09OpQvJ6f0rrNYAI",
+          "links": [
+            "https://www.serverblink.com/g64d7-dell-tablet-wireless-charging-stand-docking-station-with-power-adapter/?srsltid=AfmBOorGEoE8RhkZNp4eLGDF8NX8nLrguHrzHgkJZaE09OpQvJ6f0rrNYAI"
+          ],
+          "source": "serverblink.com",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSx4DWG5T6uK-ek82UXfoMf_aDQsyQW2rw9lTjIlBqPbj0FTqjnvSsjPP2qkHROu91fEZDZ81gfU17ZIJnU7RMp2fpd54wdM4U",
+          "price": "$25.40",
+          "extracted_price": 25.4,
+          "old_price": "$35",
+          "extracted_old_price": 35,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKB4EMnduB8nNVdsSSJeuJXhPR19F-Lvx1ZEa6pCxeG9wfDJxoIEVfpvmJO4uDfLAK7wzNb8-CdIgSbL1m4GmS9NStn1WCxg",
+          "tag": "28% OFF",
+          "extensions": [
+            "28% OFF"
+          ]
+        },
+        {
+          "position": 9,
+          "title": "Anker Wireless Charging Stand PowerWave 2-in-1 Magnetic Stand Lite with USB-C Cable",
+          "product_link": "https://www.google.com/shopping/product/12950607561609594688?gl=us",
+          "product_id": "12950607561609594688",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12950607561609594688",
+          "link": "https://www.walmart.com/ip/Anker-Wireless-Charging-Stand-PowerWave-2-in-1-Magnetic-Stand-Lite-Only-for-iPhone-13-Black/417948321?wmlspartner=wlpa&selectedSellerId=508",
+          "links": [
+            "https://www.walmart.com/ip/Anker-Wireless-Charging-Stand-PowerWave-2-in-1-Magnetic-Stand-Lite-Only-for-iPhone-13-Black/417948321?wmlspartner=wlpa&selectedSellerId=508",
+            "https://www.amazon.com/Anker-Wireless-Charging-PowerWave-Magnetic/dp/B094FMWPPM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.ebay.com/itm/387469548632?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorgRdo4k4589PyZeKjiZbrheK6G2fxnytqD829YBJRIqAH0PksResI"
+          ],
+          "source": "Walmart - AnkerDirect",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu7prefiWK_9aeR52iM1ELj5kzXwplMELdhwd-SLGrnHFu-1rYr5a923LrfwJBoCzLHFCevret0bypkEGIOPLpMsq-aVMtOA",
+          "price": "$39.99",
+          "extracted_price": 39.99,
+          "rating": 4.7,
+          "reviews": 19,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyc_xrqyxZIqWxDrEs3xrtZFpKkJghuGx7P_bA2UK7RqIaVM9a-aqZPrebjSEtqyxyrFkh7fQ4QNSEGxJQLsUoPr5COKj8qg",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 10,
+          "title": "Anker 313 Wireless Charging Stand Qi-Certified for iPhone 16/16 Pro/16 Pro Max/15/14/13",
+          "product_link": "https://www.google.com/shopping/product/742470410427564081?gl=us",
+          "product_id": "742470410427564081",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=742470410427564081",
+          "link": "https://www.newegg.com/p/359-00D8-001T6?item=9SIACCUCBB8139&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&source=region&srsltid=AfmBOopOUyfDQss4sLdYFTELLtuzFZ3bRUfSChS_QXt8qm6bONZuDPrvQWg",
+          "links": [
+            "https://www.newegg.com/p/359-00D8-001T6?item=9SIACCUCBB8139&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&source=region&srsltid=AfmBOopOUyfDQss4sLdYFTELLtuzFZ3bRUfSChS_QXt8qm6bONZuDPrvQWg",
+            "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Fast-Charging/dp/B083BTZY8Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.ebay.com/itm/365261527219?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOoqL-xATfyV0C79gWkYtMuPE57hlfEx8lqb0-5KzFGB2pbX4DI98FEo"
+          ],
+          "source": "Newegg.com - Anker Official Store",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEvDFQr5uS6Jmcd0oVk4co79j3Z3NuNXnM5zYQ94eT4Bn041REDEBBS7_MW6uLp9TEBJFlFBmfC4wO8sfqNF6ZZWSxG9In",
+          "price": "$16.99",
+          "extracted_price": 16.99,
+          "rating": 4.7,
+          "reviews": 7,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbkMaRMnMClEQs-Q-HM1rIJr19pGvPutuwaX9DUakZ5Dj5kKeHQfp5IO2WwN39p4qu3zJtVf44J1FwKt_jySxyfqJ5eKPD",
+          "delivery": "Free delivery"
+        }
+      ]
+    },
+    {
+      "title": "Fast wireless charging accessories",
+      "description": "These accessories provide faster wireless charging speeds, reducing the time it takes to fully charge your device. Look for chargers with features like Qualcomm Quick Charge or PD (Power Delivery).",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Anker 313 Wireless Charging Stand Qi-Certified for iPhone 16/16 Pro/16 Pro Max/15/14/13",
+          "product_link": "https://www.google.com/shopping/product/742470410427564081?gl=us",
+          "product_id": "742470410427564081",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=742470410427564081",
+          "link": "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Fast-Charging/dp/B083BTZY8Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+          "links": [
+            "https://www.amazon.com/Anker-Wireless-PowerWave-Qi-Certified-Fast-Charging/dp/B083BTZY8Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.newegg.com/p/359-00D8-001T6?item=9SIACCUCBB8139&nm_mc=knc-googleadwords&cm_mmc=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-cell%20phones%20-%20chargers-_-anker-_-9SIACCUCBB8139&source=region&srsltid=AfmBOopsLKhco0lNwM6Zv63E9MttExRM6n-8CEgzNNgYS_yue0w95z5vHrQ",
+            "https://www.ebay.com/itm/365261527219?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopj4pKxO2kundxcVX93gvqSvJt9_y7gapC6auSGmeJTKEVsjTlciss"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195ead56228c13d25fc333a98e515ec90abded.png",
+          "price": "$16.99",
+          "extracted_price": 16.99,
+          "rating": 4.7,
+          "reviews": 7,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQq-E3w7821tr383_bFv9wTzLV3ojS2K726M1JFDYsBZ8Cf_FYOIgiOUuAiZUISVNbv8lg0yY2z0g7EP5QVw5JnS8M-jGu2s-KGFhwrD3mI2R2Cq7ByIiBJRLE"
+        },
+        {
+          "position": 2,
+          "title": "NANAMI Fast Wireless Charger, Qi Certified Wireless Charging Stand with QC3.0 Adapter USB Charger for iPhone 16/16 Plus/16 Pro/16 Pro Max/15/14/13",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:16792842311289626440",
+          "product_id": "16792842311289626440",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16792842311289626440",
+          "link": "https://www.amazon.com/Wireless-Charger-NANAMI-Charging-Compatible/dp/B07H67SD3Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2QODQRJR2TSCG",
+          "links": [
+            "https://www.amazon.com/Wireless-Charger-NANAMI-Charging-Compatible/dp/B07H67SD3Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2QODQRJR2TSCG"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195eadeb53a9ba1c852d13c836801ae786137b.png",
+          "price": "$24.99",
+          "extracted_price": 24.99,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfMoaIIHsbsWSmL_wbNv6_tV02JWY49wbQtI4Eu7uMzCL4ShAR33m8po5LNokvK-HGytjRdKpJRmV8ej3Obrl-Cy4T5K1wGQM3PUVv8A_CsjSUcSuUVIw-"
+        },
+        {
+          "position": 3,
+          "title": "Wireless Charger 30W 30W Fast Wireless Charging Pad For iPhone 15 14 13 12 11 X 8",
+          "product_link": "https://www.google.com/shopping/product/11435862008925362718?gl=us",
+          "product_id": "11435862008925362718",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11435862008925362718",
+          "link": "https://www.amazon.com/Wireless-Charger-Charging-iPhone-Samsung/dp/B0CZ3S2L7C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A26YDL3IVEJYVE",
+          "links": [
+            "https://www.amazon.com/Wireless-Charger-Charging-iPhone-Samsung/dp/B0CZ3S2L7C?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A26YDL3IVEJYVE"
+          ],
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195ead65358c7a4b11fef6d8d442ff7698ae73.png",
+          "price": "$13.99",
+          "extracted_price": 13.99,
+          "old_price": "$15",
+          "extracted_old_price": 15,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRR62ekokxL5x5hlYTmiww8kpIH5KX_EHQyjoQMWq-vOYcf1KLHq1scg-bXph6dG1QPI58n3T-3vPX9ADHnjMhfXr57zOsO9XiWWaDobFE",
+          "tag": "6% OFF",
+          "extensions": [
+            "6% OFF"
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Fast Wireless Charger 20W Max Fast Wireless Charging Stand for iPhone",
+          "product_link": "https://www.google.com/shopping/product/6011522540182677312?gl=us",
+          "product_id": "6011522540182677312",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6011522540182677312",
+          "link": "https://www.walmart.com/ip/Fast-Wireless-Charger-20W-Max-Fast-Wireless-Charging-Stand-for-iPhone-Samsung/2070883495?wmlspartner=wlpa&selectedSellerId=102485085",
+          "links": [
+            "https://www.walmart.com/ip/Fast-Wireless-Charger-20W-Max-Fast-Wireless-Charging-Stand-for-iPhone-Samsung/2070883495?wmlspartner=wlpa&selectedSellerId=102485085",
+            "https://www.walmart.com/ip/Fast-Wireless-Charger-20W-Max-Fast-Wireless-Charging-Stand-for-iPhone-Samsung/2070883495?wmlspartner=wlpa&selectedSellerId=101086168",
+            "https://www.walmart.com/ip/Fast-Wireless-Charger-20W-Max-Fast-Wireless-Charging-Stand-for-iPhone-Samsung/2070883495?wmlspartner=wlpa&selectedSellerId=101126452"
+          ],
+          "source": "Walmart - foshanshichongjidishangmao",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195eade5690ee43f701f0c835a3f2b123c9178.png",
+          "price": "$10.52",
+          "extracted_price": 10.52,
+          "old_price": "$24",
+          "extracted_old_price": 24,
+          "rating": 2.6,
+          "reviews": 16,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvi6lyfMCgKBBNrtJm-RjEeUO_1LipoHMgCjs5zwVrcWpww37oaaJ9ZI4qkOR5uqed69c_dEsz_z-y-VJjTEPNoI2fg8qS",
+          "tag": "56% OFF",
+          "extensions": [
+            "56% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 5,
+          "title": "Anker MagGo Wireless Charging Station",
+          "product_link": "https://www.google.com/shopping/product/13333129633538114024?gl=us",
+          "product_id": "13333129633538114024",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13333129633538114024",
+          "link": "https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible",
+          "links": [
+            "https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible",
+            "https://www.amazon.com/Compatible-Anker-Charging-Certified-Wireless/dp/B0CF56WHV4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.walmart.com/ip/Anker-MagGo-3-in-1-Charging-Station-Qi2-Certified-15W-MagSafe-Compatible-Wireless-Charger-Stand-Black-40W-USB-C-Charger-Included/5356704803?wmlspartner=wlpa&selectedSellerId=508"
+          ],
+          "source": "Anker US",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195ead8d6e7568b3c98a17fb650922fb6efd8e.png",
+          "price": "$82.49",
+          "extracted_price": 82.49,
+          "old_price": "$110",
+          "extracted_old_price": 110,
+          "rating": 4.7,
+          "reviews": 410,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRc-YLd50JDti-MUS1Infd-Gj-B53xe0kZ44HsMYEsnlgCl_VHlzFa5xX3k3-9lusa21rKQvaBHdTgjCnq7x05M-xZlkD5nqQ",
+          "tag": "25% OFF",
+          "extensions": [
+            "25% OFF"
+          ],
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 6,
+          "title": "mophie 4-in-1 Wireless Charging Mat",
+          "product_link": "https://www.google.com/shopping/product/10105186493121563984?gl=us",
+          "product_id": "10105186493121563984",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10105186493121563984",
+          "link": "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+          "links": [
+            "https://www.bestbuy.com/site/mophie-4-in-1-universal-wireless-charging-mat-black/6445094.p?skuId=6445094&utm_source=feed",
+            "https://www.bhphotovideo.com/c/product/1823888-REG/mophie_401306598_4_in_1_wireless_charging_mat.html?kw=MO401306598&ap=y&smp=Y&BI=E7249&srsltid=AfmBOooGMZ4KzjWdwdXfZSGNAZxAbZpYyc1F-d1kFugs83u5UtBKEjSnX30",
+            "https://www.rushordertees.com/catalog/mophie/r-4-in-1-wireless-charging-mat/?color=c346&size=ONE%20SIZE&sample_design_id=8780797&shopping=true&opl=true&utm_medium=organicpla&srsltid=AfmBOort_Sx_eQQbh-pWkNrA1FKPKra7ljI2jpGCBY_lxC4X1mO28H989co"
+          ],
+          "source": "Best Buy",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195ead69d44e9b9fc206eda63080227e011be4.png",
+          "price": "$104.99",
+          "extracted_price": 104.99,
+          "old_price": "$150",
+          "extracted_old_price": 150,
+          "rating": 3.8,
+          "reviews": 325,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe5gH5vWcvSwgt245T5Li2UIS1fmLwDUbjjq0DTBnpqJGGzwI0cEur9Ca3xLMhhSvo77_IIxP_r7_XP_Tv17RApE1Z_Ey_8tWJjc9y9QGfrwfHAxIJX08i9A",
+          "tag": "30% OFF",
+          "extensions": [
+            "30% OFF"
+          ],
+          "delivery": "Free by 12/17"
+        },
+        {
+          "position": 7,
+          "title": "Anker 313 Wireless Charger Slim Pad 10W Qi-Certified Charging for iPhone 12",
+          "product_link": "https://www.google.com/shopping/product/11859917371136447922?gl=us",
+          "product_id": "11859917371136447922",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11859917371136447922",
+          "link": "https://www.anker.com/products/a2503?variant=39295736283286",
+          "links": [
+            "https://www.anker.com/products/a2503?variant=39295736283286",
+            "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.walmart.com/ip/Anker-Wireless-Charger-313-Charger-Pad-Qi-Certified-10W-Max-iPhone-12-12-Pro-12-mini-12-Pro-Max-SE-2020-11-AirPods-No-AC-Adapter-Not-Compatible-MagSa/993997336?wmlspartner=wlpa&selectedSellerId=508"
+          ],
+          "source": "Anker US",
+          "source_icon": "https://serpapi.com/searches/6757dbe0819c75e7de487159/images/1e544bf7cc29b64d232475b5e87440407526b0af8878685c874c94f73c8e50b2ca6dc710b2f0dd3761a70fb6aa195ead46517e847ba07f3b095c7e22105e89d6.png",
+          "price": "$13.99",
+          "extracted_price": 13.99,
+          "rating": 4.7,
+          "reviews": 2000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWiiPWPcaQeT2Ls2nv0c-lafovf_5rYwZa2lpp8AA7MaO6Zx_B1rfe2Pkv3QDb8PLwJlXuqcaFwcXRJIiCZpEj-dtCQmP7XHOi-o8xQsyTXaCDQGR_0oGM_Q",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 8,
+          "title": "Samsung Black Fast Charge Wireless Charging Convertible EP-PG950TBEGUS",
+          "product_link": "https://www.google.com/shopping/product/3650187739148040890?gl=us",
+          "product_id": "3650187739148040890",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3650187739148040890",
+          "link": "https://www.target.com/p/samsung-qi-certified-fast-charge-wireless-charging-convertible-stand-pad-us-version-black-ep-pg950tbegus/-/A-1000900450?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=57-0",
+          "links": [
+            "https://www.target.com/p/samsung-qi-certified-fast-charge-wireless-charging-convertible-stand-pad-us-version-black-ep-pg950tbegus/-/A-1000900450?ref=tgt_adv_xsf&AFID=google&CPNG=Electronics+-+Target+Plus&adgroup=57-0",
+            "https://www.amazon.com/Samsung-Certified-Wireless-Charging-Convertible/dp/B06XH4X7SZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3HAK66B5FRD6G",
+            "https://www.mercari.com/us/item/m60420630305/?srsltid=AfmBOop44RYeBOBoB-n-bQ6PK9bH2PWBXP2qydS-a32HHOrqe3zDWvxO5tM"
+          ],
+          "source": "Target",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+          "price": "$49.97",
+          "extracted_price": 49.97,
+          "rating": 4.2,
+          "reviews": 979,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7P37FbzPbUnsBtCbvDzYfz03coWA4-DzdYlcJPpU0LuutSE3I78bKxtqoWXIE_w_-sQbSz0n6VNfO0kYt3k2shYqwlmF4Dg",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 9,
+          "title": "UGREEN 2-in-1 Foldable Wireless Fast Charging Station",
+          "product_link": "https://www.google.com/shopping/product/14364871836312220296?gl=us",
+          "product_id": "14364871836312220296",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14364871836312220296",
+          "link": "https://www.ugreen.com/products/ugreen-2-in-1-foldable-wireless-fast-charging-station?variant=41166298644542&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo6p-PWWsshkCpc40-6T1oIDeuI4BSaqCOYmftn9GoRq3FsXc1BQRk",
+          "links": [
+            "https://www.ugreen.com/products/ugreen-2-in-1-foldable-wireless-fast-charging-station?variant=41166298644542&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoo6p-PWWsshkCpc40-6T1oIDeuI4BSaqCOYmftn9GoRq3FsXc1BQRk",
+            "https://www.amazon.com/UGREEN-Magnetic-Foldable-Charging-Compatible/dp/B0CPDJLJ67?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AKXVBT49GGF3B",
+            "https://www.ugreen.com/products/ugreen-2-in-1-foldable-wireless-fast-charging-station?currency=USD&variant=41166298644542&stkn=474c21a5f257&srsltid=AfmBOoqxdGLpdIZrVwicwUbA1UkKYCUytHIZkIiBfx45yOImeW2zqxJOVJ8"
+          ],
+          "source": "Ugreen",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjk268g1vly2lYfHyCPq6wjFtjVZNjRCZAJHMPSXyECmkfr3zPZMgMHhk_WZCjJN3BkfTZqOfmv3thT327JmJzdB81M37SCA",
+          "price": "$27.99",
+          "extracted_price": 27.99,
+          "old_price": "$40",
+          "extracted_old_price": 40,
+          "rating": 4.7,
+          "reviews": 27,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvBqEX9Nu4UFwGHe0IQncz9lb3m2aSOoglwdcvmNZB8DtZusvfOZJm8XMXErV92lguu8bmno_qeNRq1qyepEgtMy1kPrAxct9m3Ux5D2dlepmBf0DrrDsLeVkZ",
+          "tag": "30% OFF",
+          "extensions": [
+            "30% OFF"
+          ],
+          "delivery": "Free by 12/18"
+        },
+        {
+          "position": 10,
+          "title": "Samsung Duo Fast Wireless Charger Pad",
+          "product_link": "https://www.google.com/shopping/product/7913389988088097418?gl=us",
+          "product_id": "7913389988088097418",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7913389988088097418",
+          "link": "https://www.samsung.com/us/mobile/mobile-accessories/phones/15w-wireless-charger-duo-with-ta-dark-gray-ep-p5400tbegus/",
+          "links": [
+            "https://www.samsung.com/us/mobile/mobile-accessories/phones/15w-wireless-charger-duo-with-ta-dark-gray-ep-p5400tbegus/",
+            "https://www.amazon.com/SAMSUNG-Wireless-Cordless-Charging-Microfiber/dp/B0BNW9CVJ8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AEYJD57BBX5VO",
+            "https://www.walmart.com/ip/Samsung-15W-Wireless-Charger-Duo-w-USB-C-Cable-Charge-2-Devices-at-Once-Cordless-Super-Fast-Charging-Pad-for-Galaxy-Phones-and-Devices-Black/5258440459?wmlspartner=wlpa&selectedSellerId=0"
+          ],
+          "source": "Samsung",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQT0wFWP_Os4s9ndXitSUsMmEmNp2BhsKnX-8Jc0muXamMk8c2kmKcRzSecKyOFVQPl1BW5XxBJnuZ0aFivKr3Wvr-NRbRJu-w",
+          "price": "$89.99",
+          "extracted_price": 89.99,
+          "rating": 3.1,
+          "reviews": 264,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkUVtBe5HlIuw22hLOEsW6TYmGgOfGXyQhUpw2usio8fyzg9fcKlWsMOt8qb6QtcP_8Qk856wblwu3O-vbWq1sA1GaN6NLzEw0qCIiDejTQGHAsJLYPn1iLA",
+          "delivery": "Free delivery"
+        }
+      ]
+    },
+    {
+      "title": "Qi2 certified chargers",
+      "description": "Qi2 is the latest generation of the Qi wireless charging standard, offering improved efficiency, faster charging speeds, and more precise alignment. Look for chargers that are officially Qi2 certified.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "Anker MagGo Magnetic Wireless Charger Qi2 Certified 15W Ultra-Fast MagSafe Compatible Wireless Charger",
+          "product_link": "https://www.google.com/shopping/product/14285238525246542216?gl=us",
+          "product_id": "14285238525246542216",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14285238525246542216",
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$24.29",
+          "extracted_price": 24.29,
+          "rating": 4.5,
+          "reviews": 101,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRq6e12rcvCfP9UVnQMyuiGu8XixDRGQFMJ1y8w95oOl4A_pzAbAcSIKsILkyC2CWnws_BdYE0uNq0WZgUNP-pOsLLVHbD84rwap6k83naoGiPz0cybZiH84A"
+        },
+        {
+          "position": 2,
+          "title": "UGREEN Qi2 15W MagFlow Wireless Charger 2-in-1 MagSafe Fast Charging Station",
+          "product_link": "https://www.google.com/shopping/product/3541997878380127530?gl=us",
+          "product_id": "3541997878380127530",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3541997878380127530",
+          "source": "Ugreen",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjk268g1vly2lYfHyCPq6wjFtjVZNjRCZAJHMPSXyECmkfr3zPZMgMHhk_WZCjJN3BkfTZqOfmv3thT327JmJzdB81M37SCA",
+          "price": "$49.99",
+          "extracted_price": 49.99,
+          "rating": 4.5,
+          "reviews": 2,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEIHaquBpOmAZqGVVIVoyIbTGL6NdRvIbEtbO4SgTvf5jbp3K_m3NNpl7V_8pWtUW9ipgdmnGT4sh27KI0WGXVEYIX9moT1SCH4xZfzmst540h0EsTSXamvw",
+          "delivery": "Free by 12/18"
+        },
+        {
+          "position": 3,
+          "title": "Belkin BoostCharge Pro 2-in-1 Magnetic Qi2 Charging Foldable Travel Pad",
+          "product_link": "https://www.google.com/shopping/product/9239141042663343902?gl=us",
+          "product_id": "9239141042663343902",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9239141042663343902",
+          "source": "Belkin",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRSdmMRNCUtdULpSh1-2jMqN5Qg1OR_CyTqyTSjGO50HoxZJO3Wqa5l8r964BbDKzoAX6kJNNNAUCpOMDuv4ptQzxEUVNKfXQ",
+          "price": "$119.99",
+          "extracted_price": 119.99,
+          "rating": 4.9,
+          "reviews": 142,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFcc3zwm5JHRCFPRTa8qG5v7UckzLy5RkDCFT8Tz7xnD6PTuB_evNjz2N364mRpcSyf0l-HOgTv2DfHhYWPleOWOfCrT1d5DCfL_qmPO4_YykbDUguJbnAlQ",
+          "delivery": "Free by 12/16"
+        },
+        {
+          "position": 4,
+          "title": "Mous Charging Stand with Qi2 ? Aramid Fibre",
+          "product_link": "https://www.google.com/shopping/product/14025345412243723491?gl=us",
+          "product_id": "14025345412243723491",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14025345412243723491",
+          "source": "Mous",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQnGlG5-dyzIurQcxGqZDj9S6agqAL6Wg3RH6lMRjGIEPjNFgvSTsjUzTjX8y79LOJXpshZ9UHDwybxFIgINd86GsUV5A",
+          "price": "$69.99",
+          "extracted_price": 69.99,
+          "old_price": "$100",
+          "extracted_old_price": 100,
+          "rating": 5,
+          "reviews": 1,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQqQa37X-iTb7JW1mkWT6r2UHsERMlZqjz8KCOozkx-BSeqFtpYTjkSF2lUOy--pGb6-jcTdbgeO8bFACMShztIaNSk4pevi3xG5WYHM0KPSm82-rKXvGo21j7",
+          "tag": "30% OFF",
+          "extensions": [
+            "30% OFF"
+          ],
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 5,
+          "title": "Qi2 3-in-1 Wireless Charging Station with CryoBoost",
+          "product_link": "https://www.google.com/shopping/product/17133345560737346572?gl=us",
+          "product_id": "17133345560737346572",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17133345560737346572",
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$69.99",
+          "extracted_price": 69.99,
+          "old_price": "$90",
+          "extracted_old_price": 90,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5vfUtBJYKiDByBnjqXgF7hZMVUO_H08puMkUi_TA98vzLuSzwkS-_Ep3EgCEpnzvYv_-SFbCousLlMXkOXnlNj7PfMMX8oGBQyJbdfr8",
+          "tag": "22% OFF",
+          "extensions": [
+            "22% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 6,
+          "title": "Anker 313 Wireless Charger Slim Pad 10W Qi-Certified Charging for iPhone 12",
+          "product_link": "https://www.google.com/shopping/product/11859917371136447922?gl=us",
+          "product_id": "11859917371136447922",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11859917371136447922",
+          "link": "https://www.anker.com/products/a2503?variant=39295736283286",
+          "links": [
+            "https://www.anker.com/products/a2503?variant=39295736283286",
+            "https://www.amazon.com/Anker-Wireless-PowerWave-Upgraded-Fast-Charging/dp/B07THHQMHM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A294P4X9EWVXLJ",
+            "https://www.walmart.com/ip/Anker-Wireless-Charger-313-Charger-Pad-Qi-Certified-10W-Max-iPhone-12-12-Pro-12-mini-12-Pro-Max-SE-2020-11-AirPods-No-AC-Adapter-Not-Compatible-MagSa/993997336?wmlspartner=wlpa&selectedSellerId=508"
+          ],
+          "source": "Anker US",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRcmC0ebSRX6aSf25R3yweP--HgWrAJQvOGbRiqRjQuiVwg2GqQARNIKXA9kQTr3FO0VVuUas6QjOjV3LXLP5j2Miq37eIV",
+          "price": "$13.99",
+          "extracted_price": 13.99,
+          "rating": 4.7,
+          "reviews": 2000,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWiiPWPcaQeT2Ls2nv0c-lafovf_5rYwZa2lpp8AA7MaO6Zx_B1rfe2Pkv3QDb8PLwJlXuqcaFwcXRJIiCZpEj-dtCQmP7XHOi-o8xQsyTXaCDQGR_0oGM_Q",
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 7,
+          "title": "UGREEN 2-in-1 Qi2 Magnetic Foldable Fast Charging Station",
+          "product_link": "https://www.google.com/shopping/product/14800721180149950871?gl=us",
+          "product_id": "14800721180149950871",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14800721180149950871",
+          "source": "Ugreen",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjk268g1vly2lYfHyCPq6wjFtjVZNjRCZAJHMPSXyECmkfr3zPZMgMHhk_WZCjJN3BkfTZqOfmv3thT327JmJzdB81M37SCA",
+          "price": "$59.99",
+          "extracted_price": 59.99,
+          "rating": 4.5,
+          "reviews": 18,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSG3PsQ1hMZR--b5xB4oCgCPxMsqeBeFYS8tCng9X3g7BFUzmLCepsmelxkviMbBRu_KWuvSM5-Rmr1LQwGZTANBV9p7fLRO3v2OtLa_UbHfmuHhyT2cuJG8IdS",
+          "delivery": "Free by 12/18"
+        },
+        {
+          "position": 8,
+          "title": "Anker MagGo Wireless Charging MagSafe Charger Compatible",
+          "product_link": "https://www.google.com/shopping/product/13125901408600099836?gl=us",
+          "product_id": "13125901408600099836",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13125901408600099836",
+          "source": "Anker US",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRcmC0ebSRX6aSf25R3yweP--HgWrAJQvOGbRiqRjQuiVwg2GqQARNIKXA9kQTr3FO0VVuUas6QjOjV3LXLP5j2Miq37eIV",
+          "price": "$28.79",
+          "extracted_price": 28.79,
+          "old_price": "$36",
+          "extracted_old_price": 36,
+          "rating": 4.4,
+          "reviews": 7,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8ebhjmUHvKAVcyI_BJM7defl9drndVPMch8rXpxiXVisX_-q6U2XigBBP4cXvIQRQb4vBRIGbV6RYsUA5SurasiJxlwCPBYYyy5cb2HFOYMyrPSgX4zScIQ",
+          "tag": "20% OFF",
+          "extensions": [
+            "20% OFF"
+          ],
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 9,
+          "title": "AUKEY LC-MC10 Qi2 Magnetic Wireless Charger",
+          "product_link": "https://www.google.com/shopping/product/17832422857941719654?gl=us",
+          "product_id": "17832422857941719654",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17832422857941719654",
+          "source": "aukey.com",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS7PYijDwnu531xut6HWUbLCMtIO3v7-KAvPcKyJlTIDStECs_YBPvXNmuxWf9uj66KlurzMu6NgOewAOGsy_Wl7XMmMoBx",
+          "price": "$17.49",
+          "extracted_price": 17.49,
+          "old_price": "$25",
+          "extracted_old_price": 25,
+          "rating": 4.5,
+          "reviews": 47,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVNwJ6KCSLgztXxPqY0xNyb5On0oMVRaJaXo9mvpQCM6xjf8BNYfvoPsCMWmuW-pQYaA9mbI4EYXyf3n3m4oln23nZRaTobjtwTAsXzt_s_gAgZ7Vw4FrUrq4",
+          "tag": "30% OFF",
+          "extensions": [
+            "30% OFF"
+          ]
+        },
+        {
+          "position": 10,
+          "title": "KUXIU X40Q Qi2 3-In-1 Foldable Magnetic Wireless Charging Station - Gray",
+          "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3257775955869056920",
+          "product_id": "3257775955869056920",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3257775955869056920",
+          "source": "KUXIU",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTD2O578J2jIBBm-v0rQ-n7mgSzB41PCCd3de88UgA7uUWIuSq2FoXp2UMMO4-GVry2TcKbZ1iesYW9ZNox4yE6qQ",
+          "price": "$79.99",
+          "extracted_price": 79.99,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUSjquKCohHNX6YmW_EL9J-e0iKfoxUmRDgNLXKLD4g8yMMvTUKQ-VEQntzrn_FLl2xw3o9NHEpxsaliNBmYNEol4krZE_6CS2MqzWs9umggZhT_CVayrHj4k",
+          "delivery": "Free by 12/24"
+        }
+      ]
+    },
+    {
+      "title": "Wireless car chargers",
+      "description": "These chargers are designed to be used in your car, providing a convenient way to charge your smartphone while driving. They come in various designs like vent mounts, dashboard mounts, and magnetic mounts.",
+      "shopping_results": [
+        {
+          "position": 1,
+          "title": "LISEN for Magsafe Car Mount Charger 15W Fast Charging Magnetic Wireless Car Charger",
+          "product_link": "https://www.google.com/shopping/product/5843937585406068288?gl=us",
+          "product_id": "5843937585406068288",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5843937585406068288",
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$23.99",
+          "extracted_price": 23.99,
+          "old_price": "$30",
+          "extracted_old_price": 30,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnEbb_O75eKgtmfCO0Nt9d58wDK38nl6BI8yUczUpmjgXJ-LAg4wTgXAvQftdhpzMPHuyvJUr2IaOLe8SPuGgR7aDS6GMH6AMDjr1neHOl",
+          "tag": "20% OFF",
+          "extensions": [
+            "20% OFF"
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Wireless Car Charger, WixGear Auto-Clamping Fast Wireless Car Charger, Air Vent Holder for Car, 15W Qi Fast Charging Compatible iPhone 11, Xs/MAX/XS",
+          "product_link": "https://www.google.com/shopping/product/14502483168329394658?gl=us",
+          "product_id": "14502483168329394658",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14502483168329394658",
+          "source": "Amazon.com - Seller",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+          "price": "$29.99",
+          "extracted_price": 29.99,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1s7jH2m_AvLBcEeAqApHAKAcSHl0hHKnwzWNqlzw2yUIdJswT1TfgO5TUQc2kOxB4fCu9COrxhE89fWgHeNaGfJfrG9Ubf6ulm2TMPGW2"
+        },
+        {
+          "position": 3,
+          "title": "Anker MagGo Wireless Car Charger",
+          "product_link": "https://www.google.com/shopping/product/985174560889715294?gl=us",
+          "product_id": "985174560889715294",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=985174560889715294",
+          "source": "Anker US",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRcmC0ebSRX6aSf25R3yweP--HgWrAJQvOGbRiqRjQuiVwg2GqQARNIKXA9kQTr3FO0VVuUas6QjOjV3LXLP5j2Miq37eIV",
+          "price": "$39.99",
+          "extracted_price": 39.99,
+          "old_price": "$60",
+          "extracted_old_price": 60,
+          "rating": 3.7,
+          "reviews": 15,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZnEpiuhC1KKi6JX_lyxy36kqvcJfg5az9YF4kDRwovb43g7aDA0d7nqNKccVk_f8MMjTr5ir66012De0gx8SFrx5pwGaW5x6BLw5MnglYjYv8Au7Ac6en",
+          "tag": "33% OFF",
+          "extensions": [
+            "33% OFF"
+          ],
+          "delivery": "Free by 12/19"
+        },
+        {
+          "position": 4,
+          "title": "mophie Magnetic Wireless Charging Car Vent Mount",
+          "product_link": "https://www.google.com/shopping/product/1226415535982878274?gl=us",
+          "product_id": "1226415535982878274",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1226415535982878274",
+          "source": "Apple",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+          "price": "$69.95",
+          "extracted_price": 69.95,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGSNz46wp9-e0fi1rub3nvqPzd3aCZvokkLIAO8WznZHGUTpQX7-tVSzWAEfnfRpzpbB20PyBtGEFk1OCV_lomRHXxXsiKbzvzyfjzofWC8QaKpi7q-z1h",
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 5,
+          "title": "Pioneer SDA-WC01 Universal Qi Wireless Charger for Vehicles",
+          "product_link": "https://www.google.com/shopping/product/6541269162774922371?gl=us",
+          "product_id": "6541269162774922371",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6541269162774922371",
+          "source": "Walmart - Drive In Autosound",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+          "price": "$19.95",
+          "extracted_price": 19.95,
+          "old_price": "$30",
+          "extracted_old_price": 30,
+          "rating": 4.4,
+          "reviews": 5,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqq2JA4vgecT6AhFMKsB3dA0SA4Ruoe8r8n_K4PbcUMA1BjaV3fysoTjwow2n3uZ9brX5_TlGfo_S5uThGzFwNt_ujtfCT",
+          "tag": "33% OFF",
+          "extensions": [
+            "33% OFF"
+          ],
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 6,
+          "title": "Peak Design Mobile Car Mount Vent Charging v2",
+          "product_link": "https://www.google.com/shopping/product/2854136611748361256?gl=us",
+          "product_id": "2854136611748361256",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2854136611748361256",
+          "source": "Peak Design",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR8CcO0ZcMNJFg07Z-M8gkbY2u55q9Sf4QE5LPYoRH6Ml8_Bq-Mbv6wGTu5MNHwkAwIsaH-fu7dNuIi-NoRWKQEU7zA6G17AGCDT5Y",
+          "price": "$99.95",
+          "extracted_price": 99.95,
+          "rating": 5,
+          "reviews": 5,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvTsZGHgwwkipiE4M6avIgSsYcHIoTYrM6SXx4Cv-rIkpQikW7mLvyPjHdMubA-EY_9uwR8cFS-7i8ce-_DWbUfjr1eo_oe3kutcEF5uXtj8jMjjPpABrx6y0t",
+          "delivery": "Free delivery"
+        },
+        {
+          "position": 7,
+          "title": "iOttie Easy One Touch Wireless 2 Mount",
+          "product_link": "https://www.google.com/shopping/product/13668012699017228219?gl=us",
+          "product_id": "13668012699017228219",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13668012699017228219",
+          "source": "Best Buy",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+          "price": "$49.99",
+          "extracted_price": 49.99,
+          "rating": 4.3,
+          "reviews": 1500,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRv0QnmTxcsllQBOpPkCjQYYaJpeLb4AcxaNw_NmE4HYzH2zPsLk7Vvix8QBzlBo33N1B19HRiJ9VgS-n0n8JdD9V-R6Oghx3ckSHp1qZc",
+          "delivery": "Free by 12/17"
+        },
+        {
+          "position": 8,
+          "title": "iOttie Velox Qi2 Wireless Air Vent Mount",
+          "product_link": "https://www.google.com/shopping/product/2212340764361594395?gl=us",
+          "product_id": "2212340764361594395",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2212340764361594395",
+          "source": "Best Buy",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+          "price": "$46.99",
+          "extracted_price": 46.99,
+          "old_price": "$50",
+          "extracted_old_price": 50,
+          "rating": 4.4,
+          "reviews": 19,
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4nA0qaNVfHlOSCsrMCzU3l6uH6eWKCORLy7SdNjj6fd2GAk3pIN0fC80pPoRPMja4oxCEizqzw6_YXzsFLiToefiuUIFA_nbyNJGxvC5Qnp1zQEdFQjsFow",
+          "tag": "6% OFF",
+          "extensions": [
+            "6% OFF"
+          ],
+          "delivery": "Free by 12/17"
+        },
+        {
+          "position": 9,
+          "title": "Belkin BoostCharge Pro Wireless Car Charger With Official MagSafe Charging 15W WIC008BTGR",
+          "product_link": "https://www.google.com/shopping/product/254913369490130329?gl=us",
+          "product_id": "254913369490130329",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=254913369490130329",
+          "source": "Crutchfield",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0AOCeg3MLNx7lMFnSsc94wm_vYGq9cViyPf7dngSAHgtJnFPpDlQW8nY_5JqoTLnARwiUeihSf9Ez8U0a0JFfSf53bwtp9SXyCxMi",
+          "price": "$67.49",
+          "extracted_price": 67.49,
+          "old_price": "$100",
+          "extracted_old_price": 100,
+          "rating": 4.5,
+          "reviews": 53,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQsAhylfVyD6WICwP4u8_VxNpff3SQIm44_k4baZSIqidwYWrrqg449onr1uVK5jm-1boDxNkUgYOLGN0jb2Ttjrnc0L7QfAOWdBCmXqdLf",
+          "tag": "32% OFF",
+          "extensions": [
+            "32% OFF"
+          ],
+          "delivery": "Free 2-day"
+        },
+        {
+          "position": 10,
+          "title": "Xtreme XWC81004QIB XWC81004QIB Qi Fast Wireless Car Charger Vent Mount",
+          "product_link": "https://www.google.com/shopping/product/6397635278871149146?gl=us",
+          "product_id": "6397635278871149146",
+          "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6397635278871149146",
+          "source": "Target",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+          "price": "$22.39",
+          "extracted_price": 22.39,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmL4gYBPz0zt95bMR6q-SkUaZW6wmcgOA28dzDzw5AuvVT0_396-t2wtiTTSwkASudyidsczd0vWnWFu49soa7s40LoO4ZcA",
+          "delivery": "Free $35+"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&direct_link=true&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=5&q=Wireless+Charging&start=10"
+  }
+}
