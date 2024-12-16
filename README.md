@@ -2,7 +2,7 @@
 
 This repo demonstrates building a Gift Ideas AI Multi Agent to perform tasks such as retrieving gift ideas from various sources via REST APIs, using LangGraph to define workflows.
 
-![](docs/gift-ideas-ai-multi-agent.svg)
+![](docs/gift-ideas-ai-multi-agent-lgs.svg)
 
 ## Run the code locally
 

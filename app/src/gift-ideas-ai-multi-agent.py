@@ -173,6 +173,18 @@ def scour_the_internet(state: IdeaList) -> Command[Literal["web_search_agent"]]:
     return Send("web_search_agent", {"shopper_type": idea.shopper_type, "search_query": search_query})
 
 def web_search_agent(state: SearchQuery) -> Command[Literal["final_gift_recommendations"]]:
+  """
+  Perform a web search based on the provided search query and shopper type.
+
+  This function simulates web search results if the environment variable USE_SIMULATE_SEARCH is set to "true".
+  Otherwise, it performs a real search using the SerpAPI.
+
+  Args:
+    state (SearchQuery): The search query state containing the search query and shopper type.
+
+  Returns:
+    Command[Literal["final_gift_recommendations"]]: A command to proceed to the final gift recommendations step with the search results.
+  """
   logger.info(f"-"*50)
   logger.info(f"SearchQuery state: {state}")
   logger.info(f"-"*50)
