@@ -21,17 +21,21 @@ log_formatted_str = "%(asctime)s [%(name)s] [%(levelname)s] [%(funcName)s] %(mes
 logging.basicConfig(level=logging.INFO, format=log_formatted_str)
 logger = logging.getLogger(__name__)
 
-### LLM
+max_results = 100
+
+### Setup LLM Connection
 
 llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
-### Schema
+### Define AI Shopper Personas, Agent State
+
+AI_SHOPPER_PERSONAS = Literal["Enthusiast", "Essentialist", "Frugalist"]
 class GiftShopper(BaseModel):
   topic: str # Gift Shopping topic
   max_ideas: int # Number of ideas to generate
 
 class SearchQuery(BaseModel):
-  shopper_type: Literal["Enthusiast", "Essentialist", "Frugalist"]
+  shopper_type: AI_SHOPPER_PERSONAS
   search_query: Annotated[str, operator.add]
 
 class Idea(BaseModel):
@@ -41,7 +45,7 @@ class Idea(BaseModel):
     description: str = Field(
         description="Description of the Idea",
     )
-    shopper_type: Literal["Enthusiast", "Essentialist", "Frugalist"] = Field(
+    shopper_type: AI_SHOPPER_PERSONAS = Field(
       description="Shopper Type",
     )
 
@@ -52,80 +56,19 @@ class WebSearchResult(BaseModel):
   title: str
   link: str
   source: str
-  shopper_type: Literal["Enthusiast", "Essentialist", "Frugalist"]
+  shopper_type: AI_SHOPPER_PERSONAS
   position: int
   thumbnail: str
   price: str
   tag: str
   product_link: str
 
-
 class WebSearchList(BaseModel):
   search_results: Annotated[list[WebSearchResult], operator.add]
 
 
-### Nodes and edges
+### Define agent nodes in the state machine
 
-def final_gift_recommendations(state: WebSearchList):
-  logger.debug("Finalizing report")
-  html_output = """
-  <html>
-  <head>
-    <style>
-      body { font-family: Arial, sans-serif; margin: 20px; }
-      table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
-      th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-      th { background-color: #f2f2f2; }
-      h2 { color: #333; }
-      .thumbnail { width: 100px; }
-    </style>
-  </head>
-  <body>
-  """
-
-  shopper_types = ["Enthusiast", "Essentialist", "Frugalist"]
-  for shopper_type in shopper_types:
-    filtered_results = [result for result in state.search_results if result.shopper_type == shopper_type]
-    filtered_results.sort(key=lambda x: x.position)
-    top_results = filtered_results[:3]
-
-    html_output += f"<h2>Top 3 Choices for {shopper_type}</h2>"
-    html_output += """
-    <table>
-      <tr>
-        <th>Position</th>
-        <th>Thumbnail</th>
-        <th>Title</th>
-        <th>Link</th>
-        <th>Source</th>
-        <th>Price</th>
-        <th>Tag</th>
-      </tr>
-    """
-    for result in top_results:
-      html_output += f"""
-      <tr>
-        <td>{result.position}</td>
-        <td><img src="{result.thumbnail}" class="thumbnail" /></td>
-        <td>{result.title}</td>
-        <td><a href="{result.link}" target="_blank">{result.link}</a></td>
-        <td>{result.source}</td>
-        <td>{result.price}</td>
-        <td>{result.tag}</td>
-      </tr>
-      """
-    html_output += "</table>"
-
-  html_output += """
-  </body>
-  </html>
-  """
-
-  with open("gift_recommendations.html", "w") as f:
-    f.write(html_output)
-  logger.info("HTML output saved as 'gift_recommendations.html'")
-
-# Command[Literal["gift_shopper_the_enthusiast", "gift_shopper_the_essentialist", "gift_shopper_the_frugalist"]]
 def gift_ideation_router(state: GiftShopper):
   logger.debug("Routing gift ideation")
   """ Router to select the correct gift ideation node based on the topic """
@@ -163,7 +106,6 @@ def gift_shopper_the_frugalist(state: GiftShopper) -> Command[Literal["scour_the
   return gift_shopper(state, "frugalist", instructions)
 
 def scour_the_internet(state: IdeaList) -> Command[Literal["web_search_agent"]]:
-  # logger.info(f"Scouring the internet for {shopper_type}")
   """ Search query for retrieval """
   logger.info(f"*"*50)
   logger.info(f"Scouring the internet for ideas: {state}")
@@ -173,41 +115,19 @@ def scour_the_internet(state: IdeaList) -> Command[Literal["web_search_agent"]]:
     return Send("web_search_agent", {"shopper_type": idea.shopper_type, "search_query": search_query})
 
 def web_search_agent(state: SearchQuery) -> Command[Literal["final_gift_recommendations"]]:
-  """
-  Perform a web search based on the provided search query and shopper type.
-
-  This function simulates web search results if the environment variable USE_SIMULATE_SEARCH is set to "true".
-  Otherwise, it performs a real search using the SerpAPI.
-
-  Args:
-    state (SearchQuery): The search query state containing the search query and shopper type.
-
-  Returns:
-    Command[Literal["final_gift_recommendations"]]: A command to proceed to the final gift recommendations step with the search results.
-  """
   logger.info(f"-"*50)
   logger.info(f"SearchQuery state: {state}")
   logger.info(f"-"*50)
-  # latest_search_query = state.search_queries[-1]
-  # search_query = latest_search_query.search_query
-  # shopper_type = latest_search_query.shopper_type
   search_query = state["search_query"]
   shopper_type = state["shopper_type"]
 
   all_results = []
-  if os.getenv("USE_SIMULATE_SEARCH", "true").lower() == "true":
+  if os.getenv("USE_SIMULATE_SEARCH", "false").lower() == "true":
     logger.info("Simulating web search results")
     all_results = [
       WebSearchResult(title="Best Budget Gifts", link="http://example.com/budget-gifts", source="Example Source", shopper_type=shopper_type, position=1, thumbnail="http://example.com/thumbnail1.jpg", price="$10", tag="Budget", product_link="http://example.com/product1"),
       WebSearchResult(title="Top Essential Gifts", link="http://example.com/essential-gifts", source="Example Source", shopper_type=shopper_type, position=2, thumbnail="http://example.com/thumbnail2.jpg", price="$20", tag="Essential", product_link="http://example.com/product2"),
       WebSearchResult(title="Exciting Gift Ideas", link="http://example.com/exciting-gifts", source="Example Source", shopper_type=shopper_type, position=3, thumbnail="http://example.com/thumbnail3.jpg", price="$30", tag="Exciting", product_link="http://example.com/product3"),
-      WebSearchResult(title="Affordable Tech Gadgets", link="http://example.com/tech-gadgets", source="Tech Source", shopper_type=shopper_type, position=4, thumbnail="http://example.com/thumbnail4.jpg", price="$40", tag="Tech", product_link="http://example.com/product4"),
-      WebSearchResult(title="Unique Handmade Gifts", link="http://example.com/handmade-gifts", source="Craft Source", shopper_type=shopper_type, position=5, thumbnail="http://example.com/thumbnail5.jpg", price="$50", tag="Handmade", product_link="http://example.com/product5"),
-      WebSearchResult(title="Eco-Friendly Gifts", link="http://example.com/eco-gifts", source="Green Source", shopper_type=shopper_type, position=6, thumbnail="http://example.com/thumbnail6.jpg", price="$60", tag="Eco", product_link="http://example.com/product6"),
-      WebSearchResult(title="Luxury Gifts on a Budget", link="http://example.com/luxury-budget", source="Luxury Source", shopper_type=shopper_type, position=7, thumbnail="http://example.com/thumbnail7.jpg", price="$70", tag="Luxury", product_link="http://example.com/product7"),
-      WebSearchResult(title="Practical Everyday Gifts", link="http://example.com/everyday-gifts", source="Daily Source", shopper_type=shopper_type, position=8, thumbnail="http://example.com/thumbnail8.jpg", price="$80", tag="Practical", product_link="http://example.com/product8"),
-      WebSearchResult(title="Fun and Quirky Gifts", link="http://example.com/quirky-gifts", source="Fun Source", shopper_type=shopper_type, position=9, thumbnail="http://example.com/thumbnail9.jpg", price="$90", tag="Quirky", product_link="http://example.com/product9"),
-      WebSearchResult(title="Top Gifts for Enthusiasts", link="http://example.com/enthusiast-gifts", source="Enthusiast Source", shopper_type=shopper_type, position=10, thumbnail="http://example.com/thumbnail10.jpg", price="$100", tag="Enthusiast", product_link="http://example.com/product10")
     ]
   else:
     serpapi_api_key = os.getenv("SERPAPI_API_KEY", "")
@@ -255,6 +175,65 @@ def web_search_agent(state: SearchQuery) -> Command[Literal["final_gift_recommen
     update={"search_results": all_results}
   )
 
+def final_gift_recommendations(state: WebSearchList):
+  logger.debug("Finalizing report")
+  html_output = """
+  <html>
+  <head>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 20px; }
+      table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+      th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+      th { background-color: #f2f2f2; }
+      h2 { color: #333; }
+      .thumbnail { width: 100px; }
+    </style>
+  </head>
+  <body>
+  """
+
+  shopper_types = ["Enthusiast", "Essentialist", "Frugalist"]
+  for shopper_type in shopper_types:
+    filtered_results = [result for result in state.search_results if result.shopper_type == shopper_type]
+    filtered_results.sort(key=lambda x: x.position)
+    top_results = filtered_results[:max_results]
+
+    html_output += f"<h2>Top Choices for {shopper_type}</h2>"
+    html_output += """
+    <table>
+      <tr>
+        <th>Position</th>
+        <th>Thumbnail</th>
+        <th>Title</th>
+        <th>Link</th>
+        <th>Source</th>
+        <th>Price</th>
+        <th>Tag</th>
+      </tr>
+    """
+    for result in top_results:
+      html_output += f"""
+      <tr>
+        <td>{result.position}</td>
+        <td><img src="{result.thumbnail}" class="thumbnail" /></td>
+        <td>{result.title}</td>
+        <td><a href="{result.link}" target="_blank">{result.link}</a></td>
+        <td>{result.source}</td>
+        <td>{result.price}</td>
+        <td>{result.tag}</td>
+      </tr>
+      """
+    html_output += "</table>"
+
+  html_output += """
+  </body>
+  </html>
+  """
+
+  with open("gift_recommendations.html", "w") as f:
+    f.write(html_output)
+  logger.info("HTML output saved as 'gift_recommendations.html'")
+
 # Add nodes and edges
 builder = StateGraph(GiftShopper)
 builder.add_node("gift_ideation_router", gift_ideation_router)
@@ -287,7 +266,9 @@ if __name__ == "__main__":
 
   parser = argparse.ArgumentParser(description="Gift Ideas AI Multi-Agent System")
   parser.add_argument("--topic", type=str, required=True, help="Gift Shopping topic")
-  parser.add_argument("--max_ideas", type=int, required=True, help="Number of ideas to generate")
+  parser.add_argument("--max_ideas", type=int, default=3, help="Number of ideas to generate (default: 3)")
+  parser.add_argument("--max_results", type=int, default=100, help="Number of results to display (default: 100)")
+
   parser.add_argument("--generate-graph", action="store_true", help="Generate and save the state graph as an image")
 
   args = parser.parse_args()
@@ -295,5 +276,6 @@ if __name__ == "__main__":
   if args.generate_graph:
     create_agent_graph_image()
 
+  max_results = args.max_results
   graph.invoke({"topic": args.topic, "max_ideas": args.max_ideas})
 
