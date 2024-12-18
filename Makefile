@@ -8,4 +8,4 @@ venv:
 
 run: install-requirements
 	@if [ ! -d "venv" ]; then $(MAKE) venv; fi
-	@source .env && python app/src/main.py
+	@source .env && python app/src/gift-ideas-ai-multi-agent.py
